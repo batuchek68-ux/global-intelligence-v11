@@ -1,0 +1,127 @@
+{
+  "keywords": [
+    [
+      "ban",
+      5
+    ],
+    [
+      "world",
+      5
+    ],
+    [
+      "cup",
+      5
+    ],
+    [
+      "how",
+      4
+    ],
+    [
+      "social",
+      4
+    ],
+    [
+      "deal",
+      4
+    ],
+    [
+      "war",
+      4
+    ],
+    [
+      "media",
+      3
+    ],
+    [
+      "who",
+      3
+    ],
+    [
+      "usiran",
+      3
+    ],
+    [
+      "with",
+      3
+    ],
+    [
+      "will",
+      2
+    ],
+    [
+      "start",
+      2
+    ],
+    [
+      "iran",
+      2
+    ],
+    [
+      "two",
+      2
+    ],
+    [
+      "found",
+      2
+    ],
+    [
+      "guilty",
+      2
+    ],
+    [
+      "over",
+      2
+    ],
+    [
+      "attacks",
+      2
+    ],
+    [
+      "while",
+      2
+    ]
+  ],
+  "topics": [
+    {
+      "name": "ban",
+      "count": 5
+    },
+    {
+      "name": "world",
+      "count": 5
+    },
+    {
+      "name": "cup",
+      "count": 5
+    },
+    {
+      "name": "how",
+      "count": 4
+    },
+    {
+      "name": "social",
+      "count": 4
+    },
+    {
+      "name": "deal",
+      "count": 4
+    },
+    {
+      "name": "war",
+      "count": 4
+    },
+    {
+      "name": "media",
+      "count": 3
+    },
+    {
+      "name": "who",
+      "count": 3
+    },
+    {
+      "name": "usiran",
+      "count": 3
+    }
+  ],
+  "updated_at": "2026-06-15 12:24:47.870746"
+}
