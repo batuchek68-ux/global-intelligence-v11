@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write   # ⭐ 关键修复
+  contents: write
 
 jobs:
   run:
@@ -30,11 +30,11 @@ jobs:
           python src/analyze_trend.py
           python src/generate_report.py
 
-      - name: Commit results
+      - name: Commit & Push
         run: |
           git config user.name "github-actions"
           git config user.email "bot@users.noreply.github.com"
 
           git add data output || true
-          git commit -m "auto update" || exit 0
-          git push
+          git commit -m "auto update" || echo "no changes"
+          git push || echo "push skipped"
