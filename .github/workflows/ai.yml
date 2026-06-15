@@ -5,6 +5,9 @@ on:
     - cron: "0 */6 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write   # ⭐ 关键修复
+
 jobs:
   run:
     runs-on: ubuntu-latest
@@ -20,25 +23,18 @@ jobs:
       - name: Install
         run: pip install feedparser
 
-      - name: Fetch News
-        run: python src/fetch_news.py
+      - name: Run pipeline
+        run: |
+          python src/fetch_news.py
+          python src/preprocess.py
+          python src/analyze_trend.py
+          python src/generate_report.py
 
-      - name: Preprocess
-        run: python src/preprocess.py
-
-      - name: Trend Analysis
-        run: python src/analyze_trend.py
-
-      - name: Generate Dashboard
-        run: python src/generate_report.py
-
-      - name: Commit Results
+      - name: Commit results
         run: |
           git config user.name "github-actions"
           git config user.email "bot@users.noreply.github.com"
 
           git add data output || true
-
           git commit -m "auto update" || exit 0
-
           git push
