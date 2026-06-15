@@ -100,6 +100,11 @@
     "source": "https://feeds.bbci.co.uk/news/rss.xml"
   },
   {
+    "title": "Ebola risk for World Cup is ‘extremely low’, but US is ready, experts say",
+    "summary": "US hospitals and agencies have enhanced preparedness for Ebola, but some experts warn of public health system strains.",
+    "source": "https://www.aljazeera.com/xml/rss/all.xml"
+  },
+  {
     "title": "‘Island surrounded by war’: Crimeans panic amid Ukrainian attacks",
     "summary": "Fuel shortages and fears rise in Crimea as Kyiv attacks the annexed peninsula.",
     "source": "https://www.aljazeera.com/xml/rss/all.xml"
@@ -192,11 +197,6 @@
   {
     "title": "G7 meeting in France: What’s on agenda, who is attending?",
     "summary": "The war in Iran, Ukraine and economic challenges are expected to be a key part of the agenda.",
-    "source": "https://www.aljazeera.com/xml/rss/all.xml"
-  },
-  {
-    "title": "Stepson of Norway’s crown prince jailed for four years in rape case",
-    "summary": "Marius Borg Hoiby, 29, convicted of rape, domestic violence and drug charges after seven-week trial in Oslo.",
     "source": "https://www.aljazeera.com/xml/rss/all.xml"
   }
 ]
