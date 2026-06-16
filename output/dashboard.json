@@ -2,126 +2,126 @@
   "keywords": [
     [
       "says",
-      7
+      9
     ],
     [
-      "after",
-      6
+      "iran",
+      8
+    ],
+    [
+      "world",
+      8
+    ],
+    [
+      "cup",
+      8
     ],
     [
       "deal",
       6
     ],
     [
-      "world",
-      6
-    ],
-    [
-      "cup",
-      6
-    ],
-    [
-      "iran",
+      "after",
       5
     ],
     [
-      "social",
-      5
-    ],
-    [
-      "media",
-      5
-    ],
-    [
-      "ban",
+      "draw",
       4
     ],
     [
-      "israeli",
-      4
-    ],
-    [
-      "air",
+      "trump",
       3
     ],
     [
-      "force",
+      "usiran",
       3
     ],
     [
-      "bomber",
+      "what",
       3
-    ],
-    [
-      "crashes",
-      3
-    ],
-    [
-      "russian",
-      3
-    ],
-    [
-      "strike",
-      3
-    ],
-    [
-      "russia",
-      2
-    ],
-    [
-      "was",
-      2
-    ],
-    [
-      "arson",
-      2
     ],
     [
       "bbc",
+      3
+    ],
+    [
+      "who",
+      3
+    ],
+    [
+      "cape",
+      3
+    ],
+    [
+      "vance",
+      2
+    ],
+    [
+      "countrys",
+      2
+    ],
+    [
+      "against",
+      2
+    ],
+    [
+      "joy",
+      2
+    ],
+    [
+      "air",
+      2
+    ],
+    [
+      "force",
+      2
+    ],
+    [
+      "b52",
       2
     ]
   ],
   "topics": [
     {
       "name": "says",
-      "count": 7
+      "count": 9
     },
     {
-      "name": "after",
-      "count": 6
+      "name": "iran",
+      "count": 8
+    },
+    {
+      "name": "world",
+      "count": 8
+    },
+    {
+      "name": "cup",
+      "count": 8
     },
     {
       "name": "deal",
       "count": 6
     },
     {
-      "name": "world",
-      "count": 6
-    },
-    {
-      "name": "cup",
-      "count": 6
-    },
-    {
-      "name": "iran",
+      "name": "after",
       "count": 5
     },
     {
-      "name": "social",
-      "count": 5
-    },
-    {
-      "name": "media",
-      "count": 5
-    },
-    {
-      "name": "ban",
+      "name": "draw",
       "count": 4
     },
     {
-      "name": "israeli",
-      "count": 4
+      "name": "trump",
+      "count": 3
+    },
+    {
+      "name": "usiran",
+      "count": 3
+    },
+    {
+      "name": "what",
+      "count": 3
     }
   ],
-  "updated_at": "2026-06-16 00:15:38.539100"
+  "updated_at": "2026-06-16 06:15:01.381781"
 }
