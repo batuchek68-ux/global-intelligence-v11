@@ -21,14 +21,18 @@ jobs:
           python-version: "3.11"
 
       - name: Install
-        run: pip install feedparser
+        run: |
+          pip install feedparser PyGithub  # 确保安装了 PyGithub
 
       - name: Run pipeline
+        env:
+          MY_GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }} # 注入你的令牌
         run: |
           python src/fetch_news.py
           python src/preprocess.py
           python src/analyze_trend.py
           python src/generate_report.py
+          python main.py  # 这里添加了你的决策引擎入口
 
       - name: Commit & Push
         run: |
@@ -38,3 +42,18 @@ jobs:
           git add data output || true
           git commit -m "auto update" || echo "no changes"
           git push || echo "push skipped"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

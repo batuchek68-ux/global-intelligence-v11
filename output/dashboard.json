@@ -1,43 +1,35 @@
 {
   "keywords": [
     [
+      "says",
+      9
+    ],
+    [
+      "iran",
+      8
+    ],
+    [
       "world",
-      6
+      8
     ],
     [
       "cup",
-      6
-    ],
-    [
-      "ban",
-      5
-    ],
-    [
-      "how",
-      4
-    ],
-    [
-      "social",
-      4
+      8
     ],
     [
       "deal",
-      4
-    ],
-    [
-      "war",
-      4
-    ],
-    [
-      "media",
-      3
-    ],
-    [
-      "who",
-      3
+      6
     ],
     [
       "after",
+      5
+    ],
+    [
+      "draw",
+      4
+    ],
+    [
+      "trump",
       3
     ],
     [
@@ -45,83 +37,91 @@
       3
     ],
     [
-      "with",
+      "what",
       3
     ],
     [
-      "will",
+      "bbc",
+      3
+    ],
+    [
+      "who",
+      3
+    ],
+    [
+      "cape",
+      3
+    ],
+    [
+      "vance",
       2
     ],
     [
-      "work",
+      "countrys",
       2
     ],
     [
-      "start",
+      "against",
       2
     ],
     [
-      "iran",
+      "joy",
       2
     ],
     [
-      "two",
+      "air",
       2
     ],
     [
-      "found",
+      "force",
       2
     ],
     [
-      "guilty",
-      2
-    ],
-    [
-      "over",
+      "b52",
       2
     ]
   ],
   "topics": [
     {
+      "name": "says",
+      "count": 9
+    },
+    {
+      "name": "iran",
+      "count": 8
+    },
+    {
       "name": "world",
-      "count": 6
+      "count": 8
     },
     {
       "name": "cup",
-      "count": 6
-    },
-    {
-      "name": "ban",
-      "count": 5
-    },
-    {
-      "name": "how",
-      "count": 4
-    },
-    {
-      "name": "social",
-      "count": 4
+      "count": 8
     },
     {
       "name": "deal",
-      "count": 4
-    },
-    {
-      "name": "war",
-      "count": 4
-    },
-    {
-      "name": "media",
-      "count": 3
-    },
-    {
-      "name": "who",
-      "count": 3
+      "count": 6
     },
     {
       "name": "after",
+      "count": 5
+    },
+    {
+      "name": "draw",
+      "count": 4
+    },
+    {
+      "name": "trump",
+      "count": 3
+    },
+    {
+      "name": "usiran",
+      "count": 3
+    },
+    {
+      "name": "what",
       "count": 3
     }
   ],
-  "updated_at": "2026-06-15 12:42:21.155609"
+  "updated_at": "2026-06-16 06:15:01.381781"
 }
