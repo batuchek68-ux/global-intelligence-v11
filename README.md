@@ -1,2 +1,2 @@
-# global-intelligence-v11
+# global-intelligence-v11/
 
