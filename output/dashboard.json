@@ -1,6 +1,18 @@
 {
   "keywords": [
     [
+      "says",
+      7
+    ],
+    [
+      "after",
+      6
+    ],
+    [
+      "deal",
+      6
+    ],
+    [
       "world",
       6
     ],
@@ -9,79 +21,79 @@
       6
     ],
     [
-      "ban",
+      "iran",
       5
     ],
     [
-      "how",
-      4
-    ],
-    [
       "social",
-      4
-    ],
-    [
-      "deal",
-      4
-    ],
-    [
-      "war",
-      4
+      5
     ],
     [
       "media",
+      5
+    ],
+    [
+      "ban",
+      4
+    ],
+    [
+      "israeli",
+      4
+    ],
+    [
+      "air",
       3
     ],
     [
-      "who",
+      "force",
       3
     ],
     [
-      "after",
+      "bomber",
       3
     ],
     [
-      "usiran",
+      "crashes",
       3
     ],
     [
-      "with",
+      "russian",
       3
     ],
     [
-      "will",
+      "strike",
+      3
+    ],
+    [
+      "russia",
       2
     ],
     [
-      "work",
+      "was",
       2
     ],
     [
-      "start",
+      "arson",
       2
     ],
     [
-      "iran",
-      2
-    ],
-    [
-      "two",
-      2
-    ],
-    [
-      "found",
-      2
-    ],
-    [
-      "guilty",
-      2
-    ],
-    [
-      "over",
+      "bbc",
       2
     ]
   ],
   "topics": [
+    {
+      "name": "says",
+      "count": 7
+    },
+    {
+      "name": "after",
+      "count": 6
+    },
+    {
+      "name": "deal",
+      "count": 6
+    },
     {
       "name": "world",
       "count": 6
@@ -91,37 +103,25 @@
       "count": 6
     },
     {
-      "name": "ban",
+      "name": "iran",
       "count": 5
     },
     {
-      "name": "how",
-      "count": 4
-    },
-    {
       "name": "social",
-      "count": 4
-    },
-    {
-      "name": "deal",
-      "count": 4
-    },
-    {
-      "name": "war",
-      "count": 4
+      "count": 5
     },
     {
       "name": "media",
-      "count": 3
+      "count": 5
     },
     {
-      "name": "who",
-      "count": 3
+      "name": "ban",
+      "count": 4
     },
     {
-      "name": "after",
-      "count": 3
+      "name": "israeli",
+      "count": 4
     }
   ],
-  "updated_at": "2026-06-15 12:42:21.155609"
+  "updated_at": "2026-06-16 00:15:38.539100"
 }
