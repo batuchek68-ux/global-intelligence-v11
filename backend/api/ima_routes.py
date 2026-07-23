@@ -12,9 +12,84 @@ async def ima_health() -> dict[str, Any]:
     return get_ima_connector().health_check()
 
 
+# ── 知识库 ──
+
+@router.get("/kb")
+async def ima_list_kbs(query: str = "", cursor: str = "", limit: int = 20) -> dict[str, Any]:
+    return get_ima_connector().list_knowledge_bases(query=query, cursor=cursor, limit=limit)
+
+
+@router.get("/kb/{kb_id}")
+async def ima_get_kb(kb_id: str) -> dict[str, Any]:
+    return get_ima_connector().get_knowledge_base([kb_id])
+
+
+@router.get("/kb/{kb_id}/items")
+async def ima_list_kb_items(kb_id: str, folder_id: str = "", cursor: str = "", limit: int = 50) -> dict[str, Any]:
+    return get_ima_connector().list_knowledge_items(kb_id=kb_id, folder_id=folder_id, cursor=cursor, limit=limit)
+
+
+@router.post("/kb/search")
+async def ima_search_kb(request: Request) -> dict[str, Any]:
+    try:
+        body = await request.json()
+    except Exception:
+        body = {}
+    kb_id = body.get("kb_id", "")
+    query = body.get("query", "")
+    if not kb_id or not query:
+        raise HTTPException(status_code=400, detail="kb_id and query are required")
+    return get_ima_connector().search_knowledge(kb_id=kb_id, query=query)
+
+
+@router.post("/kb/import-urls")
+async def ima_import_urls(request: Request) -> dict[str, Any]:
+    try:
+        body = await request.json()
+    except Exception:
+        body = {}
+    kb_id = body.get("kb_id", "")
+    urls = body.get("urls", [])
+    if not kb_id or not urls:
+        raise HTTPException(status_code=400, detail="kb_id and urls are required")
+    return get_ima_connector().import_urls(kb_id=kb_id, urls=urls, folder_id=body.get("folder_id", ""))
+
+
+@router.post("/kb/add-note")
+async def ima_add_note_to_kb(request: Request) -> dict[str, Any]:
+    try:
+        body = await request.json()
+    except Exception:
+        body = {}
+    kb_id = body.get("kb_id", "")
+    doc_id = body.get("doc_id", "")
+    if not kb_id or not doc_id:
+        raise HTTPException(status_code=400, detail="kb_id and doc_id are required")
+    return get_ima_connector().add_note_to_kb(kb_id=kb_id, doc_id=doc_id, title=body.get("title", ""))
+
+
+@router.get("/kb/{kb_id}/search")
+async def ima_search_in_kb(kb_id: str, query: str, cursor: str = "") -> dict[str, Any]:
+    if not query:
+        raise HTTPException(status_code=400, detail="query is required")
+    return get_ima_connector().search_knowledge(kb_id=kb_id, query=query, cursor=cursor)
+
+
+@router.get("/kb/{kb_id}/media/{media_id}")
+async def ima_get_media_info(kb_id: str, media_id: str) -> dict[str, Any]:
+    return get_ima_connector().get_media_info(media_id=media_id)
+
+
+# ── 笔记 ──
+
 @router.get("/notes")
-async def ima_list_notes(cursor: str = "", limit: int = 50) -> dict[str, Any]:
-    return get_ima_connector().list_notes(cursor=cursor, limit=limit)
+async def ima_list_note_folders(cursor: str = "0", limit: int = 50) -> dict[str, Any]:
+    return get_ima_connector().list_note_folders(cursor=cursor, limit=limit)
+
+
+@router.get("/notes/folder/{folder_id}")
+async def ima_list_notes_in_folder(folder_id: str, cursor: str = "", limit: int = 50) -> dict[str, Any]:
+    return get_ima_connector().list_notes_in_folder(folder_id=folder_id, cursor=cursor, limit=limit)
 
 
 @router.post("/notes/search")
@@ -29,7 +104,6 @@ async def ima_search_notes(request: Request) -> dict[str, Any]:
     return get_ima_connector().search_notes(
         query=query,
         search_type=body.get("search_type", 0),
-        sort_type=body.get("sort_type", 0),
     )
 
 
@@ -58,61 +132,12 @@ async def ima_append_note(request: Request) -> dict[str, Any]:
     return get_ima_connector().append_note(doc_id=doc_id, content=content)
 
 
-@router.get("/kb")
-async def ima_list_kbs(query: str = "", cursor: str = "", limit: int = 20) -> dict[str, Any]:
-    return get_ima_connector().list_knowledge_bases(query=query, cursor=cursor, limit=limit)
+@router.get("/notes/{doc_id}")
+async def ima_get_note_content(doc_id: str) -> dict[str, Any]:
+    return get_ima_connector().get_note_content(doc_id=doc_id)
 
 
-@router.post("/kb/search")
-async def ima_search_kb(request: Request) -> dict[str, Any]:
-    try:
-        body = await request.json()
-    except Exception:
-        body = {}
-    kb_id = body.get("kb_id", "")
-    query = body.get("query", "")
-    if not kb_id or not query:
-        raise HTTPException(status_code=400, detail="kb_id and query are required")
-    return get_ima_connector().search_knowledge(kb_id=kb_id, query=query)
-
-
-@router.post("/kb/create")
-async def ima_create_kb(request: Request) -> dict[str, Any]:
-    try:
-        body = await request.json()
-    except Exception:
-        body = {}
-    name = body.get("name", "")
-    if not name:
-        raise HTTPException(status_code=400, detail="name is required")
-    return get_ima_connector().create_knowledge_base(name=name, description=body.get("description", ""))
-
-
-@router.post("/kb/import-urls")
-async def ima_import_urls(request: Request) -> dict[str, Any]:
-    try:
-        body = await request.json()
-    except Exception:
-        body = {}
-    kb_id = body.get("kb_id", "")
-    urls = body.get("urls", [])
-    if not kb_id or not urls:
-        raise HTTPException(status_code=400, detail="kb_id and urls are required")
-    return get_ima_connector().import_urls(kb_id=kb_id, urls=urls, folder_id=body.get("folder_id", ""))
-
-
-@router.post("/kb/add-note")
-async def ima_add_note_to_kb(request: Request) -> dict[str, Any]:
-    try:
-        body = await request.json()
-    except Exception:
-        body = {}
-    kb_id = body.get("kb_id", "")
-    doc_id = body.get("doc_id", "")
-    if not kb_id or not doc_id:
-        raise HTTPException(status_code=400, detail="kb_id and doc_id are required")
-    return get_ima_connector().add_note_to_kb(kb_id=kb_id, doc_id=doc_id, title=body.get("title", ""))
-
+# ── 组合同步 ──
 
 @router.post("/sync")
 async def ima_sync(request: Request) -> dict[str, Any]:
