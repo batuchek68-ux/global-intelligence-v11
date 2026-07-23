@@ -9,6 +9,7 @@ from typing import Any
 
 
 KNOWLEDGE_ROOT = Path(__file__).resolve().parents[1] / "knowledge"
+OBSIDIAN_VAULT = Path(os.getenv("OBSIDIAN_VAULT", r"C:\Users\Surface\Documents\Obsidian"))
 
 
 def _ensure_dirs() -> None:
@@ -388,3 +389,59 @@ def sync_risk_to_knowledge(risk_data: dict[str, Any]) -> dict[str, Any]:
         category=risk_data.get("category", ""),
     )
     return result
+
+
+# ════════════════════════════════════════════════
+#  Obsidian Vault Sync
+# ════════════════════════════════════════════════
+
+def sync_to_obsidian(subdirectory: str = "AI协作", filename: str = "", content: str = "") -> dict[str, Any]:
+    if not OBSIDIAN_VAULT.exists():
+        return {"ok": False, "error": f"Obsidian vault not found: {OBSIDIAN_VAULT}"}
+    target_dir = OBSIDIAN_VAULT / subdirectory
+    target_dir.mkdir(parents=True, exist_ok=True)
+    if not filename:
+        filename = f"global-intelligence-{datetime.now().strftime('%Y%m%d-%H%M%S')}.md"
+    path = target_dir / filename
+    path.write_text(content, encoding="utf-8")
+    return {"ok": True, "path": str(path), "size": len(content)}
+
+
+def sync_note_to_obsidian(relative_path: str, subdirectory: str = "AI协作") -> dict[str, Any]:
+    source = KNOWLEDGE_ROOT / relative_path
+    if not source.exists():
+        return {"ok": False, "error": f"Source note not found: {relative_path}"}
+    content = source.read_text(encoding="utf-8")
+    filename = source.name
+    return sync_to_obsidian(subdirectory, filename, content)
+
+
+def sync_all_to_obsidian(subdirectory: str = "AI协作") -> dict[str, Any]:
+    if not OBSIDIAN_VAULT.exists():
+        return {"ok": False, "error": f"Obsidian vault not found: {OBSIDIAN_VAULT}"}
+    synced = 0
+    errors = []
+    for f in KNOWLEDGE_ROOT.rglob("*.md"):
+        rel = str(f.relative_to(KNOWLEDGE_ROOT))
+        result = sync_note_to_obsidian(rel, subdirectory)
+        if result.get("ok"):
+            synced += 1
+        else:
+            errors.append({"path": rel, "error": result.get("error")})
+    return {"ok": True, "synced": synced, "errors": errors}
+
+
+def list_obsidian_notes(subdirectory: str = "AI协作") -> dict[str, Any]:
+    target_dir = OBSIDIAN_VAULT / subdirectory
+    if not target_dir.exists():
+        return {"ok": True, "notes": [], "count": 0}
+    notes = []
+    for f in sorted(target_dir.glob("*.md")):
+        content = f.read_text(encoding="utf-8")
+        frontmatter, _ = _parse_frontmatter(content)
+        notes.append({
+            "path": str(f.relative_to(OBSIDIAN_VAULT)),
+            "title": frontmatter.get("title", f.stem),
+            "modified": datetime.fromtimestamp(f.stat().st_mtime).isoformat(),
+        })
+    return {"ok": True, "notes": notes, "count": len(notes)}

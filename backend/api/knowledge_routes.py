@@ -16,6 +16,10 @@ from integrations.obsidian_connector import (
     sync_project_to_knowledge,
     sync_intelligence_to_knowledge,
     sync_risk_to_knowledge,
+    sync_to_obsidian,
+    sync_note_to_obsidian,
+    sync_all_to_obsidian,
+    list_obsidian_notes,
 )
 
 router = APIRouter(prefix="/v1/knowledge", tags=["knowledge_base"])
@@ -173,3 +177,43 @@ async def sync_risk(request: Request) -> dict[str, Any]:
 async def sync_all() -> dict[str, Any]:
     from sync_knowledge import run_full_sync
     return run_full_sync()
+
+
+# ── Obsidian Vault Sync ──
+
+@router.get("/obsidian/list")
+async def obsidian_list(subdirectory: str = "AI协作") -> dict[str, Any]:
+    return list_obsidian_notes(subdirectory)
+
+
+@router.post("/obsidian/sync")
+async def obsidian_sync(request: Request) -> dict[str, Any]:
+    try:
+        body = await request.json()
+    except Exception:
+        body = {}
+    subdirectory = body.get("subdirectory", "AI协作")
+    filename = body.get("filename", "")
+    content = body.get("content", "")
+    return sync_to_obsidian(subdirectory, filename, content)
+
+
+@router.post("/obsidian/sync-note")
+async def obsidian_sync_note(request: Request) -> dict[str, Any]:
+    try:
+        body = await request.json()
+    except Exception:
+        body = {}
+    path = body.get("path", "")
+    if not path:
+        raise HTTPException(status_code=400, detail="path is required")
+    return sync_note_to_obsidian(path, body.get("subdirectory", "AI协作"))
+
+
+@router.post("/obsidian/sync-all")
+async def obsidian_sync_all(request: Request) -> dict[str, Any]:
+    try:
+        body = await request.json()
+    except Exception:
+        body = {}
+    return sync_all_to_obsidian(body.get("subdirectory", "AI协作"))
