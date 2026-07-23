@@ -60,6 +60,7 @@ from backend.api.financial_routes import router as financial_router
 from backend.api.kg_routes import router as kg_router
 from backend.api.bi_routes import router as bi_router
 from backend.api.knowledge_routes import router as knowledge_router
+from backend.api.ima_routes import router as ima_router
 
 logger = logging.getLogger(__name__)
 
@@ -75,6 +76,7 @@ app.include_router(financial_router)
 app.include_router(kg_router)
 app.include_router(bi_router)
 app.include_router(knowledge_router)
+app.include_router(ima_router)
 
 app.add_middleware(
     CORSMiddleware,
