@@ -1,39 +1,39 @@
 {
   "keywords": [
     [
-      "says",
-      9
-    ],
-    [
-      "iran",
-      8
-    ],
-    [
-      "world",
-      8
-    ],
-    [
-      "cup",
-      8
-    ],
-    [
-      "deal",
-      6
-    ],
-    [
-      "after",
+      "burnham",
       5
     ],
     [
-      "draw",
+      "more",
+      5
+    ],
+    [
+      "first",
       4
     ],
     [
-      "trump",
+      "nuclear",
+      4
+    ],
+    [
+      "deal",
+      4
+    ],
+    [
+      "100",
       3
     ],
     [
-      "usiran",
+      "since",
+      3
+    ],
+    [
+      "andy",
+      3
+    ],
+    [
+      "off",
       3
     ],
     [
@@ -41,81 +41,81 @@
       3
     ],
     [
-      "bbc",
+      "iran",
       3
     ],
     [
-      "who",
+      "israeli",
       3
     ],
     [
-      "cape",
+      "new",
       3
     ],
     [
-      "vance",
+      "plan",
       2
     ],
     [
-      "countrys",
+      "release",
       2
     ],
     [
-      "against",
+      "early",
       2
     ],
     [
-      "joy",
+      "from",
       2
     ],
     [
-      "air",
+      "oil",
       2
     ],
     [
-      "force",
+      "time",
       2
     ],
     [
-      "b52",
+      "may",
       2
     ]
   ],
   "topics": [
     {
-      "name": "says",
-      "count": 9
-    },
-    {
-      "name": "iran",
-      "count": 8
-    },
-    {
-      "name": "world",
-      "count": 8
-    },
-    {
-      "name": "cup",
-      "count": 8
-    },
-    {
-      "name": "deal",
-      "count": 6
-    },
-    {
-      "name": "after",
+      "name": "burnham",
       "count": 5
     },
     {
-      "name": "draw",
+      "name": "more",
+      "count": 5
+    },
+    {
+      "name": "first",
       "count": 4
     },
     {
-      "name": "trump",
+      "name": "nuclear",
+      "count": 4
+    },
+    {
+      "name": "deal",
+      "count": 4
+    },
+    {
+      "name": "100",
       "count": 3
     },
     {
-      "name": "usiran",
+      "name": "since",
+      "count": 3
+    },
+    {
+      "name": "andy",
+      "count": 3
+    },
+    {
+      "name": "off",
       "count": 3
     },
     {
@@ -123,5 +123,5 @@
       "count": 3
     }
   ],
-  "updated_at": "2026-06-16 06:15:01.381781"
+  "updated_at": "2026-07-23 19:25:05.457883"
 }
