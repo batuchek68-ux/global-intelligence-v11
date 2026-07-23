@@ -167,3 +167,9 @@ async def sync_risk(request: Request) -> dict[str, Any]:
     except Exception:
         body = {}
     return sync_risk_to_knowledge(body)
+
+
+@router.post("/sync/all")
+async def sync_all() -> dict[str, Any]:
+    from sync_knowledge import run_full_sync
+    return run_full_sync()

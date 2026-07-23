@@ -16,7 +16,34 @@ from integrations.obsidian_connector import (
     list_notes,
     KNOWLEDGE_ROOT,
 )
+from integrations.ima_connector import get_ima_connector
 from core.storage import ROOT, read_json, write_json
+
+
+IMA_KB_ID = ""
+
+
+def _get_ima_kb_id() -> str:
+    global IMA_KB_ID
+    if IMA_KB_ID:
+        return IMA_KB_ID
+    ima = get_ima_connector()
+    if not ima.configured():
+        return ""
+    result = ima.list_addable_knowledge_bases(limit=1)
+    items = result.get("data", {}).get("data", {}).get("addable_knowledge_base_list", [])
+    if items:
+        IMA_KB_ID = items[0].get("id", "")
+    return IMA_KB_ID
+
+
+def _ima_sync(title: str, content: str) -> bool:
+    kb_id = _get_ima_kb_id()
+    if not kb_id:
+        return False
+    ima = get_ima_connector()
+    result = ima.sync_note_to_kb(kb_id, title, content)
+    return result.get("ok", False)
 
 
 def sync_projects() -> int:
@@ -37,12 +64,15 @@ def sync_projects() -> int:
                 "status": "active",
                 "source_file": str(f),
             })
+            _ima_sync(f"Project: {title}", content)
             count += 1
     project_db = ROOT / "projects" / "library" / "kazakhstan_xinjiang_projects.json"
     if project_db.exists():
         data = read_json(project_db, {})
         for project in data.get("projects", []):
             sync_project_to_knowledge(project)
+            title = project.get("title", "Unknown")
+            _ima_sync(f"Project: {title}", json.dumps(project, ensure_ascii=False, indent=2))
             count += 1
     return count
 
@@ -59,6 +89,7 @@ def sync_intelligence() -> int:
                     "source": "daily_reports",
                     "content_preview": content[:500],
                 })
+                _ima_sync(f"Intel: {f.stem}", content)
                 count += 1
     return count
 
@@ -76,12 +107,20 @@ def sync_risks() -> int:
                     "score": data["judgment"].get("score", 0),
                     "triggers": data["judgment"].get("triggers", []),
                 })
+                title = data.get("project", {}).get("title", f.stem)
+                _ima_sync(f"Risk: {title}", json.dumps(data, ensure_ascii=False, indent=2))
                 count += 1
     return count
 
 
 def create_daily_knowledge() -> dict:
     result = create_daily_note()
+    if result.get("ok"):
+        today = datetime.now().strftime("%Y-%m-%d")
+        daily_path = KNOWLEDGE_ROOT / "daily" / f"{today}.md"
+        if daily_path.exists():
+            content = daily_path.read_text(encoding="utf-8")
+            _ima_sync(f"Daily: {today}", content)
     return result
 
 
@@ -93,6 +132,7 @@ def run_full_sync() -> dict:
     daily = create_daily_knowledge()
     all_notes = list_notes()
     elapsed = (datetime.now() - start).total_seconds()
+    ima_connected = bool(_get_ima_kb_id())
     return {
         "ok": True,
         "timestamp": start.isoformat(),
@@ -102,6 +142,7 @@ def run_full_sync() -> dict:
         "risks_synced": risks_synced,
         "daily_note_created": daily.get("ok", False),
         "total_notes": all_notes.get("count", 0),
+        "ima_synced": ima_connected,
     }
 
 
