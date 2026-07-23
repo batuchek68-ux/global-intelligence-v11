@@ -1,0 +1,19 @@
+{
+  "ok": true,
+  "question": "What is the market outlook?",
+  "response": {
+    "answer": "Analysis of: What is the market outlook?",
+    "confidence": 0.6,
+    "sources": [],
+    "recommendations": [
+      "Gather additional evidence",
+      "Consult domain experts",
+      "Review similar cases"
+    ]
+  },
+  "metadata": {
+    "question": "What is the market outlook?"
+  },
+  "evidence_count": 0,
+  "timestamp": "2026-07-23T23:24:22.363120"
+}

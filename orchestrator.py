@@ -1,10 +1,15 @@
+import os
+
+
 class Orchestrator:
     def __init__(self, github_client):
         self.github_client = github_client
+        self.repo_name = os.getenv("GITHUB_REPO", "global-intelligence-v11")
 
     def check_workflow_status(self, workflow_name):
-        # 检查指定工作流的状态
-        repo = self.github_client.get_user().get_repo("你的仓库名")  # 替换为你的仓库名
+        if not self.github_client:
+            return "no_client"
+        repo = self.github_client.get_user().get_repo(self.repo_name)
         workflows = repo.get_workflows()
         for workflow in workflows:
             if workflow.name == workflow_name:
@@ -36,6 +41,7 @@ class Orchestrator:
             }
 
     def commit_changes(self, message):
-        # 提交更改到GitHub
-        repo = self.github_client.get_user().get_repo("你的仓库名")  # 替换为你的仓库名
+        if not self.github_client:
+            return None
+        repo = self.github_client.get_user().get_repo(self.repo_name)
         repo.create_git_commit(message, [], [])

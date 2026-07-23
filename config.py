@@ -9,6 +9,7 @@ BYTEPLUS_SERVICE = "cv"
 BYTEPLUS_REGION = "ap-singapore-1"
 BYTEPLUS_API_URL = "https://cv.byteplusapi.com"
 
+DREAMINA_API_KEY = os.getenv("DREAMINA_API_KEY", "")
 DREAMINA_SESSION_ID = os.getenv("DREAMINA_SESSION_ID", "")
 DREAMINA_REGION = os.getenv("DREAMINA_REGION", "cn")
 

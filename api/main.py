@@ -59,6 +59,7 @@ from backend.api.supply_chain_routes import router as supply_chain_router
 from backend.api.financial_routes import router as financial_router
 from backend.api.kg_routes import router as kg_router
 from backend.api.bi_routes import router as bi_router
+from backend.api.knowledge_routes import router as knowledge_router
 
 logger = logging.getLogger(__name__)
 
@@ -73,6 +74,7 @@ app.include_router(supply_chain_router)
 app.include_router(financial_router)
 app.include_router(kg_router)
 app.include_router(bi_router)
+app.include_router(knowledge_router)
 
 app.add_middleware(
     CORSMiddleware,
@@ -514,6 +516,12 @@ async def social_reply_draft(request: Request) -> dict[str, Any]:
         evidence=body.get("evidence") if isinstance(body.get("evidence"), list) else [],
         audience=str(body.get("audience") or "external"),
     )
+
+
+@app.get("/v1/integrations/n8n/status")
+async def n8n_status() -> dict[str, Any]:
+    connector = N8NConnector()
+    return {"ok": True, "configured": connector.configured(), "status": "configured" if connector.configured() else "not_configured"}
 
 
 @app.post("/v1/integrations/n8n/trigger/{workflow_id}")

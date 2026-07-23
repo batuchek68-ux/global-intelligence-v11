@@ -34,8 +34,10 @@ app.add_middleware(
 )
 
 # 初始化核心组件
+import os
+
 config = {
-    "SECRET_KEY": "your-secret-key-here",
+    "SECRET_KEY": os.getenv("SECRET_KEY", "dev-secret-change-in-production"),
     "MAX_REQUESTS_PER_MINUTE": 100
 }
 

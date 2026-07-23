@@ -1,10 +1,13 @@
+import os
 from github import Github
 from orchestrator import Orchestrator
 from decision_engine import DecisionEngine
 
-# 使用你的 GitHub 访问令牌
-github_token = "你的生成的访问令牌"  # 替换为你的访问令牌
-github_client = Github(github_token)
+# 从环境变量读取 GitHub 访问令牌
+github_token = os.getenv("GITHUB_TOKEN", "")
+if not github_token:
+    print("WARNING: GITHUB_TOKEN not set. Set it as an environment variable.")
+github_client = Github(github_token) if github_token else None
 
 # 创建 Orchestrator 和 DecisionEngine 实例
 orchestrator = Orchestrator(github_client)
