@@ -10,11 +10,23 @@ from typing import Any
 
 KNOWLEDGE_ROOT = Path(__file__).resolve().parents[1] / "knowledge"
 OBSIDIAN_VAULT = Path(os.getenv("OBSIDIAN_VAULT", r"C:\Users\Surface\Documents\Obsidian"))
+OBSIDIAN_FOLDERS = {
+    "system": "00-首页",
+    "project": "01-项目",
+    "intelligence": "02-情报",
+    "risk": "03-风险",
+    "daily": "04-每日",
+    "protocol": "05-协议",
+    "resource": "06-资源",
+    "archive": "07-存档",
+}
 
 
 def _ensure_dirs() -> None:
     for sub in ["projects", "intelligence", "market", "risk", "templates", "connections", "daily", "archive"]:
         (KNOWLEDGE_ROOT / sub).mkdir(parents=True, exist_ok=True)
+    for folder in OBSIDIAN_FOLDERS.values():
+        (OBSIDIAN_VAULT / folder).mkdir(parents=True, exist_ok=True)
 
 
 def _slug(text: str) -> str:
@@ -28,6 +40,10 @@ def _slug(text: str) -> str:
     while "--" in slug:
         slug = slug.replace("--", "-")
     return slug or "untitled"
+
+
+def _get_obsidian_folder(note_type: str = "") -> str:
+    return OBSIDIAN_FOLDERS.get(note_type, "AI协作")
 
 
 def _parse_frontmatter(content: str) -> tuple[dict[str, Any], str]:
@@ -407,12 +423,23 @@ def sync_to_obsidian(subdirectory: str = "AI协作", filename: str = "", content
     return {"ok": True, "path": str(path), "size": len(content)}
 
 
-def sync_note_to_obsidian(relative_path: str, subdirectory: str = "AI协作") -> dict[str, Any]:
+def sync_note_to_obsidian(relative_path: str, subdirectory: str = "") -> dict[str, Any]:
     source = KNOWLEDGE_ROOT / relative_path
     if not source.exists():
         return {"ok": False, "error": f"Source note not found: {relative_path}"}
     content = source.read_text(encoding="utf-8")
     filename = source.name
+    if not subdirectory:
+        if "project" in relative_path.lower():
+            subdirectory = _get_obsidian_folder("project")
+        elif "intelligence" in relative_path.lower():
+            subdirectory = _get_obsidian_folder("intelligence")
+        elif "risk" in relative_path.lower():
+            subdirectory = _get_obsidian_folder("risk")
+        elif "daily" in relative_path.lower():
+            subdirectory = _get_obsidian_folder("daily")
+        else:
+            subdirectory = "AI协作"
     return sync_to_obsidian(subdirectory, filename, content)
 
 
