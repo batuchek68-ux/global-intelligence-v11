@@ -1,59 +1,63 @@
 {
   "keywords": [
     [
-      "burnham",
-      5
-    ],
-    [
-      "more",
-      5
-    ],
-    [
-      "first",
-      4
-    ],
-    [
-      "nuclear",
-      4
-    ],
-    [
-      "deal",
-      4
-    ],
-    [
-      "100",
-      3
-    ],
-    [
-      "since",
-      3
-    ],
-    [
-      "andy",
-      3
-    ],
-    [
-      "off",
-      3
-    ],
-    [
-      "what",
-      3
-    ],
-    [
       "iran",
+      7
+    ],
+    [
+      "war",
+      4
+    ],
+    [
+      "strikes",
+      4
+    ],
+    [
+      "over",
       3
     ],
     [
-      "israeli",
+      "from",
       3
     ],
     [
-      "new",
+      "were",
       3
     ],
     [
-      "plan",
+      "after",
+      3
+    ],
+    [
+      "13th",
+      3
+    ],
+    [
+      "night",
+      3
+    ],
+    [
+      "trump",
+      3
+    ],
+    [
+      "israel",
+      3
+    ],
+    [
+      "imposes",
+      2
+    ],
+    [
+      "tariffs",
+      2
+    ],
+    [
+      "dozens",
+      2
+    ],
+    [
+      "burnham",
       2
     ],
     [
@@ -61,67 +65,63 @@
       2
     ],
     [
-      "early",
+      "warns",
       2
     ],
     [
-      "from",
+      "tardis",
       2
     ],
     [
-      "oil",
+      "says",
       2
     ],
     [
-      "time",
-      2
-    ],
-    [
-      "may",
+      "could",
       2
     ]
   ],
   "topics": [
     {
-      "name": "burnham",
-      "count": 5
+      "name": "iran",
+      "count": 7
     },
     {
-      "name": "more",
-      "count": 5
-    },
-    {
-      "name": "first",
+      "name": "war",
       "count": 4
     },
     {
-      "name": "nuclear",
+      "name": "strikes",
       "count": 4
     },
     {
-      "name": "deal",
-      "count": 4
-    },
-    {
-      "name": "100",
+      "name": "over",
       "count": 3
     },
     {
-      "name": "since",
+      "name": "from",
       "count": 3
     },
     {
-      "name": "andy",
+      "name": "were",
       "count": 3
     },
     {
-      "name": "off",
+      "name": "after",
       "count": 3
     },
     {
-      "name": "what",
+      "name": "13th",
+      "count": 3
+    },
+    {
+      "name": "night",
+      "count": 3
+    },
+    {
+      "name": "trump",
       "count": 3
     }
   ],
-  "updated_at": "2026-07-23 19:25:05.457883"
+  "updated_at": "2026-07-24 03:14:49.999561"
 }
