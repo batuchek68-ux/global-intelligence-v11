@@ -4,7 +4,7 @@ country: Indonesia
 industry: 
 type: project
 status: active
-created: 2026-07-23T23:37:32.842409
+created: 2026-07-24T10:37:17.949184
 ---
 
 ## Overview
