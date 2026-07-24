@@ -131,6 +131,11 @@ def run_full_sync() -> dict:
     risks_synced = sync_risks()
     daily = create_daily_knowledge()
     all_notes = list_notes()
+    
+    from auto_sync_obsidian import sync_git_to_obsidian, init_memory
+    git_sync = sync_git_to_obsidian(10)
+    init_memory()
+    
     elapsed = (datetime.now() - start).total_seconds()
     ima_connected = bool(_get_ima_kb_id())
     return {
@@ -143,6 +148,7 @@ def run_full_sync() -> dict:
         "daily_note_created": daily.get("ok", False),
         "total_notes": all_notes.get("count", 0),
         "ima_synced": ima_connected,
+        "git_synced": git_sync.get("synced", 0),
     }
 
 
