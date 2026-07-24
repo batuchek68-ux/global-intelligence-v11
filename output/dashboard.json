@@ -1,27 +1,19 @@
 {
   "keywords": [
     [
+      "new",
+      5
+    ],
+    [
+      "with",
+      4
+    ],
+    [
       "iran",
-      7
-    ],
-    [
-      "war",
       4
     ],
     [
-      "strikes",
-      4
-    ],
-    [
-      "over",
-      3
-    ],
-    [
-      "from",
-      3
-    ],
-    [
-      "were",
+      "they",
       3
     ],
     [
@@ -29,27 +21,11 @@
       3
     ],
     [
-      "13th",
-      3
-    ],
-    [
-      "night",
-      3
-    ],
-    [
-      "trump",
-      3
-    ],
-    [
       "israel",
       3
     ],
     [
-      "imposes",
-      2
-    ],
-    [
-      "tariffs",
+      "orders",
       2
     ],
     [
@@ -57,15 +33,31 @@
       2
     ],
     [
-      "burnham",
+      "tariffs",
       2
     ],
     [
-      "release",
+      "out",
       2
     ],
     [
-      "warns",
+      "tell",
+      2
+    ],
+    [
+      "were",
+      2
+    ],
+    [
+      "two",
+      2
+    ],
+    [
+      "during",
+      2
+    ],
+    [
+      "health",
       2
     ],
     [
@@ -73,37 +65,37 @@
       2
     ],
     [
-      "says",
+      "became",
       2
     ],
     [
-      "could",
+      "are",
+      2
+    ],
+    [
+      "can",
+      2
+    ],
+    [
+      "what",
       2
     ]
   ],
   "topics": [
     {
+      "name": "new",
+      "count": 5
+    },
+    {
+      "name": "with",
+      "count": 4
+    },
+    {
       "name": "iran",
-      "count": 7
-    },
-    {
-      "name": "war",
       "count": 4
     },
     {
-      "name": "strikes",
-      "count": 4
-    },
-    {
-      "name": "over",
-      "count": 3
-    },
-    {
-      "name": "from",
-      "count": 3
-    },
-    {
-      "name": "were",
+      "name": "they",
       "count": 3
     },
     {
@@ -111,17 +103,25 @@
       "count": 3
     },
     {
-      "name": "13th",
+      "name": "israel",
       "count": 3
     },
     {
-      "name": "night",
-      "count": 3
+      "name": "orders",
+      "count": 2
     },
     {
-      "name": "trump",
-      "count": 3
+      "name": "dozens",
+      "count": 2
+    },
+    {
+      "name": "tariffs",
+      "count": 2
+    },
+    {
+      "name": "out",
+      "count": 2
     }
   ],
-  "updated_at": "2026-07-24 03:14:49.999561"
+  "updated_at": "2026-07-24 08:33:25.024958"
 }
