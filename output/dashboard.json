@@ -2,14 +2,18 @@
   "keywords": [
     [
       "after",
-      8
+      6
     ],
     [
-      "how",
+      "with",
       5
     ],
     [
       "over",
+      5
+    ],
+    [
+      "how",
       4
     ],
     [
@@ -17,11 +21,11 @@
       3
     ],
     [
-      "with",
+      "south",
       3
     ],
     [
-      "trump",
+      "israeli",
       3
     ],
     [
@@ -33,19 +37,23 @@
       2
     ],
     [
+      "say",
+      2
+    ],
+    [
+      "wildfire",
+      2
+    ],
+    [
+      "cockroach",
+      2
+    ],
+    [
+      "minister",
+      2
+    ],
+    [
       "behind",
-      2
-    ],
-    [
-      "first",
-      2
-    ],
-    [
-      "commonwealth",
-      2
-    ],
-    [
-      "defence",
       2
     ],
     [
@@ -53,7 +61,15 @@
       2
     ],
     [
-      "wedding",
+      "world",
+      2
+    ],
+    [
+      "from",
+      2
+    ],
+    [
+      "out",
       2
     ],
     [
@@ -61,37 +77,25 @@
       2
     ],
     [
-      "one",
-      2
-    ],
-    [
-      "young",
-      2
-    ],
-    [
-      "white",
-      2
-    ],
-    [
-      "six",
-      2
-    ],
-    [
-      "crisis",
+      "series",
       2
     ]
   ],
   "topics": [
     {
       "name": "after",
-      "count": 8
+      "count": 6
     },
     {
-      "name": "how",
+      "name": "with",
       "count": 5
     },
     {
       "name": "over",
+      "count": 5
+    },
+    {
+      "name": "how",
       "count": 4
     },
     {
@@ -99,11 +103,11 @@
       "count": 3
     },
     {
-      "name": "with",
+      "name": "south",
       "count": 3
     },
     {
-      "name": "trump",
+      "name": "israeli",
       "count": 3
     },
     {
@@ -115,13 +119,9 @@
       "count": 2
     },
     {
-      "name": "behind",
-      "count": 2
-    },
-    {
-      "name": "first",
+      "name": "say",
       "count": 2
     }
   ],
-  "updated_at": "2026-07-25 13:44:40.992665"
+  "updated_at": "2026-07-25 19:14:33.162168"
 }
