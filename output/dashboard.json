@@ -1,11 +1,11 @@
 {
   "keywords": [
     [
-      "after",
-      5
+      "trump",
+      7
     ],
     [
-      "trump",
+      "after",
       5
     ],
     [
@@ -13,15 +13,27 @@
       4
     ],
     [
+      "with",
+      4
+    ],
+    [
+      "world",
+      2
+    ],
+    [
+      "press",
+      2
+    ],
+    [
+      "white",
+      2
+    ],
+    [
+      "house",
+      2
+    ],
+    [
       "police",
-      3
-    ],
-    [
-      "over",
-      3
-    ],
-    [
-      "wildfire",
       2
     ],
     [
@@ -29,7 +41,35 @@
       2
     ],
     [
-      "watch",
+      "england",
+      2
+    ],
+    [
+      "has",
+      2
+    ],
+    [
+      "bosses",
+      2
+    ],
+    [
+      "show",
+      2
+    ],
+    [
+      "one",
+      2
+    ],
+    [
+      "from",
+      2
+    ],
+    [
+      "out",
+      2
+    ],
+    [
+      "summer",
       2
     ],
     [
@@ -39,55 +79,15 @@
     [
       "fire",
       2
-    ],
-    [
-      "out",
-      2
-    ],
-    [
-      "about",
-      2
-    ],
-    [
-      "england",
-      2
-    ],
-    [
-      "should",
-      2
-    ],
-    [
-      "bosses",
-      2
-    ],
-    [
-      "one",
-      2
-    ],
-    [
-      "can",
-      2
-    ],
-    [
-      "summer",
-      2
-    ],
-    [
-      "with",
-      2
-    ],
-    [
-      "their",
-      2
     ]
   ],
   "topics": [
     {
-      "name": "after",
-      "count": 5
+      "name": "trump",
+      "count": 7
     },
     {
-      "name": "trump",
+      "name": "after",
       "count": 5
     },
     {
@@ -95,33 +95,33 @@
       "count": 4
     },
     {
+      "name": "with",
+      "count": 4
+    },
+    {
+      "name": "world",
+      "count": 2
+    },
+    {
+      "name": "press",
+      "count": 2
+    },
+    {
+      "name": "white",
+      "count": 2
+    },
+    {
+      "name": "house",
+      "count": 2
+    },
+    {
       "name": "police",
-      "count": 3
-    },
-    {
-      "name": "over",
-      "count": 3
-    },
-    {
-      "name": "wildfire",
       "count": 2
     },
     {
       "name": "cost",
       "count": 2
-    },
-    {
-      "name": "watch",
-      "count": 2
-    },
-    {
-      "name": "explosion",
-      "count": 2
-    },
-    {
-      "name": "fire",
-      "count": 2
     }
   ],
-  "updated_at": "2026-07-25 03:13:11.504484"
+  "updated_at": "2026-07-25 08:12:31.506123"
 }
