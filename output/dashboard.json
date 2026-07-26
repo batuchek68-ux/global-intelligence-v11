@@ -2,30 +2,62 @@
   "keywords": [
     [
       "with",
-      7
-    ],
-    [
-      "after",
       6
     ],
     [
-      "how",
+      "west",
       5
     ],
     [
-      "israeli",
+      "bank",
       5
+    ],
+    [
+      "out",
+      4
+    ],
+    [
+      "after",
+      4
+    ],
+    [
+      "fire",
+      3
+    ],
+    [
+      "new",
+      3
+    ],
+    [
+      "war",
+      3
     ],
     [
       "bid",
       3
     ],
     [
-      "west",
-      3
+      "burnham",
+      2
     ],
     [
-      "police",
+      "call",
+      2
+    ],
+    [
+      "trump",
+      2
+    ],
+    [
+      "france",
+      2
+    ],
+    [
+      "another",
+      2
+    ],
+    [
+      "evacuated",
       2
     ],
     [
@@ -33,95 +65,63 @@
       2
     ],
     [
+      "love",
+      2
+    ],
+    [
       "about",
       2
     ],
     [
-      "behind",
+      "how",
       2
     ],
     [
-      "burnham",
-      2
-    ],
-    [
-      "car",
-      2
-    ],
-    [
-      "tears",
-      2
-    ],
-    [
-      "war",
-      2
-    ],
-    [
-      "why",
-      2
-    ],
-    [
-      "spreading",
-      2
-    ],
-    [
-      "their",
-      2
-    ],
-    [
-      "wildfire",
-      2
-    ],
-    [
-      "brazil",
-      2
-    ],
-    [
-      "presidential",
+      "joshua",
       2
     ]
   ],
   "topics": [
     {
       "name": "with",
-      "count": 7
-    },
-    {
-      "name": "after",
       "count": 6
     },
     {
-      "name": "how",
+      "name": "west",
       "count": 5
     },
     {
-      "name": "israeli",
+      "name": "bank",
       "count": 5
+    },
+    {
+      "name": "out",
+      "count": 4
+    },
+    {
+      "name": "after",
+      "count": 4
+    },
+    {
+      "name": "fire",
+      "count": 3
+    },
+    {
+      "name": "new",
+      "count": 3
+    },
+    {
+      "name": "war",
+      "count": 3
     },
     {
       "name": "bid",
       "count": 3
     },
     {
-      "name": "west",
-      "count": 3
-    },
-    {
-      "name": "police",
-      "count": 2
-    },
-    {
-      "name": "what",
-      "count": 2
-    },
-    {
-      "name": "about",
-      "count": 2
-    },
-    {
-      "name": "behind",
+      "name": "burnham",
       "count": 2
     }
   ],
-  "updated_at": "2026-07-26 03:26:39.776851"
+  "updated_at": "2026-07-26 08:32:44.263414"
 }
