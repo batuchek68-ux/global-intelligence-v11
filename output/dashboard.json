@@ -1,19 +1,15 @@
 {
   "keywords": [
     [
-      "after",
-      7
-    ],
-    [
-      "what",
-      6
-    ],
-    [
-      "sea",
+      "new",
       4
     ],
     [
-      "about",
+      "israel",
+      4
+    ],
+    [
+      "out",
       3
     ],
     [
@@ -25,23 +21,23 @@
       3
     ],
     [
-      "israeli",
-      3
-    ],
-    [
-      "indias",
-      3
-    ],
-    [
-      "burnham",
+      "what",
       2
     ],
     [
-      "out",
+      "about",
       2
     ],
     [
-      "battle",
+      "berlin",
+      2
+    ],
+    [
+      "pride",
+      2
+    ],
+    [
+      "attack",
       2
     ],
     [
@@ -49,53 +45,53 @@
       2
     ],
     [
-      "new",
+      "evacuated",
       2
     ],
     [
-      "work",
+      "burnham",
       2
     ],
     [
-      "their",
+      "after",
       2
     ],
     [
-      "love",
+      "major",
       2
     ],
     [
-      "cause",
+      "norris",
       2
     ],
     [
-      "why",
+      "wins",
       2
     ],
     [
-      "end",
+      "his",
       2
     ],
     [
-      "settlers",
+      "first",
+      2
+    ],
+    [
+      "grand",
       2
     ]
   ],
   "topics": [
     {
-      "name": "after",
-      "count": 7
-    },
-    {
-      "name": "what",
-      "count": 6
-    },
-    {
-      "name": "sea",
+      "name": "new",
       "count": 4
     },
     {
-      "name": "about",
+      "name": "israel",
+      "count": 4
+    },
+    {
+      "name": "out",
       "count": 3
     },
     {
@@ -107,21 +103,25 @@
       "count": 3
     },
     {
-      "name": "israeli",
-      "count": 3
-    },
-    {
-      "name": "indias",
-      "count": 3
-    },
-    {
-      "name": "burnham",
+      "name": "what",
       "count": 2
     },
     {
-      "name": "out",
+      "name": "about",
+      "count": 2
+    },
+    {
+      "name": "berlin",
+      "count": 2
+    },
+    {
+      "name": "pride",
+      "count": 2
+    },
+    {
+      "name": "attack",
       "count": 2
     }
   ],
-  "updated_at": "2026-07-26 13:39:01.742908"
+  "updated_at": "2026-07-26 19:17:56.350075"
 }
