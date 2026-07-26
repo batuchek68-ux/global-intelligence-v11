@@ -1,31 +1,23 @@
 {
   "keywords": [
     [
-      "with",
+      "after",
+      7
+    ],
+    [
+      "what",
       6
     ],
     [
-      "west",
-      5
-    ],
-    [
-      "bank",
-      5
-    ],
-    [
-      "out",
+      "sea",
       4
     ],
     [
-      "after",
-      4
-    ],
-    [
-      "fire",
+      "about",
       3
     ],
     [
-      "new",
+      "how",
       3
     ],
     [
@@ -33,7 +25,11 @@
       3
     ],
     [
-      "bid",
+      "israeli",
+      3
+    ],
+    [
+      "indias",
       3
     ],
     [
@@ -41,27 +37,27 @@
       2
     ],
     [
-      "call",
+      "out",
       2
     ],
     [
-      "trump",
+      "battle",
       2
     ],
     [
-      "france",
+      "thousands",
       2
     ],
     [
-      "another",
+      "new",
       2
     ],
     [
-      "evacuated",
+      "work",
       2
     ],
     [
-      "what",
+      "their",
       2
     ],
     [
@@ -69,45 +65,41 @@
       2
     ],
     [
-      "about",
+      "cause",
       2
     ],
     [
-      "how",
+      "why",
       2
     ],
     [
-      "joshua",
+      "end",
+      2
+    ],
+    [
+      "settlers",
       2
     ]
   ],
   "topics": [
     {
-      "name": "with",
+      "name": "after",
+      "count": 7
+    },
+    {
+      "name": "what",
       "count": 6
     },
     {
-      "name": "west",
-      "count": 5
-    },
-    {
-      "name": "bank",
-      "count": 5
-    },
-    {
-      "name": "out",
+      "name": "sea",
       "count": 4
     },
     {
-      "name": "after",
-      "count": 4
-    },
-    {
-      "name": "fire",
+      "name": "about",
       "count": 3
     },
     {
-      "name": "new",
+      "name": "how",
       "count": 3
     },
     {
@@ -115,13 +107,21 @@
       "count": 3
     },
     {
-      "name": "bid",
+      "name": "israeli",
+      "count": 3
+    },
+    {
+      "name": "indias",
       "count": 3
     },
     {
       "name": "burnham",
       "count": 2
+    },
+    {
+      "name": "out",
+      "count": 2
     }
   ],
-  "updated_at": "2026-07-26 08:32:44.263414"
+  "updated_at": "2026-07-26 13:39:01.742908"
 }
