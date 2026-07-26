@@ -1,59 +1,31 @@
 {
   "keywords": [
     [
+      "with",
+      7
+    ],
+    [
       "after",
       6
     ],
     [
-      "with",
-      5
-    ],
-    [
-      "over",
-      5
-    ],
-    [
       "how",
-      4
-    ],
-    [
-      "into",
-      3
-    ],
-    [
-      "south",
-      3
+      5
     ],
     [
       "israeli",
+      5
+    ],
+    [
+      "bid",
       3
     ],
     [
-      "holiday",
-      2
+      "west",
+      3
     ],
     [
-      "turned",
-      2
-    ],
-    [
-      "say",
-      2
-    ],
-    [
-      "wildfire",
-      2
-    ],
-    [
-      "cockroach",
-      2
-    ],
-    [
-      "minister",
-      2
-    ],
-    [
-      "behind",
+      "police",
       2
     ],
     [
@@ -61,67 +33,95 @@
       2
     ],
     [
-      "world",
+      "about",
       2
     ],
     [
-      "from",
+      "behind",
       2
     ],
     [
-      "out",
+      "burnham",
       2
     ],
     [
-      "has",
+      "car",
       2
     ],
     [
-      "series",
+      "tears",
+      2
+    ],
+    [
+      "war",
+      2
+    ],
+    [
+      "why",
+      2
+    ],
+    [
+      "spreading",
+      2
+    ],
+    [
+      "their",
+      2
+    ],
+    [
+      "wildfire",
+      2
+    ],
+    [
+      "brazil",
+      2
+    ],
+    [
+      "presidential",
       2
     ]
   ],
   "topics": [
     {
+      "name": "with",
+      "count": 7
+    },
+    {
       "name": "after",
       "count": 6
     },
     {
-      "name": "with",
-      "count": 5
-    },
-    {
-      "name": "over",
-      "count": 5
-    },
-    {
       "name": "how",
-      "count": 4
-    },
-    {
-      "name": "into",
-      "count": 3
-    },
-    {
-      "name": "south",
-      "count": 3
+      "count": 5
     },
     {
       "name": "israeli",
+      "count": 5
+    },
+    {
+      "name": "bid",
       "count": 3
     },
     {
-      "name": "holiday",
+      "name": "west",
+      "count": 3
+    },
+    {
+      "name": "police",
       "count": 2
     },
     {
-      "name": "turned",
+      "name": "what",
       "count": 2
     },
     {
-      "name": "say",
+      "name": "about",
+      "count": 2
+    },
+    {
+      "name": "behind",
       "count": 2
     }
   ],
-  "updated_at": "2026-07-25 19:14:33.162168"
+  "updated_at": "2026-07-26 03:26:39.776851"
 }
