@@ -1,31 +1,47 @@
 {
   "keywords": [
     [
+      "after",
+      5
+    ],
+    [
+      "wildfires",
+      3
+    ],
+    [
+      "says",
+      3
+    ],
+    [
+      "ahead",
+      3
+    ],
+    [
+      "trump",
+      3
+    ],
+    [
+      "attacks",
+      3
+    ],
+    [
+      "iran",
+      3
+    ],
+    [
       "new",
-      4
+      3
     ],
     [
       "israel",
-      4
-    ],
-    [
-      "out",
       3
     ],
     [
-      "how",
-      3
-    ],
-    [
-      "war",
-      3
-    ],
-    [
-      "what",
+      "bordeaux",
       2
     ],
     [
-      "about",
+      "heatwave",
       2
     ],
     [
@@ -41,87 +57,71 @@
       2
     ],
     [
-      "thousands",
-      2
-    ],
-    [
-      "evacuated",
-      2
-    ],
-    [
-      "burnham",
-      2
-    ],
-    [
-      "after",
-      2
-    ],
-    [
-      "major",
-      2
-    ],
-    [
-      "norris",
-      2
-    ],
-    [
       "wins",
       2
     ],
     [
-      "his",
+      "israeli",
       2
     ],
     [
-      "first",
+      "palestinians",
       2
     ],
     [
-      "grand",
+      "chance",
+      2
+    ],
+    [
+      "people",
+      2
+    ],
+    [
+      "netanyahu",
       2
     ]
   ],
   "topics": [
     {
+      "name": "after",
+      "count": 5
+    },
+    {
+      "name": "wildfires",
+      "count": 3
+    },
+    {
+      "name": "says",
+      "count": 3
+    },
+    {
+      "name": "ahead",
+      "count": 3
+    },
+    {
+      "name": "trump",
+      "count": 3
+    },
+    {
+      "name": "attacks",
+      "count": 3
+    },
+    {
+      "name": "iran",
+      "count": 3
+    },
+    {
       "name": "new",
-      "count": 4
+      "count": 3
     },
     {
       "name": "israel",
-      "count": 4
-    },
-    {
-      "name": "out",
       "count": 3
     },
     {
-      "name": "how",
-      "count": 3
-    },
-    {
-      "name": "war",
-      "count": 3
-    },
-    {
-      "name": "what",
-      "count": 2
-    },
-    {
-      "name": "about",
-      "count": 2
-    },
-    {
-      "name": "berlin",
-      "count": 2
-    },
-    {
-      "name": "pride",
-      "count": 2
-    },
-    {
-      "name": "attack",
+      "name": "bordeaux",
       "count": 2
     }
   ],
-  "updated_at": "2026-07-26 19:17:56.350075"
+  "updated_at": "2026-07-27 03:35:47.254857"
 }
