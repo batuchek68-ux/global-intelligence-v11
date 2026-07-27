@@ -1,15 +1,23 @@
 {
   "keywords": [
     [
-      "after",
-      6
+      "from",
+      5
+    ],
+    [
+      "how",
+      5
     ],
     [
       "wildfires",
       4
     ],
     [
-      "how",
+      "burnham",
+      4
+    ],
+    [
+      "ukraine",
       3
     ],
     [
@@ -17,81 +25,81 @@
       3
     ],
     [
-      "iran",
-      3
-    ],
-    [
-      "from",
-      3
-    ],
-    [
-      "has",
-      3
-    ],
-    [
-      "gaza",
+      "bank",
       3
     ],
     [
       "france",
-      2
+      3
     ],
     [
       "spain",
-      2
-    ],
-    [
-      "bank",
-      2
-    ],
-    [
-      "comedian",
-      2
-    ],
-    [
-      "bill",
-      2
-    ],
-    [
-      "oddie",
-      2
-    ],
-    [
-      "heat",
-      2
-    ],
-    [
-      "west",
-      2
-    ],
-    [
-      "more",
-      2
+      3
     ],
     [
       "why",
+      3
+    ],
+    [
+      "iran",
+      3
+    ],
+    [
+      "war",
+      3
+    ],
+    [
+      "israeli",
+      3
+    ],
+    [
+      "west",
+      3
+    ],
+    [
+      "wildfire",
       2
     ],
     [
-      "are",
+      "who",
       2
     ],
     [
-      "life",
+      "people",
+      2
+    ],
+    [
+      "court",
+      2
+    ],
+    [
+      "police",
+      2
+    ],
+    [
+      "over",
       2
     ]
   ],
   "topics": [
     {
-      "name": "after",
-      "count": 6
+      "name": "from",
+      "count": 5
+    },
+    {
+      "name": "how",
+      "count": 5
     },
     {
       "name": "wildfires",
       "count": 4
     },
     {
-      "name": "how",
+      "name": "burnham",
+      "count": 4
+    },
+    {
+      "name": "ukraine",
       "count": 3
     },
     {
@@ -99,29 +107,21 @@
       "count": 3
     },
     {
-      "name": "iran",
-      "count": 3
-    },
-    {
-      "name": "from",
-      "count": 3
-    },
-    {
-      "name": "has",
-      "count": 3
-    },
-    {
-      "name": "gaza",
+      "name": "bank",
       "count": 3
     },
     {
       "name": "france",
-      "count": 2
+      "count": 3
     },
     {
       "name": "spain",
-      "count": 2
+      "count": 3
+    },
+    {
+      "name": "why",
+      "count": 3
     }
   ],
-  "updated_at": "2026-07-27 14:46:22.436506"
+  "updated_at": "2026-07-27 19:41:35.653565"
 }
