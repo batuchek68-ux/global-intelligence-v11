@@ -2,14 +2,10 @@
   "keywords": [
     [
       "after",
-      5
-    ],
-    [
-      "wildfires",
       3
     ],
     [
-      "says",
+      "from",
       3
     ],
     [
@@ -17,55 +13,35 @@
       3
     ],
     [
-      "trump",
+      "with",
       3
     ],
     [
-      "attacks",
+      "accuses",
       3
     ],
     [
-      "iran",
-      3
-    ],
-    [
-      "new",
-      3
-    ],
-    [
-      "israel",
-      3
-    ],
-    [
-      "bordeaux",
+      "tells",
       2
     ],
     [
-      "heatwave",
+      "during",
       2
     ],
     [
-      "berlin",
+      "first",
       2
     ],
     [
-      "pride",
+      "major",
       2
     ],
     [
-      "attack",
+      "woman",
       2
     ],
     [
-      "wins",
-      2
-    ],
-    [
-      "israeli",
-      2
-    ],
-    [
-      "palestinians",
+      "sea",
       2
     ],
     [
@@ -73,25 +49,45 @@
       2
     ],
     [
-      "people",
+      "next",
       2
     ],
     [
-      "netanyahu",
+      "support",
+      2
+    ],
+    [
+      "ukraine",
+      2
+    ],
+    [
+      "visit",
+      2
+    ],
+    [
+      "space",
+      2
+    ],
+    [
+      "iran",
+      2
+    ],
+    [
+      "make",
+      2
+    ],
+    [
+      "says",
       2
     ]
   ],
   "topics": [
     {
       "name": "after",
-      "count": 5
-    },
-    {
-      "name": "wildfires",
       "count": 3
     },
     {
-      "name": "says",
+      "name": "from",
       "count": 3
     },
     {
@@ -99,29 +95,33 @@
       "count": 3
     },
     {
-      "name": "trump",
+      "name": "with",
       "count": 3
     },
     {
-      "name": "attacks",
+      "name": "accuses",
       "count": 3
     },
     {
-      "name": "iran",
-      "count": 3
+      "name": "tells",
+      "count": 2
     },
     {
-      "name": "new",
-      "count": 3
+      "name": "during",
+      "count": 2
     },
     {
-      "name": "israel",
-      "count": 3
+      "name": "first",
+      "count": 2
     },
     {
-      "name": "bordeaux",
+      "name": "major",
+      "count": 2
+    },
+    {
+      "name": "woman",
       "count": 2
     }
   ],
-  "updated_at": "2026-07-27 03:35:47.254857"
+  "updated_at": "2026-07-27 09:59:31.483952"
 }
