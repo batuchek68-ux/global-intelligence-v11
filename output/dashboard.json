@@ -1,47 +1,27 @@
 {
   "keywords": [
     [
-      "from",
+      "trump",
+      5
+    ],
+    [
+      "says",
       5
     ],
     [
       "how",
-      5
+      4
     ],
     [
       "wildfires",
-      4
-    ],
-    [
-      "burnham",
-      4
-    ],
-    [
-      "ukraine",
       3
     ],
     [
-      "says",
+      "new",
       3
     ],
     [
-      "bank",
-      3
-    ],
-    [
-      "france",
-      3
-    ],
-    [
-      "spain",
-      3
-    ],
-    [
-      "why",
-      3
-    ],
-    [
-      "iran",
+      "court",
       3
     ],
     [
@@ -49,11 +29,7 @@
       3
     ],
     [
-      "israeli",
-      3
-    ],
-    [
-      "west",
+      "france",
       3
     ],
     [
@@ -61,53 +37,77 @@
       2
     ],
     [
-      "who",
+      "now",
       2
     ],
     [
-      "people",
+      "from",
       2
     ],
     [
-      "court",
+      "reports",
       2
     ],
     [
-      "police",
+      "johnson",
       2
     ],
     [
-      "over",
+      "offers",
+      2
+    ],
+    [
+      "55bn",
+      2
+    ],
+    [
+      "lawsuits",
+      2
+    ],
+    [
+      "outside",
+      2
+    ],
+    [
+      "after",
+      2
+    ],
+    [
+      "will",
+      2
+    ],
+    [
+      "iran",
       2
     ]
   ],
   "topics": [
     {
-      "name": "from",
+      "name": "trump",
+      "count": 5
+    },
+    {
+      "name": "says",
       "count": 5
     },
     {
       "name": "how",
-      "count": 5
+      "count": 4
     },
     {
       "name": "wildfires",
-      "count": 4
-    },
-    {
-      "name": "burnham",
-      "count": 4
-    },
-    {
-      "name": "ukraine",
       "count": 3
     },
     {
-      "name": "says",
+      "name": "new",
       "count": 3
     },
     {
-      "name": "bank",
+      "name": "court",
+      "count": 3
+    },
+    {
+      "name": "war",
       "count": 3
     },
     {
@@ -115,13 +115,13 @@
       "count": 3
     },
     {
-      "name": "spain",
-      "count": 3
+      "name": "wildfire",
+      "count": 2
     },
     {
-      "name": "why",
-      "count": 3
+      "name": "now",
+      "count": 2
     }
   ],
-  "updated_at": "2026-07-27 19:41:35.653565"
+  "updated_at": "2026-07-28 02:51:40.734320"
 }
