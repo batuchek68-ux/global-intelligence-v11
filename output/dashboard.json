@@ -1,23 +1,11 @@
 {
   "keywords": [
     [
-      "says",
-      4
+      "trump",
+      5
     ],
     [
-      "wildfires",
-      4
-    ],
-    [
-      "france",
-      4
-    ],
-    [
-      "israeli",
-      4
-    ],
-    [
-      "during",
+      "with",
       3
     ],
     [
@@ -29,47 +17,39 @@
       3
     ],
     [
+      "war",
+      3
+    ],
+    [
+      "iran",
+      3
+    ],
+    [
+      "world",
+      2
+    ],
+    [
+      "cup",
+      2
+    ],
+    [
+      "plan",
+      2
+    ],
+    [
+      "france",
+      2
+    ],
+    [
+      "new",
+      2
+    ],
+    [
       "out",
-      3
-    ],
-    [
-      "heatwave",
-      3
-    ],
-    [
-      "with",
-      3
-    ],
-    [
-      "spain",
-      3
-    ],
-    [
-      "how",
-      3
-    ],
-    [
-      "why",
-      3
-    ],
-    [
-      "schools",
       2
     ],
     [
-      "from",
-      2
-    ],
-    [
-      "england",
-      2
-    ],
-    [
-      "french",
-      2
-    ],
-    [
-      "fire",
+      "leave",
       2
     ],
     [
@@ -77,29 +57,37 @@
       2
     ],
     [
-      "walks",
+      "review",
+      2
+    ],
+    [
+      "why",
+      2
+    ],
+    [
+      "how",
+      2
+    ],
+    [
+      "tears",
+      2
+    ],
+    [
+      "over",
+      2
+    ],
+    [
+      "west",
       2
     ]
   ],
   "topics": [
     {
-      "name": "says",
-      "count": 4
+      "name": "trump",
+      "count": 5
     },
     {
-      "name": "wildfires",
-      "count": 4
-    },
-    {
-      "name": "france",
-      "count": 4
-    },
-    {
-      "name": "israeli",
-      "count": 4
-    },
-    {
-      "name": "during",
+      "name": "with",
       "count": 3
     },
     {
@@ -111,17 +99,29 @@
       "count": 3
     },
     {
-      "name": "out",
+      "name": "war",
       "count": 3
     },
     {
-      "name": "heatwave",
+      "name": "iran",
       "count": 3
     },
     {
-      "name": "with",
-      "count": 3
+      "name": "world",
+      "count": 2
+    },
+    {
+      "name": "cup",
+      "count": 2
+    },
+    {
+      "name": "plan",
+      "count": 2
+    },
+    {
+      "name": "france",
+      "count": 2
     }
   ],
-  "updated_at": "2026-07-28 14:20:20.992048"
+  "updated_at": "2026-07-28 19:38:47.723745"
 }
