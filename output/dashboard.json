@@ -2,26 +2,38 @@
   "keywords": [
     [
       "trump",
+      6
+    ],
+    [
+      "with",
       5
     ],
     [
-      "says",
-      5
-    ],
-    [
-      "how",
+      "johnson",
       4
     ],
     [
-      "wildfires",
+      "iran",
+      4
+    ],
+    [
+      "from",
       3
     ],
     [
-      "new",
+      "says",
       3
     ],
     [
-      "court",
+      "how",
+      3
+    ],
+    [
+      "you",
+      3
+    ],
+    [
+      "help",
       3
     ],
     [
@@ -29,28 +41,12 @@
       3
     ],
     [
-      "france",
+      "after",
       3
     ],
     [
-      "wildfire",
-      2
-    ],
-    [
-      "now",
-      2
-    ],
-    [
-      "from",
-      2
-    ],
-    [
-      "reports",
-      2
-    ],
-    [
-      "johnson",
-      2
+      "netanyahu",
+      3
     ],
     [
       "offers",
@@ -61,67 +57,71 @@
       2
     ],
     [
+      "settle",
+      2
+    ],
+    [
       "lawsuits",
       2
     ],
     [
-      "outside",
+      "reports",
       2
     ],
     [
-      "after",
+      "police",
       2
     ],
     [
-      "will",
+      "found",
       2
     ],
     [
-      "iran",
+      "hundreds",
       2
     ]
   ],
   "topics": [
     {
       "name": "trump",
+      "count": 6
+    },
+    {
+      "name": "with",
       "count": 5
     },
     {
-      "name": "says",
-      "count": 5
-    },
-    {
-      "name": "how",
+      "name": "johnson",
       "count": 4
     },
     {
-      "name": "wildfires",
+      "name": "iran",
+      "count": 4
+    },
+    {
+      "name": "from",
       "count": 3
     },
     {
-      "name": "new",
+      "name": "says",
       "count": 3
     },
     {
-      "name": "court",
+      "name": "how",
+      "count": 3
+    },
+    {
+      "name": "you",
+      "count": 3
+    },
+    {
+      "name": "help",
       "count": 3
     },
     {
       "name": "war",
       "count": 3
-    },
-    {
-      "name": "france",
-      "count": 3
-    },
-    {
-      "name": "wildfire",
-      "count": 2
-    },
-    {
-      "name": "now",
-      "count": 2
     }
   ],
-  "updated_at": "2026-07-28 02:51:40.734320"
+  "updated_at": "2026-07-28 08:42:06.150779"
 }
