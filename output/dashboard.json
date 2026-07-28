@@ -1,43 +1,27 @@
 {
   "keywords": [
     [
-      "trump",
-      6
-    ],
-    [
-      "with",
-      5
-    ],
-    [
-      "johnson",
-      4
-    ],
-    [
-      "iran",
-      4
-    ],
-    [
-      "from",
-      3
-    ],
-    [
       "says",
+      4
+    ],
+    [
+      "wildfires",
+      4
+    ],
+    [
+      "france",
+      4
+    ],
+    [
+      "israeli",
+      4
+    ],
+    [
+      "during",
       3
     ],
     [
-      "how",
-      3
-    ],
-    [
-      "you",
-      3
-    ],
-    [
-      "help",
-      3
-    ],
-    [
-      "war",
+      "bbc",
       3
     ],
     [
@@ -45,83 +29,99 @@
       3
     ],
     [
-      "netanyahu",
+      "out",
       3
     ],
     [
-      "offers",
+      "heatwave",
+      3
+    ],
+    [
+      "with",
+      3
+    ],
+    [
+      "spain",
+      3
+    ],
+    [
+      "how",
+      3
+    ],
+    [
+      "why",
+      3
+    ],
+    [
+      "schools",
       2
     ],
     [
-      "55bn",
+      "from",
       2
     ],
     [
-      "settle",
+      "england",
       2
     ],
     [
-      "lawsuits",
+      "french",
       2
     ],
     [
-      "reports",
+      "fire",
       2
     ],
     [
-      "police",
+      "years",
       2
     ],
     [
-      "found",
-      2
-    ],
-    [
-      "hundreds",
+      "walks",
       2
     ]
   ],
   "topics": [
     {
-      "name": "trump",
-      "count": 6
+      "name": "says",
+      "count": 4
+    },
+    {
+      "name": "wildfires",
+      "count": 4
+    },
+    {
+      "name": "france",
+      "count": 4
+    },
+    {
+      "name": "israeli",
+      "count": 4
+    },
+    {
+      "name": "during",
+      "count": 3
+    },
+    {
+      "name": "bbc",
+      "count": 3
+    },
+    {
+      "name": "after",
+      "count": 3
+    },
+    {
+      "name": "out",
+      "count": 3
+    },
+    {
+      "name": "heatwave",
+      "count": 3
     },
     {
       "name": "with",
-      "count": 5
-    },
-    {
-      "name": "johnson",
-      "count": 4
-    },
-    {
-      "name": "iran",
-      "count": 4
-    },
-    {
-      "name": "from",
-      "count": 3
-    },
-    {
-      "name": "says",
-      "count": 3
-    },
-    {
-      "name": "how",
-      "count": 3
-    },
-    {
-      "name": "you",
-      "count": 3
-    },
-    {
-      "name": "help",
-      "count": 3
-    },
-    {
-      "name": "war",
       "count": 3
     }
   ],
-  "updated_at": "2026-07-28 08:42:06.150779"
+  "updated_at": "2026-07-28 14:20:20.992048"
 }
