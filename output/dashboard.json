@@ -1,35 +1,51 @@
 {
   "keywords": [
     [
+      "burnham",
+      3
+    ],
+    [
+      "fifa",
+      3
+    ],
+    [
+      "plan",
+      3
+    ],
+    [
+      "iraq",
+      3
+    ],
+    [
+      "has",
+      3
+    ],
+    [
       "why",
-      4
-    ],
-    [
-      "trump",
-      4
-    ],
-    [
-      "after",
-      4
-    ],
-    [
-      "netanyahu",
-      4
-    ],
-    [
-      "have",
       3
     ],
     [
-      "rise",
+      "are",
       3
     ],
     [
-      "new",
+      "what",
       3
     ],
     [
-      "attacks",
+      "world",
+      3
+    ],
+    [
+      "cup",
+      3
+    ],
+    [
+      "crisis",
+      3
+    ],
+    [
+      "war",
       3
     ],
     [
@@ -37,91 +53,75 @@
       3
     ],
     [
-      "they",
+      "than",
       2
     ],
     [
-      "saudi",
+      "says",
       2
     ],
     [
-      "arabia",
+      "fix",
       2
     ],
     [
-      "strikes",
+      "social",
       2
     ],
     [
-      "iraq",
+      "care",
       2
     ],
     [
-      "but",
+      "two",
       2
     ],
     [
-      "heatwave",
-      2
-    ],
-    [
-      "palestinian",
-      2
-    ],
-    [
-      "report",
-      2
-    ],
-    [
-      "dangerous",
-      2
-    ],
-    [
-      "what",
+      "women",
       2
     ]
   ],
   "topics": [
     {
+      "name": "burnham",
+      "count": 3
+    },
+    {
+      "name": "fifa",
+      "count": 3
+    },
+    {
+      "name": "plan",
+      "count": 3
+    },
+    {
+      "name": "iraq",
+      "count": 3
+    },
+    {
+      "name": "has",
+      "count": 3
+    },
+    {
       "name": "why",
-      "count": 4
-    },
-    {
-      "name": "trump",
-      "count": 4
-    },
-    {
-      "name": "after",
-      "count": 4
-    },
-    {
-      "name": "netanyahu",
-      "count": 4
-    },
-    {
-      "name": "have",
       "count": 3
     },
     {
-      "name": "rise",
+      "name": "are",
       "count": 3
     },
     {
-      "name": "new",
+      "name": "what",
       "count": 3
     },
     {
-      "name": "attacks",
+      "name": "world",
       "count": 3
     },
     {
-      "name": "iran",
+      "name": "cup",
       "count": 3
-    },
-    {
-      "name": "they",
-      "count": 2
     }
   ],
-  "updated_at": "2026-07-29 08:47:36.202981"
+  "updated_at": "2026-07-29 14:20:32.681512"
 }
