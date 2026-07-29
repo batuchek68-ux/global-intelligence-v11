@@ -1,67 +1,51 @@
 {
   "keywords": [
     [
-      "iran",
-      5
-    ],
-    [
-      "trump",
-      5
-    ],
-    [
-      "new",
+      "why",
       4
     ],
     [
-      "shows",
-      3
-    ],
-    [
-      "world",
-      3
-    ],
-    [
-      "plan",
-      3
-    ],
-    [
-      "japan",
-      3
-    ],
-    [
-      "over",
-      3
-    ],
-    [
-      "saudi",
-      3
-    ],
-    [
-      "iraq",
-      3
+      "trump",
+      4
     ],
     [
       "after",
-      3
+      4
     ],
     [
-      "attack",
-      3
-    ],
-    [
-      "burnham",
-      2
-    ],
-    [
-      "talks",
-      2
-    ],
-    [
-      "really",
-      2
+      "netanyahu",
+      4
     ],
     [
       "have",
+      3
+    ],
+    [
+      "rise",
+      3
+    ],
+    [
+      "new",
+      3
+    ],
+    [
+      "attacks",
+      3
+    ],
+    [
+      "iran",
+      3
+    ],
+    [
+      "they",
+      2
+    ],
+    [
+      "saudi",
+      2
+    ],
+    [
+      "arabia",
       2
     ],
     [
@@ -69,59 +53,75 @@
       2
     ],
     [
-      "what",
+      "iraq",
       2
     ],
     [
-      "out",
+      "but",
       2
     ],
     [
       "heatwave",
       2
+    ],
+    [
+      "palestinian",
+      2
+    ],
+    [
+      "report",
+      2
+    ],
+    [
+      "dangerous",
+      2
+    ],
+    [
+      "what",
+      2
     ]
   ],
   "topics": [
     {
-      "name": "iran",
-      "count": 5
-    },
-    {
-      "name": "trump",
-      "count": 5
-    },
-    {
-      "name": "new",
+      "name": "why",
       "count": 4
     },
     {
-      "name": "shows",
+      "name": "trump",
+      "count": 4
+    },
+    {
+      "name": "after",
+      "count": 4
+    },
+    {
+      "name": "netanyahu",
+      "count": 4
+    },
+    {
+      "name": "have",
       "count": 3
     },
     {
-      "name": "world",
+      "name": "rise",
       "count": 3
     },
     {
-      "name": "plan",
+      "name": "new",
       "count": 3
     },
     {
-      "name": "japan",
+      "name": "attacks",
       "count": 3
     },
     {
-      "name": "over",
+      "name": "iran",
       "count": 3
     },
     {
-      "name": "saudi",
-      "count": 3
-    },
-    {
-      "name": "iraq",
-      "count": 3
+      "name": "they",
+      "count": 2
     }
   ],
-  "updated_at": "2026-07-29 03:11:24.118055"
+  "updated_at": "2026-07-29 08:47:36.202981"
 }
