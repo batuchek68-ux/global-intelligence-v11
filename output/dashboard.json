@@ -1,15 +1,43 @@
 {
   "keywords": [
     [
+      "iran",
+      5
+    ],
+    [
       "trump",
       5
     ],
     [
-      "with",
+      "new",
+      4
+    ],
+    [
+      "shows",
       3
     ],
     [
-      "bbc",
+      "world",
+      3
+    ],
+    [
+      "plan",
+      3
+    ],
+    [
+      "japan",
+      3
+    ],
+    [
+      "over",
+      3
+    ],
+    [
+      "saudi",
+      3
+    ],
+    [
+      "iraq",
       3
     ],
     [
@@ -17,31 +45,31 @@
       3
     ],
     [
-      "war",
+      "attack",
       3
     ],
     [
-      "iran",
-      3
-    ],
-    [
-      "world",
+      "burnham",
       2
     ],
     [
-      "cup",
+      "talks",
       2
     ],
     [
-      "plan",
+      "really",
       2
     ],
     [
-      "france",
+      "have",
       2
     ],
     [
-      "new",
+      "strikes",
+      2
+    ],
+    [
+      "what",
       2
     ],
     [
@@ -49,79 +77,51 @@
       2
     ],
     [
-      "leave",
-      2
-    ],
-    [
-      "years",
-      2
-    ],
-    [
-      "review",
-      2
-    ],
-    [
-      "why",
-      2
-    ],
-    [
-      "how",
-      2
-    ],
-    [
-      "tears",
-      2
-    ],
-    [
-      "over",
-      2
-    ],
-    [
-      "west",
+      "heatwave",
       2
     ]
   ],
   "topics": [
     {
+      "name": "iran",
+      "count": 5
+    },
+    {
       "name": "trump",
       "count": 5
     },
     {
-      "name": "with",
-      "count": 3
+      "name": "new",
+      "count": 4
     },
     {
-      "name": "bbc",
-      "count": 3
-    },
-    {
-      "name": "after",
-      "count": 3
-    },
-    {
-      "name": "war",
-      "count": 3
-    },
-    {
-      "name": "iran",
+      "name": "shows",
       "count": 3
     },
     {
       "name": "world",
-      "count": 2
-    },
-    {
-      "name": "cup",
-      "count": 2
+      "count": 3
     },
     {
       "name": "plan",
-      "count": 2
+      "count": 3
     },
     {
-      "name": "france",
-      "count": 2
+      "name": "japan",
+      "count": 3
+    },
+    {
+      "name": "over",
+      "count": 3
+    },
+    {
+      "name": "saudi",
+      "count": 3
+    },
+    {
+      "name": "iraq",
+      "count": 3
     }
   ],
-  "updated_at": "2026-07-28 19:38:47.723745"
+  "updated_at": "2026-07-29 03:11:24.118055"
 }
