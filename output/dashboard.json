@@ -1,127 +1,127 @@
 {
   "keywords": [
     [
-      "how",
+      "from",
       5
     ],
     [
-      "says",
-      4
-    ],
-    [
-      "gaza",
-      4
-    ],
-    [
       "iran",
-      3
-    ],
-    [
-      "strikes",
-      3
-    ],
-    [
-      "england",
-      3
-    ],
-    [
-      "with",
-      3
-    ],
-    [
-      "what",
-      3
-    ],
-    [
-      "israeli",
-      3
-    ],
-    [
-      "across",
-      3
-    ],
-    [
-      "bank",
-      2
+      5
     ],
     [
       "after",
+      4
+    ],
+    [
+      "ceuta",
+      3
+    ],
+    [
+      "war",
+      3
+    ],
+    [
+      "says",
+      3
+    ],
+    [
+      "boycott",
       2
     ],
     [
-      "attack",
+      "world",
       2
     ],
     [
-      "back",
+      "cup",
       2
     ],
     [
-      "watch",
+      "fifa",
       2
     ],
     [
-      "near",
+      "with",
       2
     ],
     [
-      "missile",
+      "thousands",
       2
     ],
     [
-      "that",
+      "drought",
       2
     ],
     [
-      "inside",
+      "wales",
       2
     ],
     [
-      "poland",
+      "into",
+      2
+    ],
+    [
+      "morocco",
+      2
+    ],
+    [
+      "enclave",
+      2
+    ],
+    [
+      "why",
+      2
+    ],
+    [
+      "man",
+      2
+    ],
+    [
+      "palestine",
       2
     ]
   ],
   "topics": [
     {
-      "name": "how",
+      "name": "from",
       "count": 5
     },
     {
-      "name": "says",
-      "count": 4
-    },
-    {
-      "name": "gaza",
-      "count": 4
-    },
-    {
       "name": "iran",
+      "count": 5
+    },
+    {
+      "name": "after",
+      "count": 4
+    },
+    {
+      "name": "ceuta",
       "count": 3
     },
     {
-      "name": "strikes",
+      "name": "war",
       "count": 3
     },
     {
-      "name": "england",
+      "name": "says",
       "count": 3
     },
     {
-      "name": "with",
-      "count": 3
+      "name": "boycott",
+      "count": 2
     },
     {
-      "name": "what",
-      "count": 3
+      "name": "world",
+      "count": 2
     },
     {
-      "name": "israeli",
-      "count": 3
+      "name": "cup",
+      "count": 2
     },
     {
-      "name": "across",
-      "count": 3
+      "name": "fifa",
+      "count": 2
     }
   ],
-  "updated_at": "2026-07-30 14:12:40.559767"
+  "updated_at": "2026-07-30 19:39:36.280480"
 }
