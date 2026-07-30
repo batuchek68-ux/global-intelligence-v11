@@ -1,27 +1,39 @@
 {
   "keywords": [
     [
-      "against",
+      "after",
+      6
+    ],
+    [
+      "strikes",
+      5
+    ],
+    [
+      "how",
+      4
+    ],
+    [
+      "trump",
       4
     ],
     [
       "iran",
-      4
-    ],
-    [
-      "heat",
       3
     ],
     [
-      "battle",
+      "attack",
       3
     ],
     [
-      "fauci",
+      "against",
       3
     ],
     [
-      "hearing",
+      "over",
+      3
+    ],
+    [
+      "fifa",
       3
     ],
     [
@@ -29,43 +41,15 @@
       3
     ],
     [
-      "than",
+      "cup",
+      3
+    ],
+    [
+      "launches",
       2
     ],
     [
-      "england",
-      2
-    ],
-    [
-      "drought",
-      2
-    ],
-    [
-      "burnham",
-      2
-    ],
-    [
-      "out",
-      2
-    ],
-    [
-      "social",
-      2
-    ],
-    [
-      "care",
-      2
-    ],
-    [
-      "police",
-      2
-    ],
-    [
-      "when",
-      2
-    ],
-    [
-      "fire",
+      "powerful",
       2
     ],
     [
@@ -73,55 +57,71 @@
       2
     ],
     [
+      "out",
+      2
+    ],
+    [
       "war",
       2
     ],
     [
-      "take",
+      "parts",
+      2
+    ],
+    [
+      "but",
+      2
+    ],
+    [
+      "uks",
+      2
+    ],
+    [
+      "woman",
       2
     ]
   ],
   "topics": [
     {
-      "name": "against",
+      "name": "after",
+      "count": 6
+    },
+    {
+      "name": "strikes",
+      "count": 5
+    },
+    {
+      "name": "how",
+      "count": 4
+    },
+    {
+      "name": "trump",
       "count": 4
     },
     {
       "name": "iran",
-      "count": 4
-    },
-    {
-      "name": "heat",
       "count": 3
     },
     {
-      "name": "battle",
+      "name": "attack",
       "count": 3
     },
     {
-      "name": "fauci",
+      "name": "against",
       "count": 3
     },
     {
-      "name": "hearing",
+      "name": "over",
+      "count": 3
+    },
+    {
+      "name": "fifa",
       "count": 3
     },
     {
       "name": "world",
       "count": 3
-    },
-    {
-      "name": "than",
-      "count": 2
-    },
-    {
-      "name": "england",
-      "count": 2
-    },
-    {
-      "name": "drought",
-      "count": 2
     }
   ],
-  "updated_at": "2026-07-29 19:23:30.937402"
+  "updated_at": "2026-07-30 02:43:38.312346"
 }
