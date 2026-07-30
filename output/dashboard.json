@@ -1,19 +1,11 @@
 {
   "keywords": [
     [
-      "strikes",
-      6
+      "how",
+      5
     ],
     [
-      "after",
-      6
-    ],
-    [
-      "iran",
-      4
-    ],
-    [
-      "israel",
+      "says",
       4
     ],
     [
@@ -21,31 +13,39 @@
       4
     ],
     [
-      "world",
-      4
-    ],
-    [
-      "cup",
-      4
-    ],
-    [
-      "launches",
+      "iran",
       3
     ],
     [
-      "how",
+      "strikes",
       3
     ],
     [
-      "new",
+      "england",
       3
     ],
     [
-      "war",
+      "with",
       3
     ],
     [
-      "heavy",
+      "what",
+      3
+    ],
+    [
+      "israeli",
+      3
+    ],
+    [
+      "across",
+      3
+    ],
+    [
+      "bank",
+      2
+    ],
+    [
+      "after",
       2
     ],
     [
@@ -53,49 +53,41 @@
       2
     ],
     [
-      "but",
+      "back",
       2
     ],
     [
-      "uks",
+      "watch",
       2
     ],
     [
-      "say",
+      "near",
       2
     ],
     [
-      "says",
+      "missile",
       2
     ],
     [
-      "with",
+      "that",
       2
     ],
     [
-      "teen",
+      "inside",
       2
     ],
     [
-      "viral",
+      "poland",
       2
     ]
   ],
   "topics": [
     {
-      "name": "strikes",
-      "count": 6
+      "name": "how",
+      "count": 5
     },
     {
-      "name": "after",
-      "count": 6
-    },
-    {
-      "name": "iran",
-      "count": 4
-    },
-    {
-      "name": "israel",
+      "name": "says",
       "count": 4
     },
     {
@@ -103,25 +95,33 @@
       "count": 4
     },
     {
-      "name": "world",
-      "count": 4
-    },
-    {
-      "name": "cup",
-      "count": 4
-    },
-    {
-      "name": "launches",
+      "name": "iran",
       "count": 3
     },
     {
-      "name": "how",
+      "name": "strikes",
       "count": 3
     },
     {
-      "name": "new",
+      "name": "england",
+      "count": 3
+    },
+    {
+      "name": "with",
+      "count": 3
+    },
+    {
+      "name": "what",
+      "count": 3
+    },
+    {
+      "name": "israeli",
+      "count": 3
+    },
+    {
+      "name": "across",
       "count": 3
     }
   ],
-  "updated_at": "2026-07-30 08:34:29.982195"
+  "updated_at": "2026-07-30 14:12:40.559767"
 }
