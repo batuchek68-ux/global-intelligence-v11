@@ -1,71 +1,55 @@
 {
   "keywords": [
     [
+      "strikes",
+      6
+    ],
+    [
       "after",
       6
     ],
     [
-      "strikes",
-      5
-    ],
-    [
-      "how",
-      4
-    ],
-    [
-      "trump",
-      4
-    ],
-    [
       "iran",
-      3
+      4
     ],
     [
-      "attack",
-      3
+      "israel",
+      4
     ],
     [
-      "against",
-      3
-    ],
-    [
-      "over",
-      3
-    ],
-    [
-      "fifa",
-      3
+      "gaza",
+      4
     ],
     [
       "world",
-      3
+      4
     ],
     [
       "cup",
-      3
+      4
     ],
     [
       "launches",
-      2
+      3
     ],
     [
-      "powerful",
-      2
+      "how",
+      3
     ],
     [
-      "saudi",
-      2
-    ],
-    [
-      "out",
-      2
+      "new",
+      3
     ],
     [
       "war",
+      3
+    ],
+    [
+      "heavy",
       2
     ],
     [
-      "parts",
+      "attack",
       2
     ],
     [
@@ -77,51 +61,67 @@
       2
     ],
     [
-      "woman",
+      "say",
+      2
+    ],
+    [
+      "says",
+      2
+    ],
+    [
+      "with",
+      2
+    ],
+    [
+      "teen",
+      2
+    ],
+    [
+      "viral",
       2
     ]
   ],
   "topics": [
     {
+      "name": "strikes",
+      "count": 6
+    },
+    {
       "name": "after",
       "count": 6
     },
     {
-      "name": "strikes",
-      "count": 5
-    },
-    {
-      "name": "how",
-      "count": 4
-    },
-    {
-      "name": "trump",
-      "count": 4
-    },
-    {
       "name": "iran",
-      "count": 3
+      "count": 4
     },
     {
-      "name": "attack",
-      "count": 3
+      "name": "israel",
+      "count": 4
     },
     {
-      "name": "against",
-      "count": 3
-    },
-    {
-      "name": "over",
-      "count": 3
-    },
-    {
-      "name": "fifa",
-      "count": 3
+      "name": "gaza",
+      "count": 4
     },
     {
       "name": "world",
+      "count": 4
+    },
+    {
+      "name": "cup",
+      "count": 4
+    },
+    {
+      "name": "launches",
+      "count": 3
+    },
+    {
+      "name": "how",
+      "count": 3
+    },
+    {
+      "name": "new",
       "count": 3
     }
   ],
-  "updated_at": "2026-07-30 02:43:38.312346"
+  "updated_at": "2026-07-30 08:34:29.982195"
 }
