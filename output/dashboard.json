@@ -1,51 +1,51 @@
 {
   "keywords": [
     [
-      "plan",
-      6
+      "after",
+      7
+    ],
+    [
+      "ceuta",
+      5
     ],
     [
       "world",
       5
     ],
     [
-      "cup",
-      5
-    ],
-    [
-      "gaza",
-      5
-    ],
-    [
-      "about",
-      4
-    ],
-    [
-      "fifa",
-      4
-    ],
-    [
-      "after",
-      4
-    ],
-    [
-      "ceuta",
-      3
-    ],
-    [
       "says",
-      3
+      5
     ],
     [
-      "day",
-      3
+      "cup",
+      4
+    ],
+    [
+      "over",
+      4
+    ],
+    [
+      "hamas",
+      4
     ],
     [
       "what",
+      4
+    ],
+    [
+      "from",
       3
     ],
     [
-      "spain",
+      "with",
+      3
+    ],
+    [
+      "fifa",
+      3
+    ],
+    [
+      "plan",
       3
     ],
     [
@@ -53,75 +53,75 @@
       3
     ],
     [
-      "know",
+      "disarmament",
       3
     ],
     [
-      "palestinians",
-      3
-    ],
-    [
-      "morocco",
-      3
-    ],
-    [
-      "border",
-      3
+      "spains",
+      2
     ],
     [
       "migrants",
       2
     ],
     [
-      "burnham",
+      "police",
       2
     ],
     [
-      "infantino",
+      "official",
+      2
+    ],
+    [
+      "infantinos",
+      2
+    ],
+    [
+      "jailed",
       2
     ]
   ],
   "topics": [
     {
-      "name": "plan",
-      "count": 6
+      "name": "after",
+      "count": 7
+    },
+    {
+      "name": "ceuta",
+      "count": 5
     },
     {
       "name": "world",
       "count": 5
     },
     {
-      "name": "cup",
-      "count": 5
-    },
-    {
-      "name": "gaza",
-      "count": 5
-    },
-    {
-      "name": "about",
-      "count": 4
-    },
-    {
-      "name": "fifa",
-      "count": 4
-    },
-    {
-      "name": "after",
-      "count": 4
-    },
-    {
-      "name": "ceuta",
-      "count": 3
-    },
-    {
       "name": "says",
+      "count": 5
+    },
+    {
+      "name": "cup",
+      "count": 4
+    },
+    {
+      "name": "over",
+      "count": 4
+    },
+    {
+      "name": "hamas",
+      "count": 4
+    },
+    {
+      "name": "what",
+      "count": 4
+    },
+    {
+      "name": "from",
       "count": 3
     },
     {
-      "name": "day",
+      "name": "with",
       "count": 3
     }
   ],
-  "updated_at": "2026-07-31 14:19:15.210599"
+  "updated_at": "2026-07-31 19:40:43.997502"
 }
