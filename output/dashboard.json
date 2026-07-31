@@ -2,30 +2,22 @@
   "keywords": [
     [
       "after",
-      6
+      9
     ],
     [
-      "with",
-      5
-    ],
-    [
-      "trump",
-      5
+      "about",
+      4
     ],
     [
       "says",
       4
     ],
     [
-      "why",
-      4
-    ],
-    [
-      "spain",
+      "plan",
       3
     ],
     [
-      "over",
+      "show",
       3
     ],
     [
@@ -33,81 +25,81 @@
       3
     ],
     [
-      "peace",
+      "war",
       3
     ],
     [
-      "court",
+      "how",
       3
-    ],
-    [
-      "migrant",
-      3
-    ],
-    [
-      "gaza",
-      3
-    ],
-    [
-      "what",
-      2
-    ],
-    [
-      "burnham",
-      2
-    ],
-    [
-      "crews",
-      2
-    ],
-    [
-      "suffolk",
-      2
-    ],
-    [
-      "wildfire",
-      2
-    ],
-    [
-      "they",
-      2
     ],
     [
       "are",
+      3
+    ],
+    [
+      "why",
+      3
+    ],
+    [
+      "israeli",
+      3
+    ],
+    [
+      "world",
       2
     ],
     [
-      "better",
+      "cup",
+      2
+    ],
+    [
+      "investment",
+      2
+    ],
+    [
+      "claude",
+      2
+    ],
+    [
+      "three",
+      2
+    ],
+    [
+      "drought",
+      2
+    ],
+    [
+      "summer",
+      2
+    ],
+    [
+      "holds",
+      2
+    ],
+    [
+      "could",
       2
     ]
   ],
   "topics": [
     {
       "name": "after",
-      "count": 6
+      "count": 9
     },
     {
-      "name": "with",
-      "count": 5
-    },
-    {
-      "name": "trump",
-      "count": 5
+      "name": "about",
+      "count": 4
     },
     {
       "name": "says",
       "count": 4
     },
     {
-      "name": "why",
-      "count": 4
-    },
-    {
-      "name": "spain",
+      "name": "plan",
       "count": 3
     },
     {
-      "name": "over",
+      "name": "show",
       "count": 3
     },
     {
@@ -115,13 +107,21 @@
       "count": 3
     },
     {
-      "name": "peace",
+      "name": "war",
       "count": 3
     },
     {
-      "name": "court",
+      "name": "how",
+      "count": 3
+    },
+    {
+      "name": "are",
+      "count": 3
+    },
+    {
+      "name": "why",
       "count": 3
     }
   ],
-  "updated_at": "2026-07-31 03:25:54.880300"
+  "updated_at": "2026-07-31 08:55:49.371714"
 }
