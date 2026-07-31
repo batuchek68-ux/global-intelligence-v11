@@ -1,127 +1,127 @@
 {
   "keywords": [
     [
-      "after",
-      9
+      "plan",
+      6
+    ],
+    [
+      "world",
+      5
+    ],
+    [
+      "cup",
+      5
+    ],
+    [
+      "gaza",
+      5
     ],
     [
       "about",
       4
     ],
     [
-      "says",
+      "fifa",
       4
     ],
     [
-      "plan",
+      "after",
+      4
+    ],
+    [
+      "ceuta",
       3
     ],
     [
-      "show",
+      "says",
       3
     ],
     [
-      "iran",
+      "day",
       3
     ],
     [
-      "war",
+      "what",
       3
     ],
     [
-      "how",
+      "spain",
       3
     ],
     [
-      "are",
+      "migrant",
       3
     ],
     [
-      "why",
+      "know",
       3
     ],
     [
-      "israeli",
+      "palestinians",
       3
     ],
     [
-      "world",
+      "morocco",
+      3
+    ],
+    [
+      "border",
+      3
+    ],
+    [
+      "migrants",
       2
     ],
     [
-      "cup",
+      "burnham",
       2
     ],
     [
-      "investment",
-      2
-    ],
-    [
-      "claude",
-      2
-    ],
-    [
-      "three",
-      2
-    ],
-    [
-      "drought",
-      2
-    ],
-    [
-      "summer",
-      2
-    ],
-    [
-      "holds",
-      2
-    ],
-    [
-      "could",
+      "infantino",
       2
     ]
   ],
   "topics": [
     {
-      "name": "after",
-      "count": 9
+      "name": "plan",
+      "count": 6
+    },
+    {
+      "name": "world",
+      "count": 5
+    },
+    {
+      "name": "cup",
+      "count": 5
+    },
+    {
+      "name": "gaza",
+      "count": 5
     },
     {
       "name": "about",
       "count": 4
     },
     {
-      "name": "says",
+      "name": "fifa",
       "count": 4
     },
     {
-      "name": "plan",
+      "name": "after",
+      "count": 4
+    },
+    {
+      "name": "ceuta",
       "count": 3
     },
     {
-      "name": "show",
+      "name": "says",
       "count": 3
     },
     {
-      "name": "iran",
-      "count": 3
-    },
-    {
-      "name": "war",
-      "count": 3
-    },
-    {
-      "name": "how",
-      "count": 3
-    },
-    {
-      "name": "are",
-      "count": 3
-    },
-    {
-      "name": "why",
+      "name": "day",
       "count": 3
     }
   ],
-  "updated_at": "2026-07-31 08:55:49.371714"
+  "updated_at": "2026-07-31 14:19:15.210599"
 }
