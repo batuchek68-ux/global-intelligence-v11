@@ -1,39 +1,19 @@
 {
   "keywords": [
     [
-      "after",
-      7
+      "investment",
+      4
     ],
     [
-      "ceuta",
-      5
+      "plan",
+      4
     ],
     [
       "world",
-      5
-    ],
-    [
-      "says",
-      5
+      3
     ],
     [
       "cup",
-      4
-    ],
-    [
-      "over",
-      4
-    ],
-    [
-      "hamas",
-      4
-    ],
-    [
-      "what",
-      4
-    ],
-    [
-      "from",
       3
     ],
     [
@@ -41,87 +21,107 @@
       3
     ],
     [
+      "says",
+      3
+    ],
+    [
+      "trump",
+      3
+    ],
+    [
+      "infantino",
+      3
+    ],
+    [
+      "iran",
+      3
+    ],
+    [
       "fifa",
-      3
-    ],
-    [
-      "plan",
-      3
-    ],
-    [
-      "migrant",
-      3
-    ],
-    [
-      "disarmament",
-      3
-    ],
-    [
-      "spains",
       2
     ],
     [
-      "migrants",
+      "scraps",
       2
     ],
     [
-      "police",
+      "controversial",
       2
     ],
     [
-      "official",
+      "after",
       2
     ],
     [
-      "infantinos",
+      "bev",
       2
     ],
     [
-      "jailed",
+      "craig",
+      2
+    ],
+    [
+      "greater",
+      2
+    ],
+    [
+      "mayor",
+      2
+    ],
+    [
+      "funeral",
+      2
+    ],
+    [
+      "fire",
+      2
+    ],
+    [
+      "israeli",
       2
     ]
   ],
   "topics": [
     {
-      "name": "after",
-      "count": 7
+      "name": "investment",
+      "count": 4
     },
     {
-      "name": "ceuta",
-      "count": 5
+      "name": "plan",
+      "count": 4
     },
     {
       "name": "world",
-      "count": 5
-    },
-    {
-      "name": "says",
-      "count": 5
+      "count": 3
     },
     {
       "name": "cup",
-      "count": 4
-    },
-    {
-      "name": "over",
-      "count": 4
-    },
-    {
-      "name": "hamas",
-      "count": 4
-    },
-    {
-      "name": "what",
-      "count": 4
-    },
-    {
-      "name": "from",
       "count": 3
     },
     {
       "name": "with",
       "count": 3
+    },
+    {
+      "name": "says",
+      "count": 3
+    },
+    {
+      "name": "trump",
+      "count": 3
+    },
+    {
+      "name": "infantino",
+      "count": 3
+    },
+    {
+      "name": "iran",
+      "count": 3
+    },
+    {
+      "name": "fifa",
+      "count": 2
     }
   ],
-  "updated_at": "2026-07-31 19:40:43.997502"
+  "updated_at": "2026-08-01 03:24:45.061747"
 }
