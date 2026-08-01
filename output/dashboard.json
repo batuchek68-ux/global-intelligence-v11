@@ -5,27 +5,11 @@
       5
     ],
     [
-      "world",
+      "israeli",
       5
     ],
     [
-      "fifa",
-      4
-    ],
-    [
-      "infantino",
-      4
-    ],
-    [
-      "cup",
-      4
-    ],
-    [
-      "who",
-      4
-    ],
-    [
-      "new",
+      "killed",
       4
     ],
     [
@@ -37,27 +21,23 @@
       3
     ],
     [
-      "ceuta",
+      "infantino",
       3
     ],
     [
-      "why",
+      "children",
       3
     ],
     [
-      "plan",
+      "world",
       3
     ],
     [
-      "him",
+      "who",
       3
     ],
     [
-      "trump",
-      3
-    ],
-    [
-      "charge",
+      "new",
       3
     ],
     [
@@ -65,19 +45,39 @@
       3
     ],
     [
-      "iran",
+      "least",
       3
     ],
     [
-      "uefa",
+      "amid",
+      3
+    ],
+    [
+      "ceuta",
       2
     ],
     [
-      "has",
+      "but",
       2
     ],
     [
-      "lost",
+      "strikes",
+      2
+    ],
+    [
+      "kyiv",
+      2
+    ],
+    [
+      "russian",
+      2
+    ],
+    [
+      "him",
+      2
+    ],
+    [
+      "days",
       2
     ]
   ],
@@ -87,27 +87,11 @@
       "count": 5
     },
     {
-      "name": "world",
+      "name": "israeli",
       "count": 5
     },
     {
-      "name": "fifa",
-      "count": 4
-    },
-    {
-      "name": "infantino",
-      "count": 4
-    },
-    {
-      "name": "cup",
-      "count": 4
-    },
-    {
-      "name": "who",
-      "count": 4
-    },
-    {
-      "name": "new",
+      "name": "killed",
       "count": 4
     },
     {
@@ -119,9 +103,25 @@
       "count": 3
     },
     {
-      "name": "ceuta",
+      "name": "infantino",
+      "count": 3
+    },
+    {
+      "name": "children",
+      "count": 3
+    },
+    {
+      "name": "world",
+      "count": 3
+    },
+    {
+      "name": "who",
+      "count": 3
+    },
+    {
+      "name": "new",
       "count": 3
     }
   ],
-  "updated_at": "2026-08-01 13:37:18.841855"
+  "updated_at": "2026-08-01 19:15:34.933158"
 }
