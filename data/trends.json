@@ -1,30 +1,50 @@
 [
   [
+    "plan",
+    6
+  ],
+  [
+    "world",
+    4
+  ],
+  [
+    "cup",
+    4
+  ],
+  [
     "investment",
     4
   ],
   [
-    "plan",
+    "after",
     4
   ],
   [
-    "world",
-    3
-  ],
-  [
-    "cup",
-    3
-  ],
-  [
-    "with",
-    3
-  ],
-  [
-    "says",
-    3
-  ],
-  [
     "trump",
+    4
+  ],
+  [
+    "fifa",
+    3
+  ],
+  [
+    "scraps",
+    3
+  ],
+  [
+    "attacks",
+    3
+  ],
+  [
+    "reflecting",
+    3
+  ],
+  [
+    "pool",
+    3
+  ],
+  [
+    "say",
     3
   ],
   [
@@ -34,22 +54,6 @@
   [
     "iran",
     3
-  ],
-  [
-    "fifa",
-    2
-  ],
-  [
-    "scraps",
-    2
-  ],
-  [
-    "controversial",
-    2
-  ],
-  [
-    "after",
-    2
   ],
   [
     "bev",
@@ -68,15 +72,11 @@
     2
   ],
   [
-    "funeral",
+    "from",
     2
   ],
   [
-    "fire",
-    2
-  ],
-  [
-    "israeli",
+    "police",
     2
   ]
 ]
