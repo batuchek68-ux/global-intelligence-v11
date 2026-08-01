@@ -1,11 +1,19 @@
 {
   "keywords": [
     [
-      "plan",
-      6
+      "says",
+      5
     ],
     [
       "world",
+      5
+    ],
+    [
+      "fifa",
+      4
+    ],
+    [
+      "infantino",
       4
     ],
     [
@@ -13,23 +21,15 @@
       4
     ],
     [
-      "investment",
+      "who",
       4
     ],
     [
-      "after",
+      "new",
       4
     ],
     [
-      "trump",
-      4
-    ],
-    [
-      "fifa",
-      3
-    ],
-    [
-      "scraps",
+      "spain",
       3
     ],
     [
@@ -37,19 +37,31 @@
       3
     ],
     [
-      "reflecting",
+      "ceuta",
       3
     ],
     [
-      "pool",
+      "why",
       3
     ],
     [
-      "say",
+      "plan",
       3
     ],
     [
-      "infantino",
+      "him",
+      3
+    ],
+    [
+      "trump",
+      3
+    ],
+    [
+      "charge",
+      3
+    ],
+    [
+      "after",
       3
     ],
     [
@@ -57,37 +69,33 @@
       3
     ],
     [
-      "bev",
+      "uefa",
       2
     ],
     [
-      "craig",
+      "has",
       2
     ],
     [
-      "greater",
-      2
-    ],
-    [
-      "mayor",
-      2
-    ],
-    [
-      "from",
-      2
-    ],
-    [
-      "police",
+      "lost",
       2
     ]
   ],
   "topics": [
     {
-      "name": "plan",
-      "count": 6
+      "name": "says",
+      "count": 5
     },
     {
       "name": "world",
+      "count": 5
+    },
+    {
+      "name": "fifa",
+      "count": 4
+    },
+    {
+      "name": "infantino",
       "count": 4
     },
     {
@@ -95,23 +103,15 @@
       "count": 4
     },
     {
-      "name": "investment",
+      "name": "who",
       "count": 4
     },
     {
-      "name": "after",
+      "name": "new",
       "count": 4
     },
     {
-      "name": "trump",
-      "count": 4
-    },
-    {
-      "name": "fifa",
-      "count": 3
-    },
-    {
-      "name": "scraps",
+      "name": "spain",
       "count": 3
     },
     {
@@ -119,9 +119,9 @@
       "count": 3
     },
     {
-      "name": "reflecting",
+      "name": "ceuta",
       "count": 3
     }
   ],
-  "updated_at": "2026-08-01 08:27:04.155399"
+  "updated_at": "2026-08-01 13:37:18.841855"
 }
