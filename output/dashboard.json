@@ -1,43 +1,31 @@
 {
   "keywords": [
     [
-      "says",
+      "trump",
       5
-    ],
-    [
-      "israeli",
-      5
-    ],
-    [
-      "killed",
-      4
-    ],
-    [
-      "spain",
-      3
-    ],
-    [
-      "attacks",
-      3
-    ],
-    [
-      "infantino",
-      3
-    ],
-    [
-      "children",
-      3
-    ],
-    [
-      "world",
-      3
-    ],
-    [
-      "who",
-      3
     ],
     [
       "new",
+      4
+    ],
+    [
+      "ceuta",
+      3
+    ],
+    [
+      "migrant",
+      3
+    ],
+    [
+      "iran",
+      3
+    ],
+    [
+      "deal",
+      3
+    ],
+    [
+      "killed",
       3
     ],
     [
@@ -45,83 +33,95 @@
       3
     ],
     [
-      "least",
+      "restaurant",
       3
     ],
     [
-      "amid",
+      "plane",
       3
     ],
     [
-      "ceuta",
+      "over",
+      3
+    ],
+    [
+      "says",
       2
     ],
     [
-      "but",
+      "with",
       2
     ],
     [
-      "strikes",
+      "three",
       2
     ],
     [
-      "kyiv",
+      "moscow",
       2
     ],
     [
-      "russian",
+      "media",
       2
     ],
     [
-      "him",
+      "say",
       2
     ],
     [
-      "days",
+      "crisis",
+      2
+    ],
+    [
+      "tourist",
+      2
+    ],
+    [
+      "crashes",
       2
     ]
   ],
   "topics": [
     {
-      "name": "says",
+      "name": "trump",
       "count": 5
-    },
-    {
-      "name": "israeli",
-      "count": 5
-    },
-    {
-      "name": "killed",
-      "count": 4
-    },
-    {
-      "name": "spain",
-      "count": 3
-    },
-    {
-      "name": "attacks",
-      "count": 3
-    },
-    {
-      "name": "infantino",
-      "count": 3
-    },
-    {
-      "name": "children",
-      "count": 3
-    },
-    {
-      "name": "world",
-      "count": 3
-    },
-    {
-      "name": "who",
-      "count": 3
     },
     {
       "name": "new",
+      "count": 4
+    },
+    {
+      "name": "ceuta",
+      "count": 3
+    },
+    {
+      "name": "migrant",
+      "count": 3
+    },
+    {
+      "name": "iran",
+      "count": 3
+    },
+    {
+      "name": "deal",
+      "count": 3
+    },
+    {
+      "name": "killed",
+      "count": 3
+    },
+    {
+      "name": "after",
+      "count": 3
+    },
+    {
+      "name": "restaurant",
+      "count": 3
+    },
+    {
+      "name": "plane",
       "count": 3
     }
   ],
-  "updated_at": "2026-08-01 19:15:34.933158"
+  "updated_at": "2026-08-02 03:24:41.972217"
 }
