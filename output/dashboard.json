@@ -1,27 +1,27 @@
 {
   "keywords": [
     [
-      "trump",
-      5
-    ],
-    [
-      "iran",
-      4
+      "after",
+      9
     ],
     [
       "deal",
       4
     ],
     [
-      "three",
+      "has",
+      4
+    ],
+    [
+      "trump",
       3
     ],
     [
-      "restaurant",
+      "iran",
       3
     ],
     [
-      "how",
+      "fire",
       3
     ],
     [
@@ -29,81 +29,81 @@
       3
     ],
     [
-      "new",
+      "day",
       3
     ],
     [
-      "dead",
-      3
+      "cancels",
+      2
     ],
     [
-      "attack",
-      3
-    ],
-    [
-      "over",
-      3
+      "head",
+      2
     ],
     [
       "says",
       2
     ],
     [
-      "after",
+      "five",
       2
     ],
     [
-      "moscow",
+      "dead",
       2
     ],
     [
-      "media",
+      "missing",
       2
     ],
     [
-      "say",
+      "indonesia",
       2
     ],
     [
-      "infantino",
+      "ferry",
       2
     ],
     [
-      "migrant",
+      "catches",
       2
     ],
     [
-      "has",
+      "body",
       2
     ],
     [
-      "with",
+      "new",
+      2
+    ],
+    [
+      "but",
       2
     ]
   ],
   "topics": [
     {
-      "name": "trump",
-      "count": 5
-    },
-    {
-      "name": "iran",
-      "count": 4
+      "name": "after",
+      "count": 9
     },
     {
       "name": "deal",
       "count": 4
     },
     {
-      "name": "three",
+      "name": "has",
+      "count": 4
+    },
+    {
+      "name": "trump",
       "count": 3
     },
     {
-      "name": "restaurant",
+      "name": "iran",
       "count": 3
     },
     {
-      "name": "how",
+      "name": "fire",
       "count": 3
     },
     {
@@ -111,17 +111,17 @@
       "count": 3
     },
     {
-      "name": "new",
+      "name": "day",
       "count": 3
     },
     {
-      "name": "dead",
-      "count": 3
+      "name": "cancels",
+      "count": 2
     },
     {
-      "name": "attack",
-      "count": 3
+      "name": "head",
+      "count": 2
     }
   ],
-  "updated_at": "2026-08-02 08:29:45.094514"
+  "updated_at": "2026-08-02 13:37:58.071243"
 }
