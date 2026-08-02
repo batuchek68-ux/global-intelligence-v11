@@ -5,31 +5,15 @@
       5
     ],
     [
-      "new",
+      "iran",
       4
     ],
     [
-      "ceuta",
-      3
-    ],
-    [
-      "migrant",
-      3
-    ],
-    [
-      "iran",
-      3
-    ],
-    [
       "deal",
-      3
+      4
     ],
     [
-      "killed",
-      3
-    ],
-    [
-      "after",
+      "three",
       3
     ],
     [
@@ -37,7 +21,23 @@
       3
     ],
     [
-      "plane",
+      "how",
+      3
+    ],
+    [
+      "why",
+      3
+    ],
+    [
+      "new",
+      3
+    ],
+    [
+      "dead",
+      3
+    ],
+    [
+      "attack",
       3
     ],
     [
@@ -49,11 +49,7 @@
       2
     ],
     [
-      "with",
-      2
-    ],
-    [
-      "three",
+      "after",
       2
     ],
     [
@@ -69,15 +65,19 @@
       2
     ],
     [
-      "crisis",
+      "infantino",
       2
     ],
     [
-      "tourist",
+      "migrant",
       2
     ],
     [
-      "crashes",
+      "has",
+      2
+    ],
+    [
+      "with",
       2
     ]
   ],
@@ -87,31 +87,15 @@
       "count": 5
     },
     {
-      "name": "new",
+      "name": "iran",
       "count": 4
     },
     {
-      "name": "ceuta",
-      "count": 3
-    },
-    {
-      "name": "migrant",
-      "count": 3
-    },
-    {
-      "name": "iran",
-      "count": 3
-    },
-    {
       "name": "deal",
-      "count": 3
+      "count": 4
     },
     {
-      "name": "killed",
-      "count": 3
-    },
-    {
-      "name": "after",
+      "name": "three",
       "count": 3
     },
     {
@@ -119,9 +103,25 @@
       "count": 3
     },
     {
-      "name": "plane",
+      "name": "how",
+      "count": 3
+    },
+    {
+      "name": "why",
+      "count": 3
+    },
+    {
+      "name": "new",
+      "count": 3
+    },
+    {
+      "name": "dead",
+      "count": 3
+    },
+    {
+      "name": "attack",
       "count": 3
     }
   ],
-  "updated_at": "2026-08-02 03:24:41.972217"
+  "updated_at": "2026-08-02 08:29:45.094514"
 }
