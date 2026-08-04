@@ -1,15 +1,15 @@
 {
   "keywords": [
     [
-      "trump",
-      6
-    ],
-    [
       "from",
       6
     ],
     [
-      "says",
+      "trump",
+      5
+    ],
+    [
+      "are",
       4
     ],
     [
@@ -17,47 +17,35 @@
       4
     ],
     [
-      "why",
+      "gaza",
       4
     ],
     [
-      "most",
+      "says",
       3
     ],
     [
-      "are",
+      "day",
       3
     ],
     [
-      "ceuta",
+      "why",
       3
     ],
     [
-      "will",
+      "two",
       3
     ],
     [
-      "get",
+      "hamas",
       3
     ],
     [
-      "michigan",
+      "claims",
       3
-    ],
-    [
-      "his",
-      2
-    ],
-    [
-      "killers",
-      2
     ],
     [
       "under",
-      2
-    ],
-    [
-      "women",
       2
     ],
     [
@@ -69,29 +57,41 @@
       2
     ],
     [
-      "migrant",
+      "reality",
       2
     ],
     [
-      "states",
+      "not",
       2
     ],
     [
-      "tariffs",
+      "ceuta",
+      2
+    ],
+    [
+      "ariana",
+      2
+    ],
+    [
+      "grande",
+      2
+    ],
+    [
+      "dead",
       2
     ]
   ],
   "topics": [
     {
-      "name": "trump",
-      "count": 6
-    },
-    {
       "name": "from",
       "count": 6
     },
     {
-      "name": "says",
+      "name": "trump",
+      "count": 5
+    },
+    {
+      "name": "are",
       "count": 4
     },
     {
@@ -99,29 +99,29 @@
       "count": 4
     },
     {
-      "name": "why",
+      "name": "gaza",
       "count": 4
     },
     {
-      "name": "most",
+      "name": "says",
       "count": 3
     },
     {
-      "name": "are",
+      "name": "day",
       "count": 3
     },
     {
-      "name": "ceuta",
+      "name": "why",
       "count": 3
     },
     {
-      "name": "will",
+      "name": "two",
       "count": 3
     },
     {
-      "name": "get",
+      "name": "hamas",
       "count": 3
     }
   ],
-  "updated_at": "2026-08-04 02:54:58.136722"
+  "updated_at": "2026-08-04 08:45:29.967579"
 }
