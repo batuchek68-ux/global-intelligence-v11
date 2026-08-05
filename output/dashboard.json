@@ -2,30 +2,10 @@
   "keywords": [
     [
       "after",
-      5
+      8
     ],
     [
-      "against",
-      4
-    ],
-    [
-      "over",
-      3
-    ],
-    [
-      "what",
-      3
-    ],
-    [
-      "from",
-      3
-    ],
-    [
-      "says",
-      3
-    ],
-    [
-      "how",
+      "with",
       3
     ],
     [
@@ -33,39 +13,11 @@
       3
     ],
     [
-      "death",
+      "activist",
       2
     ],
     [
-      "scottish",
-      2
-    ],
-    [
-      "people",
-      2
-    ],
-    [
-      "her",
-      2
-    ],
-    [
-      "police",
-      2
-    ],
-    [
-      "chief",
-      2
-    ],
-    [
-      "spacex",
-      2
-    ],
-    [
-      "rocket",
-      2
-    ],
-    [
-      "moon",
+      "woman",
       2
     ],
     [
@@ -73,41 +25,69 @@
       2
     ],
     [
-      "star",
+      "airport",
       2
     ],
     [
-      "media",
+      "deadly",
+      2
+    ],
+    [
+      "kyiv",
+      2
+    ],
+    [
+      "strike",
+      2
+    ],
+    [
+      "ukraine",
+      2
+    ],
+    [
+      "lives",
+      2
+    ],
+    [
+      "has",
+      2
+    ],
+    [
+      "why",
+      2
+    ],
+    [
+      "michigan",
+      2
+    ],
+    [
+      "democratic",
+      2
+    ],
+    [
+      "are",
+      2
+    ],
+    [
+      "who",
+      2
+    ],
+    [
+      "how",
+      2
+    ],
+    [
+      "against",
       2
     ]
   ],
   "topics": [
     {
       "name": "after",
-      "count": 5
+      "count": 8
     },
     {
-      "name": "against",
-      "count": 4
-    },
-    {
-      "name": "over",
-      "count": 3
-    },
-    {
-      "name": "what",
-      "count": 3
-    },
-    {
-      "name": "from",
-      "count": 3
-    },
-    {
-      "name": "says",
-      "count": 3
-    },
-    {
-      "name": "how",
+      "name": "with",
       "count": 3
     },
     {
@@ -115,13 +95,33 @@
       "count": 3
     },
     {
-      "name": "death",
+      "name": "activist",
       "count": 2
     },
     {
-      "name": "scottish",
+      "name": "woman",
+      "count": 2
+    },
+    {
+      "name": "drone",
+      "count": 2
+    },
+    {
+      "name": "airport",
+      "count": 2
+    },
+    {
+      "name": "deadly",
+      "count": 2
+    },
+    {
+      "name": "kyiv",
+      "count": 2
+    },
+    {
+      "name": "strike",
       "count": 2
     }
   ],
-  "updated_at": "2026-08-05 14:19:35.205012"
+  "updated_at": "2026-08-05 19:41:37.113228"
 }
