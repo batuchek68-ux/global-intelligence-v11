@@ -1,127 +1,127 @@
 {
   "keywords": [
     [
+      "after",
+      5
+    ],
+    [
+      "against",
+      4
+    ],
+    [
+      "over",
+      3
+    ],
+    [
+      "what",
+      3
+    ],
+    [
+      "from",
+      3
+    ],
+    [
       "says",
       3
     ],
     [
-      "into",
+      "how",
       3
     ],
     [
-      "antisemitic",
+      "israeli",
+      3
+    ],
+    [
+      "death",
       2
     ],
     [
-      "being",
+      "scottish",
       2
     ],
     [
-      "russian",
+      "people",
       2
     ],
     [
-      "strike",
+      "her",
       2
     ],
     [
-      "ahead",
+      "police",
       2
     ],
     [
-      "new",
+      "chief",
       2
     ],
     [
-      "how",
+      "spacex",
       2
     ],
     [
-      "killed",
+      "rocket",
       2
     ],
     [
-      "court",
+      "moon",
       2
     ],
     [
-      "woman",
+      "drone",
       2
     ],
     [
-      "are",
+      "star",
       2
     ],
     [
-      "back",
-      2
-    ],
-    [
-      "can",
-      2
-    ],
-    [
-      "has",
-      2
-    ],
-    [
-      "man",
-      2
-    ],
-    [
-      "more",
-      2
-    ],
-    [
-      "after",
-      2
-    ],
-    [
-      "from",
+      "media",
       2
     ]
   ],
   "topics": [
     {
+      "name": "after",
+      "count": 5
+    },
+    {
+      "name": "against",
+      "count": 4
+    },
+    {
+      "name": "over",
+      "count": 3
+    },
+    {
+      "name": "what",
+      "count": 3
+    },
+    {
+      "name": "from",
+      "count": 3
+    },
+    {
       "name": "says",
       "count": 3
     },
     {
-      "name": "into",
+      "name": "how",
       "count": 3
     },
     {
-      "name": "antisemitic",
+      "name": "israeli",
+      "count": 3
+    },
+    {
+      "name": "death",
       "count": 2
     },
     {
-      "name": "being",
-      "count": 2
-    },
-    {
-      "name": "russian",
-      "count": 2
-    },
-    {
-      "name": "strike",
-      "count": 2
-    },
-    {
-      "name": "ahead",
-      "count": 2
-    },
-    {
-      "name": "new",
-      "count": 2
-    },
-    {
-      "name": "how",
-      "count": 2
-    },
-    {
-      "name": "killed",
+      "name": "scottish",
       "count": 2
     }
   ],
-  "updated_at": "2026-08-05 08:42:35.860481"
+  "updated_at": "2026-08-05 14:19:35.205012"
 }
