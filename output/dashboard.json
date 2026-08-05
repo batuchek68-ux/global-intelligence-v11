@@ -1,43 +1,15 @@
 {
   "keywords": [
     [
-      "ahead",
-      3
-    ],
-    [
-      "killed",
-      3
-    ],
-    [
-      "russian",
-      3
-    ],
-    [
-      "man",
-      3
-    ],
-    [
-      "trumps",
-      3
-    ],
-    [
-      "how",
-      3
-    ],
-    [
-      "are",
-      3
-    ],
-    [
-      "hormuz",
+      "says",
       3
     ],
     [
       "into",
-      2
+      3
     ],
     [
-      "says",
+      "antisemitic",
       2
     ],
     [
@@ -45,83 +17,111 @@
       2
     ],
     [
-      "finds",
+      "russian",
       2
     ],
     [
-      "drone",
+      "strike",
       2
     ],
     [
-      "ukrainian",
+      "ahead",
       2
     ],
     [
-      "attack",
+      "new",
       2
     ],
     [
-      "meeting",
+      "how",
       2
     ],
     [
-      "armed",
+      "killed",
       2
     ],
     [
-      "arrested",
+      "court",
       2
     ],
     [
-      "golf",
+      "woman",
       2
     ],
     [
-      "course",
+      "are",
+      2
+    ],
+    [
+      "back",
+      2
+    ],
+    [
+      "can",
+      2
+    ],
+    [
+      "has",
+      2
+    ],
+    [
+      "man",
+      2
+    ],
+    [
+      "more",
+      2
+    ],
+    [
+      "after",
+      2
+    ],
+    [
+      "from",
       2
     ]
   ],
   "topics": [
     {
-      "name": "ahead",
-      "count": 3
-    },
-    {
-      "name": "killed",
-      "count": 3
-    },
-    {
-      "name": "russian",
-      "count": 3
-    },
-    {
-      "name": "man",
-      "count": 3
-    },
-    {
-      "name": "trumps",
-      "count": 3
-    },
-    {
-      "name": "how",
-      "count": 3
-    },
-    {
-      "name": "are",
-      "count": 3
-    },
-    {
-      "name": "hormuz",
+      "name": "says",
       "count": 3
     },
     {
       "name": "into",
+      "count": 3
+    },
+    {
+      "name": "antisemitic",
       "count": 2
     },
     {
-      "name": "says",
+      "name": "being",
+      "count": 2
+    },
+    {
+      "name": "russian",
+      "count": 2
+    },
+    {
+      "name": "strike",
+      "count": 2
+    },
+    {
+      "name": "ahead",
+      "count": 2
+    },
+    {
+      "name": "new",
+      "count": 2
+    },
+    {
+      "name": "how",
+      "count": 2
+    },
+    {
+      "name": "killed",
       "count": 2
     }
   ],
-  "updated_at": "2026-08-05 02:51:31.426919"
+  "updated_at": "2026-08-05 08:42:35.860481"
 }
