@@ -1,35 +1,23 @@
 {
   "keywords": [
     [
-      "with",
-      5
-    ],
-    [
       "says",
       4
     ],
     [
-      "iran",
+      "are",
       3
     ],
     [
-      "oman",
+      "strikes",
       3
     ],
     [
-      "hormuz",
+      "beat",
       3
     ],
     [
-      "after",
-      3
-    ],
-    [
-      "infantino",
-      2
-    ],
-    [
-      "fifa",
+      "women",
       2
     ],
     [
@@ -49,11 +37,11 @@
       2
     ],
     [
-      "boss",
+      "workers",
       2
     ],
     [
-      "are",
+      "families",
       2
     ],
     [
@@ -61,57 +49,57 @@
       2
     ],
     [
-      "womens",
-      2
-    ],
-    [
       "model",
       2
     ],
     [
-      "deal",
+      "iran",
       2
     ],
     [
-      "final",
+      "strait",
       2
     ],
     [
-      "stages",
+      "hormuz",
+      2
+    ],
+    [
+      "could",
+      2
+    ],
+    [
+      "from",
+      2
+    ],
+    [
+      "how",
+      2
+    ],
+    [
+      "jet",
       2
     ]
   ],
   "topics": [
     {
-      "name": "with",
-      "count": 5
-    },
-    {
       "name": "says",
       "count": 4
     },
     {
-      "name": "iran",
+      "name": "are",
       "count": 3
     },
     {
-      "name": "oman",
+      "name": "strikes",
       "count": 3
     },
     {
-      "name": "hormuz",
+      "name": "beat",
       "count": 3
     },
     {
-      "name": "after",
-      "count": 3
-    },
-    {
-      "name": "infantino",
-      "count": 2
-    },
-    {
-      "name": "fifa",
+      "name": "women",
       "count": 2
     },
     {
@@ -121,7 +109,19 @@
     {
       "name": "plagiarism",
       "count": 2
+    },
+    {
+      "name": "row",
+      "count": 2
+    },
+    {
+      "name": "resigns",
+      "count": 2
+    },
+    {
+      "name": "workers",
+      "count": 2
     }
   ],
-  "updated_at": "2026-08-06 02:54:50.340415"
+  "updated_at": "2026-08-06 08:44:13.531792"
 }
