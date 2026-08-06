@@ -1,67 +1,55 @@
 {
   "keywords": [
     [
-      "after",
-      8
-    ],
-    [
       "with",
+      5
+    ],
+    [
+      "says",
+      4
+    ],
+    [
+      "iran",
       3
     ],
     [
-      "israeli",
+      "oman",
       3
     ],
     [
-      "activist",
+      "hormuz",
+      3
+    ],
+    [
+      "after",
+      3
+    ],
+    [
+      "infantino",
       2
     ],
     [
-      "woman",
+      "fifa",
       2
     ],
     [
-      "drone",
+      "professor",
       2
     ],
     [
-      "airport",
+      "plagiarism",
       2
     ],
     [
-      "deadly",
+      "row",
       2
     ],
     [
-      "kyiv",
+      "resigns",
       2
     ],
     [
-      "strike",
-      2
-    ],
-    [
-      "ukraine",
-      2
-    ],
-    [
-      "lives",
-      2
-    ],
-    [
-      "has",
-      2
-    ],
-    [
-      "why",
-      2
-    ],
-    [
-      "michigan",
-      2
-    ],
-    [
-      "democratic",
+      "boss",
       2
     ],
     [
@@ -69,59 +57,71 @@
       2
     ],
     [
-      "who",
+      "another",
       2
     ],
     [
-      "how",
+      "womens",
       2
     ],
     [
-      "against",
+      "model",
+      2
+    ],
+    [
+      "deal",
+      2
+    ],
+    [
+      "final",
+      2
+    ],
+    [
+      "stages",
       2
     ]
   ],
   "topics": [
     {
-      "name": "after",
-      "count": 8
-    },
-    {
       "name": "with",
+      "count": 5
+    },
+    {
+      "name": "says",
+      "count": 4
+    },
+    {
+      "name": "iran",
       "count": 3
     },
     {
-      "name": "israeli",
+      "name": "oman",
       "count": 3
     },
     {
-      "name": "activist",
+      "name": "hormuz",
+      "count": 3
+    },
+    {
+      "name": "after",
+      "count": 3
+    },
+    {
+      "name": "infantino",
       "count": 2
     },
     {
-      "name": "woman",
+      "name": "fifa",
       "count": 2
     },
     {
-      "name": "drone",
+      "name": "professor",
       "count": 2
     },
     {
-      "name": "airport",
-      "count": 2
-    },
-    {
-      "name": "deadly",
-      "count": 2
-    },
-    {
-      "name": "kyiv",
-      "count": 2
-    },
-    {
-      "name": "strike",
+      "name": "plagiarism",
       "count": 2
     }
   ],
-  "updated_at": "2026-08-05 19:41:37.113228"
+  "updated_at": "2026-08-06 02:54:50.340415"
 }
