@@ -1,39 +1,75 @@
 {
   "keywords": [
     [
-      "says",
+      "with",
+      5
+    ],
+    [
+      "what",
+      5
+    ],
+    [
+      "after",
       4
     ],
     [
+      "new",
+      3
+    ],
+    [
+      "government",
+      3
+    ],
+    [
+      "why",
+      3
+    ],
+    [
+      "review",
+      2
+    ],
+    [
+      "into",
+      2
+    ],
+    [
+      "rape",
+      2
+    ],
+    [
+      "jailed",
+      2
+    ],
+    [
+      "senate",
+      2
+    ],
+    [
+      "votes",
+      2
+    ],
+    [
+      "hold",
+      2
+    ],
+    [
+      "fauci",
+      2
+    ],
+    [
+      "contempt",
+      2
+    ],
+    [
+      "over",
+      2
+    ],
+    [
+      "education",
+      2
+    ],
+    [
       "are",
-      3
-    ],
-    [
-      "strikes",
-      3
-    ],
-    [
-      "beat",
-      3
-    ],
-    [
-      "women",
-      2
-    ],
-    [
-      "professor",
-      2
-    ],
-    [
-      "plagiarism",
-      2
-    ],
-    [
-      "row",
-      2
-    ],
-    [
-      "resigns",
       2
     ],
     [
@@ -41,87 +77,51 @@
       2
     ],
     [
-      "families",
-      2
-    ],
-    [
-      "another",
-      2
-    ],
-    [
-      "model",
-      2
-    ],
-    [
-      "iran",
-      2
-    ],
-    [
-      "strait",
-      2
-    ],
-    [
-      "hormuz",
-      2
-    ],
-    [
-      "could",
-      2
-    ],
-    [
-      "from",
-      2
-    ],
-    [
-      "how",
-      2
-    ],
-    [
-      "jet",
+      "pays",
       2
     ]
   ],
   "topics": [
     {
-      "name": "says",
+      "name": "with",
+      "count": 5
+    },
+    {
+      "name": "what",
+      "count": 5
+    },
+    {
+      "name": "after",
       "count": 4
     },
     {
-      "name": "are",
+      "name": "new",
       "count": 3
     },
     {
-      "name": "strikes",
+      "name": "government",
       "count": 3
     },
     {
-      "name": "beat",
+      "name": "why",
       "count": 3
     },
     {
-      "name": "women",
+      "name": "review",
       "count": 2
     },
     {
-      "name": "professor",
+      "name": "into",
       "count": 2
     },
     {
-      "name": "plagiarism",
+      "name": "rape",
       "count": 2
     },
     {
-      "name": "row",
-      "count": 2
-    },
-    {
-      "name": "resigns",
-      "count": 2
-    },
-    {
-      "name": "workers",
+      "name": "jailed",
       "count": 2
     }
   ],
-  "updated_at": "2026-08-06 08:44:13.531792"
+  "updated_at": "2026-08-06 14:22:59.762466"
 }
