@@ -1,127 +1,127 @@
 {
   "keywords": [
     [
-      "with",
-      5
-    ],
-    [
-      "what",
-      5
-    ],
-    [
       "after",
+      5
+    ],
+    [
+      "says",
+      4
+    ],
+    [
+      "trump",
       4
     ],
     [
       "new",
+      4
+    ],
+    [
+      "with",
       3
     ],
     [
-      "government",
+      "police",
       3
-    ],
-    [
-      "why",
-      3
-    ],
-    [
-      "review",
-      2
-    ],
-    [
-      "into",
-      2
-    ],
-    [
-      "rape",
-      2
-    ],
-    [
-      "jailed",
-      2
-    ],
-    [
-      "senate",
-      2
-    ],
-    [
-      "votes",
-      2
-    ],
-    [
-      "hold",
-      2
-    ],
-    [
-      "fauci",
-      2
-    ],
-    [
-      "contempt",
-      2
     ],
     [
       "over",
+      3
+    ],
+    [
+      "from",
+      3
+    ],
+    [
+      "how",
+      3
+    ],
+    [
+      "still",
       2
     ],
     [
-      "education",
+      "infantino",
       2
     ],
     [
-      "are",
+      "meta",
       2
     ],
     [
-      "workers",
+      "social",
       2
     ],
     [
-      "pays",
+      "media",
+      2
+    ],
+    [
+      "charged",
+      2
+    ],
+    [
+      "killing",
+      2
+    ],
+    [
+      "south",
+      2
+    ],
+    [
+      "show",
+      2
+    ],
+    [
+      "cambridge",
+      2
+    ],
+    [
+      "professor",
       2
     ]
   ],
   "topics": [
     {
-      "name": "with",
-      "count": 5
-    },
-    {
-      "name": "what",
-      "count": 5
-    },
-    {
       "name": "after",
+      "count": 5
+    },
+    {
+      "name": "says",
+      "count": 4
+    },
+    {
+      "name": "trump",
       "count": 4
     },
     {
       "name": "new",
+      "count": 4
+    },
+    {
+      "name": "with",
       "count": 3
     },
     {
-      "name": "government",
+      "name": "police",
       "count": 3
     },
     {
-      "name": "why",
+      "name": "over",
       "count": 3
     },
     {
-      "name": "review",
-      "count": 2
+      "name": "from",
+      "count": 3
     },
     {
-      "name": "into",
-      "count": 2
+      "name": "how",
+      "count": 3
     },
     {
-      "name": "rape",
-      "count": 2
-    },
-    {
-      "name": "jailed",
+      "name": "still",
       "count": 2
     }
   ],
-  "updated_at": "2026-08-06 14:22:59.762466"
+  "updated_at": "2026-08-07 00:05:57.747783"
 }
