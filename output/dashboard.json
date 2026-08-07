@@ -1,27 +1,39 @@
 {
   "keywords": [
     [
+      "new",
+      5
+    ],
+    [
       "after",
       5
     ],
     [
-      "says",
-      4
-    ],
-    [
-      "trump",
-      4
-    ],
-    [
-      "new",
-      4
-    ],
-    [
       "with",
+      4
+    ],
+    [
+      "from",
+      4
+    ],
+    [
+      "meta",
       3
     ],
     [
-      "police",
+      "social",
+      3
+    ],
+    [
+      "trump",
+      3
+    ],
+    [
+      "orders",
+      3
+    ],
+    [
+      "war",
       3
     ],
     [
@@ -29,27 +41,27 @@
       3
     ],
     [
-      "from",
+      "south",
       3
     ],
     [
-      "how",
+      "killed",
       3
     ],
     [
-      "still",
+      "who",
       2
     ],
     [
-      "infantino",
+      "could",
       2
     ],
     [
-      "meta",
+      "night",
       2
     ],
     [
-      "social",
+      "567m",
       2
     ],
     [
@@ -57,71 +69,59 @@
       2
     ],
     [
-      "charged",
+      "executive",
       2
     ],
     [
-      "killing",
+      "used",
       2
     ],
     [
-      "south",
-      2
-    ],
-    [
-      "show",
-      2
-    ],
-    [
-      "cambridge",
-      2
-    ],
-    [
-      "professor",
+      "viruses",
       2
     ]
   ],
   "topics": [
     {
+      "name": "new",
+      "count": 5
+    },
+    {
       "name": "after",
       "count": 5
     },
     {
-      "name": "says",
-      "count": 4
-    },
-    {
-      "name": "trump",
-      "count": 4
-    },
-    {
-      "name": "new",
-      "count": 4
-    },
-    {
       "name": "with",
+      "count": 4
+    },
+    {
+      "name": "from",
+      "count": 4
+    },
+    {
+      "name": "meta",
       "count": 3
     },
     {
-      "name": "police",
+      "name": "social",
+      "count": 3
+    },
+    {
+      "name": "trump",
+      "count": 3
+    },
+    {
+      "name": "orders",
+      "count": 3
+    },
+    {
+      "name": "war",
       "count": 3
     },
     {
       "name": "over",
       "count": 3
-    },
-    {
-      "name": "from",
-      "count": 3
-    },
-    {
-      "name": "how",
-      "count": 3
-    },
-    {
-      "name": "still",
-      "count": 2
     }
   ],
-  "updated_at": "2026-08-07 00:05:57.747783"
+  "updated_at": "2026-08-07 07:22:49.357057"
 }
