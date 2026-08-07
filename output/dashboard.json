@@ -1,55 +1,31 @@
 {
   "keywords": [
     [
-      "new",
-      5
-    ],
-    [
-      "after",
-      5
-    ],
-    [
       "with",
       4
     ],
     [
-      "from",
+      "saudi",
       4
     ],
     [
-      "meta",
+      "infantino",
       3
     ],
     [
-      "social",
+      "arabia",
       3
     ],
     [
-      "trump",
-      3
+      "call",
+      2
     ],
     [
-      "orders",
-      3
+      "into",
+      2
     ],
     [
-      "war",
-      3
-    ],
-    [
-      "over",
-      3
-    ],
-    [
-      "south",
-      3
-    ],
-    [
-      "killed",
-      3
-    ],
-    [
-      "who",
+      "investigation",
       2
     ],
     [
@@ -57,71 +33,95 @@
       2
     ],
     [
-      "night",
+      "england",
       2
     ],
     [
-      "567m",
+      "toney",
       2
     ],
     [
-      "media",
+      "charged",
       2
     ],
     [
-      "executive",
+      "assault",
       2
     ],
     [
-      "used",
+      "how",
       2
     ],
     [
-      "viruses",
+      "mexico",
+      2
+    ],
+    [
+      "argentina",
+      2
+    ],
+    [
+      "continues",
+      2
+    ],
+    [
+      "but",
+      2
+    ],
+    [
+      "was",
+      2
+    ],
+    [
+      "says",
+      2
+    ],
+    [
+      "first",
       2
     ]
   ],
   "topics": [
     {
-      "name": "new",
-      "count": 5
-    },
-    {
-      "name": "after",
-      "count": 5
-    },
-    {
       "name": "with",
       "count": 4
     },
     {
-      "name": "from",
+      "name": "saudi",
       "count": 4
     },
     {
-      "name": "meta",
+      "name": "infantino",
       "count": 3
     },
     {
-      "name": "social",
+      "name": "arabia",
       "count": 3
     },
     {
-      "name": "trump",
-      "count": 3
+      "name": "call",
+      "count": 2
     },
     {
-      "name": "orders",
-      "count": 3
+      "name": "into",
+      "count": 2
     },
     {
-      "name": "war",
-      "count": 3
+      "name": "investigation",
+      "count": 2
     },
     {
-      "name": "over",
-      "count": 3
+      "name": "could",
+      "count": 2
+    },
+    {
+      "name": "england",
+      "count": 2
+    },
+    {
+      "name": "toney",
+      "count": 2
     }
   ],
-  "updated_at": "2026-08-07 07:22:49.357057"
+  "updated_at": "2026-08-07 13:13:47.231382"
 }
