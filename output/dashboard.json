@@ -1,35 +1,39 @@
 {
   "keywords": [
     [
-      "over",
-      5
+      "after",
+      6
+    ],
+    [
+      "home",
+      4
     ],
     [
       "police",
       3
     ],
     [
-      "bbc",
+      "years",
       3
+    ],
+    [
+      "former",
+      3
+    ],
+    [
+      "iran",
+      3
+    ],
+    [
+      "over",
+      2
+    ],
+    [
+      "bbc",
+      2
     ],
     [
       "how",
-      3
-    ],
-    [
-      "after",
-      3
-    ],
-    [
-      "general",
-      3
-    ],
-    [
-      "his",
-      3
-    ],
-    [
-      "home",
       2
     ],
     [
@@ -37,91 +41,87 @@
       2
     ],
     [
-      "alleged",
+      "general",
       2
     ],
     [
-      "when",
+      "since",
       2
     ],
     [
-      "was",
+      "opposition",
       2
     ],
     [
-      "not",
+      "eggs",
       2
     ],
     [
-      "hit",
+      "been",
       2
     ],
     [
-      "35c",
+      "real",
       2
     ],
     [
-      "years",
+      "messis",
       2
     ],
     [
-      "former",
+      "father",
       2
     ],
     [
-      "woman",
+      "dies",
       2
     ],
     [
-      "trumps",
-      2
-    ],
-    [
-      "confirmed",
+      "aged",
       2
     ]
   ],
   "topics": [
     {
-      "name": "over",
-      "count": 5
+      "name": "after",
+      "count": 6
+    },
+    {
+      "name": "home",
+      "count": 4
     },
     {
       "name": "police",
       "count": 3
     },
     {
-      "name": "bbc",
+      "name": "years",
       "count": 3
+    },
+    {
+      "name": "former",
+      "count": 3
+    },
+    {
+      "name": "iran",
+      "count": 3
+    },
+    {
+      "name": "over",
+      "count": 2
+    },
+    {
+      "name": "bbc",
+      "count": 2
     },
     {
       "name": "how",
-      "count": 3
-    },
-    {
-      "name": "after",
-      "count": 3
-    },
-    {
-      "name": "general",
-      "count": 3
-    },
-    {
-      "name": "his",
-      "count": 3
-    },
-    {
-      "name": "home",
       "count": 2
     },
     {
       "name": "chief",
       "count": 2
-    },
-    {
-      "name": "alleged",
-      "count": 2
     }
   ],
-  "updated_at": "2026-08-08 12:56:35.118813"
+  "updated_at": "2026-08-08 18:43:04.151904"
 }
