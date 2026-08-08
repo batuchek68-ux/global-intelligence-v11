@@ -1,16 +1,8 @@
 {
   "keywords": [
     [
-      "russian",
+      "over",
       5
-    ],
-    [
-      "sex",
-      4
-    ],
-    [
-      "president",
-      4
     ],
     [
       "police",
@@ -21,11 +13,15 @@
       3
     ],
     [
-      "infantino",
+      "how",
       3
     ],
     [
-      "over",
+      "after",
+      3
+    ],
+    [
+      "general",
       3
     ],
     [
@@ -33,43 +29,7 @@
       3
     ],
     [
-      "could",
-      3
-    ],
-    [
-      "years",
-      3
-    ],
-    [
       "home",
-      2
-    ],
-    [
-      "claims",
-      2
-    ],
-    [
-      "was",
-      2
-    ],
-    [
-      "offender",
-      2
-    ],
-    [
-      "women",
-      2
-    ],
-    [
-      "book",
-      2
-    ],
-    [
-      "that",
-      2
-    ],
-    [
-      "spy",
       2
     ],
     [
@@ -77,22 +37,54 @@
       2
     ],
     [
+      "alleged",
+      2
+    ],
+    [
+      "when",
+      2
+    ],
+    [
+      "was",
+      2
+    ],
+    [
       "not",
+      2
+    ],
+    [
+      "hit",
+      2
+    ],
+    [
+      "35c",
+      2
+    ],
+    [
+      "years",
+      2
+    ],
+    [
+      "former",
+      2
+    ],
+    [
+      "woman",
+      2
+    ],
+    [
+      "trumps",
+      2
+    ],
+    [
+      "confirmed",
       2
     ]
   ],
   "topics": [
     {
-      "name": "russian",
+      "name": "over",
       "count": 5
-    },
-    {
-      "name": "sex",
-      "count": 4
-    },
-    {
-      "name": "president",
-      "count": 4
     },
     {
       "name": "police",
@@ -103,11 +95,15 @@
       "count": 3
     },
     {
-      "name": "infantino",
+      "name": "how",
       "count": 3
     },
     {
-      "name": "over",
+      "name": "after",
+      "count": 3
+    },
+    {
+      "name": "general",
       "count": 3
     },
     {
@@ -115,13 +111,17 @@
       "count": 3
     },
     {
-      "name": "could",
-      "count": 3
+      "name": "home",
+      "count": 2
     },
     {
-      "name": "years",
-      "count": 3
+      "name": "chief",
+      "count": 2
+    },
+    {
+      "name": "alleged",
+      "count": 2
     }
   ],
-  "updated_at": "2026-08-08 07:00:21.543034"
+  "updated_at": "2026-08-08 12:56:35.118813"
 }
