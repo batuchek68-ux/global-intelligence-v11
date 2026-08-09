@@ -2,30 +2,14 @@
   "keywords": [
     [
       "after",
-      6
+      5
     ],
     [
-      "iran",
+      "israel",
       4
     ],
     [
-      "president",
-      3
-    ],
-    [
-      "what",
-      3
-    ],
-    [
-      "from",
-      3
-    ],
-    [
-      "wildfire",
-      3
-    ],
-    [
-      "seeks",
+      "plan",
       3
     ],
     [
@@ -33,35 +17,51 @@
       3
     ],
     [
-      "war",
+      "who",
       3
     ],
     [
-      "infantino",
-      2
-    ],
-    [
-      "killed",
-      2
-    ],
-    [
       "why",
-      2
+      3
     ],
     [
-      "death",
-      2
+      "world",
+      3
     ],
     [
       "west",
-      2
+      3
     ],
     [
       "bank",
+      3
+    ],
+    [
+      "what",
+      3
+    ],
+    [
+      "day",
+      3
+    ],
+    [
+      "fifa",
+      3
+    ],
+    [
+      "rejects",
       2
     ],
     [
-      "but",
+      "trumps",
+      2
+    ],
+    [
+      "15point",
+      2
+    ],
+    [
+      "gaza",
       2
     ],
     [
@@ -69,45 +69,29 @@
       2
     ],
     [
-      "day",
+      "hundreds",
       2
     ],
     [
-      "want",
+      "over",
       2
     ],
     [
-      "back",
+      "but",
       2
     ]
   ],
   "topics": [
     {
       "name": "after",
-      "count": 6
+      "count": 5
     },
     {
-      "name": "iran",
+      "name": "israel",
       "count": 4
     },
     {
-      "name": "president",
-      "count": 3
-    },
-    {
-      "name": "what",
-      "count": 3
-    },
-    {
-      "name": "from",
-      "count": 3
-    },
-    {
-      "name": "wildfire",
-      "count": 3
-    },
-    {
-      "name": "seeks",
+      "name": "plan",
       "count": 3
     },
     {
@@ -115,13 +99,29 @@
       "count": 3
     },
     {
-      "name": "war",
+      "name": "who",
       "count": 3
     },
     {
-      "name": "infantino",
-      "count": 2
+      "name": "why",
+      "count": 3
+    },
+    {
+      "name": "world",
+      "count": 3
+    },
+    {
+      "name": "west",
+      "count": 3
+    },
+    {
+      "name": "bank",
+      "count": 3
+    },
+    {
+      "name": "what",
+      "count": 3
     }
   ],
-  "updated_at": "2026-08-09 07:02:36.845049"
+  "updated_at": "2026-08-09 12:59:57.122122"
 }
