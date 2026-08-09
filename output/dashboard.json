@@ -1,23 +1,39 @@
 {
   "keywords": [
     [
+      "gaza",
+      5
+    ],
+    [
       "after",
       5
     ],
     [
-      "israel",
+      "plan",
       4
     ],
     [
-      "plan",
+      "with",
+      4
+    ],
+    [
+      "what",
+      4
+    ],
+    [
+      "israel",
       3
     ],
     [
-      "says",
+      "rejects",
       3
     ],
     [
-      "who",
+      "arrested",
+      3
+    ],
+    [
+      "over",
       3
     ],
     [
@@ -25,32 +41,8 @@
       3
     ],
     [
-      "world",
+      "israels",
       3
-    ],
-    [
-      "west",
-      3
-    ],
-    [
-      "bank",
-      3
-    ],
-    [
-      "what",
-      3
-    ],
-    [
-      "day",
-      3
-    ],
-    [
-      "fifa",
-      3
-    ],
-    [
-      "rejects",
-      2
     ],
     [
       "trumps",
@@ -61,11 +53,19 @@
       2
     ],
     [
-      "gaza",
+      "netanyahu",
       2
     ],
     [
-      "with",
+      "says",
+      2
+    ],
+    [
+      "ancient",
+      2
+    ],
+    [
+      "how",
       2
     ],
     [
@@ -73,7 +73,7 @@
       2
     ],
     [
-      "over",
+      "wildfires",
       2
     ],
     [
@@ -83,45 +83,45 @@
   ],
   "topics": [
     {
+      "name": "gaza",
+      "count": 5
+    },
+    {
       "name": "after",
       "count": 5
     },
     {
-      "name": "israel",
+      "name": "plan",
       "count": 4
     },
     {
-      "name": "plan",
+      "name": "with",
+      "count": 4
+    },
+    {
+      "name": "what",
+      "count": 4
+    },
+    {
+      "name": "israel",
       "count": 3
     },
     {
-      "name": "says",
+      "name": "rejects",
       "count": 3
     },
     {
-      "name": "who",
+      "name": "arrested",
+      "count": 3
+    },
+    {
+      "name": "over",
       "count": 3
     },
     {
       "name": "why",
       "count": 3
-    },
-    {
-      "name": "world",
-      "count": 3
-    },
-    {
-      "name": "west",
-      "count": 3
-    },
-    {
-      "name": "bank",
-      "count": 3
-    },
-    {
-      "name": "what",
-      "count": 3
     }
   ],
-  "updated_at": "2026-08-09 12:59:57.122122"
+  "updated_at": "2026-08-09 18:48:09.061288"
 }
