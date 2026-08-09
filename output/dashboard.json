@@ -2,14 +2,14 @@
   "keywords": [
     [
       "after",
-      3
-    ],
-    [
-      "says",
-      3
+      6
     ],
     [
       "iran",
+      4
+    ],
+    [
+      "president",
       3
     ],
     [
@@ -21,12 +21,20 @@
       3
     ],
     [
-      "cost",
-      2
+      "wildfire",
+      3
     ],
     [
-      "president",
-      2
+      "seeks",
+      3
+    ],
+    [
+      "says",
+      3
+    ],
+    [
+      "war",
+      3
     ],
     [
       "infantino",
@@ -41,6 +49,10 @@
       2
     ],
     [
+      "death",
+      2
+    ],
+    [
       "west",
       2
     ],
@@ -49,27 +61,15 @@
       2
     ],
     [
-      "hormuz",
-      2
-    ],
-    [
-      "deal",
-      2
-    ],
-    [
-      "not",
-      2
-    ],
-    [
-      "strait",
-      2
-    ],
-    [
       "but",
       2
     ],
     [
-      "its",
+      "with",
+      2
+    ],
+    [
+      "day",
       2
     ],
     [
@@ -84,14 +84,14 @@
   "topics": [
     {
       "name": "after",
-      "count": 3
-    },
-    {
-      "name": "says",
-      "count": 3
+      "count": 6
     },
     {
       "name": "iran",
+      "count": 4
+    },
+    {
+      "name": "president",
       "count": 3
     },
     {
@@ -103,25 +103,25 @@
       "count": 3
     },
     {
-      "name": "cost",
-      "count": 2
+      "name": "wildfire",
+      "count": 3
     },
     {
-      "name": "president",
-      "count": 2
+      "name": "seeks",
+      "count": 3
+    },
+    {
+      "name": "says",
+      "count": 3
+    },
+    {
+      "name": "war",
+      "count": 3
     },
     {
       "name": "infantino",
       "count": 2
-    },
-    {
-      "name": "killed",
-      "count": 2
-    },
-    {
-      "name": "why",
-      "count": 2
     }
   ],
-  "updated_at": "2026-08-09 02:02:59.338412"
+  "updated_at": "2026-08-09 07:02:36.845049"
 }
