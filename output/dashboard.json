@@ -1,24 +1,16 @@
 {
   "keywords": [
     [
-      "gaza",
-      5
-    ],
-    [
       "after",
-      5
+      6
     ],
     [
-      "plan",
-      4
+      "could",
+      5
     ],
     [
       "with",
-      4
-    ],
-    [
-      "what",
-      4
+      3
     ],
     [
       "israel",
@@ -29,78 +21,78 @@
       3
     ],
     [
-      "arrested",
+      "plan",
       3
     ],
     [
-      "over",
+      "gaza",
       3
     ],
     [
-      "why",
+      "how",
       3
     ],
     [
-      "israels",
+      "from",
       3
+    ],
+    [
+      "new",
+      3
+    ],
+    [
+      "drone",
+      3
+    ],
+    [
+      "attacks",
+      3
+    ],
+    [
+      "crime",
+      2
+    ],
+    [
+      "boss",
+      2
+    ],
+    [
+      "daniel",
+      2
+    ],
+    [
+      "kinahan",
+      2
+    ],
+    [
+      "court",
+      2
+    ],
+    [
+      "extradition",
+      2
     ],
     [
       "trumps",
       2
     ],
     [
-      "15point",
-      2
-    ],
-    [
       "netanyahu",
-      2
-    ],
-    [
-      "says",
-      2
-    ],
-    [
-      "ancient",
-      2
-    ],
-    [
-      "how",
-      2
-    ],
-    [
-      "hundreds",
-      2
-    ],
-    [
-      "wildfires",
-      2
-    ],
-    [
-      "but",
       2
     ]
   ],
   "topics": [
     {
-      "name": "gaza",
-      "count": 5
-    },
-    {
       "name": "after",
-      "count": 5
+      "count": 6
     },
     {
-      "name": "plan",
-      "count": 4
+      "name": "could",
+      "count": 5
     },
     {
       "name": "with",
-      "count": 4
-    },
-    {
-      "name": "what",
-      "count": 4
+      "count": 3
     },
     {
       "name": "israel",
@@ -111,17 +103,25 @@
       "count": 3
     },
     {
-      "name": "arrested",
+      "name": "plan",
       "count": 3
     },
     {
-      "name": "over",
+      "name": "gaza",
       "count": 3
     },
     {
-      "name": "why",
+      "name": "how",
+      "count": 3
+    },
+    {
+      "name": "from",
+      "count": 3
+    },
+    {
+      "name": "new",
       "count": 3
     }
   ],
-  "updated_at": "2026-08-09 18:48:09.061288"
+  "updated_at": "2026-08-10 02:07:33.535539"
 }
