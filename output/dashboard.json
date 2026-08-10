@@ -1,35 +1,27 @@
 {
   "keywords": [
     [
-      "after",
-      6
-    ],
-    [
-      "could",
+      "new",
       5
     ],
     [
-      "with",
-      3
+      "could",
+      4
+    ],
+    [
+      "say",
+      4
     ],
     [
       "israel",
+      4
+    ],
+    [
+      "after",
       3
     ],
     [
-      "rejects",
-      3
-    ],
-    [
-      "plan",
-      3
-    ],
-    [
-      "gaza",
-      3
-    ],
-    [
-      "how",
+      "with",
       3
     ],
     [
@@ -37,7 +29,11 @@
       3
     ],
     [
-      "new",
+      "your",
+      3
+    ],
+    [
+      "says",
       3
     ],
     [
@@ -47,6 +43,10 @@
     [
       "attacks",
       3
+    ],
+    [
+      "staff",
+      2
     ],
     [
       "crime",
@@ -73,45 +73,37 @@
       2
     ],
     [
-      "trumps",
+      "homes",
       2
     ],
     [
-      "netanyahu",
+      "how",
       2
     ]
   ],
   "topics": [
     {
-      "name": "after",
-      "count": 6
-    },
-    {
-      "name": "could",
+      "name": "new",
       "count": 5
     },
     {
-      "name": "with",
-      "count": 3
+      "name": "could",
+      "count": 4
+    },
+    {
+      "name": "say",
+      "count": 4
     },
     {
       "name": "israel",
+      "count": 4
+    },
+    {
+      "name": "after",
       "count": 3
     },
     {
-      "name": "rejects",
-      "count": 3
-    },
-    {
-      "name": "plan",
-      "count": 3
-    },
-    {
-      "name": "gaza",
-      "count": 3
-    },
-    {
-      "name": "how",
+      "name": "with",
       "count": 3
     },
     {
@@ -119,9 +111,17 @@
       "count": 3
     },
     {
-      "name": "new",
+      "name": "your",
+      "count": 3
+    },
+    {
+      "name": "says",
+      "count": 3
+    },
+    {
+      "name": "drone",
       "count": 3
     }
   ],
-  "updated_at": "2026-08-10 02:07:33.535539"
+  "updated_at": "2026-08-10 07:49:15.464859"
 }
