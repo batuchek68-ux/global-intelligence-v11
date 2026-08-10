@@ -1,127 +1,127 @@
 {
   "keywords": [
     [
-      "from",
-      5
+      "new",
+      6
     ],
     [
-      "china",
+      "from",
+      6
+    ],
+    [
+      "says",
       4
     ],
     [
-      "record",
-      3
+      "colombia",
+      4
     ],
     [
       "one",
       3
     ],
     [
-      "says",
+      "gaza",
       3
     ],
     [
-      "work",
+      "earthquake",
       3
     ],
     [
-      "hit",
-      3
+      "england",
+      2
+    ],
+    [
+      "will",
+      2
+    ],
+    [
+      "murder",
+      2
+    ],
+    [
+      "talks",
+      2
+    ],
+    [
+      "ebola",
+      2
+    ],
+    [
+      "ahead",
+      2
+    ],
+    [
+      "who",
+      2
+    ],
+    [
+      "court",
+      2
+    ],
+    [
+      "elections",
+      2
+    ],
+    [
+      "least",
+      2
     ],
     [
       "how",
-      3
-    ],
-    [
-      "dolphin",
-      3
-    ],
-    [
-      "staff",
       2
     ],
     [
-      "gave",
+      "netanyahus",
       2
     ],
     [
-      "his",
-      2
-    ],
-    [
-      "boss",
-      2
-    ],
-    [
-      "with",
-      2
-    ],
-    [
-      "iran",
-      2
-    ],
-    [
-      "end",
-      2
-    ],
-    [
-      "you",
-      2
-    ],
-    [
-      "say",
-      2
-    ],
-    [
-      "behind",
-      2
-    ],
-    [
-      "world",
+      "rejection",
       2
     ]
   ],
   "topics": [
     {
-      "name": "from",
-      "count": 5
+      "name": "new",
+      "count": 6
     },
     {
-      "name": "china",
+      "name": "from",
+      "count": 6
+    },
+    {
+      "name": "says",
       "count": 4
     },
     {
-      "name": "record",
-      "count": 3
+      "name": "colombia",
+      "count": 4
     },
     {
       "name": "one",
       "count": 3
     },
     {
-      "name": "says",
+      "name": "gaza",
       "count": 3
     },
     {
-      "name": "work",
+      "name": "earthquake",
       "count": 3
     },
     {
-      "name": "hit",
-      "count": 3
+      "name": "england",
+      "count": 2
     },
     {
-      "name": "how",
-      "count": 3
+      "name": "will",
+      "count": 2
     },
     {
-      "name": "dolphin",
-      "count": 3
-    },
-    {
-      "name": "staff",
+      "name": "murder",
       "count": 2
     }
   ],
-  "updated_at": "2026-08-10 13:18:13.390148"
+  "updated_at": "2026-08-10 19:02:40.462683"
 }
