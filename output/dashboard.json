@@ -1,127 +1,127 @@
 {
   "keywords": [
     [
-      "trump",
-      6
-    ],
-    [
-      "after",
-      6
-    ],
-    [
-      "colombia",
+      "death",
       4
     ],
     [
-      "quake",
+      "what",
+      4
+    ],
+    [
+      "over",
       3
     ],
     [
-      "all",
+      "colombia",
+      3
+    ],
+    [
+      "with",
+      3
+    ],
+    [
+      "syrian",
+      3
+    ],
+    [
+      "alassad",
+      3
+    ],
+    [
+      "iran",
       2
     ],
     [
-      "england",
+      "say",
       2
     ],
     [
-      "heatwave",
+      "run",
       2
     ],
     [
-      "more",
+      "says",
       2
     ],
     [
-      "colombias",
+      "watch",
       2
     ],
     [
-      "largest",
+      "during",
       2
     ],
     [
-      "earthquake",
+      "fake",
       2
     ],
     [
-      "years",
+      "baby",
       2
     ],
     [
-      "would",
+      "get",
       2
     ],
     [
-      "where",
+      "announces",
       2
     ],
     [
-      "than",
+      "bashar",
       2
     ],
     [
-      "made",
+      "sentenced",
       2
     ],
     [
-      "men",
-      2
-    ],
-    [
-      "crisis",
-      2
-    ],
-    [
-      "childhood",
-      2
-    ],
-    [
-      "mmr",
+      "absentia",
       2
     ]
   ],
   "topics": [
     {
-      "name": "trump",
-      "count": 6
-    },
-    {
-      "name": "after",
-      "count": 6
-    },
-    {
-      "name": "colombia",
+      "name": "death",
       "count": 4
     },
     {
-      "name": "quake",
+      "name": "what",
+      "count": 4
+    },
+    {
+      "name": "over",
       "count": 3
     },
     {
-      "name": "all",
+      "name": "colombia",
+      "count": 3
+    },
+    {
+      "name": "with",
+      "count": 3
+    },
+    {
+      "name": "syrian",
+      "count": 3
+    },
+    {
+      "name": "alassad",
+      "count": 3
+    },
+    {
+      "name": "iran",
       "count": 2
     },
     {
-      "name": "england",
+      "name": "say",
       "count": 2
     },
     {
-      "name": "heatwave",
-      "count": 2
-    },
-    {
-      "name": "more",
-      "count": 2
-    },
-    {
-      "name": "colombias",
-      "count": 2
-    },
-    {
-      "name": "largest",
+      "name": "run",
       "count": 2
     }
   ],
-  "updated_at": "2026-08-11 07:14:55.758713"
+  "updated_at": "2026-08-11 13:15:19.416551"
 }
