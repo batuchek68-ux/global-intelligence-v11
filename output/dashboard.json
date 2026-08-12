@@ -2,18 +2,14 @@
   "keywords": [
     [
       "says",
-      5
+      3
     ],
     [
-      "court",
-      4
+      "attack",
+      3
     ],
     [
-      "over",
-      4
-    ],
-    [
-      "burnham",
+      "early",
       3
     ],
     [
@@ -21,43 +17,43 @@
       3
     ],
     [
-      "watch",
-      3
-    ],
-    [
       "trump",
       3
     ],
     [
-      "russia",
+      "survivors",
       3
     ],
     [
-      "where",
+      "earthquake",
       3
     ],
     [
-      "solar",
+      "glasses",
       3
     ],
     [
-      "death",
+      "iran",
       3
     ],
     [
-      "2026",
+      "after",
+      3
+    ],
+    [
+      "police",
       2
     ],
     [
-      "course",
+      "again",
       2
     ],
     [
-      "office",
+      "weather",
       2
     ],
     [
-      "early",
+      "release",
       2
     ],
     [
@@ -69,33 +65,33 @@
       2
     ],
     [
-      "can",
+      "best",
       2
     ],
     [
-      "glasses",
+      "out",
       2
     ],
     [
-      "luigi",
+      "watch",
+      2
+    ],
+    [
+      "truck",
       2
     ]
   ],
   "topics": [
     {
       "name": "says",
-      "count": 5
+      "count": 3
     },
     {
-      "name": "court",
-      "count": 4
+      "name": "attack",
+      "count": 3
     },
     {
-      "name": "over",
-      "count": 4
-    },
-    {
-      "name": "burnham",
+      "name": "early",
       "count": 3
     },
     {
@@ -103,25 +99,29 @@
       "count": 3
     },
     {
-      "name": "watch",
-      "count": 3
-    },
-    {
       "name": "trump",
       "count": 3
     },
     {
-      "name": "russia",
+      "name": "survivors",
       "count": 3
     },
     {
-      "name": "where",
+      "name": "earthquake",
       "count": 3
     },
     {
-      "name": "solar",
+      "name": "glasses",
+      "count": 3
+    },
+    {
+      "name": "iran",
+      "count": 3
+    },
+    {
+      "name": "after",
       "count": 3
     }
   ],
-  "updated_at": "2026-08-11 19:07:13.853087"
+  "updated_at": "2026-08-12 02:19:39.151955"
 }
