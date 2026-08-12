@@ -1,127 +1,127 @@
 {
   "keywords": [
     [
-      "trump",
+      "after",
       5
-    ],
-    [
-      "says",
-      4
     ],
     [
       "eclipse",
       4
     ],
     [
-      "after",
+      "says",
       4
     ],
     [
-      "early",
+      "from",
+      4
+    ],
+    [
+      "how",
+      4
+    ],
+    [
+      "under",
       3
     ],
     [
-      "attack",
+      "woman",
       3
     ],
     [
-      "glasses",
-      3
-    ],
-    [
-      "iran",
-      3
-    ],
-    [
-      "war",
-      3
-    ],
-    [
-      "strait",
-      3
-    ],
-    [
-      "hormuz",
-      3
-    ],
-    [
-      "release",
+      "solar",
       2
     ],
     [
-      "serious",
+      "will",
       2
     ],
     [
-      "crimes",
+      "rubble",
       2
     ],
     [
-      "warns",
+      "hours",
       2
     ],
     [
-      "again",
+      "colombia",
       2
     ],
     [
-      "get",
+      "israeli",
       2
     ],
     [
-      "best",
+      "settlers",
       2
     ],
     [
-      "since",
+      "weather",
       2
     ],
     [
-      "watch",
+      "were",
+      2
+    ],
+    [
+      "good",
+      2
+    ],
+    [
+      "more",
+      2
+    ],
+    [
+      "why",
+      2
+    ],
+    [
+      "record",
       2
     ]
   ],
   "topics": [
     {
-      "name": "trump",
+      "name": "after",
       "count": 5
-    },
-    {
-      "name": "says",
-      "count": 4
     },
     {
       "name": "eclipse",
       "count": 4
     },
     {
-      "name": "after",
+      "name": "says",
       "count": 4
     },
     {
-      "name": "early",
+      "name": "from",
+      "count": 4
+    },
+    {
+      "name": "how",
+      "count": 4
+    },
+    {
+      "name": "under",
       "count": 3
     },
     {
-      "name": "attack",
+      "name": "woman",
       "count": 3
     },
     {
-      "name": "glasses",
-      "count": 3
+      "name": "solar",
+      "count": 2
     },
     {
-      "name": "iran",
-      "count": 3
+      "name": "will",
+      "count": 2
     },
     {
-      "name": "war",
-      "count": 3
-    },
-    {
-      "name": "strait",
-      "count": 3
+      "name": "rubble",
+      "count": 2
     }
   ],
-  "updated_at": "2026-08-12 07:38:40.295610"
+  "updated_at": "2026-08-12 13:19:14.523442"
 }
