@@ -1,35 +1,23 @@
 {
   "keywords": [
     [
-      "after",
+      "over",
       5
     ],
     [
-      "iran",
-      4
-    ],
-    [
       "trump",
-      4
+      5
     ],
     [
-      "not",
+      "solar",
       3
     ],
     [
-      "over",
+      "eclipse",
       3
     ],
     [
-      "says",
-      3
-    ],
-    [
-      "war",
-      3
-    ],
-    [
-      "record",
+      "europe",
       3
     ],
     [
@@ -37,81 +25,81 @@
       3
     ],
     [
-      "double",
+      "says",
+      3
+    ],
+    [
+      "gaza",
+      3
+    ],
+    [
+      "millions",
       2
     ],
     [
-      "rapist",
+      "wait",
       2
     ],
     [
-      "urges",
+      "alevel",
       2
     ],
     [
-      "lucy",
+      "results",
       2
     ],
     [
-      "davis",
+      "not",
       2
     ],
     [
-      "cancer",
+      "first",
       2
     ],
     [
-      "remains",
+      "from",
       2
     ],
     [
-      "impact",
+      "ice",
       2
     ],
     [
-      "israeli",
+      "plans",
       2
     ],
     [
-      "settlers",
+      "with",
       2
     ],
     [
-      "families",
+      "gloves",
+      2
+    ],
+    [
+      "that",
       2
     ]
   ],
   "topics": [
     {
-      "name": "after",
+      "name": "over",
       "count": 5
     },
     {
-      "name": "iran",
-      "count": 4
-    },
-    {
       "name": "trump",
-      "count": 4
+      "count": 5
     },
     {
-      "name": "not",
+      "name": "solar",
       "count": 3
     },
     {
-      "name": "over",
+      "name": "eclipse",
       "count": 3
     },
     {
-      "name": "says",
-      "count": 3
-    },
-    {
-      "name": "war",
-      "count": 3
-    },
-    {
-      "name": "record",
+      "name": "europe",
       "count": 3
     },
     {
@@ -119,9 +107,21 @@
       "count": 3
     },
     {
-      "name": "double",
+      "name": "says",
+      "count": 3
+    },
+    {
+      "name": "gaza",
+      "count": 3
+    },
+    {
+      "name": "millions",
+      "count": 2
+    },
+    {
+      "name": "wait",
       "count": 2
     }
   ],
-  "updated_at": "2026-08-12 19:06:17.036839"
+  "updated_at": "2026-08-13 02:21:45.963684"
 }
