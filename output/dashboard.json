@@ -1,55 +1,43 @@
 {
   "keywords": [
     [
-      "over",
-      5
-    ],
-    [
-      "trump",
+      "how",
       5
     ],
     [
       "solar",
-      3
+      4
     ],
     [
       "eclipse",
+      4
+    ],
+    [
+      "trump",
+      4
+    ],
+    [
+      "get",
+      4
+    ],
+    [
+      "palestinian",
+      4
+    ],
+    [
+      "open",
       3
     ],
     [
       "europe",
-      3
-    ],
-    [
-      "how",
-      3
-    ],
-    [
-      "says",
-      3
-    ],
-    [
-      "gaza",
-      3
-    ],
-    [
-      "millions",
       2
     ],
     [
-      "wait",
+      "can",
       2
     ],
     [
-      "alevel",
-      2
-    ],
-    [
-      "results",
-      2
-    ],
-    [
-      "not",
+      "ukraine",
       2
     ],
     [
@@ -61,67 +49,79 @@
       2
     ],
     [
-      "ice",
+      "polls",
       2
     ],
     [
-      "plans",
+      "says",
       2
     ],
     [
-      "with",
+      "white",
       2
     ],
     [
-      "gloves",
+      "house",
       2
     ],
     [
-      "that",
+      "press",
+      2
+    ],
+    [
+      "secretary",
+      2
+    ],
+    [
+      "leavitt",
+      2
+    ],
+    [
+      "leave",
       2
     ]
   ],
   "topics": [
     {
-      "name": "over",
-      "count": 5
-    },
-    {
-      "name": "trump",
+      "name": "how",
       "count": 5
     },
     {
       "name": "solar",
-      "count": 3
+      "count": 4
     },
     {
       "name": "eclipse",
+      "count": 4
+    },
+    {
+      "name": "trump",
+      "count": 4
+    },
+    {
+      "name": "get",
+      "count": 4
+    },
+    {
+      "name": "palestinian",
+      "count": 4
+    },
+    {
+      "name": "open",
       "count": 3
     },
     {
       "name": "europe",
-      "count": 3
-    },
-    {
-      "name": "how",
-      "count": 3
-    },
-    {
-      "name": "says",
-      "count": 3
-    },
-    {
-      "name": "gaza",
-      "count": 3
-    },
-    {
-      "name": "millions",
       "count": 2
     },
     {
-      "name": "wait",
+      "name": "can",
+      "count": 2
+    },
+    {
+      "name": "ukraine",
       "count": 2
     }
   ],
-  "updated_at": "2026-08-13 02:21:45.963684"
+  "updated_at": "2026-08-13 07:40:42.453699"
 }
