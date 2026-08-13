@@ -1,47 +1,39 @@
 {
   "keywords": [
     [
-      "how",
+      "what",
       5
     ],
     [
-      "solar",
+      "after",
       4
     ],
     [
-      "eclipse",
+      "how",
       4
     ],
     [
-      "trump",
-      4
-    ],
-    [
-      "get",
-      4
-    ],
-    [
-      "palestinian",
-      4
-    ],
-    [
-      "open",
+      "your",
       3
     ],
     [
-      "europe",
+      "putin",
+      3
+    ],
+    [
+      "out",
+      3
+    ],
+    [
+      "key",
       2
     ],
     [
-      "can",
+      "you",
       2
     ],
     [
-      "ukraine",
-      2
-    ],
-    [
-      "first",
+      "may",
       2
     ],
     [
@@ -49,79 +41,87 @@
       2
     ],
     [
-      "polls",
-      2
-    ],
-    [
       "says",
       2
     ],
     [
-      "white",
+      "she",
       2
     ],
     [
-      "house",
+      "will",
       2
     ],
     [
-      "press",
+      "high",
       2
     ],
     [
-      "secretary",
+      "chief",
       2
     ],
     [
-      "leavitt",
+      "over",
       2
     ],
     [
-      "leave",
+      "but",
+      2
+    ],
+    [
+      "defends",
+      2
+    ],
+    [
+      "into",
+      2
+    ],
+    [
+      "more",
       2
     ]
   ],
   "topics": [
     {
-      "name": "how",
+      "name": "what",
       "count": 5
     },
     {
-      "name": "solar",
+      "name": "after",
       "count": 4
     },
     {
-      "name": "eclipse",
+      "name": "how",
       "count": 4
     },
     {
-      "name": "trump",
-      "count": 4
-    },
-    {
-      "name": "get",
-      "count": 4
-    },
-    {
-      "name": "palestinian",
-      "count": 4
-    },
-    {
-      "name": "open",
+      "name": "your",
       "count": 3
     },
     {
-      "name": "europe",
+      "name": "putin",
+      "count": 3
+    },
+    {
+      "name": "out",
+      "count": 3
+    },
+    {
+      "name": "key",
       "count": 2
     },
     {
-      "name": "can",
+      "name": "you",
       "count": 2
     },
     {
-      "name": "ukraine",
+      "name": "may",
+      "count": 2
+    },
+    {
+      "name": "from",
       "count": 2
     }
   ],
-  "updated_at": "2026-08-13 07:40:42.453699"
+  "updated_at": "2026-08-13 13:21:24.199550"
 }
