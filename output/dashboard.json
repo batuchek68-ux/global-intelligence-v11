@@ -1,39 +1,51 @@
 {
   "keywords": [
     [
+      "says",
+      4
+    ],
+    [
       "what",
-      5
-    ],
-    [
-      "after",
       4
-    ],
-    [
-      "how",
-      4
-    ],
-    [
-      "your",
-      3
-    ],
-    [
-      "putin",
-      3
-    ],
-    [
-      "out",
-      3
     ],
     [
       "key",
-      2
+      3
     ],
     [
-      "you",
-      2
+      "results",
+      3
     ],
     [
-      "may",
+      "students",
+      3
+    ],
+    [
+      "get",
+      3
+    ],
+    [
+      "how",
+      3
+    ],
+    [
+      "will",
+      3
+    ],
+    [
+      "who",
+      3
+    ],
+    [
+      "trump",
+      3
+    ],
+    [
+      "war",
+      3
+    ],
+    [
+      "day",
       2
     ],
     [
@@ -41,87 +53,75 @@
       2
     ],
     [
-      "says",
+      "off",
       2
     ],
     [
-      "she",
+      "your",
       2
     ],
     [
-      "will",
+      "eclipse",
       2
     ],
     [
-      "high",
+      "homes",
       2
     ],
     [
-      "chief",
+      "settlers",
       2
     ],
     [
-      "over",
+      "besieged",
       2
     ],
     [
-      "but",
-      2
-    ],
-    [
-      "defends",
-      2
-    ],
-    [
-      "into",
-      2
-    ],
-    [
-      "more",
+      "federal",
       2
     ]
   ],
   "topics": [
     {
+      "name": "says",
+      "count": 4
+    },
+    {
       "name": "what",
-      "count": 5
-    },
-    {
-      "name": "after",
       "count": 4
-    },
-    {
-      "name": "how",
-      "count": 4
-    },
-    {
-      "name": "your",
-      "count": 3
-    },
-    {
-      "name": "putin",
-      "count": 3
-    },
-    {
-      "name": "out",
-      "count": 3
     },
     {
       "name": "key",
-      "count": 2
+      "count": 3
     },
     {
-      "name": "you",
-      "count": 2
+      "name": "results",
+      "count": 3
     },
     {
-      "name": "may",
-      "count": 2
+      "name": "students",
+      "count": 3
     },
     {
-      "name": "from",
-      "count": 2
+      "name": "get",
+      "count": 3
+    },
+    {
+      "name": "how",
+      "count": 3
+    },
+    {
+      "name": "will",
+      "count": 3
+    },
+    {
+      "name": "who",
+      "count": 3
+    },
+    {
+      "name": "trump",
+      "count": 3
     }
   ],
-  "updated_at": "2026-08-13 13:21:24.199550"
+  "updated_at": "2026-08-13 19:07:10.538316"
 }
