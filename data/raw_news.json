@@ -1,12 +1,37 @@
 [
   {
     "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
-    "summary": "Government issues a temporary ban on the sale of disposable barbeques as they pose a \"significant risk to the public\".",
+    "summary": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns.",
     "source": "https://feeds.bbci.co.uk/news/rss.xml"
   },
   {
-    "title": "Farage faces renewed watchdog probe after Clacton by-election victory",
-    "summary": "The investigation into a £5m gift received by Farage reopens, as he returns as the MP for Clacton.",
+    "title": "Chris Mason: Where does this unorthodox by-election victory leave Nigel Farage?",
+    "summary": "As expected, the Reform UK leader easily won the Clacton by-election but was nowhere to be seen after the result.",
+    "source": "https://feeds.bbci.co.uk/news/rss.xml"
+  },
+  {
+    "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
+    "summary": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.",
+    "source": "https://feeds.bbci.co.uk/news/rss.xml"
+  },
+  {
+    "title": "Britain's Finlay Tarling dies in Volta a Portugal accident",
+    "summary": "British cyclist Finlay Tarling dies at the age of 19 in a serious accident during the eighth stage of the Volta a Portugal.",
+    "source": "https://feeds.bbci.co.uk/news/rss.xml"
+  },
+  {
+    "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
+    "summary": "Two families have been trapped in their homes in the occupied West Bank for several days.",
+    "source": "https://feeds.bbci.co.uk/news/rss.xml"
+  },
+  {
+    "title": "Bezos-backed consortium buys a third of Liverpool FC",
+    "summary": "Liverpool's owners agree to sell about a third of the club to a consortium including billionaire Amazon founder Jeff Bezos - in a deal that values the Reds at more than £5bn.",
+    "source": "https://feeds.bbci.co.uk/news/rss.xml"
+  },
+  {
+    "title": "Stephen Bear jailed over sex offender breaches",
+    "summary": "The TV personality posted in Brazil \"the police will not be able to catch\" him, a court hears.",
     "source": "https://feeds.bbci.co.uk/news/rss.xml"
   },
   {
@@ -15,13 +40,8 @@
     "source": "https://feeds.bbci.co.uk/news/rss.xml"
   },
   {
-    "title": "Eurovision proposes new rules to reduce political voting",
-    "summary": "Organisers reportedly say politically motivated voting is \"persistent\" and is seen as \"deeply worrying\".",
-    "source": "https://feeds.bbci.co.uk/news/rss.xml"
-  },
-  {
-    "title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
-    "summary": "BBC's Top Comment podcast has found a network of Instagram profiles glamourising the swim around the Morocco-Ceuta border fence.",
+    "title": "Glastonbury festival organiser dismisses rumours that Madonna will headline in 2027",
+    "summary": "Emily Eavis says the festival has booked its headliners, but the Queen of Pop is \"definitely not\" among them.",
     "source": "https://feeds.bbci.co.uk/news/rss.xml"
   },
   {
@@ -30,33 +50,8 @@
     "source": "https://feeds.bbci.co.uk/news/rss.xml"
   },
   {
-    "title": "Mother jailed for killing baby by burning her with a hairdryer",
-    "summary": "Courtney Gartshore, 28, used the appliance to subject three-month-old Dahlia-Rose to \"significant and sustained heat\" on her head and body.",
-    "source": "https://feeds.bbci.co.uk/news/rss.xml"
-  },
-  {
-    "title": "Stolen Matisse artworks recovered by police in Brazil",
-    "summary": "A man is arrested after eight works by the French artist are found at a home in greater São Paulo.",
-    "source": "https://feeds.bbci.co.uk/news/rss.xml"
-  },
-  {
-    "title": "Watch: What happens if Luigi Mangione pleads guilty today?",
-    "summary": "Attorneys for Mangione, who is accused of killing United Healthcare CEO Brian Thompson, are meeting federal prosecutors on Friday.",
-    "source": "https://feeds.bbci.co.uk/news/rss.xml"
-  },
-  {
-    "title": "You got hold of eclipse glasses just in time - here's what to do with them now",
-    "summary": "Solar specs are tricky to recycle because of their lenses, so here are three things to do instead.",
-    "source": "https://feeds.bbci.co.uk/news/rss.xml"
-  },
-  {
     "title": "What we know so far about the West Midlands fires",
     "summary": "Several fires swept across the West Midlands on Thursday destroying homes and forcing residents to flee.",
-    "source": "https://feeds.bbci.co.uk/news/rss.xml"
-  },
-  {
-    "title": "I got an £89 refund – how to cancel and  avoid unwanted subscriptions",
-    "summary": "After the PM announced a crackdown on subscription traps, readers share how they got into and out of unwanted plans.",
     "source": "https://feeds.bbci.co.uk/news/rss.xml"
   },
   {
@@ -65,13 +60,8 @@
     "source": "https://feeds.bbci.co.uk/news/rss.xml"
   },
   {
-    "title": "Who to pick, who to avoid - your team's Fantasy Premier League assets analysed",
-    "summary": "Our team of FPL experts assess the best and worst picks for 2026-27 from each of the 20 Premier League teams.",
-    "source": "https://feeds.bbci.co.uk/news/rss.xml"
-  },
-  {
-    "title": "Teens who fled Venezuela after deadly quakes caught in another disaster in Colombia",
-    "summary": "Deivi Delfín and his brother moved to Colombia after a quake in Venezuela killed their mother, but were caught in another deadly disaster.",
+    "title": "Instagram accounts fuelling Ceuta migrant crisis with paid advice for help to cross",
+    "summary": "BBC's Top Comment podcast has found a network of Instagram profiles glamourising the swim around the Morocco-Ceuta border fence.",
     "source": "https://feeds.bbci.co.uk/news/rss.xml"
   },
   {
@@ -100,6 +90,96 @@
     "source": "https://feeds.bbci.co.uk/news/rss.xml"
   },
   {
+    "title": "Eurovision proposes new rules to reduce political voting",
+    "summary": "Organisers reportedly say politically motivated voting is \"persistent\" and is seen as \"deeply worrying\".",
+    "source": "https://feeds.bbci.co.uk/news/rss.xml"
+  },
+  {
+    "title": "Two dead after light aircraft crash",
+    "summary": "A plane travelling from England on Friday did not arrive at Caernarfon Airport as scheduled.",
+    "source": "https://feeds.bbci.co.uk/news/rss.xml"
+  },
+  {
+    "title": "Luigi Mangione pleads guilty in UnitedHealthcare CEO’s killing",
+    "summary": "Luigi Mangione pleaded guilty to killing UnitedHealthcare CEO Brian Thompson in 2024.",
+    "source": "https://www.aljazeera.com/xml/rss/all.xml"
+  },
+  {
+    "title": "British cyclist Finlay Tarling dies in Tour of Portugal crash aged 19",
+    "summary": "Organisers said on social media that Tarling died following a &#039;serious accident&#039; on the stage between Melgaco and Fafe.",
+    "source": "https://www.aljazeera.com/xml/rss/all.xml"
+  },
+  {
+    "title": "Liverpool to sell minority stake to consortium including Jeff Bezos",
+    "summary": "The 1892 Holdings consortium, led by former QPR chairman Amit Bhatia, also includes Bezos’s K5 Sports Fund.",
+    "source": "https://www.aljazeera.com/xml/rss/all.xml"
+  },
+  {
+    "title": "Analysis: Israel’s government can’t disown West Bank settler violence",
+    "summary": "Rights groups warn settler and state-led violence aim to displace Palestinians and annex land in the occupied West Bank.",
+    "source": "https://www.aljazeera.com/xml/rss/all.xml"
+  },
+  {
+    "title": "What’s next for far-right Reform UK after Farage’s by-election win?",
+    "summary": "What’s next for far-right Reform UK after Farage’s by-election win?",
+    "source": "https://www.aljazeera.com/xml/rss/all.xml"
+  },
+  {
+    "title": "Philippines drug war victims seek justice through truth commission",
+    "summary": "Families of drug war victims testify before the Truth Commission, seeking answers and closure after years of silence.",
+    "source": "https://www.aljazeera.com/xml/rss/all.xml"
+  },
+  {
+    "title": "Top French court upholds assisted dying law, rejects teen social media ban",
+    "summary": "The decisions mark both a victory and a setback for President Emmanuel Macron, who had championed both policies.",
+    "source": "https://www.aljazeera.com/xml/rss/all.xml"
+  },
+  {
+    "title": "Mangione pleads guilty to federal charges in UnitedHealthcare CEO killing",
+    "summary": "Mangione admits to shooting Brian Thompson in federal court, still faces separate state charges.",
+    "source": "https://www.aljazeera.com/xml/rss/all.xml"
+  },
+  {
+    "title": "Zambia suspends vote counting in election citing violence",
+    "summary": "Zambia&#039;s electoral commission on Friday suspended vote counting nationwide.",
+    "source": "https://www.aljazeera.com/xml/rss/all.xml"
+  },
+  {
+    "title": "Qatar challenges AFC over open letter attacking FIFA President Infantino",
+    "summary": "Qatar FA President Hamad bin Khalifa Al-Thani complains about lack of consultation about AFC open letter to FIFA.",
+    "source": "https://www.aljazeera.com/xml/rss/all.xml"
+  },
+  {
+    "title": "‘The party of the Cubans’: How Republicans courted a key South Florida vote",
+    "summary": "Polls suggest Cuban American voters in Florida remain largely Republican, despite frustration over immigration.",
+    "source": "https://www.aljazeera.com/xml/rss/all.xml"
+  },
+  {
+    "title": "Ahmed al-Sharaa: A New Vision for Syria",
+    "summary": "An exclusive interview with the man who became president of Syria in 2025 about his vision for his country’s future.",
+    "source": "https://www.aljazeera.com/xml/rss/all.xml"
+  },
+  {
+    "title": "Kushner to visit Israel after Netanyahu rejects Gaza Board of Peace plan",
+    "summary": "Visit to address Israeli opposition to plan for Hamas to disarm, Israel to withdraw from Gaza, board official says.",
+    "source": "https://www.aljazeera.com/xml/rss/all.xml"
+  },
+  {
+    "title": "Mutual defence: The alliances that preceded Turkiye-Pakistan-Saudi pact",
+    "summary": "The pact says an armed ⁠⁠attack on any one of the ⁠⁠three countries would be ⁠⁠regarded as an ⁠⁠attack against them all.",
+    "source": "https://www.aljazeera.com/xml/rss/all.xml"
+  },
+  {
+    "title": "Pakistan PM’s ‘red line’ warning to India over water treaty",
+    "summary": "Pakistan Prime Minister Shehbaz Sharif accused India of illegally suspending the Indus Waters Treaty.",
+    "source": "https://www.aljazeera.com/xml/rss/all.xml"
+  },
+  {
+    "title": "Russia stance will be defended in court, pledges World Athletics chief Coe",
+    "summary": "Russian Athletics has lodged new claim at Court of Arbitration for Sport to challenge sanctions, but WA will fight it.",
+    "source": "https://www.aljazeera.com/xml/rss/all.xml"
+  },
+  {
     "title": "US missionary kidnapped in Niger released after nine months in captivity",
     "summary": "Kevin Rideout, a pilot with the evangelical missionary agency SIM International, was abducted in the capital, Niamey.",
     "source": "https://www.aljazeera.com/xml/rss/all.xml"
@@ -115,88 +195,8 @@
     "source": "https://www.aljazeera.com/xml/rss/all.xml"
   },
   {
-    "title": "Israeli forces block activists from reaching besieged Qusra families",
-    "summary": "About 15 Palestinians, including two children, have been trapped in three homes in Qusra for nearly a week.",
-    "source": "https://www.aljazeera.com/xml/rss/all.xml"
-  },
-  {
-    "title": "Rising Australian golfer Bang dies of brain haemorrhage in Thailand aged 18",
-    "summary": "Jessica Bang won her first professional event this year but died after collapse in Thailand and emergency surgery.",
-    "source": "https://www.aljazeera.com/xml/rss/all.xml"
-  },
-  {
-    "title": "Israeli PM Netanyahu calls UK ‘the Islamic Republic of Britain’",
-    "summary": "The Israeli PM&#039;s remark comes amid signs of growing tension between Israel and the UK&#039;s Labour government.",
-    "source": "https://www.aljazeera.com/xml/rss/all.xml"
-  },
-  {
-    "title": "Huckabee calls Israeli settlers ‘terrorists’: Can US push end Qusra siege?",
-    "summary": "US ambassador to Israel has issued a rare condemnation of a violent siege on families in the West Bank village of Qusra.",
-    "source": "https://www.aljazeera.com/xml/rss/all.xml"
-  },
-  {
-    "title": "Man City tight-lipped on Rodri transfer amid Barcelona and Real Madrid link",
-    "summary": "Manchester City&#039;s Enzo Maresca coy on the future of midfielder Rodri ahead of Community Shield showdown with Arsenal.",
-    "source": "https://www.aljazeera.com/xml/rss/all.xml"
-  },
-  {
-    "title": "US threatens ‘indefinite’ blockade against Iran: How long can it last?",
-    "summary": "US Secretary of Defense Pete Hegseth claims US Navy can sustain blockade despite reports of poor conditions.",
-    "source": "https://www.aljazeera.com/xml/rss/all.xml"
-  },
-  {
-    "title": "Russian ballistic attacks intensify as Kyiv claims Dnipropetrovsk advance",
-    "summary": "Ukraine says it has liberated 26 settlements in the south as it retools under heavy bombardment.",
-    "source": "https://www.aljazeera.com/xml/rss/all.xml"
-  },
-  {
-    "title": "Record-breaking rain in Japan leaves several dead, thousands stranded",
-    "summary": "At least four people were killed, and one remains missing after record-breaking rain triggered flooding in Japan.",
-    "source": "https://www.aljazeera.com/xml/rss/all.xml"
-  },
-  {
-    "title": "Scrutiny over Farage’s finances has ‘hurt Reform UK support’",
-    "summary": "Scrutiny over Farage’s finances has ‘hurt Reform UK support’",
-    "source": "https://www.aljazeera.com/xml/rss/all.xml"
-  },
-  {
-    "title": "Seven killed in tunnel accident at Indian hydropower project",
-    "summary": "Water and debris burst into a state-run hydropower tunnel in Uttarakhand following a landslide.",
-    "source": "https://www.aljazeera.com/xml/rss/all.xml"
-  },
-  {
-    "title": "New Zealand break ranks with Oceania as FIFA’s Infantino divide grows",
-    "summary": "Oceania have offered support to Gianni Infantino, but New Zealand have gone against their own confederation in FIFA row.",
-    "source": "https://www.aljazeera.com/xml/rss/all.xml"
-  },
-  {
-    "title": "Russia says hit Ukrainian railway and port facilities in new strikes",
-    "summary": "Kyiv targets Baltic oil hub and warehouse near Moscow with drones.",
-    "source": "https://www.aljazeera.com/xml/rss/all.xml"
-  },
-  {
-    "title": "Swiatek defeats Rybakina to claim Canadian Open title​",
-    "summary": "Six-time Grand Slam champion Iga Swiatek defeats Elena Rybakina in Toronto to claim the WTA Canadian Open title.",
-    "source": "https://www.aljazeera.com/xml/rss/all.xml"
-  },
-  {
-    "title": "UK far-right leader Farage re-elected in boycotted by-election",
-    "summary": "Nigel Farage re-elected in Clacton by-election after resigning amid scrutiny over his finances.",
-    "source": "https://www.aljazeera.com/xml/rss/all.xml"
-  },
-  {
-    "title": "La Liga: Barcelona key talking points heading into new 2026-27 season",
-    "summary": "Barcelona will aim to become the first club to three-peat in the Spain Primera Division since 2008-11 Pep Guardiola era.",
-    "source": "https://www.aljazeera.com/xml/rss/all.xml"
-  },
-  {
-    "title": "A year after student protests shook Valjevo: Serbia at a crossroads",
-    "summary": "Protests that erupted after railway station canopy collapsed, killing 16, have grown into a broad social movement.",
-    "source": "https://www.aljazeera.com/xml/rss/all.xml"
-  },
-  {
-    "title": "What is a ‘ceasefire’ supposed to achieve?",
-    "summary": "Gaza, Lebanon, Iran, Ukraine: four ceasefires, none that held. AJLabs on why truces keep collapsing.",
+    "title": "US wants Netanyahu to condemn settler violence in Qusra",
+    "summary": "Mike Huckabee, US ambassador to Israel, described the settlers in Qusra as &quot;Israeli terrorists&quot; amid weeklong siege.",
     "source": "https://www.aljazeera.com/xml/rss/all.xml"
   }
 ]

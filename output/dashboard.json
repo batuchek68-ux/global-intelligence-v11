@@ -1,127 +1,127 @@
 {
   "keywords": [
     [
-      "what",
-      6
+      "over",
+      5
     ],
     [
       "after",
-      4
-    ],
-    [
-      "new",
-      4
-    ],
-    [
-      "with",
-      4
-    ],
-    [
-      "how",
-      4
-    ],
-    [
-      "your",
-      4
-    ],
-    [
-      "israeli",
-      4
-    ],
-    [
-      "over",
-      3
+      5
     ],
     [
       "byelection",
       3
     ],
     [
-      "can",
+      "that",
       3
     ],
     [
-      "who",
+      "will",
       3
     ],
     [
-      "farage",
+      "what",
+      3
+    ],
+    [
+      "your",
+      3
+    ],
+    [
+      "how",
+      3
+    ],
+    [
+      "violence",
+      3
+    ],
+    [
+      "ban",
       2
     ],
     [
-      "clacton",
+      "women",
       2
     ],
     [
-      "says",
+      "finlay",
       2
     ],
     [
-      "you",
+      "tarling",
       2
     ],
     [
-      "got",
+      "dies",
       2
     ],
     [
-      "heres",
+      "portugal",
       2
     ],
     [
-      "avoid",
+      "aid",
       2
     ],
     [
-      "farages",
+      "palestinians",
       2
     ],
     [
-      "air",
+      "besieged",
+      2
+    ],
+    [
+      "israeli",
+      2
+    ],
+    [
+      "consortium",
       2
     ]
   ],
   "topics": [
     {
-      "name": "what",
-      "count": 6
+      "name": "over",
+      "count": 5
     },
     {
       "name": "after",
-      "count": 4
-    },
-    {
-      "name": "new",
-      "count": 4
-    },
-    {
-      "name": "with",
-      "count": 4
-    },
-    {
-      "name": "how",
-      "count": 4
-    },
-    {
-      "name": "your",
-      "count": 4
-    },
-    {
-      "name": "israeli",
-      "count": 4
-    },
-    {
-      "name": "over",
-      "count": 3
+      "count": 5
     },
     {
       "name": "byelection",
       "count": 3
     },
     {
-      "name": "can",
+      "name": "that",
       "count": 3
+    },
+    {
+      "name": "will",
+      "count": 3
+    },
+    {
+      "name": "what",
+      "count": 3
+    },
+    {
+      "name": "your",
+      "count": 3
+    },
+    {
+      "name": "how",
+      "count": 3
+    },
+    {
+      "name": "violence",
+      "count": 3
+    },
+    {
+      "name": "ban",
+      "count": 2
     }
   ],
-  "updated_at": "2026-08-14 13:16:00.617056"
+  "updated_at": "2026-08-14 18:59:40.119569"
 }
