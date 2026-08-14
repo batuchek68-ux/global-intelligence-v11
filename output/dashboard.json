@@ -1,16 +1,12 @@
 {
   "keywords": [
     [
-      "two",
-      5
-    ],
-    [
-      "iran",
+      "from",
       4
     ],
     [
-      "homes",
-      3
+      "how",
+      4
     ],
     [
       "out",
@@ -25,19 +21,7 @@
       3
     ],
     [
-      "off",
-      3
-    ],
-    [
-      "houses",
-      3
-    ],
-    [
-      "your",
-      3
-    ],
-    [
-      "how",
+      "new",
       3
     ],
     [
@@ -45,23 +29,11 @@
       3
     ],
     [
-      "police",
+      "your",
       3
     ],
     [
-      "war",
-      3
-    ],
-    [
-      "multiple",
-      2
-    ],
-    [
-      "train",
-      2
-    ],
-    [
-      "derails",
+      "victory",
       2
     ],
     [
@@ -73,26 +45,50 @@
       2
     ],
     [
-      "eyes",
+      "four",
+      2
+    ],
+    [
+      "she",
+      2
+    ],
+    [
+      "that",
+      2
+    ],
+    [
+      "homes",
       2
     ],
     [
       "israeli",
       2
+    ],
+    [
+      "houses",
+      2
+    ],
+    [
+      "speaks",
+      2
+    ],
+    [
+      "who",
+      2
+    ],
+    [
+      "just",
+      2
     ]
   ],
   "topics": [
     {
-      "name": "two",
-      "count": 5
-    },
-    {
-      "name": "iran",
+      "name": "from",
       "count": 4
     },
     {
-      "name": "homes",
-      "count": 3
+      "name": "how",
+      "count": 4
     },
     {
       "name": "out",
@@ -107,11 +103,11 @@
       "count": 3
     },
     {
-      "name": "off",
+      "name": "new",
       "count": 3
     },
     {
-      "name": "houses",
+      "name": "with",
       "count": 3
     },
     {
@@ -119,9 +115,13 @@
       "count": 3
     },
     {
-      "name": "how",
-      "count": 3
+      "name": "victory",
+      "count": 2
+    },
+    {
+      "name": "day",
+      "count": 2
     }
   ],
-  "updated_at": "2026-08-14 02:19:55.597107"
+  "updated_at": "2026-08-14 07:38:12.239973"
 }
