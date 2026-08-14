@@ -1,7 +1,19 @@
 {
   "keywords": [
     [
-      "from",
+      "what",
+      6
+    ],
+    [
+      "after",
+      4
+    ],
+    [
+      "new",
+      4
+    ],
+    [
+      "with",
       4
     ],
     [
@@ -9,81 +21,81 @@
       4
     ],
     [
-      "out",
-      3
-    ],
-    [
-      "was",
-      3
-    ],
-    [
-      "says",
-      3
-    ],
-    [
-      "new",
-      3
-    ],
-    [
-      "with",
-      3
-    ],
-    [
       "your",
-      3
-    ],
-    [
-      "victory",
-      2
-    ],
-    [
-      "day",
-      2
-    ],
-    [
-      "heatwave",
-      2
-    ],
-    [
-      "four",
-      2
-    ],
-    [
-      "she",
-      2
-    ],
-    [
-      "that",
-      2
-    ],
-    [
-      "homes",
-      2
+      4
     ],
     [
       "israeli",
-      2
+      4
     ],
     [
-      "houses",
-      2
+      "over",
+      3
     ],
     [
-      "speaks",
-      2
+      "byelection",
+      3
+    ],
+    [
+      "can",
+      3
     ],
     [
       "who",
+      3
+    ],
+    [
+      "farage",
       2
     ],
     [
-      "just",
+      "clacton",
+      2
+    ],
+    [
+      "says",
+      2
+    ],
+    [
+      "you",
+      2
+    ],
+    [
+      "got",
+      2
+    ],
+    [
+      "heres",
+      2
+    ],
+    [
+      "avoid",
+      2
+    ],
+    [
+      "farages",
+      2
+    ],
+    [
+      "air",
       2
     ]
   ],
   "topics": [
     {
-      "name": "from",
+      "name": "what",
+      "count": 6
+    },
+    {
+      "name": "after",
+      "count": 4
+    },
+    {
+      "name": "new",
+      "count": 4
+    },
+    {
+      "name": "with",
       "count": 4
     },
     {
@@ -91,37 +103,25 @@
       "count": 4
     },
     {
-      "name": "out",
-      "count": 3
-    },
-    {
-      "name": "was",
-      "count": 3
-    },
-    {
-      "name": "says",
-      "count": 3
-    },
-    {
-      "name": "new",
-      "count": 3
-    },
-    {
-      "name": "with",
-      "count": 3
-    },
-    {
       "name": "your",
+      "count": 4
+    },
+    {
+      "name": "israeli",
+      "count": 4
+    },
+    {
+      "name": "over",
       "count": 3
     },
     {
-      "name": "victory",
-      "count": 2
+      "name": "byelection",
+      "count": 3
     },
     {
-      "name": "day",
-      "count": 2
+      "name": "can",
+      "count": 3
     }
   ],
-  "updated_at": "2026-08-14 07:38:12.239973"
+  "updated_at": "2026-08-14 13:16:00.617056"
 }
