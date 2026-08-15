@@ -1,55 +1,35 @@
 {
   "keywords": [
     [
-      "over",
+      "after",
+      6
+    ],
+    [
+      "says",
+      5
+    ],
+    [
+      "earthquake",
       4
     ],
     [
-      "trump",
+      "indonesia",
       4
-    ],
-    [
-      "professor",
-      3
-    ],
-    [
-      "found",
-      3
     ],
     [
       "dead",
       3
     ],
     [
-      "five",
+      "what",
       3
     ],
     [
-      "years",
+      "trump",
       3
     ],
     [
-      "after",
-      3
-    ],
-    [
-      "taliban",
-      3
-    ],
-    [
-      "israeli",
-      3
-    ],
-    [
-      "says",
-      3
-    ],
-    [
-      "war",
-      3
-    ],
-    [
-      "plagiarism",
+      "professor",
       2
     ],
     [
@@ -57,7 +37,7 @@
       2
     ],
     [
-      "fires",
+      "found",
       2
     ],
     [
@@ -69,59 +49,79 @@
       2
     ],
     [
-      "west",
+      "military",
       2
     ],
     [
-      "ceo",
+      "five",
       2
     ],
     [
-      "bbc",
+      "years",
+      2
+    ],
+    [
+      "taliban",
+      2
+    ],
+    [
+      "following",
+      2
+    ],
+    [
+      "least",
+      2
+    ],
+    [
+      "77magnitude",
+      2
+    ],
+    [
+      "strikes",
       2
     ]
   ],
   "topics": [
     {
-      "name": "over",
+      "name": "after",
+      "count": 6
+    },
+    {
+      "name": "says",
+      "count": 5
+    },
+    {
+      "name": "earthquake",
       "count": 4
     },
     {
-      "name": "trump",
+      "name": "indonesia",
       "count": 4
-    },
-    {
-      "name": "professor",
-      "count": 3
-    },
-    {
-      "name": "found",
-      "count": 3
     },
     {
       "name": "dead",
       "count": 3
     },
     {
-      "name": "five",
+      "name": "what",
       "count": 3
     },
     {
-      "name": "years",
+      "name": "trump",
       "count": 3
     },
     {
-      "name": "after",
-      "count": 3
+      "name": "professor",
+      "count": 2
     },
     {
-      "name": "taliban",
-      "count": 3
+      "name": "row",
+      "count": 2
     },
     {
-      "name": "israeli",
-      "count": 3
+      "name": "found",
+      "count": 2
     }
   ],
-  "updated_at": "2026-08-15 01:26:57.675000"
+  "updated_at": "2026-08-15 06:44:53.465699"
 }
