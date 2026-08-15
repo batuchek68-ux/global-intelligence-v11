@@ -2,54 +2,54 @@
   "keywords": [
     [
       "after",
-      6
-    ],
-    [
-      "says",
       5
     ],
     [
-      "earthquake",
+      "with",
       4
+    ],
+    [
+      "death",
+      3
+    ],
+    [
+      "from",
+      3
+    ],
+    [
+      "are",
+      3
+    ],
+    [
+      "world",
+      3
+    ],
+    [
+      "cup",
+      3
+    ],
+    [
+      "israeli",
+      3
+    ],
+    [
+      "lebanon",
+      3
+    ],
+    [
+      "many",
+      2
+    ],
+    [
+      "says",
+      2
+    ],
+    [
+      "earthquake",
+      2
     ],
     [
       "indonesia",
-      4
-    ],
-    [
-      "dead",
-      3
-    ],
-    [
-      "what",
-      3
-    ],
-    [
-      "trump",
-      3
-    ],
-    [
-      "professor",
-      2
-    ],
-    [
-      "row",
-      2
-    ],
-    [
-      "found",
-      2
-    ],
-    [
-      "homes",
-      2
-    ],
-    [
-      "ban",
-      2
-    ],
-    [
-      "military",
       2
     ],
     [
@@ -65,63 +65,63 @@
       2
     ],
     [
-      "following",
+      "west",
       2
     ],
     [
-      "least",
+      "moment",
       2
     ],
     [
-      "77magnitude",
+      "family",
       2
     ],
     [
-      "strikes",
+      "his",
       2
     ]
   ],
   "topics": [
     {
       "name": "after",
-      "count": 6
-    },
-    {
-      "name": "says",
       "count": 5
     },
     {
-      "name": "earthquake",
+      "name": "with",
       "count": 4
     },
     {
-      "name": "indonesia",
-      "count": 4
-    },
-    {
-      "name": "dead",
+      "name": "death",
       "count": 3
     },
     {
-      "name": "what",
+      "name": "from",
       "count": 3
     },
     {
-      "name": "trump",
+      "name": "are",
       "count": 3
     },
     {
-      "name": "professor",
-      "count": 2
+      "name": "world",
+      "count": 3
     },
     {
-      "name": "row",
-      "count": 2
+      "name": "cup",
+      "count": 3
     },
     {
-      "name": "found",
+      "name": "israeli",
+      "count": 3
+    },
+    {
+      "name": "lebanon",
+      "count": 3
+    },
+    {
+      "name": "many",
       "count": 2
     }
   ],
-  "updated_at": "2026-08-15 06:44:53.465699"
+  "updated_at": "2026-08-15 12:44:58.634063"
 }
