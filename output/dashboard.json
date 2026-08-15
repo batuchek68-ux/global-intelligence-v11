@@ -1,11 +1,7 @@
 {
   "keywords": [
     [
-      "after",
-      5
-    ],
-    [
-      "with",
+      "five",
       4
     ],
     [
@@ -13,55 +9,39 @@
       3
     ],
     [
-      "from",
-      3
-    ],
-    [
-      "are",
-      3
-    ],
-    [
-      "world",
-      3
-    ],
-    [
-      "cup",
-      3
-    ],
-    [
-      "israeli",
-      3
-    ],
-    [
-      "lebanon",
-      3
-    ],
-    [
       "many",
-      2
+      3
     ],
     [
       "says",
-      2
-    ],
-    [
-      "earthquake",
-      2
-    ],
-    [
-      "indonesia",
-      2
-    ],
-    [
-      "five",
-      2
+      3
     ],
     [
       "years",
-      2
+      3
+    ],
+    [
+      "after",
+      3
     ],
     [
       "taliban",
+      3
+    ],
+    [
+      "will",
+      2
+    ],
+    [
+      "through",
+      2
+    ],
+    [
+      "home",
+      2
+    ],
+    [
+      "are",
       2
     ],
     [
@@ -69,7 +49,11 @@
       2
     ],
     [
-      "moment",
+      "killed",
+      2
+    ],
+    [
+      "israeli",
       2
     ],
     [
@@ -77,17 +61,29 @@
       2
     ],
     [
-      "his",
+      "found",
+      2
+    ],
+    [
+      "wildfire",
+      2
+    ],
+    [
+      "women",
+      2
+    ],
+    [
+      "with",
+      2
+    ],
+    [
+      "russian",
       2
     ]
   ],
   "topics": [
     {
-      "name": "after",
-      "count": 5
-    },
-    {
-      "name": "with",
+      "name": "five",
       "count": 4
     },
     {
@@ -95,33 +91,37 @@
       "count": 3
     },
     {
-      "name": "from",
-      "count": 3
-    },
-    {
-      "name": "are",
-      "count": 3
-    },
-    {
-      "name": "world",
-      "count": 3
-    },
-    {
-      "name": "cup",
-      "count": 3
-    },
-    {
-      "name": "israeli",
-      "count": 3
-    },
-    {
-      "name": "lebanon",
-      "count": 3
-    },
-    {
       "name": "many",
+      "count": 3
+    },
+    {
+      "name": "says",
+      "count": 3
+    },
+    {
+      "name": "years",
+      "count": 3
+    },
+    {
+      "name": "after",
+      "count": 3
+    },
+    {
+      "name": "taliban",
+      "count": 3
+    },
+    {
+      "name": "will",
+      "count": 2
+    },
+    {
+      "name": "through",
+      "count": 2
+    },
+    {
+      "name": "home",
       "count": 2
     }
   ],
-  "updated_at": "2026-08-15 12:44:58.634063"
+  "updated_at": "2026-08-15 18:35:01.751353"
 }
