@@ -1,43 +1,27 @@
 {
   "keywords": [
     [
-      "says",
-      5
-    ],
-    [
-      "hit",
+      "after",
       4
     ],
     [
-      "years",
+      "with",
+      4
+    ],
+    [
+      "new",
       3
     ],
     [
-      "say",
-      3
+      "people",
+      2
     ],
     [
-      "from",
-      3
+      "home",
+      2
     ],
     [
-      "why",
-      3
-    ],
-    [
-      "are",
-      3
-    ],
-    [
-      "gaza",
-      3
-    ],
-    [
-      "strikes",
-      3
-    ],
-    [
-      "search",
+      "bitten",
       2
     ],
     [
@@ -45,15 +29,7 @@
       2
     ],
     [
-      "major",
-      2
-    ],
-    [
-      "reports",
-      2
-    ],
-    [
-      "men",
+      "despite",
       2
     ],
     [
@@ -61,67 +37,91 @@
       2
     ],
     [
-      "new",
+      "years",
       2
     ],
     [
-      "back",
+      "why",
       2
     ],
     [
-      "women",
+      "europes",
       2
     ],
     [
-      "about",
+      "are",
       2
     ],
     [
-      "death",
+      "record",
       2
+    ],
+    [
+      "israel",
+      2
+    ],
+    [
+      "rule",
+      2
+    ],
+    [
+      "live",
+      2
+    ],
+    [
+      "watch",
+      1
+    ],
+    [
+      "bbc",
+      1
+    ],
+    [
+      "visits",
+      1
     ]
   ],
   "topics": [
     {
-      "name": "says",
-      "count": 5
-    },
-    {
-      "name": "hit",
+      "name": "after",
       "count": 4
     },
     {
+      "name": "with",
+      "count": 4
+    },
+    {
+      "name": "new",
+      "count": 3
+    },
+    {
+      "name": "people",
+      "count": 2
+    },
+    {
+      "name": "home",
+      "count": 2
+    },
+    {
+      "name": "bitten",
+      "count": 2
+    },
+    {
+      "name": "earthquake",
+      "count": 2
+    },
+    {
+      "name": "despite",
+      "count": 2
+    },
+    {
+      "name": "this",
+      "count": 2
+    },
+    {
       "name": "years",
-      "count": 3
-    },
-    {
-      "name": "say",
-      "count": 3
-    },
-    {
-      "name": "from",
-      "count": 3
-    },
-    {
-      "name": "why",
-      "count": 3
-    },
-    {
-      "name": "are",
-      "count": 3
-    },
-    {
-      "name": "gaza",
-      "count": 3
-    },
-    {
-      "name": "strikes",
-      "count": 3
-    },
-    {
-      "name": "search",
       "count": 2
     }
   ],
-  "updated_at": "2026-08-16 06:46:38.020936"
+  "updated_at": "2026-08-16 12:47:29.987727"
 }
