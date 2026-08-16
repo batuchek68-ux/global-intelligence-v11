@@ -1,27 +1,23 @@
 {
   "keywords": [
     [
-      "from",
+      "says",
       5
     ],
     [
-      "says",
+      "hit",
       4
-    ],
-    [
-      "death",
-      4
-    ],
-    [
-      "police",
-      3
     ],
     [
       "years",
       3
     ],
     [
-      "hit",
+      "say",
+      3
+    ],
+    [
+      "from",
       3
     ],
     [
@@ -33,7 +29,15 @@
       3
     ],
     [
-      "major",
+      "gaza",
+      3
+    ],
+    [
+      "strikes",
+      3
+    ],
+    [
+      "search",
       2
     ],
     [
@@ -41,11 +45,11 @@
       2
     ],
     [
-      "kills",
+      "major",
       2
     ],
     [
-      "least",
+      "reports",
       2
     ],
     [
@@ -61,49 +65,41 @@
       2
     ],
     [
+      "back",
+      2
+    ],
+    [
       "women",
       2
     ],
     [
-      "better",
+      "about",
       2
     ],
     [
-      "hawaii",
-      2
-    ],
-    [
-      "hurricane",
-      2
-    ],
-    [
-      "war",
+      "death",
       2
     ]
   ],
   "topics": [
     {
-      "name": "from",
+      "name": "says",
       "count": 5
     },
     {
-      "name": "says",
+      "name": "hit",
       "count": 4
-    },
-    {
-      "name": "death",
-      "count": 4
-    },
-    {
-      "name": "police",
-      "count": 3
     },
     {
       "name": "years",
       "count": 3
     },
     {
-      "name": "hit",
+      "name": "say",
+      "count": 3
+    },
+    {
+      "name": "from",
       "count": 3
     },
     {
@@ -115,13 +111,17 @@
       "count": 3
     },
     {
-      "name": "major",
-      "count": 2
+      "name": "gaza",
+      "count": 3
     },
     {
-      "name": "earthquake",
+      "name": "strikes",
+      "count": 3
+    },
+    {
+      "name": "search",
       "count": 2
     }
   ],
-  "updated_at": "2026-08-16 01:39:01.418999"
+  "updated_at": "2026-08-16 06:46:38.020936"
 }
