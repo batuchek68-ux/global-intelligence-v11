@@ -2,22 +2,50 @@
   "keywords": [
     [
       "after",
+      5
+    ],
+    [
+      "israeli",
       4
     ],
     [
-      "with",
-      4
-    ],
-    [
-      "new",
+      "russia",
       3
     ],
     [
-      "people",
+      "largest",
+      3
+    ],
+    [
+      "west",
+      3
+    ],
+    [
+      "bank",
+      3
+    ],
+    [
+      "says",
       2
     ],
     [
-      "home",
+      "ukrainian",
+      2
+    ],
+    [
+      "attack",
+      2
+    ],
+    [
+      "watch",
+      2
+    ],
+    [
+      "inquiry",
+      2
+    ],
+    [
+      "man",
       2
     ],
     [
@@ -25,103 +53,75 @@
       2
     ],
     [
-      "earthquake",
+      "calls",
       2
     ],
     [
-      "despite",
+      "into",
       2
     ],
     [
-      "this",
+      "jason",
       2
     ],
     [
-      "years",
+      "arday",
       2
     ],
     [
-      "why",
+      "homes",
       2
     ],
     [
-      "europes",
+      "new",
       2
     ],
     [
-      "are",
+      "fires",
       2
-    ],
-    [
-      "record",
-      2
-    ],
-    [
-      "israel",
-      2
-    ],
-    [
-      "rule",
-      2
-    ],
-    [
-      "live",
-      2
-    ],
-    [
-      "watch",
-      1
-    ],
-    [
-      "bbc",
-      1
-    ],
-    [
-      "visits",
-      1
     ]
   ],
   "topics": [
     {
       "name": "after",
+      "count": 5
+    },
+    {
+      "name": "israeli",
       "count": 4
     },
     {
-      "name": "with",
-      "count": 4
-    },
-    {
-      "name": "new",
+      "name": "russia",
       "count": 3
     },
     {
-      "name": "people",
+      "name": "largest",
+      "count": 3
+    },
+    {
+      "name": "west",
+      "count": 3
+    },
+    {
+      "name": "bank",
+      "count": 3
+    },
+    {
+      "name": "says",
       "count": 2
     },
     {
-      "name": "home",
+      "name": "ukrainian",
       "count": 2
     },
     {
-      "name": "bitten",
+      "name": "attack",
       "count": 2
     },
     {
-      "name": "earthquake",
-      "count": 2
-    },
-    {
-      "name": "despite",
-      "count": 2
-    },
-    {
-      "name": "this",
-      "count": 2
-    },
-    {
-      "name": "years",
+      "name": "watch",
       "count": 2
     }
   ],
-  "updated_at": "2026-08-16 12:47:29.987727"
+  "updated_at": "2026-08-16 18:34:16.196540"
 }
