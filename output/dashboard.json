@@ -1,19 +1,19 @@
 {
   "keywords": [
     [
-      "five",
+      "from",
+      5
+    ],
+    [
+      "says",
       4
     ],
     [
       "death",
-      3
+      4
     ],
     [
-      "many",
-      3
-    ],
-    [
-      "says",
+      "police",
       3
     ],
     [
@@ -21,51 +21,43 @@
       3
     ],
     [
-      "after",
+      "hit",
       3
     ],
     [
-      "taliban",
+      "why",
       3
-    ],
-    [
-      "will",
-      2
-    ],
-    [
-      "through",
-      2
-    ],
-    [
-      "home",
-      2
     ],
     [
       "are",
+      3
+    ],
+    [
+      "major",
       2
     ],
     [
-      "west",
+      "earthquake",
       2
     ],
     [
-      "killed",
+      "kills",
       2
     ],
     [
-      "israeli",
+      "least",
       2
     ],
     [
-      "family",
+      "men",
       2
     ],
     [
-      "found",
+      "this",
       2
     ],
     [
-      "wildfire",
+      "new",
       2
     ],
     [
@@ -73,29 +65,37 @@
       2
     ],
     [
-      "with",
+      "better",
       2
     ],
     [
-      "russian",
+      "hawaii",
+      2
+    ],
+    [
+      "hurricane",
+      2
+    ],
+    [
+      "war",
       2
     ]
   ],
   "topics": [
     {
-      "name": "five",
+      "name": "from",
+      "count": 5
+    },
+    {
+      "name": "says",
       "count": 4
     },
     {
       "name": "death",
-      "count": 3
+      "count": 4
     },
     {
-      "name": "many",
-      "count": 3
-    },
-    {
-      "name": "says",
+      "name": "police",
       "count": 3
     },
     {
@@ -103,25 +103,25 @@
       "count": 3
     },
     {
-      "name": "after",
+      "name": "hit",
       "count": 3
     },
     {
-      "name": "taliban",
+      "name": "why",
       "count": 3
     },
     {
-      "name": "will",
+      "name": "are",
+      "count": 3
+    },
+    {
+      "name": "major",
       "count": 2
     },
     {
-      "name": "through",
-      "count": 2
-    },
-    {
-      "name": "home",
+      "name": "earthquake",
       "count": 2
     }
   ],
-  "updated_at": "2026-08-15 18:35:01.751353"
+  "updated_at": "2026-08-16 01:39:01.418999"
 }

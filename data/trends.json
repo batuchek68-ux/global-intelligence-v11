@@ -1,18 +1,18 @@
 [
   [
-    "five",
+    "from",
+    5
+  ],
+  [
+    "says",
     4
   ],
   [
     "death",
-    3
+    4
   ],
   [
-    "many",
-    3
-  ],
-  [
-    "says",
+    "police",
     3
   ],
   [
@@ -20,51 +20,43 @@
     3
   ],
   [
-    "after",
+    "hit",
     3
   ],
   [
-    "taliban",
+    "why",
     3
-  ],
-  [
-    "will",
-    2
-  ],
-  [
-    "through",
-    2
-  ],
-  [
-    "home",
-    2
   ],
   [
     "are",
+    3
+  ],
+  [
+    "major",
     2
   ],
   [
-    "west",
+    "earthquake",
     2
   ],
   [
-    "killed",
+    "kills",
     2
   ],
   [
-    "israeli",
+    "least",
     2
   ],
   [
-    "family",
+    "men",
     2
   ],
   [
-    "found",
+    "this",
     2
   ],
   [
-    "wildfire",
+    "new",
     2
   ],
   [
@@ -72,11 +64,19 @@
     2
   ],
   [
-    "with",
+    "better",
     2
   ],
   [
-    "russian",
+    "hawaii",
+    2
+  ],
+  [
+    "hurricane",
+    2
+  ],
+  [
+    "war",
     2
   ]
 ]
