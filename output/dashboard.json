@@ -1,19 +1,23 @@
 {
   "keywords": [
     [
-      "says",
-      5
+      "after",
+      6
     ],
     [
-      "israeli",
-      5
-    ],
-    [
-      "gaza",
+      "israel",
       4
     ],
     [
-      "after",
+      "says",
+      4
+    ],
+    [
+      "bank",
+      4
+    ],
+    [
+      "israeli",
       4
     ],
     [
@@ -21,47 +25,47 @@
       3
     ],
     [
-      "kushner",
+      "gaza",
       3
     ],
     [
-      "meets",
+      "with",
       3
     ],
     [
-      "hamas",
+      "iran",
       3
     ],
     [
-      "back",
+      "war",
       3
     ],
     [
-      "calls",
+      "history",
       3
     ],
     [
-      "into",
+      "hundreds",
       3
     ],
     [
-      "attacks",
+      "could",
       3
     ],
     [
-      "erdogan",
+      "west",
       3
     ],
     [
-      "push",
+      "rare",
       2
     ],
     [
-      "plan",
+      "bbc",
       2
     ],
     [
-      "dead",
+      "reduce",
       2
     ],
     [
@@ -73,29 +77,29 @@
       2
     ],
     [
-      "with",
-      2
-    ],
-    [
       "south",
       2
     ]
   ],
   "topics": [
     {
-      "name": "says",
-      "count": 5
+      "name": "after",
+      "count": 6
     },
     {
-      "name": "israeli",
-      "count": 5
-    },
-    {
-      "name": "gaza",
+      "name": "israel",
       "count": 4
     },
     {
-      "name": "after",
+      "name": "says",
+      "count": 4
+    },
+    {
+      "name": "bank",
+      "count": 4
+    },
+    {
+      "name": "israeli",
       "count": 4
     },
     {
@@ -103,25 +107,21 @@
       "count": 3
     },
     {
-      "name": "kushner",
+      "name": "gaza",
       "count": 3
     },
     {
-      "name": "meets",
+      "name": "with",
       "count": 3
     },
     {
-      "name": "hamas",
+      "name": "iran",
       "count": 3
     },
     {
-      "name": "back",
-      "count": 3
-    },
-    {
-      "name": "calls",
+      "name": "war",
       "count": 3
     }
   ],
-  "updated_at": "2026-08-17 01:36:57.185533"
+  "updated_at": "2026-08-17 07:03:35.118339"
 }
