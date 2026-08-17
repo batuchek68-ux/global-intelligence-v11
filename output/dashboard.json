@@ -1,27 +1,35 @@
 {
   "keywords": [
     [
+      "trump",
+      5
+    ],
+    [
       "with",
+      5
+    ],
+    [
+      "iran",
       4
     ],
     [
-      "trump",
-      4
+      "over",
+      3
+    ],
+    [
+      "hayden",
+      3
     ],
     [
       "after",
-      4
-    ],
-    [
-      "how",
-      4
+      3
     ],
     [
       "child",
       3
     ],
     [
-      "takes",
+      "plan",
       3
     ],
     [
@@ -29,19 +37,11 @@
       3
     ],
     [
-      "south",
-      3
+      "way",
+      2
     ],
     [
-      "korea",
-      3
-    ],
-    [
-      "war",
-      3
-    ],
-    [
-      "bbc",
+      "star",
       2
     ],
     [
@@ -49,11 +49,7 @@
       2
     ],
     [
-      "way",
-      2
-    ],
-    [
-      "watch",
+      "global",
       2
     ],
     [
@@ -61,49 +57,61 @@
       2
     ],
     [
-      "boys",
+      "kushner",
       2
     ],
     [
-      "talks",
+      "you",
       2
     ],
     [
-      "jason",
+      "panettieres",
       2
     ],
     [
-      "over",
+      "life",
       2
     ],
     [
-      "hayden",
+      "violence",
+      2
+    ],
+    [
+      "city",
       2
     ]
   ],
   "topics": [
     {
+      "name": "trump",
+      "count": 5
+    },
+    {
       "name": "with",
+      "count": 5
+    },
+    {
+      "name": "iran",
       "count": 4
     },
     {
-      "name": "trump",
-      "count": 4
+      "name": "over",
+      "count": 3
+    },
+    {
+      "name": "hayden",
+      "count": 3
     },
     {
       "name": "after",
-      "count": 4
-    },
-    {
-      "name": "how",
-      "count": 4
+      "count": 3
     },
     {
       "name": "child",
       "count": 3
     },
     {
-      "name": "takes",
+      "name": "plan",
       "count": 3
     },
     {
@@ -111,17 +119,9 @@
       "count": 3
     },
     {
-      "name": "south",
-      "count": 3
-    },
-    {
-      "name": "korea",
-      "count": 3
-    },
-    {
-      "name": "war",
-      "count": 3
+      "name": "way",
+      "count": 2
     }
   ],
-  "updated_at": "2026-08-17 12:52:13.155457"
+  "updated_at": "2026-08-17 18:45:37.948822"
 }
