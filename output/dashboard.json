@@ -1,127 +1,127 @@
 {
   "keywords": [
     [
-      "after",
+      "says",
       5
     ],
     [
       "israeli",
+      5
+    ],
+    [
+      "gaza",
       4
     ],
     [
-      "russia",
+      "after",
+      4
+    ],
+    [
+      "trump",
       3
     ],
     [
-      "largest",
+      "kushner",
       3
     ],
     [
-      "west",
+      "meets",
       3
     ],
     [
-      "bank",
+      "hamas",
       3
     ],
     [
-      "says",
-      2
-    ],
-    [
-      "ukrainian",
-      2
-    ],
-    [
-      "attack",
-      2
-    ],
-    [
-      "watch",
-      2
-    ],
-    [
-      "inquiry",
-      2
-    ],
-    [
-      "man",
-      2
-    ],
-    [
-      "bitten",
-      2
+      "back",
+      3
     ],
     [
       "calls",
-      2
+      3
     ],
     [
       "into",
+      3
+    ],
+    [
+      "attacks",
+      3
+    ],
+    [
+      "erdogan",
+      3
+    ],
+    [
+      "push",
       2
     ],
     [
-      "jason",
+      "plan",
       2
     ],
     [
-      "arday",
+      "dead",
       2
     ],
     [
-      "homes",
+      "military",
       2
     ],
     [
-      "new",
+      "drills",
       2
     ],
     [
-      "fires",
+      "with",
+      2
+    ],
+    [
+      "south",
       2
     ]
   ],
   "topics": [
     {
-      "name": "after",
+      "name": "says",
       "count": 5
     },
     {
       "name": "israeli",
+      "count": 5
+    },
+    {
+      "name": "gaza",
       "count": 4
     },
     {
-      "name": "russia",
+      "name": "after",
+      "count": 4
+    },
+    {
+      "name": "trump",
       "count": 3
     },
     {
-      "name": "largest",
+      "name": "kushner",
       "count": 3
     },
     {
-      "name": "west",
+      "name": "meets",
       "count": 3
     },
     {
-      "name": "bank",
+      "name": "hamas",
       "count": 3
     },
     {
-      "name": "says",
-      "count": 2
+      "name": "back",
+      "count": 3
     },
     {
-      "name": "ukrainian",
-      "count": 2
-    },
-    {
-      "name": "attack",
-      "count": 2
-    },
-    {
-      "name": "watch",
-      "count": 2
+      "name": "calls",
+      "count": 3
     }
   ],
-  "updated_at": "2026-08-16 18:34:16.196540"
+  "updated_at": "2026-08-17 01:36:57.185533"
 }
