@@ -1,39 +1,39 @@
 {
   "keywords": [
     [
-      "after",
-      6
-    ],
-    [
-      "israel",
-      4
-    ],
-    [
-      "says",
-      4
-    ],
-    [
-      "bank",
-      4
-    ],
-    [
-      "israeli",
+      "with",
       4
     ],
     [
       "trump",
+      4
+    ],
+    [
+      "after",
+      4
+    ],
+    [
+      "how",
+      4
+    ],
+    [
+      "child",
       3
     ],
     [
-      "gaza",
+      "takes",
       3
     ],
     [
-      "with",
+      "from",
       3
     ],
     [
-      "iran",
+      "south",
+      3
+    ],
+    [
+      "korea",
       3
     ],
     [
@@ -41,81 +41,81 @@
       3
     ],
     [
-      "history",
-      3
-    ],
-    [
-      "hundreds",
-      3
-    ],
-    [
-      "could",
-      3
-    ],
-    [
-      "west",
-      3
-    ],
-    [
-      "rare",
-      2
-    ],
-    [
       "bbc",
       2
     ],
     [
-      "reduce",
+      "burnham",
       2
     ],
     [
-      "military",
+      "way",
       2
     ],
     [
-      "drills",
+      "watch",
       2
     ],
     [
-      "south",
+      "four",
+      2
+    ],
+    [
+      "boys",
+      2
+    ],
+    [
+      "talks",
+      2
+    ],
+    [
+      "jason",
+      2
+    ],
+    [
+      "over",
+      2
+    ],
+    [
+      "hayden",
       2
     ]
   ],
   "topics": [
     {
-      "name": "after",
-      "count": 6
-    },
-    {
-      "name": "israel",
-      "count": 4
-    },
-    {
-      "name": "says",
-      "count": 4
-    },
-    {
-      "name": "bank",
-      "count": 4
-    },
-    {
-      "name": "israeli",
+      "name": "with",
       "count": 4
     },
     {
       "name": "trump",
+      "count": 4
+    },
+    {
+      "name": "after",
+      "count": 4
+    },
+    {
+      "name": "how",
+      "count": 4
+    },
+    {
+      "name": "child",
       "count": 3
     },
     {
-      "name": "gaza",
+      "name": "takes",
       "count": 3
     },
     {
-      "name": "with",
+      "name": "from",
       "count": 3
     },
     {
-      "name": "iran",
+      "name": "south",
+      "count": 3
+    },
+    {
+      "name": "korea",
       "count": 3
     },
     {
@@ -123,5 +123,5 @@
       "count": 3
     }
   ],
-  "updated_at": "2026-08-17 07:03:35.118339"
+  "updated_at": "2026-08-17 12:52:13.155457"
 }
