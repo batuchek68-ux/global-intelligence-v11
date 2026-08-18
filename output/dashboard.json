@@ -1,127 +1,127 @@
 {
   "keywords": [
     [
+      "after",
+      6
+    ],
+    [
       "says",
-      6
+      5
     ],
     [
-      "trump",
-      6
-    ],
-    [
-      "will",
-      3
-    ],
-    [
-      "jason",
-      3
-    ],
-    [
-      "his",
-      3
-    ],
-    [
-      "its",
-      3
-    ],
-    [
-      "new",
-      3
-    ],
-    [
-      "not",
-      3
-    ],
-    [
-      "trial",
-      3
+      "about",
+      4
     ],
     [
       "what",
       3
     ],
     [
-      "second",
+      "russia",
       3
     ],
     [
-      "accused",
+      "ukraine",
       2
     ],
     [
-      "after",
+      "burnham",
       2
     ],
     [
-      "family",
+      "drone",
       2
     ],
     [
-      "with",
+      "crash",
       2
     ],
     [
-      "death",
+      "police",
       2
     ],
     [
-      "vigil",
+      "its",
       2
     ],
     [
-      "held",
+      "hayden",
       2
     ],
     [
-      "are",
+      "panettieres",
       2
     ],
     [
-      "experts",
+      "not",
+      2
+    ],
+    [
+      "makes",
+      2
+    ],
+    [
+      "officers",
+      2
+    ],
+    [
+      "meta",
+      2
+    ],
+    [
+      "court",
+      2
+    ],
+    [
+      "why",
+      2
+    ],
+    [
+      "like",
       2
     ]
   ],
   "topics": [
     {
+      "name": "after",
+      "count": 6
+    },
+    {
       "name": "says",
-      "count": 6
+      "count": 5
     },
     {
-      "name": "trump",
-      "count": 6
-    },
-    {
-      "name": "will",
-      "count": 3
-    },
-    {
-      "name": "jason",
-      "count": 3
-    },
-    {
-      "name": "his",
-      "count": 3
-    },
-    {
-      "name": "its",
-      "count": 3
-    },
-    {
-      "name": "new",
-      "count": 3
-    },
-    {
-      "name": "not",
-      "count": 3
-    },
-    {
-      "name": "trial",
-      "count": 3
+      "name": "about",
+      "count": 4
     },
     {
       "name": "what",
       "count": 3
+    },
+    {
+      "name": "russia",
+      "count": 3
+    },
+    {
+      "name": "ukraine",
+      "count": 2
+    },
+    {
+      "name": "burnham",
+      "count": 2
+    },
+    {
+      "name": "drone",
+      "count": 2
+    },
+    {
+      "name": "crash",
+      "count": 2
+    },
+    {
+      "name": "police",
+      "count": 2
     }
   ],
-  "updated_at": "2026-08-18 06:51:04.495770"
+  "updated_at": "2026-08-18 12:54:00.937496"
 }
