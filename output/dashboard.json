@@ -1,23 +1,27 @@
 {
   "keywords": [
     [
-      "after",
-      6
-    ],
-    [
       "says",
       5
     ],
     [
-      "about",
-      4
+      "over",
+      5
     ],
     [
-      "what",
+      "british",
       3
     ],
     [
-      "russia",
+      "league",
+      3
+    ],
+    [
+      "with",
+      3
+    ],
+    [
+      "from",
       3
     ],
     [
@@ -25,31 +29,7 @@
       2
     ],
     [
-      "burnham",
-      2
-    ],
-    [
-      "drone",
-      2
-    ],
-    [
-      "crash",
-      2
-    ],
-    [
-      "police",
-      2
-    ],
-    [
-      "its",
-      2
-    ],
-    [
-      "hayden",
-      2
-    ],
-    [
-      "panettieres",
+      "after",
       2
     ],
     [
@@ -57,49 +37,73 @@
       2
     ],
     [
-      "makes",
+      "about",
       2
     ],
     [
-      "officers",
+      "message",
       2
     ],
     [
-      "meta",
+      "how",
       2
     ],
     [
-      "court",
+      "premier",
+      2
+    ],
+    [
+      "world",
+      2
+    ],
+    [
+      "cup",
+      2
+    ],
+    [
+      "new",
+      2
+    ],
+    [
+      "childrens",
+      2
+    ],
+    [
+      "are",
+      2
+    ],
+    [
+      "its",
       2
     ],
     [
       "why",
       2
-    ],
-    [
-      "like",
-      2
     ]
   ],
   "topics": [
-    {
-      "name": "after",
-      "count": 6
-    },
     {
       "name": "says",
       "count": 5
     },
     {
-      "name": "about",
-      "count": 4
+      "name": "over",
+      "count": 5
     },
     {
-      "name": "what",
+      "name": "british",
       "count": 3
     },
     {
-      "name": "russia",
+      "name": "league",
+      "count": 3
+    },
+    {
+      "name": "with",
+      "count": 3
+    },
+    {
+      "name": "from",
       "count": 3
     },
     {
@@ -107,21 +111,17 @@
       "count": 2
     },
     {
-      "name": "burnham",
+      "name": "after",
       "count": 2
     },
     {
-      "name": "drone",
+      "name": "not",
       "count": 2
     },
     {
-      "name": "crash",
-      "count": 2
-    },
-    {
-      "name": "police",
+      "name": "about",
       "count": 2
     }
   ],
-  "updated_at": "2026-08-18 12:54:00.937496"
+  "updated_at": "2026-08-18 18:43:11.943018"
 }
