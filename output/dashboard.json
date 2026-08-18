@@ -1,55 +1,55 @@
 {
   "keywords": [
     [
-      "trump",
-      5
-    ],
-    [
-      "over",
-      4
-    ],
-    [
-      "with",
-      4
-    ],
-    [
-      "iran",
-      3
-    ],
-    [
-      "death",
-      3
-    ],
-    [
       "says",
+      6
+    ],
+    [
+      "trump",
+      6
+    ],
+    [
+      "will",
       3
     ],
     [
-      "war",
+      "jason",
       3
     ],
     [
-      "deal",
+      "his",
+      3
+    ],
+    [
+      "its",
+      3
+    ],
+    [
+      "new",
+      3
+    ],
+    [
+      "not",
+      3
+    ],
+    [
+      "trial",
+      3
+    ],
+    [
+      "what",
+      3
+    ],
+    [
+      "second",
+      3
+    ],
+    [
+      "accused",
       2
     ],
     [
-      "russia",
-      2
-    ],
-    [
-      "ukraine",
-      2
-    ],
-    [
-      "hayden",
-      2
-    ],
-    [
-      "drugs",
-      2
-    ],
-    [
-      "trumps",
+      "after",
       2
     ],
     [
@@ -57,71 +57,71 @@
       2
     ],
     [
-      "new",
+      "with",
       2
     ],
     [
-      "loses",
+      "death",
       2
     ],
     [
-      "trial",
+      "vigil",
       2
     ],
     [
-      "from",
+      "held",
       2
     ],
     [
-      "government",
+      "are",
       2
     ],
     [
-      "second",
+      "experts",
       2
     ]
   ],
   "topics": [
     {
-      "name": "trump",
-      "count": 5
-    },
-    {
-      "name": "over",
-      "count": 4
-    },
-    {
-      "name": "with",
-      "count": 4
-    },
-    {
-      "name": "iran",
-      "count": 3
-    },
-    {
-      "name": "death",
-      "count": 3
-    },
-    {
       "name": "says",
+      "count": 6
+    },
+    {
+      "name": "trump",
+      "count": 6
+    },
+    {
+      "name": "will",
       "count": 3
     },
     {
-      "name": "war",
+      "name": "jason",
       "count": 3
     },
     {
-      "name": "deal",
-      "count": 2
+      "name": "his",
+      "count": 3
     },
     {
-      "name": "russia",
-      "count": 2
+      "name": "its",
+      "count": 3
     },
     {
-      "name": "ukraine",
-      "count": 2
+      "name": "new",
+      "count": 3
+    },
+    {
+      "name": "not",
+      "count": 3
+    },
+    {
+      "name": "trial",
+      "count": 3
+    },
+    {
+      "name": "what",
+      "count": 3
     }
   ],
-  "updated_at": "2026-08-18 01:26:19.951263"
+  "updated_at": "2026-08-18 06:51:04.495770"
 }
