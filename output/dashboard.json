@@ -1,35 +1,55 @@
 {
   "keywords": [
     [
-      "after",
-      5
-    ],
-    [
-      "over",
-      4
-    ],
-    [
-      "court",
-      4
+      "israel",
+      6
     ],
     [
       "why",
-      3
+      4
     ],
     [
-      "but",
+      "says",
       3
     ],
     [
       "with",
+      3
+    ],
+    [
+      "what",
+      3
+    ],
+    [
+      "off",
+      3
+    ],
+    [
+      "canada",
+      3
+    ],
+    [
+      "who",
+      3
+    ],
+    [
+      "report",
       2
     ],
     [
-      "flash",
+      "car",
       2
     ],
     [
-      "israeli",
+      "hind",
+      2
+    ],
+    [
+      "rajab",
+      2
+    ],
+    [
+      "was",
       2
     ],
     [
@@ -37,91 +57,71 @@
       2
     ],
     [
-      "into",
+      "know",
       2
     ],
     [
-      "gaza",
+      "west",
       2
     ],
     [
-      "inflation",
+      "coast",
       2
     ],
     [
-      "plan",
+      "they",
       2
     ],
     [
-      "off",
+      "trade",
       2
     ],
     [
-      "nick",
-      2
-    ],
-    [
-      "kyrgios",
-      2
-    ],
-    [
-      "suspended",
-      2
-    ],
-    [
-      "positive",
-      2
-    ],
-    [
-      "cocaine",
-      2
-    ],
-    [
-      "its",
+      "but",
       2
     ]
   ],
   "topics": [
     {
-      "name": "after",
-      "count": 5
-    },
-    {
-      "name": "over",
-      "count": 4
-    },
-    {
-      "name": "court",
-      "count": 4
+      "name": "israel",
+      "count": 6
     },
     {
       "name": "why",
-      "count": 3
+      "count": 4
     },
     {
-      "name": "but",
+      "name": "says",
       "count": 3
     },
     {
       "name": "with",
+      "count": 3
+    },
+    {
+      "name": "what",
+      "count": 3
+    },
+    {
+      "name": "off",
+      "count": 3
+    },
+    {
+      "name": "canada",
+      "count": 3
+    },
+    {
+      "name": "who",
+      "count": 3
+    },
+    {
+      "name": "report",
       "count": 2
     },
     {
-      "name": "flash",
-      "count": 2
-    },
-    {
-      "name": "israeli",
-      "count": 2
-    },
-    {
-      "name": "investigation",
-      "count": 2
-    },
-    {
-      "name": "into",
+      "name": "car",
       "count": 2
     }
   ],
-  "updated_at": "2026-08-19 12:55:12.715337"
+  "updated_at": "2026-08-19 18:40:37.733478"
 }
