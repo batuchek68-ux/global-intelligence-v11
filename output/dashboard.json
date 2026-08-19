@@ -1,31 +1,23 @@
 {
   "keywords": [
     [
-      "trump",
-      5
+      "calls",
+      4
     ],
     [
       "says",
       4
     ],
     [
-      "from",
-      4
-    ],
-    [
-      "after",
+      "over",
       3
     ],
     [
-      "why",
+      "new",
       3
     ],
     [
-      "how",
-      3
-    ],
-    [
-      "ebola",
+      "trump",
       3
     ],
     [
@@ -33,7 +25,11 @@
       3
     ],
     [
-      "strike",
+      "war",
+      3
+    ],
+    [
+      "official",
       3
     ],
     [
@@ -41,23 +37,35 @@
       2
     ],
     [
+      "defence",
+      2
+    ],
+    [
+      "minister",
+      2
+    ],
+    [
+      "three",
+      2
+    ],
+    [
       "zone",
       2
     ],
     [
-      "ahead",
+      "why",
       2
     ],
     [
-      "israeli",
-      2
-    ],
-    [
-      "over",
+      "are",
       2
     ],
     [
       "about",
+      2
+    ],
+    [
+      "how",
       2
     ],
     [
@@ -69,45 +77,29 @@
       2
     ],
     [
-      "russia",
-      2
-    ],
-    [
-      "outbreak",
-      2
-    ],
-    [
-      "congos",
+      "after",
       2
     ]
   ],
   "topics": [
     {
-      "name": "trump",
-      "count": 5
+      "name": "calls",
+      "count": 4
     },
     {
       "name": "says",
       "count": 4
     },
     {
-      "name": "from",
-      "count": 4
-    },
-    {
-      "name": "after",
+      "name": "over",
       "count": 3
     },
     {
-      "name": "why",
+      "name": "new",
       "count": 3
     },
     {
-      "name": "how",
-      "count": 3
-    },
-    {
-      "name": "ebola",
+      "name": "trump",
       "count": 3
     },
     {
@@ -115,13 +107,21 @@
       "count": 3
     },
     {
-      "name": "strike",
+      "name": "war",
+      "count": 3
+    },
+    {
+      "name": "official",
       "count": 3
     },
     {
       "name": "burnham",
       "count": 2
+    },
+    {
+      "name": "defence",
+      "count": 2
     }
   ],
-  "updated_at": "2026-08-19 01:33:56.035624"
+  "updated_at": "2026-08-19 06:51:19.600192"
 }
