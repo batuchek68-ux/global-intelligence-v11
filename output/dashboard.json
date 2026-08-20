@@ -1,35 +1,23 @@
 {
   "keywords": [
     [
+      "with",
+      6
+    ],
+    [
+      "harry",
+      4
+    ],
+    [
       "iran",
       4
     ],
     [
-      "police",
+      "ukraine",
       3
     ],
     [
-      "with",
-      3
-    ],
-    [
-      "could",
-      3
-    ],
-    [
-      "israel",
-      3
-    ],
-    [
-      "hind",
-      3
-    ],
-    [
-      "england",
-      3
-    ],
-    [
-      "announces",
+      "your",
       3
     ],
     [
@@ -37,39 +25,15 @@
       3
     ],
     [
-      "harry",
+      "over",
+      3
+    ],
+    [
+      "meghan",
       2
     ],
     [
-      "who",
-      2
-    ],
-    [
-      "off",
-      2
-    ],
-    [
-      "people",
-      2
-    ],
-    [
-      "investigation",
-      2
-    ],
-    [
-      "children",
-      2
-    ],
-    [
-      "warn",
-      2
-    ],
-    [
-      "rajab",
-      2
-    ],
-    [
-      "life",
+      "experts",
       2
     ],
     [
@@ -77,41 +41,65 @@
       2
     ],
     [
-      "being",
+      "least",
+      2
+    ],
+    [
+      "killed",
+      2
+    ],
+    [
+      "into",
+      2
+    ],
+    [
+      "ice",
+      2
+    ],
+    [
+      "people",
+      2
+    ],
+    [
+      "bbc",
+      2
+    ],
+    [
+      "could",
+      2
+    ],
+    [
+      "warn",
+      2
+    ],
+    [
+      "who",
+      2
+    ],
+    [
+      "police",
       2
     ]
   ],
   "topics": [
     {
+      "name": "with",
+      "count": 6
+    },
+    {
+      "name": "harry",
+      "count": 4
+    },
+    {
       "name": "iran",
       "count": 4
     },
     {
-      "name": "police",
+      "name": "ukraine",
       "count": 3
     },
     {
-      "name": "with",
-      "count": 3
-    },
-    {
-      "name": "could",
-      "count": 3
-    },
-    {
-      "name": "israel",
-      "count": 3
-    },
-    {
-      "name": "hind",
-      "count": 3
-    },
-    {
-      "name": "england",
-      "count": 3
-    },
-    {
-      "name": "announces",
+      "name": "your",
       "count": 3
     },
     {
@@ -119,9 +107,21 @@
       "count": 3
     },
     {
-      "name": "harry",
+      "name": "over",
+      "count": 3
+    },
+    {
+      "name": "meghan",
+      "count": 2
+    },
+    {
+      "name": "experts",
+      "count": 2
+    },
+    {
+      "name": "but",
       "count": 2
     }
   ],
-  "updated_at": "2026-08-20 01:27:07.637220"
+  "updated_at": "2026-08-20 06:52:53.421959"
 }
