@@ -1,39 +1,31 @@
 {
   "keywords": [
     [
-      "are",
-      7
+      "after",
+      6
     ],
     [
-      "they",
-      5
+      "are",
+      6
+    ],
+    [
+      "over",
+      4
     ],
     [
       "what",
       4
     ],
     [
-      "israel",
-      4
-    ],
-    [
-      "why",
+      "return",
       3
     ],
     [
-      "after",
+      "security",
       3
     ],
     [
-      "new",
-      3
-    ],
-    [
-      "how",
-      3
-    ],
-    [
-      "shows",
+      "from",
       3
     ],
     [
@@ -41,19 +33,31 @@
       2
     ],
     [
-      "security",
+      "five",
       2
     ],
     [
-      "says",
+      "key",
       2
     ],
     [
-      "returning",
+      "gcse",
       2
     ],
     [
-      "now",
+      "day",
+      2
+    ],
+    [
+      "man",
+      2
+    ],
+    [
+      "attack",
+      2
+    ],
+    [
+      "school",
       2
     ],
     [
@@ -61,67 +65,63 @@
       2
     ],
     [
-      "move",
+      "off",
       2
     ],
     [
-      "illegal",
+      "alcaraz",
       2
     ],
     [
-      "with",
+      "open",
       2
     ],
     [
-      "over",
-      2
-    ],
-    [
-      "online",
+      "out",
       2
     ]
   ],
   "topics": [
     {
-      "name": "are",
-      "count": 7
+      "name": "after",
+      "count": 6
     },
     {
-      "name": "they",
-      "count": 5
+      "name": "are",
+      "count": 6
+    },
+    {
+      "name": "over",
+      "count": 4
     },
     {
       "name": "what",
       "count": 4
     },
     {
-      "name": "israel",
-      "count": 4
-    },
-    {
-      "name": "why",
+      "name": "return",
       "count": 3
     },
     {
-      "name": "after",
+      "name": "security",
       "count": 3
     },
     {
-      "name": "new",
-      "count": 3
-    },
-    {
-      "name": "how",
-      "count": 3
-    },
-    {
-      "name": "shows",
+      "name": "from",
       "count": 3
     },
     {
       "name": "harry",
       "count": 2
+    },
+    {
+      "name": "five",
+      "count": 2
+    },
+    {
+      "name": "key",
+      "count": 2
     }
   ],
-  "updated_at": "2026-08-20 12:56:40.760367"
+  "updated_at": "2026-08-20 18:45:54.066780"
 }
