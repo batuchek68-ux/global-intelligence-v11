@@ -1,43 +1,63 @@
 {
   "keywords": [
     [
-      "with",
+      "over",
       5
     ],
     [
-      "russian",
+      "trump",
       4
     ],
     [
-      "how",
+      "president",
+      4
+    ],
+    [
+      "killed",
       3
     ],
     [
-      "world",
+      "privacy",
+      3
+    ],
+    [
+      "child",
+      3
+    ],
+    [
+      "meghan",
+      3
+    ],
+    [
+      "their",
+      3
+    ],
+    [
+      "with",
       3
     ],
     [
       "after",
-      3
-    ],
-    [
-      "ukraine",
-      3
-    ],
-    [
-      "league",
-      3
-    ],
-    [
-      "watch",
       2
     ],
     [
-      "could",
+      "three",
       2
     ],
     [
-      "told",
+      "harry",
+      2
+    ],
+    [
+      "bill",
+      2
+    ],
+    [
+      "live",
+      2
+    ],
+    [
+      "doubletap",
       2
     ],
     [
@@ -45,83 +65,63 @@
       2
     ],
     [
+      "strike",
+      2
+    ],
+    [
       "kills",
       2
     ],
     [
-      "say",
+      "mall",
       2
     ],
     [
-      "first",
-      2
-    ],
-    [
-      "argentinas",
-      2
-    ],
-    [
-      "paredes",
-      2
-    ],
-    [
-      "cup",
-      2
-    ],
-    [
-      "final",
-      2
-    ],
-    [
-      "murder",
-      2
-    ],
-    [
-      "body",
+      "tiktok",
       2
     ]
   ],
   "topics": [
     {
-      "name": "with",
+      "name": "over",
       "count": 5
     },
     {
-      "name": "russian",
+      "name": "trump",
       "count": 4
     },
     {
-      "name": "how",
+      "name": "president",
+      "count": 4
+    },
+    {
+      "name": "killed",
       "count": 3
     },
     {
-      "name": "world",
+      "name": "privacy",
+      "count": 3
+    },
+    {
+      "name": "child",
+      "count": 3
+    },
+    {
+      "name": "meghan",
+      "count": 3
+    },
+    {
+      "name": "their",
+      "count": 3
+    },
+    {
+      "name": "with",
       "count": 3
     },
     {
       "name": "after",
-      "count": 3
-    },
-    {
-      "name": "ukraine",
-      "count": 3
-    },
-    {
-      "name": "league",
-      "count": 3
-    },
-    {
-      "name": "watch",
-      "count": 2
-    },
-    {
-      "name": "could",
-      "count": 2
-    },
-    {
-      "name": "told",
       "count": 2
     }
   ],
-  "updated_at": "2026-08-21 18:42:02.477588"
+  "updated_at": "2026-08-22 01:26:19.843216"
 }
