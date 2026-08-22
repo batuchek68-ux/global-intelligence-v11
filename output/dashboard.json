@@ -1,27 +1,31 @@
 {
   "keywords": [
     [
-      "over",
+      "trump",
       5
     ],
     [
-      "trump",
+      "talks",
       4
     ],
     [
-      "president",
+      "after",
       4
     ],
     [
       "killed",
+      4
+    ],
+    [
+      "over",
+      4
+    ],
+    [
+      "says",
       3
     ],
     [
-      "privacy",
-      3
-    ],
-    [
-      "child",
+      "down",
       3
     ],
     [
@@ -29,7 +33,7 @@
       3
     ],
     [
-      "their",
+      "quiet",
       3
     ],
     [
@@ -37,73 +41,73 @@
       3
     ],
     [
-      "after",
+      "why",
+      3
+    ],
+    [
+      "tariffs",
       2
     ],
     [
-      "three",
+      "dollar",
       2
     ],
     [
-      "harry",
+      "break",
       2
     ],
     [
-      "bill",
+      "child",
       2
     ],
     [
-      "live",
+      "privacy",
       2
     ],
     [
-      "doubletap",
+      "settlements",
       2
     ],
     [
-      "drone",
+      "girl",
       2
     ],
     [
-      "strike",
+      "dies",
       2
     ],
     [
-      "kills",
-      2
-    ],
-    [
-      "mall",
-      2
-    ],
-    [
-      "tiktok",
+      "days",
       2
     ]
   ],
   "topics": [
     {
-      "name": "over",
+      "name": "trump",
       "count": 5
     },
     {
-      "name": "trump",
+      "name": "talks",
       "count": 4
     },
     {
-      "name": "president",
+      "name": "after",
       "count": 4
     },
     {
       "name": "killed",
+      "count": 4
+    },
+    {
+      "name": "over",
+      "count": 4
+    },
+    {
+      "name": "says",
       "count": 3
     },
     {
-      "name": "privacy",
-      "count": 3
-    },
-    {
-      "name": "child",
+      "name": "down",
       "count": 3
     },
     {
@@ -111,17 +115,13 @@
       "count": 3
     },
     {
-      "name": "their",
+      "name": "quiet",
       "count": 3
     },
     {
       "name": "with",
       "count": 3
-    },
-    {
-      "name": "after",
-      "count": 2
     }
   ],
-  "updated_at": "2026-08-22 01:26:19.843216"
+  "updated_at": "2026-08-22 06:47:07.263656"
 }
