@@ -1,23 +1,11 @@
 {
   "keywords": [
     [
-      "trump",
-      5
-    ],
-    [
-      "talks",
-      4
-    ],
-    [
       "after",
-      4
+      6
     ],
     [
-      "killed",
-      4
-    ],
-    [
-      "over",
+      "world",
       4
     ],
     [
@@ -25,11 +13,11 @@
       3
     ],
     [
-      "down",
+      "over",
       3
     ],
     [
-      "meghan",
+      "killed",
       3
     ],
     [
@@ -37,12 +25,12 @@
       3
     ],
     [
-      "with",
-      3
+      "dead",
+      2
     ],
     [
-      "why",
-      3
+      "will",
+      2
     ],
     [
       "tariffs",
@@ -53,53 +41,53 @@
       2
     ],
     [
-      "break",
+      "down",
       2
     ],
     [
-      "child",
+      "ukraine",
       2
     ],
     [
-      "privacy",
+      "russian",
       2
     ],
     [
-      "settlements",
+      "how",
       2
     ],
     [
-      "girl",
+      "cool",
       2
     ],
     [
-      "dies",
+      "game",
       2
     ],
     [
-      "days",
+      "more",
+      2
+    ],
+    [
+      "home",
+      2
+    ],
+    [
+      "that",
+      2
+    ],
+    [
+      "their",
       2
     ]
   ],
   "topics": [
     {
-      "name": "trump",
-      "count": 5
-    },
-    {
-      "name": "talks",
-      "count": 4
-    },
-    {
       "name": "after",
-      "count": 4
+      "count": 6
     },
     {
-      "name": "killed",
-      "count": 4
-    },
-    {
-      "name": "over",
+      "name": "world",
       "count": 4
     },
     {
@@ -107,11 +95,11 @@
       "count": 3
     },
     {
-      "name": "down",
+      "name": "over",
       "count": 3
     },
     {
-      "name": "meghan",
+      "name": "killed",
       "count": 3
     },
     {
@@ -119,9 +107,21 @@
       "count": 3
     },
     {
-      "name": "with",
-      "count": 3
+      "name": "dead",
+      "count": 2
+    },
+    {
+      "name": "will",
+      "count": 2
+    },
+    {
+      "name": "tariffs",
+      "count": 2
+    },
+    {
+      "name": "dollar",
+      "count": 2
     }
   ],
-  "updated_at": "2026-08-22 06:47:07.263656"
+  "updated_at": "2026-08-22 12:47:13.977642"
 }
