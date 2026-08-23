@@ -1,11 +1,19 @@
 {
   "keywords": [
     [
-      "trump",
+      "says",
       5
     ],
     [
+      "iran",
+      4
+    ],
+    [
       "police",
+      3
+    ],
+    [
+      "tariffs",
       3
     ],
     [
@@ -17,55 +25,35 @@
       3
     ],
     [
-      "over",
+      "could",
       3
     ],
     [
-      "away",
+      "new",
       3
     ],
     [
-      "quiet",
+      "israeli",
       3
     ],
     [
-      "video",
-      2
+      "war",
+      3
     ],
     [
-      "crash",
-      2
+      "warns",
+      3
     ],
     [
-      "trumps",
-      2
+      "economic",
+      3
     ],
     [
-      "through",
-      2
+      "israel",
+      3
     ],
     [
-      "how",
-      2
-    ],
-    [
-      "stay",
-      2
-    ],
-    [
-      "cool",
-      2
-    ],
-    [
-      "watch",
-      2
-    ],
-    [
-      "live",
-      2
-    ],
-    [
-      "from",
+      "two",
       2
     ],
     [
@@ -73,21 +61,41 @@
       2
     ],
     [
-      "what",
+      "crash",
       2
     ],
     [
-      "100",
+      "before",
+      2
+    ],
+    [
+      "more",
+      2
+    ],
+    [
+      "with",
+      2
+    ],
+    [
+      "through",
       2
     ]
   ],
   "topics": [
     {
-      "name": "trump",
+      "name": "says",
       "count": 5
     },
     {
+      "name": "iran",
+      "count": 4
+    },
+    {
       "name": "police",
+      "count": 3
+    },
+    {
+      "name": "tariffs",
       "count": 3
     },
     {
@@ -99,29 +107,21 @@
       "count": 3
     },
     {
-      "name": "over",
+      "name": "could",
       "count": 3
     },
     {
-      "name": "away",
+      "name": "new",
       "count": 3
     },
     {
-      "name": "quiet",
+      "name": "israeli",
       "count": 3
     },
     {
-      "name": "video",
-      "count": 2
-    },
-    {
-      "name": "crash",
-      "count": 2
-    },
-    {
-      "name": "trumps",
-      "count": 2
+      "name": "war",
+      "count": 3
     }
   ],
-  "updated_at": "2026-08-22 18:35:50.200182"
+  "updated_at": "2026-08-23 01:41:00.394669"
 }
