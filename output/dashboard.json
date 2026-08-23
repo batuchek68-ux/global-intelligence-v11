@@ -1,35 +1,15 @@
 {
   "keywords": [
     [
-      "war",
-      6
+      "after",
+      5
     ],
     [
-      "iran",
-      4
-    ],
-    [
-      "trump",
+      "new",
       3
     ],
     [
-      "says",
-      3
-    ],
-    [
-      "countries",
-      3
-    ],
-    [
-      "trade",
-      3
-    ],
-    [
-      "with",
-      3
-    ],
-    [
-      "could",
+      "that",
       3
     ],
     [
@@ -37,7 +17,7 @@
       3
     ],
     [
-      "against",
+      "war",
       3
     ],
     [
@@ -45,31 +25,31 @@
       3
     ],
     [
-      "economic",
-      3
-    ],
-    [
-      "police",
+      "trump",
       2
     ],
     [
-      "killed",
+      "says",
       2
     ],
     [
-      "canada",
+      "talks",
       2
     ],
     [
-      "being",
+      "about",
       2
     ],
     [
-      "more",
+      "minister",
       2
     ],
     [
-      "attack",
+      "how",
+      2
+    ],
+    [
+      "could",
       2
     ],
     [
@@ -77,41 +57,41 @@
       2
     ],
     [
-      "that",
+      "why",
+      2
+    ],
+    [
+      "away",
+      2
+    ],
+    [
+      "home",
+      2
+    ],
+    [
+      "boxing",
+      2
+    ],
+    [
+      "attack",
+      2
+    ],
+    [
+      "say",
       2
     ]
   ],
   "topics": [
     {
-      "name": "war",
-      "count": 6
+      "name": "after",
+      "count": 5
     },
     {
-      "name": "iran",
-      "count": 4
-    },
-    {
-      "name": "trump",
+      "name": "new",
       "count": 3
     },
     {
-      "name": "says",
-      "count": 3
-    },
-    {
-      "name": "countries",
-      "count": 3
-    },
-    {
-      "name": "trade",
-      "count": 3
-    },
-    {
-      "name": "with",
-      "count": 3
-    },
-    {
-      "name": "could",
+      "name": "that",
       "count": 3
     },
     {
@@ -119,9 +99,29 @@
       "count": 3
     },
     {
-      "name": "against",
+      "name": "war",
       "count": 3
+    },
+    {
+      "name": "israeli",
+      "count": 3
+    },
+    {
+      "name": "trump",
+      "count": 2
+    },
+    {
+      "name": "says",
+      "count": 2
+    },
+    {
+      "name": "talks",
+      "count": 2
+    },
+    {
+      "name": "about",
+      "count": 2
     }
   ],
-  "updated_at": "2026-08-23 06:48:32.675800"
+  "updated_at": "2026-08-23 12:48:48.590003"
 }
