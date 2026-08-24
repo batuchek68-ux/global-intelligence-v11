@@ -2,27 +2,27 @@
   "keywords": [
     [
       "after",
-      5
-    ],
-    [
-      "war",
-      5
-    ],
-    [
-      "says",
-      4
-    ],
-    [
-      "trump",
-      4
-    ],
-    [
-      "new",
-      4
+      7
     ],
     [
       "iran",
       4
+    ],
+    [
+      "killed",
+      3
+    ],
+    [
+      "trump",
+      3
+    ],
+    [
+      "says",
+      3
+    ],
+    [
+      "will",
+      3
     ],
     [
       "state",
@@ -33,78 +33,78 @@
       3
     ],
     [
-      "kills",
+      "war",
       3
     ],
     [
-      "about",
+      "occupied",
+      3
+    ],
+    [
+      "families",
       2
     ],
     [
-      "canada",
-      2
-    ],
-    [
-      "talks",
-      2
-    ],
-    [
-      "what",
-      2
-    ],
-    [
-      "government",
-      2
-    ],
-    [
-      "france",
-      2
-    ],
-    [
-      "eight",
-      2
-    ],
-    [
-      "heatwaves",
-      2
-    ],
-    [
-      "flag",
-      2
-    ],
-    [
-      "season",
+      "two",
       2
     ],
     [
       "how",
+      2
+    ],
+    [
+      "live",
+      2
+    ],
+    [
+      "service",
+      2
+    ],
+    [
+      "washington",
+      2
+    ],
+    [
+      "young",
+      2
+    ],
+    [
+      "chance",
+      2
+    ],
+    [
+      "fire",
+      2
+    ],
+    [
+      "eight",
       2
     ]
   ],
   "topics": [
     {
       "name": "after",
-      "count": 5
-    },
-    {
-      "name": "war",
-      "count": 5
-    },
-    {
-      "name": "says",
-      "count": 4
-    },
-    {
-      "name": "trump",
-      "count": 4
-    },
-    {
-      "name": "new",
-      "count": 4
+      "count": 7
     },
     {
       "name": "iran",
       "count": 4
+    },
+    {
+      "name": "killed",
+      "count": 3
+    },
+    {
+      "name": "trump",
+      "count": 3
+    },
+    {
+      "name": "says",
+      "count": 3
+    },
+    {
+      "name": "will",
+      "count": 3
     },
     {
       "name": "state",
@@ -115,13 +115,13 @@
       "count": 3
     },
     {
-      "name": "kills",
+      "name": "war",
       "count": 3
     },
     {
-      "name": "about",
-      "count": 2
+      "name": "occupied",
+      "count": 3
     }
   ],
-  "updated_at": "2026-08-23 18:35:24.374557"
+  "updated_at": "2026-08-24 01:38:54.883991"
 }
