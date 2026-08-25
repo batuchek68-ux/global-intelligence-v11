@@ -2,14 +2,22 @@
   "keywords": [
     [
       "iran",
-      6
+      5
     ],
     [
-      "killed",
+      "over",
+      4
+    ],
+    [
+      "france",
+      4
+    ],
+    [
+      "says",
       3
     ],
     [
-      "how",
+      "killed",
       3
     ],
     [
@@ -17,51 +25,15 @@
       3
     ],
     [
-      "sanctions",
+      "you",
       3
     ],
     [
-      "a66",
-      2
+      "near",
+      3
     ],
     [
-      "crash",
-      2
-    ],
-    [
-      "burnham",
-      2
-    ],
-    [
-      "support",
-      2
-    ],
-    [
-      "ukraine",
-      2
-    ],
-    [
-      "from",
-      2
-    ],
-    [
-      "russia",
-      2
-    ],
-    [
-      "says",
-      2
-    ],
-    [
-      "who",
-      2
-    ],
-    [
-      "harry",
-      2
-    ],
-    [
-      "was",
+      "sanctions",
       2
     ],
     [
@@ -73,25 +45,61 @@
       2
     ],
     [
+      "was",
+      2
+    ],
+    [
+      "who",
+      2
+    ],
+    [
+      "from",
+      2
+    ],
+    [
+      "harry",
+      2
+    ],
+    [
+      "two",
+      2
+    ],
+    [
       "screening",
       2
     ],
     [
-      "her",
+      "tornado",
+      2
+    ],
+    [
+      "through",
+      2
+    ],
+    [
+      "list",
       2
     ]
   ],
   "topics": [
     {
       "name": "iran",
-      "count": 6
+      "count": 5
     },
     {
-      "name": "killed",
+      "name": "over",
+      "count": 4
+    },
+    {
+      "name": "france",
+      "count": 4
+    },
+    {
+      "name": "says",
       "count": 3
     },
     {
-      "name": "how",
+      "name": "killed",
       "count": 3
     },
     {
@@ -99,29 +107,21 @@
       "count": 3
     },
     {
-      "name": "sanctions",
+      "name": "you",
       "count": 3
     },
     {
-      "name": "a66",
+      "name": "near",
+      "count": 3
+    },
+    {
+      "name": "sanctions",
       "count": 2
     },
     {
-      "name": "crash",
-      "count": 2
-    },
-    {
-      "name": "burnham",
-      "count": 2
-    },
-    {
-      "name": "support",
-      "count": 2
-    },
-    {
-      "name": "ukraine",
+      "name": "social",
       "count": 2
     }
   ],
-  "updated_at": "2026-08-25 01:33:52.925602"
+  "updated_at": "2026-08-25 06:55:07.698706"
 }
