@@ -1,55 +1,75 @@
 {
   "keywords": [
     [
-      "iran",
+      "over",
       5
     ],
     [
-      "over",
+      "after",
       4
     ],
     [
-      "france",
+      "are",
       4
     ],
     [
-      "says",
-      3
-    ],
-    [
-      "killed",
-      3
+      "how",
+      4
     ],
     [
       "what",
+      4
+    ],
+    [
+      "china",
       3
     ],
     [
-      "you",
+      "will",
       3
     ],
     [
-      "near",
+      "its",
       3
     ],
     [
       "sanctions",
+      3
+    ],
+    [
+      "iran",
+      3
+    ],
+    [
+      "dies",
+      3
+    ],
+    [
+      "why",
+      3
+    ],
+    [
+      "rohingya",
+      3
+    ],
+    [
+      "crash",
       2
     ],
     [
-      "social",
+      "warns",
       2
     ],
     [
-      "england",
+      "trump",
       2
     ],
     [
-      "was",
+      "irans",
       2
     ],
     [
-      "who",
+      "death",
       2
     ],
     [
@@ -57,71 +77,51 @@
       2
     ],
     [
-      "harry",
-      2
-    ],
-    [
-      "two",
-      2
-    ],
-    [
-      "screening",
-      2
-    ],
-    [
-      "tornado",
-      2
-    ],
-    [
-      "through",
-      2
-    ],
-    [
-      "list",
+      "years",
       2
     ]
   ],
   "topics": [
     {
-      "name": "iran",
+      "name": "over",
       "count": 5
     },
     {
-      "name": "over",
+      "name": "after",
       "count": 4
     },
     {
-      "name": "france",
+      "name": "are",
       "count": 4
     },
     {
-      "name": "says",
-      "count": 3
-    },
-    {
-      "name": "killed",
-      "count": 3
+      "name": "how",
+      "count": 4
     },
     {
       "name": "what",
+      "count": 4
+    },
+    {
+      "name": "china",
       "count": 3
     },
     {
-      "name": "you",
+      "name": "will",
       "count": 3
     },
     {
-      "name": "near",
+      "name": "its",
       "count": 3
     },
     {
       "name": "sanctions",
-      "count": 2
+      "count": 3
     },
     {
-      "name": "social",
-      "count": 2
+      "name": "iran",
+      "count": 3
     }
   ],
-  "updated_at": "2026-08-25 06:55:07.698706"
+  "updated_at": "2026-08-25 12:54:31.582898"
 }
