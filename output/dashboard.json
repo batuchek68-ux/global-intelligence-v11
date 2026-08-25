@@ -1,48 +1,24 @@
 {
   "keywords": [
     [
-      "from",
-      7
-    ],
-    [
-      "ukraine",
+      "iran",
       6
     ],
     [
-      "with",
-      5
-    ],
-    [
-      "russia",
-      4
-    ],
-    [
-      "after",
+      "killed",
       3
     ],
     [
-      "are",
+      "how",
       3
     ],
     [
-      "war",
+      "what",
       3
     ],
     [
-      "trump",
+      "sanctions",
       3
-    ],
-    [
-      "economic",
-      3
-    ],
-    [
-      "iran",
-      3
-    ],
-    [
-      "police",
-      2
     ],
     [
       "a66",
@@ -53,15 +29,7 @@
       2
     ],
     [
-      "killed",
-      2
-    ],
-    [
-      "two",
-      2
-    ],
-    [
-      "how",
+      "burnham",
       2
     ],
     [
@@ -69,59 +37,91 @@
       2
     ],
     [
-      "storm",
+      "ukraine",
       2
     ],
     [
-      "shadow",
+      "from",
       2
     ],
     [
-      "snooker",
+      "russia",
+      2
+    ],
+    [
+      "says",
+      2
+    ],
+    [
+      "who",
+      2
+    ],
+    [
+      "harry",
+      2
+    ],
+    [
+      "was",
+      2
+    ],
+    [
+      "social",
+      2
+    ],
+    [
+      "england",
+      2
+    ],
+    [
+      "screening",
+      2
+    ],
+    [
+      "her",
       2
     ]
   ],
   "topics": [
     {
-      "name": "from",
-      "count": 7
-    },
-    {
-      "name": "ukraine",
+      "name": "iran",
       "count": 6
     },
     {
-      "name": "with",
-      "count": 5
-    },
-    {
-      "name": "russia",
-      "count": 4
-    },
-    {
-      "name": "after",
+      "name": "killed",
       "count": 3
     },
     {
-      "name": "are",
+      "name": "how",
       "count": 3
     },
     {
-      "name": "war",
+      "name": "what",
       "count": 3
     },
     {
-      "name": "trump",
+      "name": "sanctions",
       "count": 3
     },
     {
-      "name": "economic",
-      "count": 3
+      "name": "a66",
+      "count": 2
     },
     {
-      "name": "iran",
-      "count": 3
+      "name": "crash",
+      "count": 2
+    },
+    {
+      "name": "burnham",
+      "count": 2
+    },
+    {
+      "name": "support",
+      "count": 2
+    },
+    {
+      "name": "ukraine",
+      "count": 2
     }
   ],
-  "updated_at": "2026-08-24 18:46:53.267527"
+  "updated_at": "2026-08-25 01:33:52.925602"
 }
