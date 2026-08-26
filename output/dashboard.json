@@ -1,35 +1,31 @@
 {
   "keywords": [
     [
-      "dolly",
-      8
-    ],
-    [
-      "parton",
+      "says",
       6
     ],
     [
-      "iran",
+      "life",
       5
     ],
     [
-      "life",
+      "from",
       4
     ],
     [
-      "country",
+      "new",
       4
     ],
     [
-      "trump",
+      "iran",
       4
     ],
     [
-      "dies",
+      "how",
       3
     ],
     [
-      "music",
+      "dolly",
       3
     ],
     [
@@ -37,31 +33,19 @@
       3
     ],
     [
-      "what",
+      "why",
       3
     ],
     [
-      "iconic",
+      "sudans",
+      3
+    ],
+    [
+      "parton",
       2
     ],
     [
-      "crash",
-      2
-    ],
-    [
-      "high",
-      2
-    ],
-    [
-      "why",
-      2
-    ],
-    [
-      "facing",
-      2
-    ],
-    [
-      "legend",
+      "her",
       2
     ],
     [
@@ -69,49 +53,61 @@
       2
     ],
     [
-      "how",
+      "hit",
       2
     ],
     [
-      "through",
+      "child",
       2
     ],
     [
-      "new",
+      "its",
+      2
+    ],
+    [
+      "community",
+      2
+    ],
+    [
+      "chief",
+      2
+    ],
+    [
+      "ukraine",
+      2
+    ],
+    [
+      "russias",
       2
     ]
   ],
   "topics": [
     {
-      "name": "dolly",
-      "count": 8
-    },
-    {
-      "name": "parton",
+      "name": "says",
       "count": 6
     },
     {
-      "name": "iran",
+      "name": "life",
       "count": 5
     },
     {
-      "name": "life",
+      "name": "from",
       "count": 4
     },
     {
-      "name": "country",
+      "name": "new",
       "count": 4
     },
     {
-      "name": "trump",
+      "name": "iran",
       "count": 4
     },
     {
-      "name": "dies",
+      "name": "how",
       "count": 3
     },
     {
-      "name": "music",
+      "name": "dolly",
       "count": 3
     },
     {
@@ -119,9 +115,13 @@
       "count": 3
     },
     {
-      "name": "what",
+      "name": "why",
+      "count": 3
+    },
+    {
+      "name": "sudans",
       "count": 3
     }
   ],
-  "updated_at": "2026-08-26 01:38:26.518427"
+  "updated_at": "2026-08-26 06:56:07.371335"
 }
