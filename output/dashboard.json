@@ -1,23 +1,35 @@
 {
   "keywords": [
     [
-      "from",
-      5
+      "dolly",
+      8
+    ],
+    [
+      "parton",
+      6
     ],
     [
       "iran",
       5
     ],
     [
-      "with",
-      5
+      "life",
+      4
     ],
     [
-      "talks",
+      "country",
+      4
+    ],
+    [
+      "trump",
+      4
+    ],
+    [
+      "dies",
       3
     ],
     [
-      "says",
+      "music",
       3
     ],
     [
@@ -29,43 +41,7 @@
       3
     ],
     [
-      "economic",
-      3
-    ],
-    [
-      "after",
-      3
-    ],
-    [
-      "police",
-      3
-    ],
-    [
-      "killed",
-      3
-    ],
-    [
-      "are",
-      3
-    ],
-    [
-      "years",
-      3
-    ],
-    [
-      "israel",
-      3
-    ],
-    [
-      "dolly",
-      2
-    ],
-    [
-      "parton",
-      2
-    ],
-    [
-      "country",
+      "iconic",
       2
     ],
     [
@@ -73,33 +49,69 @@
       2
     ],
     [
-      "cia",
+      "high",
       2
     ],
     [
-      "reports",
+      "why",
+      2
+    ],
+    [
+      "facing",
+      2
+    ],
+    [
+      "legend",
+      2
+    ],
+    [
+      "songs",
+      2
+    ],
+    [
+      "how",
+      2
+    ],
+    [
+      "through",
+      2
+    ],
+    [
+      "new",
       2
     ]
   ],
   "topics": [
     {
-      "name": "from",
-      "count": 5
+      "name": "dolly",
+      "count": 8
+    },
+    {
+      "name": "parton",
+      "count": 6
     },
     {
       "name": "iran",
       "count": 5
     },
     {
-      "name": "with",
-      "count": 5
+      "name": "life",
+      "count": 4
     },
     {
-      "name": "talks",
+      "name": "country",
+      "count": 4
+    },
+    {
+      "name": "trump",
+      "count": 4
+    },
+    {
+      "name": "dies",
       "count": 3
     },
     {
-      "name": "says",
+      "name": "music",
       "count": 3
     },
     {
@@ -109,19 +121,7 @@
     {
       "name": "what",
       "count": 3
-    },
-    {
-      "name": "economic",
-      "count": 3
-    },
-    {
-      "name": "after",
-      "count": 3
-    },
-    {
-      "name": "police",
-      "count": 3
     }
   ],
-  "updated_at": "2026-08-25 18:44:18.821422"
+  "updated_at": "2026-08-26 01:38:26.518427"
 }
