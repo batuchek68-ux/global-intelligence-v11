@@ -1,127 +1,127 @@
 {
   "keywords": [
     [
-      "lake",
-      6
-    ],
-    [
-      "what",
-      5
+      "after",
+      7
     ],
     [
       "nepal",
-      4
-    ],
-    [
-      "from",
-      3
-    ],
-    [
-      "new",
-      3
-    ],
-    [
-      "know",
-      3
-    ],
-    [
-      "her",
-      3
+      6
     ],
     [
       "flood",
+      5
+    ],
+    [
+      "new",
+      4
+    ],
+    [
+      "what",
       3
     ],
     [
-      "china",
+      "about",
       3
     ],
     [
-      "six",
+      "man",
       3
     ],
     [
-      "months",
+      "with",
       3
     ],
     [
-      "iran",
-      3
-    ],
-    [
-      "army",
+      "floods",
       2
     ],
     [
-      "police",
+      "festival",
       2
     ],
     [
-      "pain",
+      "its",
       2
     ],
     [
-      "fire",
+      "norways",
       2
     ],
     [
-      "trump",
+      "king",
       2
     ],
     [
-      "america",
+      "haakon",
       2
     ],
     [
-      "preview",
+      "one",
       2
     ],
     [
-      "search",
+      "israeli",
+      2
+    ],
+    [
+      "west",
+      2
+    ],
+    [
+      "denies",
+      2
+    ],
+    [
+      "threat",
+      2
+    ],
+    [
+      "tour",
       2
     ]
   ],
   "topics": [
     {
-      "name": "lake",
-      "count": 6
-    },
-    {
-      "name": "what",
-      "count": 5
+      "name": "after",
+      "count": 7
     },
     {
       "name": "nepal",
-      "count": 4
-    },
-    {
-      "name": "from",
-      "count": 3
-    },
-    {
-      "name": "new",
-      "count": 3
-    },
-    {
-      "name": "know",
-      "count": 3
-    },
-    {
-      "name": "her",
-      "count": 3
+      "count": 6
     },
     {
       "name": "flood",
+      "count": 5
+    },
+    {
+      "name": "new",
+      "count": 4
+    },
+    {
+      "name": "what",
       "count": 3
     },
     {
-      "name": "china",
+      "name": "about",
       "count": 3
     },
     {
-      "name": "six",
+      "name": "man",
       "count": 3
+    },
+    {
+      "name": "with",
+      "count": 3
+    },
+    {
+      "name": "floods",
+      "count": 2
+    },
+    {
+      "name": "festival",
+      "count": 2
     }
   ],
-  "updated_at": "2026-08-28 10:43:09.673582"
+  "updated_at": "2026-08-28 21:59:44.589184"
 }
