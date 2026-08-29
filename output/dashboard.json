@@ -1,35 +1,31 @@
 {
   "keywords": [
     [
-      "after",
-      7
-    ],
-    [
-      "nepal",
-      6
-    ],
-    [
-      "flood",
-      5
-    ],
-    [
-      "new",
+      "with",
       4
     ],
     [
-      "what",
+      "after",
       3
     ],
     [
-      "about",
+      "deal",
       3
     ],
     [
-      "man",
+      "control",
       3
     ],
     [
-      "with",
+      "oil",
+      3
+    ],
+    [
+      "flood",
+      3
+    ],
+    [
+      "nepal",
       3
     ],
     [
@@ -37,81 +33,81 @@
       2
     ],
     [
+      "tibet",
+      2
+    ],
+    [
+      "china",
+      2
+    ],
+    [
+      "about",
+      2
+    ],
+    [
+      "dies",
+      2
+    ],
+    [
       "festival",
       2
     ],
     [
-      "its",
+      "race",
       2
     ],
     [
-      "norways",
+      "iceland",
       2
     ],
     [
-      "king",
+      "votes",
       2
     ],
     [
-      "haakon",
+      "talks",
       2
     ],
     [
-      "one",
+      "england",
       2
     ],
     [
-      "israeli",
+      "trump",
       2
     ],
     [
-      "west",
-      2
-    ],
-    [
-      "denies",
-      2
-    ],
-    [
-      "threat",
-      2
-    ],
-    [
-      "tour",
+      "war",
       2
     ]
   ],
   "topics": [
     {
-      "name": "after",
-      "count": 7
-    },
-    {
-      "name": "nepal",
-      "count": 6
-    },
-    {
-      "name": "flood",
-      "count": 5
-    },
-    {
-      "name": "new",
+      "name": "with",
       "count": 4
     },
     {
-      "name": "what",
+      "name": "after",
       "count": 3
     },
     {
-      "name": "about",
+      "name": "deal",
       "count": 3
     },
     {
-      "name": "man",
+      "name": "control",
       "count": 3
     },
     {
-      "name": "with",
+      "name": "oil",
+      "count": 3
+    },
+    {
+      "name": "flood",
+      "count": 3
+    },
+    {
+      "name": "nepal",
       "count": 3
     },
     {
@@ -119,9 +115,13 @@
       "count": 2
     },
     {
-      "name": "festival",
+      "name": "tibet",
+      "count": 2
+    },
+    {
+      "name": "china",
       "count": 2
     }
   ],
-  "updated_at": "2026-08-28 21:59:44.589184"
+  "updated_at": "2026-08-29 06:30:28.911287"
 }
