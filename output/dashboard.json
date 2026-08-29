@@ -1,43 +1,43 @@
 {
   "keywords": [
     [
-      "with",
+      "after",
       4
     ],
     [
-      "after",
+      "man",
+      4
+    ],
+    [
+      "least",
       3
     ],
     [
-      "deal",
-      3
+      "dead",
+      2
     ],
     [
-      "control",
-      3
+      "strike",
+      2
     ],
     [
-      "oil",
-      3
+      "kyiv",
+      2
     ],
     [
-      "flood",
-      3
-    ],
-    [
-      "nepal",
-      3
+      "sign",
+      2
     ],
     [
       "floods",
       2
     ],
     [
-      "tibet",
+      "being",
       2
     ],
     [
-      "china",
+      "know",
       2
     ],
     [
@@ -45,83 +45,83 @@
       2
     ],
     [
-      "dies",
+      "nepal",
       2
     ],
     [
-      "festival",
+      "how",
       2
     ],
     [
-      "race",
+      "tour",
       2
     ],
     [
-      "iceland",
+      "over",
       2
     ],
     [
-      "votes",
+      "one",
       2
     ],
     [
-      "talks",
+      "control",
       2
     ],
     [
-      "england",
+      "ice",
       2
     ],
     [
-      "trump",
+      "russian",
       2
     ],
     [
-      "war",
+      "days",
       2
     ]
   ],
   "topics": [
     {
-      "name": "with",
+      "name": "after",
       "count": 4
     },
     {
-      "name": "after",
+      "name": "man",
+      "count": 4
+    },
+    {
+      "name": "least",
       "count": 3
     },
     {
-      "name": "deal",
-      "count": 3
+      "name": "dead",
+      "count": 2
     },
     {
-      "name": "control",
-      "count": 3
+      "name": "strike",
+      "count": 2
     },
     {
-      "name": "oil",
-      "count": 3
+      "name": "kyiv",
+      "count": 2
     },
     {
-      "name": "flood",
-      "count": 3
-    },
-    {
-      "name": "nepal",
-      "count": 3
+      "name": "sign",
+      "count": 2
     },
     {
       "name": "floods",
       "count": 2
     },
     {
-      "name": "tibet",
+      "name": "being",
       "count": 2
     },
     {
-      "name": "china",
+      "name": "know",
       "count": 2
     }
   ],
-  "updated_at": "2026-08-29 06:30:28.911287"
+  "updated_at": "2026-08-29 16:29:47.265038"
 }
