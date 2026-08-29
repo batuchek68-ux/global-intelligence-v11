@@ -2,19 +2,35 @@
   "keywords": [
     [
       "after",
+      7
+    ],
+    [
+      "over",
       4
     ],
     [
-      "man",
-      4
-    ],
-    [
-      "least",
+      "says",
       3
     ],
     [
-      "dead",
-      2
+      "man",
+      3
+    ],
+    [
+      "dies",
+      3
+    ],
+    [
+      "about",
+      3
+    ],
+    [
+      "attacks",
+      3
+    ],
+    [
+      "israeli",
+      3
     ],
     [
       "strike",
@@ -25,7 +41,35 @@
       2
     ],
     [
-      "sign",
+      "depot",
+      2
+    ],
+    [
+      "run",
+      2
+    ],
+    [
+      "norways",
+      2
+    ],
+    [
+      "new",
+      2
+    ],
+    [
+      "king",
+      2
+    ],
+    [
+      "father",
+      2
+    ],
+    [
+      "russian",
+      2
+    ],
+    [
+      "expected",
       2
     ],
     [
@@ -35,68 +79,40 @@
     [
       "being",
       2
-    ],
-    [
-      "know",
-      2
-    ],
-    [
-      "about",
-      2
-    ],
-    [
-      "nepal",
-      2
-    ],
-    [
-      "how",
-      2
-    ],
-    [
-      "tour",
-      2
-    ],
-    [
-      "over",
-      2
-    ],
-    [
-      "one",
-      2
-    ],
-    [
-      "control",
-      2
-    ],
-    [
-      "ice",
-      2
-    ],
-    [
-      "russian",
-      2
-    ],
-    [
-      "days",
-      2
     ]
   ],
   "topics": [
     {
       "name": "after",
+      "count": 7
+    },
+    {
+      "name": "over",
       "count": 4
     },
     {
-      "name": "man",
-      "count": 4
-    },
-    {
-      "name": "least",
+      "name": "says",
       "count": 3
     },
     {
-      "name": "dead",
-      "count": 2
+      "name": "man",
+      "count": 3
+    },
+    {
+      "name": "dies",
+      "count": 3
+    },
+    {
+      "name": "about",
+      "count": 3
+    },
+    {
+      "name": "attacks",
+      "count": 3
+    },
+    {
+      "name": "israeli",
+      "count": 3
     },
     {
       "name": "strike",
@@ -105,23 +121,7 @@
     {
       "name": "kyiv",
       "count": 2
-    },
-    {
-      "name": "sign",
-      "count": 2
-    },
-    {
-      "name": "floods",
-      "count": 2
-    },
-    {
-      "name": "being",
-      "count": 2
-    },
-    {
-      "name": "know",
-      "count": 2
     }
   ],
-  "updated_at": "2026-08-29 16:29:47.265038"
+  "updated_at": "2026-08-29 20:43:36.818573"
 }
