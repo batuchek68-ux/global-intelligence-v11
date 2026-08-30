@@ -2,42 +2,18 @@
   "keywords": [
     [
       "after",
-      4
-    ],
-    [
-      "nepal",
-      4
+      5
     ],
     [
       "what",
-      3
+      4
     ],
     [
-      "british",
-      3
+      "says",
+      4
     ],
     [
-      "woman",
-      3
-    ],
-    [
-      "killed",
-      3
-    ],
-    [
-      "sign",
-      3
-    ],
-    [
-      "missing",
-      3
-    ],
-    [
-      "floods",
-      3
-    ],
-    [
-      "about",
+      "release",
       3
     ],
     [
@@ -45,8 +21,12 @@
       3
     ],
     [
-      "israel",
+      "palestinian",
       3
+    ],
+    [
+      "stay",
+      2
     ],
     [
       "changes",
@@ -57,7 +37,27 @@
       2
     ],
     [
-      "release",
+      "two",
+      2
+    ],
+    [
+      "arrested",
+      2
+    ],
+    [
+      "over",
+      2
+    ],
+    [
+      "house",
+      2
+    ],
+    [
+      "woman",
+      2
+    ],
+    [
+      "killed",
       2
     ],
     [
@@ -65,63 +65,63 @@
       2
     ],
     [
+      "votes",
+      2
+    ],
+    [
       "talks",
       2
     ],
     [
-      "rescued",
+      "missing",
       2
     ],
     [
-      "china",
-      2
-    ],
-    [
-      "flash",
+      "kills",
       2
     ]
   ],
   "topics": [
     {
       "name": "after",
-      "count": 4
-    },
-    {
-      "name": "nepal",
-      "count": 4
+      "count": 5
     },
     {
       "name": "what",
+      "count": 4
+    },
+    {
+      "name": "says",
+      "count": 4
+    },
+    {
+      "name": "release",
       "count": 3
     },
     {
-      "name": "british",
+      "name": "they",
       "count": 3
     },
     {
-      "name": "woman",
+      "name": "palestinian",
       "count": 3
     },
     {
-      "name": "killed",
-      "count": 3
+      "name": "stay",
+      "count": 2
     },
     {
-      "name": "sign",
-      "count": 3
+      "name": "changes",
+      "count": 2
     },
     {
-      "name": "missing",
-      "count": 3
+      "name": "early",
+      "count": 2
     },
     {
-      "name": "floods",
-      "count": 3
-    },
-    {
-      "name": "about",
-      "count": 3
+      "name": "two",
+      "count": 2
     }
   ],
-  "updated_at": "2026-08-30 11:36:38.519962"
+  "updated_at": "2026-08-30 16:23:20.472521"
 }
