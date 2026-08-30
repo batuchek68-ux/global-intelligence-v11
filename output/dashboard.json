@@ -2,74 +2,54 @@
   "keywords": [
     [
       "after",
-      7
-    ],
-    [
-      "over",
       4
     ],
     [
-      "says",
+      "nepal",
       3
     ],
     [
-      "man",
+      "they",
       3
     ],
     [
-      "dies",
+      "oil",
       3
     ],
     [
-      "about",
+      "over",
       3
     ],
     [
-      "attacks",
-      3
-    ],
-    [
-      "israeli",
-      3
-    ],
-    [
-      "strike",
+      "iceland",
       2
     ],
     [
-      "kyiv",
+      "referendum",
       2
     ],
     [
-      "depot",
+      "continue",
       2
     ],
     [
-      "run",
+      "vessel",
       2
     ],
     [
-      "norways",
+      "six",
       2
     ],
     [
-      "new",
+      "what",
       2
     ],
     [
-      "king",
+      "british",
       2
     ],
     [
-      "father",
-      2
-    ],
-    [
-      "russian",
-      2
-    ],
-    [
-      "expected",
+      "out",
       2
     ],
     [
@@ -77,51 +57,71 @@
       2
     ],
     [
-      "being",
+      "china",
+      2
+    ],
+    [
+      "know",
+      2
+    ],
+    [
+      "little",
+      2
+    ],
+    [
+      "about",
+      2
+    ],
+    [
+      "flood",
+      2
+    ],
+    [
+      "devastation",
       2
     ]
   ],
   "topics": [
     {
       "name": "after",
-      "count": 7
-    },
-    {
-      "name": "over",
       "count": 4
     },
     {
-      "name": "says",
+      "name": "nepal",
       "count": 3
     },
     {
-      "name": "man",
+      "name": "they",
       "count": 3
     },
     {
-      "name": "dies",
+      "name": "oil",
       "count": 3
     },
     {
-      "name": "about",
+      "name": "over",
       "count": 3
     },
     {
-      "name": "attacks",
-      "count": 3
-    },
-    {
-      "name": "israeli",
-      "count": 3
-    },
-    {
-      "name": "strike",
+      "name": "iceland",
       "count": 2
     },
     {
-      "name": "kyiv",
+      "name": "referendum",
+      "count": 2
+    },
+    {
+      "name": "continue",
+      "count": 2
+    },
+    {
+      "name": "vessel",
+      "count": 2
+    },
+    {
+      "name": "six",
       "count": 2
     }
   ],
-  "updated_at": "2026-08-29 20:43:36.818573"
+  "updated_at": "2026-08-30 04:42:23.426930"
 }
