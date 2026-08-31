@@ -1,127 +1,127 @@
 {
   "keywords": [
     [
+      "its",
+      4
+    ],
+    [
       "after",
-      6
-    ],
-    [
-      "iran",
-      4
-    ],
-    [
-      "flood",
-      4
-    ],
-    [
-      "with",
-      4
-    ],
-    [
-      "weeks",
-      3
-    ],
-    [
-      "what",
-      3
-    ],
-    [
-      "first",
-      3
-    ],
-    [
-      "missing",
-      3
-    ],
-    [
-      "out",
-      3
-    ],
-    [
-      "but",
-      3
-    ],
-    [
-      "israel",
       3
     ],
     [
       "nepal",
-      3
-    ],
-    [
-      "now",
       2
     ],
     [
-      "conservatives",
+      "blast",
       2
     ],
     [
-      "strikes",
+      "messi",
       2
     ],
     [
-      "over",
+      "from",
       2
     ],
     [
-      "many",
+      "with",
       2
     ],
     [
-      "open",
+      "nothing",
       2
     ],
     [
-      "dead",
+      "trump",
       2
     ],
     [
-      "more",
+      "lake",
+      2
+    ],
+    [
+      "world",
+      2
+    ],
+    [
+      "help",
+      2
+    ],
+    [
+      "can",
+      2
+    ],
+    [
+      "trial",
+      2
+    ],
+    [
+      "what",
+      2
+    ],
+    [
+      "out",
+      2
+    ],
+    [
+      "children",
+      2
+    ],
+    [
+      "why",
+      2
+    ],
+    [
+      "backlash",
+      2
+    ],
+    [
+      "killed",
       2
     ]
   ],
   "topics": [
     {
+      "name": "its",
+      "count": 4
+    },
+    {
       "name": "after",
-      "count": 6
+      "count": 3
     },
     {
-      "name": "iran",
-      "count": 4
+      "name": "nepal",
+      "count": 2
     },
     {
-      "name": "flood",
-      "count": 4
+      "name": "blast",
+      "count": 2
+    },
+    {
+      "name": "messi",
+      "count": 2
+    },
+    {
+      "name": "from",
+      "count": 2
     },
     {
       "name": "with",
-      "count": 4
+      "count": 2
     },
     {
-      "name": "weeks",
-      "count": 3
+      "name": "nothing",
+      "count": 2
     },
     {
-      "name": "what",
-      "count": 3
+      "name": "trump",
+      "count": 2
     },
     {
-      "name": "first",
-      "count": 3
-    },
-    {
-      "name": "missing",
-      "count": 3
-    },
-    {
-      "name": "out",
-      "count": 3
-    },
-    {
-      "name": "but",
-      "count": 3
+      "name": "lake",
+      "count": 2
     }
   ],
-  "updated_at": "2026-08-31 13:12:01.235825"
+  "updated_at": "2026-08-31 22:40:12.819329"
 }
