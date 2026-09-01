@@ -1,47 +1,43 @@
 {
   "keywords": [
     [
-      "its",
-      4
+      "after",
+      7
     ],
     [
-      "after",
+      "first",
       3
     ],
     [
-      "nepal",
+      "summer",
+      3
+    ],
+    [
+      "how",
+      3
+    ],
+    [
+      "into",
+      3
+    ],
+    [
+      "man",
       2
     ],
     [
-      "blast",
+      "fire",
       2
     ],
     [
-      "messi",
+      "woman",
       2
     ],
     [
-      "from",
+      "leader",
       2
     ],
     [
-      "with",
-      2
-    ],
-    [
-      "nothing",
-      2
-    ],
-    [
-      "trump",
-      2
-    ],
-    [
-      "lake",
-      2
-    ],
-    [
-      "world",
+      "found",
       2
     ],
     [
@@ -49,79 +45,83 @@
       2
     ],
     [
-      "can",
+      "army",
       2
     ],
     [
-      "trial",
+      "secretary",
       2
     ],
     [
-      "what",
+      "new",
       2
     ],
     [
-      "out",
+      "from",
       2
     ],
     [
-      "children",
+      "nepal",
       2
     ],
     [
-      "why",
+      "borneo",
       2
     ],
     [
-      "backlash",
+      "notting",
       2
     ],
     [
-      "killed",
+      "hill",
+      2
+    ],
+    [
+      "carnival",
       2
     ]
   ],
   "topics": [
     {
-      "name": "its",
-      "count": 4
+      "name": "after",
+      "count": 7
     },
     {
-      "name": "after",
+      "name": "first",
       "count": 3
     },
     {
-      "name": "nepal",
+      "name": "summer",
+      "count": 3
+    },
+    {
+      "name": "how",
+      "count": 3
+    },
+    {
+      "name": "into",
+      "count": 3
+    },
+    {
+      "name": "man",
       "count": 2
     },
     {
-      "name": "blast",
+      "name": "fire",
       "count": 2
     },
     {
-      "name": "messi",
+      "name": "woman",
       "count": 2
     },
     {
-      "name": "from",
+      "name": "leader",
       "count": 2
     },
     {
-      "name": "with",
-      "count": 2
-    },
-    {
-      "name": "nothing",
-      "count": 2
-    },
-    {
-      "name": "trump",
-      "count": 2
-    },
-    {
-      "name": "lake",
+      "name": "found",
       "count": 2
     }
   ],
-  "updated_at": "2026-08-31 22:40:12.819329"
+  "updated_at": "2026-09-01 04:26:14.104680"
 }
