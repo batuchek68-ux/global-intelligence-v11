@@ -1,35 +1,43 @@
 {
   "keywords": [
     [
-      "over",
-      3
-    ],
-    [
-      "new",
-      3
-    ],
-    [
-      "after",
-      3
-    ],
-    [
       "says",
+      4
+    ],
+    [
+      "why",
       3
     ],
     [
-      "summer",
+      "war",
       3
     ],
     [
-      "how",
+      "again",
       3
     ],
     [
-      "from",
+      "israeli",
       3
+    ],
+    [
+      "iran",
+      3
+    ],
+    [
+      "russia",
+      2
+    ],
+    [
+      "attack",
+      2
     ],
     [
       "never",
+      2
+    ],
+    [
+      "six",
       2
     ],
     [
@@ -37,91 +45,83 @@
       2
     ],
     [
-      "through",
+      "new",
       2
     ],
     [
-      "murder",
+      "his",
       2
     ],
     [
-      "tupac",
+      "say",
       2
     ],
     [
-      "with",
+      "family",
       2
     ],
     [
-      "fire",
+      "killed",
       2
     ],
     [
-      "israeli",
+      "end",
       2
     ],
     [
-      "kills",
-      2
-    ],
-    [
-      "three",
-      2
-    ],
-    [
-      "gaza",
-      2
-    ],
-    [
-      "could",
+      "will",
       2
     ],
     [
       "efforts",
       2
+    ],
+    [
+      "summer",
+      2
     ]
   ],
   "topics": [
     {
-      "name": "over",
-      "count": 3
-    },
-    {
-      "name": "new",
-      "count": 3
-    },
-    {
-      "name": "after",
-      "count": 3
-    },
-    {
       "name": "says",
+      "count": 4
+    },
+    {
+      "name": "why",
       "count": 3
     },
     {
-      "name": "summer",
+      "name": "war",
       "count": 3
     },
     {
-      "name": "how",
+      "name": "again",
       "count": 3
     },
     {
-      "name": "from",
+      "name": "israeli",
       "count": 3
+    },
+    {
+      "name": "iran",
+      "count": 3
+    },
+    {
+      "name": "russia",
+      "count": 2
+    },
+    {
+      "name": "attack",
+      "count": 2
     },
     {
       "name": "never",
       "count": 2
     },
     {
-      "name": "under",
-      "count": 2
-    },
-    {
-      "name": "through",
+      "name": "six",
       "count": 2
     }
   ],
-  "updated_at": "2026-09-01 11:23:52.761546"
+  "updated_at": "2026-09-01 16:20:02.480560"
 }
