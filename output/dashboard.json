@@ -1,127 +1,127 @@
 {
   "keywords": [
     [
-      "iran",
-      6
-    ],
-    [
       "after",
       6
     ],
     [
-      "says",
-      5
-    ],
-    [
-      "lake",
+      "watch",
       4
     ],
     [
-      "strikes",
+      "says",
+      4
+    ],
+    [
+      "with",
       3
     ],
     [
-      "wedding",
+      "what",
       3
     ],
     [
-      "party",
+      "iran",
       3
     ],
     [
-      "from",
+      "bbc",
       3
     ],
     [
-      "attack",
+      "nepal",
       3
     ],
     [
-      "hit",
+      "not",
       3
     ],
     [
-      "city",
+      "missing",
       3
     ],
     [
-      "retaliates",
+      "murder",
       2
     ],
     [
-      "more",
+      "death",
       2
     ],
     [
-      "public",
+      "know",
       2
     ],
     [
-      "ahead",
+      "about",
       2
     ],
     [
-      "children",
+      "inside",
       2
     ],
     [
-      "arrest",
+      "was",
       2
     ],
     [
-      "russia",
+      "pleads",
       2
     ],
     [
-      "drone",
+      "guilty",
       2
     ],
     [
-      "apple",
+      "trial",
+      2
+    ],
+    [
+      "operations",
       2
     ]
   ],
   "topics": [
     {
-      "name": "iran",
-      "count": 6
-    },
-    {
       "name": "after",
       "count": 6
     },
     {
-      "name": "says",
-      "count": 5
-    },
-    {
-      "name": "lake",
+      "name": "watch",
       "count": 4
     },
     {
-      "name": "strikes",
+      "name": "says",
+      "count": 4
+    },
+    {
+      "name": "with",
       "count": 3
     },
     {
-      "name": "wedding",
+      "name": "what",
       "count": 3
     },
     {
-      "name": "party",
+      "name": "iran",
       "count": 3
     },
     {
-      "name": "from",
+      "name": "bbc",
       "count": 3
     },
     {
-      "name": "attack",
+      "name": "nepal",
       "count": 3
     },
     {
-      "name": "hit",
+      "name": "not",
+      "count": 3
+    },
+    {
+      "name": "missing",
       "count": 3
     }
   ],
-  "updated_at": "2026-09-02 03:49:13.449682"
+  "updated_at": "2026-09-02 10:57:16.040615"
 }
