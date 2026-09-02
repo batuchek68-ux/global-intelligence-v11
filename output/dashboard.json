@@ -1,27 +1,19 @@
 {
   "keywords": [
     [
-      "after",
-      6
-    ],
-    [
-      "watch",
-      4
-    ],
-    [
-      "says",
-      4
-    ],
-    [
-      "with",
-      3
-    ],
-    [
       "what",
-      3
+      4
     ],
     [
-      "iran",
+      "not",
+      4
+    ],
+    [
+      "why",
+      4
+    ],
+    [
+      "new",
       3
     ],
     [
@@ -29,23 +21,31 @@
       3
     ],
     [
-      "nepal",
+      "after",
       3
     ],
     [
-      "not",
+      "court",
       3
     ],
     [
-      "missing",
+      "break",
       3
     ],
     [
       "murder",
+      3
+    ],
+    [
+      "gaza",
+      3
+    ],
+    [
+      "over",
       2
     ],
     [
-      "death",
+      "watch",
       2
     ],
     [
@@ -57,53 +57,45 @@
       2
     ],
     [
-      "inside",
+      "visits",
       2
     ],
     [
-      "was",
+      "deadly",
       2
     ],
     [
-      "pleads",
+      "floods",
       2
     ],
     [
-      "guilty",
+      "against",
       2
     ],
     [
-      "trial",
+      "west",
       2
     ],
     [
-      "operations",
+      "russia",
       2
     ]
   ],
   "topics": [
     {
-      "name": "after",
-      "count": 6
-    },
-    {
-      "name": "watch",
-      "count": 4
-    },
-    {
-      "name": "says",
-      "count": 4
-    },
-    {
-      "name": "with",
-      "count": 3
-    },
-    {
       "name": "what",
-      "count": 3
+      "count": 4
     },
     {
-      "name": "iran",
+      "name": "not",
+      "count": 4
+    },
+    {
+      "name": "why",
+      "count": 4
+    },
+    {
+      "name": "new",
       "count": 3
     },
     {
@@ -111,17 +103,25 @@
       "count": 3
     },
     {
-      "name": "nepal",
+      "name": "after",
       "count": 3
     },
     {
-      "name": "not",
+      "name": "court",
       "count": 3
     },
     {
-      "name": "missing",
+      "name": "break",
+      "count": 3
+    },
+    {
+      "name": "murder",
+      "count": 3
+    },
+    {
+      "name": "gaza",
       "count": 3
     }
   ],
-  "updated_at": "2026-09-02 10:57:16.040615"
+  "updated_at": "2026-09-02 16:18:04.648574"
 }
