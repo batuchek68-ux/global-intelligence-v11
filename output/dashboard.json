@@ -1,127 +1,127 @@
 {
   "keywords": [
     [
-      "what",
-      4
-    ],
-    [
-      "not",
-      4
-    ],
-    [
-      "why",
-      4
-    ],
-    [
-      "new",
-      3
-    ],
-    [
-      "bbc",
-      3
-    ],
-    [
       "after",
-      3
+      5
     ],
     [
-      "court",
-      3
-    ],
-    [
-      "break",
-      3
-    ],
-    [
-      "murder",
-      3
-    ],
-    [
-      "gaza",
-      3
+      "says",
+      5
     ],
     [
       "over",
-      2
+      4
     ],
     [
-      "watch",
-      2
+      "attack",
+      4
     ],
     [
-      "know",
-      2
+      "trump",
+      4
     ],
     [
-      "about",
-      2
-    ],
-    [
-      "visits",
-      2
+      "burnham",
+      3
     ],
     [
       "deadly",
+      3
+    ],
+    [
+      "saudi",
+      3
+    ],
+    [
+      "israel",
+      3
+    ],
+    [
+      "strait",
+      3
+    ],
+    [
+      "first",
       2
     ],
     [
-      "floods",
+      "pmqs",
       2
     ],
     [
-      "against",
+      "bayeux",
       2
     ],
     [
-      "west",
+      "tapestry",
       2
     ],
     [
-      "russia",
+      "london",
+      2
+    ],
+    [
+      "what",
+      2
+    ],
+    [
+      "but",
+      2
+    ],
+    [
+      "nepal",
+      2
+    ],
+    [
+      "court",
+      2
+    ],
+    [
+      "murder",
       2
     ]
   ],
   "topics": [
     {
-      "name": "what",
-      "count": 4
-    },
-    {
-      "name": "not",
-      "count": 4
-    },
-    {
-      "name": "why",
-      "count": 4
-    },
-    {
-      "name": "new",
-      "count": 3
-    },
-    {
-      "name": "bbc",
-      "count": 3
-    },
-    {
       "name": "after",
+      "count": 5
+    },
+    {
+      "name": "says",
+      "count": 5
+    },
+    {
+      "name": "over",
+      "count": 4
+    },
+    {
+      "name": "attack",
+      "count": 4
+    },
+    {
+      "name": "trump",
+      "count": 4
+    },
+    {
+      "name": "burnham",
       "count": 3
     },
     {
-      "name": "court",
+      "name": "deadly",
       "count": 3
     },
     {
-      "name": "break",
+      "name": "saudi",
       "count": 3
     },
     {
-      "name": "murder",
+      "name": "israel",
       "count": 3
     },
     {
-      "name": "gaza",
+      "name": "strait",
       "count": 3
     }
   ],
-  "updated_at": "2026-09-02 16:18:04.648574"
+  "updated_at": "2026-09-02 20:49:12.706796"
 }
