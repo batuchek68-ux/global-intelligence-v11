@@ -1,39 +1,23 @@
 {
   "keywords": [
     [
-      "boat",
+      "war",
       4
+    ],
+    [
+      "says",
+      4
+    ],
+    [
+      "nepal",
+      3
+    ],
+    [
+      "israel",
+      3
     ],
     [
       "how",
-      4
-    ],
-    [
-      "gloria",
-      3
-    ],
-    [
-      "steinem",
-      3
-    ],
-    [
-      "amid",
-      3
-    ],
-    [
-      "face",
-      3
-    ],
-    [
-      "they",
-      3
-    ],
-    [
-      "what",
-      3
-    ],
-    [
-      "why",
       3
     ],
     [
@@ -41,87 +25,103 @@
       2
     ],
     [
+      "action",
+      2
+    ],
+    [
       "small",
       2
     ],
     [
-      "feminist",
+      "first",
       2
     ],
     [
-      "dies",
+      "funeral",
       2
     ],
     [
-      "aged",
+      "fifa",
       2
     ],
     [
-      "close",
+      "accuses",
       2
     ],
     [
-      "says",
+      "uefa",
       2
     ],
     [
-      "could",
+      "smear",
       2
     ],
     [
-      "killed",
+      "campaign",
       2
     ],
     [
-      "four",
+      "spending",
       2
     ],
     [
-      "trial",
+      "watch",
+      2
+    ],
+    [
+      "gloria",
+      2
+    ],
+    [
+      "steinem",
+      2
+    ],
+    [
+      "trump",
       2
     ]
   ],
   "topics": [
     {
-      "name": "boat",
+      "name": "war",
       "count": 4
+    },
+    {
+      "name": "says",
+      "count": 4
+    },
+    {
+      "name": "nepal",
+      "count": 3
+    },
+    {
+      "name": "israel",
+      "count": 3
     },
     {
       "name": "how",
-      "count": 4
-    },
-    {
-      "name": "gloria",
-      "count": 3
-    },
-    {
-      "name": "steinem",
-      "count": 3
-    },
-    {
-      "name": "amid",
-      "count": 3
-    },
-    {
-      "name": "face",
-      "count": 3
-    },
-    {
-      "name": "they",
-      "count": 3
-    },
-    {
-      "name": "what",
-      "count": 3
-    },
-    {
-      "name": "why",
       "count": 3
     },
     {
       "name": "burnham",
       "count": 2
+    },
+    {
+      "name": "action",
+      "count": 2
+    },
+    {
+      "name": "small",
+      "count": 2
+    },
+    {
+      "name": "first",
+      "count": 2
+    },
+    {
+      "name": "funeral",
+      "count": 2
     }
   ],
-  "updated_at": "2026-09-03 16:08:42.715487"
+  "updated_at": "2026-09-03 20:46:09.036152"
 }
