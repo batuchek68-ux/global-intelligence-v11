@@ -1,35 +1,51 @@
 {
   "keywords": [
     [
-      "over",
+      "boat",
       4
     ],
     [
-      "boat",
-      3
-    ],
-    [
-      "its",
-      3
-    ],
-    [
       "how",
-      3
-    ],
-    [
-      "limits",
-      2
-    ],
-    [
-      "watch",
-      2
-    ],
-    [
-      "migrants",
-      2
+      4
     ],
     [
       "gloria",
+      3
+    ],
+    [
+      "steinem",
+      3
+    ],
+    [
+      "amid",
+      3
+    ],
+    [
+      "face",
+      3
+    ],
+    [
+      "they",
+      3
+    ],
+    [
+      "what",
+      3
+    ],
+    [
+      "why",
+      3
+    ],
+    [
+      "burnham",
+      2
+    ],
+    [
+      "small",
+      2
+    ],
+    [
+      "feminist",
       2
     ],
     [
@@ -37,11 +53,11 @@
       2
     ],
     [
-      "zack",
+      "aged",
       2
     ],
     [
-      "polanski",
+      "close",
       2
     ],
     [
@@ -49,79 +65,63 @@
       2
     ],
     [
-      "starmers",
-      2
-    ],
-    [
-      "seat",
-      2
-    ],
-    [
-      "byelection",
-      2
-    ],
-    [
-      "new",
-      2
-    ],
-    [
       "could",
       2
     ],
     [
-      "are",
+      "killed",
       2
     ],
     [
-      "after",
+      "four",
       2
     ],
     [
-      "why",
+      "trial",
       2
     ]
   ],
   "topics": [
     {
-      "name": "over",
+      "name": "boat",
       "count": 4
     },
     {
-      "name": "boat",
-      "count": 3
-    },
-    {
-      "name": "its",
-      "count": 3
-    },
-    {
       "name": "how",
-      "count": 3
-    },
-    {
-      "name": "limits",
-      "count": 2
-    },
-    {
-      "name": "watch",
-      "count": 2
-    },
-    {
-      "name": "migrants",
-      "count": 2
+      "count": 4
     },
     {
       "name": "gloria",
-      "count": 2
+      "count": 3
     },
     {
-      "name": "dies",
-      "count": 2
+      "name": "steinem",
+      "count": 3
     },
     {
-      "name": "zack",
+      "name": "amid",
+      "count": 3
+    },
+    {
+      "name": "face",
+      "count": 3
+    },
+    {
+      "name": "they",
+      "count": 3
+    },
+    {
+      "name": "what",
+      "count": 3
+    },
+    {
+      "name": "why",
+      "count": 3
+    },
+    {
+      "name": "burnham",
       "count": 2
     }
   ],
-  "updated_at": "2026-09-03 10:56:44.359856"
+  "updated_at": "2026-09-03 16:08:42.715487"
 }
