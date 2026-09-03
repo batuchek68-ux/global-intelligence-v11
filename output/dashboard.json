@@ -1,55 +1,63 @@
 {
   "keywords": [
     [
-      "crisis",
-      5
-    ],
-    [
-      "one",
-      3
-    ],
-    [
-      "spain",
-      3
-    ],
-    [
       "over",
+      4
+    ],
+    [
+      "boat",
       3
     ],
     [
-      "trump",
+      "its",
       3
     ],
     [
-      "iran",
+      "how",
       3
+    ],
+    [
+      "limits",
+      2
+    ],
+    [
+      "watch",
+      2
+    ],
+    [
+      "migrants",
+      2
+    ],
+    [
+      "gloria",
+      2
+    ],
+    [
+      "dies",
+      2
+    ],
+    [
+      "zack",
+      2
+    ],
+    [
+      "polanski",
+      2
     ],
     [
       "says",
-      3
-    ],
-    [
-      "burnham",
       2
     ],
     [
-      "first",
+      "starmers",
       2
     ],
     [
-      "bayeux",
+      "seat",
       2
     ],
     [
-      "tapestry",
-      2
-    ],
-    [
-      "london",
-      2
-    ],
-    [
-      "what",
+      "byelection",
       2
     ],
     [
@@ -57,19 +65,7 @@
       2
     ],
     [
-      "death",
-      2
-    ],
-    [
-      "against",
-      2
-    ],
-    [
-      "ceuta",
-      2
-    ],
-    [
-      "migrant",
+      "could",
       2
     ],
     [
@@ -77,51 +73,55 @@
       2
     ],
     [
-      "campaign",
+      "after",
+      2
+    ],
+    [
+      "why",
       2
     ]
   ],
   "topics": [
     {
-      "name": "crisis",
-      "count": 5
-    },
-    {
-      "name": "one",
-      "count": 3
-    },
-    {
-      "name": "spain",
-      "count": 3
-    },
-    {
       "name": "over",
+      "count": 4
+    },
+    {
+      "name": "boat",
       "count": 3
     },
     {
-      "name": "trump",
+      "name": "its",
       "count": 3
     },
     {
-      "name": "iran",
+      "name": "how",
       "count": 3
     },
     {
-      "name": "says",
-      "count": 3
-    },
-    {
-      "name": "burnham",
+      "name": "limits",
       "count": 2
     },
     {
-      "name": "first",
+      "name": "watch",
       "count": 2
     },
     {
-      "name": "bayeux",
+      "name": "migrants",
+      "count": 2
+    },
+    {
+      "name": "gloria",
+      "count": 2
+    },
+    {
+      "name": "dies",
+      "count": 2
+    },
+    {
+      "name": "zack",
       "count": 2
     }
   ],
-  "updated_at": "2026-09-03 03:48:39.937358"
+  "updated_at": "2026-09-03 10:56:44.359856"
 }
