@@ -1,19 +1,35 @@
 {
   "keywords": [
     [
-      "are",
-      5
+      "after",
+      6
     ],
     [
-      "court",
-      3
+      "how",
+      4
     ],
     [
-      "with",
-      3
+      "nepal",
+      4
     ],
     [
       "from",
+      4
+    ],
+    [
+      "tunnel",
+      3
+    ],
+    [
+      "threatens",
+      3
+    ],
+    [
+      "falklands",
+      3
+    ],
+    [
+      "could",
       3
     ],
     [
@@ -21,15 +37,15 @@
       3
     ],
     [
-      "iran",
+      "record",
       3
     ],
     [
-      "donations",
+      "layer",
       2
     ],
     [
-      "say",
+      "rescued",
       2
     ],
     [
@@ -37,65 +53,65 @@
       2
     ],
     [
-      "falklands",
+      "targeted",
       2
     ],
     [
-      "sanctions",
+      "years",
       2
     ],
     [
-      "but",
+      "open",
       2
     ],
     [
-      "could",
+      "has",
       2
     ],
     [
-      "stop",
+      "works",
       2
     ],
     [
-      "how",
+      "body",
       2
     ],
     [
-      "what",
-      2
-    ],
-    [
-      "gloria",
-      2
-    ],
-    [
-      "steinem",
-      2
-    ],
-    [
-      "that",
-      2
-    ],
-    [
-      "leaders",
+      "days",
       2
     ]
   ],
   "topics": [
     {
-      "name": "are",
-      "count": 5
+      "name": "after",
+      "count": 6
     },
     {
-      "name": "court",
-      "count": 3
+      "name": "how",
+      "count": 4
     },
     {
-      "name": "with",
-      "count": 3
+      "name": "nepal",
+      "count": 4
     },
     {
       "name": "from",
+      "count": 4
+    },
+    {
+      "name": "tunnel",
+      "count": 3
+    },
+    {
+      "name": "threatens",
+      "count": 3
+    },
+    {
+      "name": "falklands",
+      "count": 3
+    },
+    {
+      "name": "could",
       "count": 3
     },
     {
@@ -103,25 +119,9 @@
       "count": 3
     },
     {
-      "name": "iran",
+      "name": "record",
       "count": 3
-    },
-    {
-      "name": "donations",
-      "count": 2
-    },
-    {
-      "name": "say",
-      "count": 2
-    },
-    {
-      "name": "oil",
-      "count": 2
-    },
-    {
-      "name": "falklands",
-      "count": 2
     }
   ],
-  "updated_at": "2026-09-04 03:50:10.775443"
+  "updated_at": "2026-09-04 10:56:31.344838"
 }
