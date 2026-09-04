@@ -1,71 +1,67 @@
 {
   "keywords": [
     [
-      "war",
-      4
+      "are",
+      5
     ],
     [
-      "says",
-      4
-    ],
-    [
-      "nepal",
+      "court",
       3
     ],
     [
-      "israel",
+      "with",
       3
+    ],
+    [
+      "from",
+      3
+    ],
+    [
+      "why",
+      3
+    ],
+    [
+      "iran",
+      3
+    ],
+    [
+      "donations",
+      2
+    ],
+    [
+      "say",
+      2
+    ],
+    [
+      "oil",
+      2
+    ],
+    [
+      "falklands",
+      2
+    ],
+    [
+      "sanctions",
+      2
+    ],
+    [
+      "but",
+      2
+    ],
+    [
+      "could",
+      2
+    ],
+    [
+      "stop",
+      2
     ],
     [
       "how",
-      3
-    ],
-    [
-      "burnham",
       2
     ],
     [
-      "action",
-      2
-    ],
-    [
-      "small",
-      2
-    ],
-    [
-      "first",
-      2
-    ],
-    [
-      "funeral",
-      2
-    ],
-    [
-      "fifa",
-      2
-    ],
-    [
-      "accuses",
-      2
-    ],
-    [
-      "uefa",
-      2
-    ],
-    [
-      "smear",
-      2
-    ],
-    [
-      "campaign",
-      2
-    ],
-    [
-      "spending",
-      2
-    ],
-    [
-      "watch",
+      "what",
       2
     ],
     [
@@ -77,51 +73,55 @@
       2
     ],
     [
-      "trump",
+      "that",
+      2
+    ],
+    [
+      "leaders",
       2
     ]
   ],
   "topics": [
     {
-      "name": "war",
-      "count": 4
+      "name": "are",
+      "count": 5
     },
     {
-      "name": "says",
-      "count": 4
-    },
-    {
-      "name": "nepal",
+      "name": "court",
       "count": 3
     },
     {
-      "name": "israel",
+      "name": "with",
       "count": 3
     },
     {
-      "name": "how",
+      "name": "from",
       "count": 3
     },
     {
-      "name": "burnham",
+      "name": "why",
+      "count": 3
+    },
+    {
+      "name": "iran",
+      "count": 3
+    },
+    {
+      "name": "donations",
       "count": 2
     },
     {
-      "name": "action",
+      "name": "say",
       "count": 2
     },
     {
-      "name": "small",
+      "name": "oil",
       "count": 2
     },
     {
-      "name": "first",
-      "count": 2
-    },
-    {
-      "name": "funeral",
+      "name": "falklands",
       "count": 2
     }
   ],
-  "updated_at": "2026-09-03 20:46:09.036152"
+  "updated_at": "2026-09-04 03:50:10.775443"
 }
