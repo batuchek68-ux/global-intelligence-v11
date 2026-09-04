@@ -2,126 +2,126 @@
   "keywords": [
     [
       "after",
-      6
+      4
+    ],
+    [
+      "says",
+      4
     ],
     [
       "how",
       4
     ],
     [
-      "nepal",
-      4
+      "killed",
+      3
     ],
     [
-      "from",
-      4
+      "russia",
+      3
+    ],
+    [
+      "over",
+      3
+    ],
+    [
+      "farage",
+      2
+    ],
+    [
+      "nepal",
+      2
     ],
     [
       "tunnel",
-      3
-    ],
-    [
-      "threatens",
-      3
-    ],
-    [
-      "falklands",
-      3
-    ],
-    [
-      "could",
-      3
-    ],
-    [
-      "why",
-      3
-    ],
-    [
-      "record",
-      3
-    ],
-    [
-      "layer",
       2
     ],
     [
-      "rescued",
+      "more",
       2
     ],
     [
-      "oil",
+      "survivors",
       2
     ],
     [
-      "targeted",
+      "food",
       2
     ],
     [
-      "years",
+      "extreme",
       2
     ],
     [
-      "open",
+      "weather",
       2
     ],
     [
-      "has",
+      "minister",
       2
     ],
     [
-      "works",
+      "west",
       2
     ],
     [
-      "body",
+      "bank",
       2
     ],
     [
-      "days",
+      "tells",
+      2
+    ],
+    [
+      "bbc",
+      2
+    ],
+    [
+      "hits",
       2
     ]
   ],
   "topics": [
     {
       "name": "after",
-      "count": 6
+      "count": 4
+    },
+    {
+      "name": "says",
+      "count": 4
     },
     {
       "name": "how",
       "count": 4
     },
     {
-      "name": "nepal",
-      "count": 4
+      "name": "killed",
+      "count": 3
     },
     {
-      "name": "from",
-      "count": 4
+      "name": "russia",
+      "count": 3
+    },
+    {
+      "name": "over",
+      "count": 3
+    },
+    {
+      "name": "farage",
+      "count": 2
+    },
+    {
+      "name": "nepal",
+      "count": 2
     },
     {
       "name": "tunnel",
-      "count": 3
+      "count": 2
     },
     {
-      "name": "threatens",
-      "count": 3
-    },
-    {
-      "name": "falklands",
-      "count": 3
-    },
-    {
-      "name": "could",
-      "count": 3
-    },
-    {
-      "name": "why",
-      "count": 3
-    },
-    {
-      "name": "record",
-      "count": 3
+      "name": "more",
+      "count": 2
     }
   ],
-  "updated_at": "2026-09-04 10:56:31.344838"
+  "updated_at": "2026-09-04 16:03:49.142564"
 }
