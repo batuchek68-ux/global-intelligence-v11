@@ -1,19 +1,15 @@
 {
   "keywords": [
     [
-      "says",
+      "new",
+      5
+    ],
+    [
+      "first",
       4
     ],
     [
-      "after",
-      3
-    ],
-    [
-      "west",
-      3
-    ],
-    [
-      "bank",
+      "police",
       3
     ],
     [
@@ -21,81 +17,81 @@
       3
     ],
     [
-      "police",
+      "says",
+      3
+    ],
+    [
+      "military",
+      3
+    ],
+    [
+      "war",
+      3
+    ],
+    [
+      "trump",
+      3
+    ],
+    [
+      "funding",
       2
     ],
     [
-      "a66",
+      "after",
       2
     ],
     [
-      "crash",
+      "lindsay",
       2
     ],
     [
-      "bbc",
+      "clancy",
       2
     ],
     [
-      "votes",
+      "america",
       2
     ],
     [
-      "adopt",
+      "show",
       2
     ],
     [
-      "new",
+      "launches",
       2
     ],
     [
-      "world",
+      "why",
       2
     ],
     [
-      "map",
+      "drug",
       2
     ],
     [
-      "africas",
+      "that",
       2
     ],
     [
-      "true",
+      "nigel",
       2
     ],
     [
-      "size",
-      2
-    ],
-    [
-      "moment",
-      2
-    ],
-    [
-      "nepal",
-      2
-    ],
-    [
-      "tunnel",
+      "critics",
       2
     ]
   ],
   "topics": [
     {
-      "name": "says",
+      "name": "new",
+      "count": 5
+    },
+    {
+      "name": "first",
       "count": 4
     },
     {
-      "name": "after",
-      "count": 3
-    },
-    {
-      "name": "west",
-      "count": 3
-    },
-    {
-      "name": "bank",
+      "name": "police",
       "count": 3
     },
     {
@@ -103,25 +99,29 @@
       "count": 3
     },
     {
-      "name": "police",
+      "name": "says",
+      "count": 3
+    },
+    {
+      "name": "military",
+      "count": 3
+    },
+    {
+      "name": "war",
+      "count": 3
+    },
+    {
+      "name": "trump",
+      "count": 3
+    },
+    {
+      "name": "funding",
       "count": 2
     },
     {
-      "name": "a66",
-      "count": 2
-    },
-    {
-      "name": "crash",
-      "count": 2
-    },
-    {
-      "name": "bbc",
-      "count": 2
-    },
-    {
-      "name": "votes",
+      "name": "after",
       "count": 2
     }
   ],
-  "updated_at": "2026-09-04 20:33:35.861330"
+  "updated_at": "2026-09-05 03:48:10.958043"
 }
