@@ -1,35 +1,27 @@
 {
   "keywords": [
     [
-      "from",
-      4
-    ],
-    [
-      "military",
-      4
-    ],
-    [
-      "show",
-      3
-    ],
-    [
       "why",
+      6
+    ],
+    [
+      "are",
+      5
+    ],
+    [
+      "get",
       3
     ],
     [
-      "least",
+      "what",
       3
     ],
     [
-      "police",
+      "talks",
       2
     ],
     [
-      "but",
-      2
-    ],
-    [
-      "being",
+      "reform",
       2
     ],
     [
@@ -37,7 +29,11 @@
       2
     ],
     [
-      "trumps",
+      "how",
+      2
+    ],
+    [
+      "big",
       2
     ],
     [
@@ -45,7 +41,23 @@
       2
     ],
     [
-      "are",
+      "police",
+      2
+    ],
+    [
+      "they",
+      2
+    ],
+    [
+      "being",
+      2
+    ],
+    [
+      "world",
+      2
+    ],
+    [
+      "wrong",
       2
     ],
     [
@@ -53,11 +65,11 @@
       2
     ],
     [
-      "deal",
+      "has",
       2
     ],
     [
-      "first",
+      "but",
       2
     ],
     [
@@ -65,53 +77,33 @@
       2
     ],
     [
-      "its",
-      2
-    ],
-    [
-      "make",
-      2
-    ],
-    [
-      "art",
-      2
-    ],
-    [
-      "over",
+      "envoys",
       2
     ]
   ],
   "topics": [
     {
-      "name": "from",
-      "count": 4
-    },
-    {
-      "name": "military",
-      "count": 4
-    },
-    {
-      "name": "show",
-      "count": 3
-    },
-    {
       "name": "why",
+      "count": 6
+    },
+    {
+      "name": "are",
+      "count": 5
+    },
+    {
+      "name": "get",
       "count": 3
     },
     {
-      "name": "least",
+      "name": "what",
       "count": 3
     },
     {
-      "name": "police",
+      "name": "talks",
       "count": 2
     },
     {
-      "name": "but",
-      "count": 2
-    },
-    {
-      "name": "being",
+      "name": "reform",
       "count": 2
     },
     {
@@ -119,9 +111,17 @@
       "count": 2
     },
     {
-      "name": "trumps",
+      "name": "how",
+      "count": 2
+    },
+    {
+      "name": "big",
+      "count": 2
+    },
+    {
+      "name": "that",
       "count": 2
     }
   ],
-  "updated_at": "2026-09-05 10:17:24.891648"
+  "updated_at": "2026-09-05 14:53:28.115809"
 }
