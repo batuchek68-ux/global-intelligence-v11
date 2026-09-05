@@ -1,39 +1,35 @@
 {
   "keywords": [
     [
-      "new",
-      5
-    ],
-    [
-      "first",
+      "from",
       4
     ],
     [
-      "police",
-      3
-    ],
-    [
-      "how",
-      3
-    ],
-    [
-      "says",
-      3
-    ],
-    [
       "military",
+      4
+    ],
+    [
+      "show",
       3
     ],
     [
-      "war",
+      "why",
       3
     ],
     [
-      "trump",
+      "least",
       3
     ],
     [
-      "funding",
+      "police",
+      2
+    ],
+    [
+      "but",
+      2
+    ],
+    [
+      "being",
       2
     ],
     [
@@ -41,31 +37,7 @@
       2
     ],
     [
-      "lindsay",
-      2
-    ],
-    [
-      "clancy",
-      2
-    ],
-    [
-      "america",
-      2
-    ],
-    [
-      "show",
-      2
-    ],
-    [
-      "launches",
-      2
-    ],
-    [
-      "why",
-      2
-    ],
-    [
-      "drug",
+      "trumps",
       2
     ],
     [
@@ -73,55 +45,83 @@
       2
     ],
     [
-      "nigel",
+      "are",
       2
     ],
     [
-      "critics",
+      "new",
+      2
+    ],
+    [
+      "deal",
+      2
+    ],
+    [
+      "first",
+      2
+    ],
+    [
+      "says",
+      2
+    ],
+    [
+      "its",
+      2
+    ],
+    [
+      "make",
+      2
+    ],
+    [
+      "art",
+      2
+    ],
+    [
+      "over",
       2
     ]
   ],
   "topics": [
     {
-      "name": "new",
-      "count": 5
-    },
-    {
-      "name": "first",
+      "name": "from",
       "count": 4
     },
     {
-      "name": "police",
-      "count": 3
-    },
-    {
-      "name": "how",
-      "count": 3
-    },
-    {
-      "name": "says",
-      "count": 3
-    },
-    {
       "name": "military",
+      "count": 4
+    },
+    {
+      "name": "show",
       "count": 3
     },
     {
-      "name": "war",
+      "name": "why",
       "count": 3
     },
     {
-      "name": "trump",
+      "name": "least",
       "count": 3
     },
     {
-      "name": "funding",
+      "name": "police",
+      "count": 2
+    },
+    {
+      "name": "but",
+      "count": 2
+    },
+    {
+      "name": "being",
       "count": 2
     },
     {
       "name": "after",
       "count": 2
+    },
+    {
+      "name": "trumps",
+      "count": 2
     }
   ],
-  "updated_at": "2026-09-05 03:48:10.958043"
+  "updated_at": "2026-09-05 10:17:24.891648"
 }
