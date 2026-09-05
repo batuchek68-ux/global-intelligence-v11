@@ -1,23 +1,47 @@
 {
   "keywords": [
     [
-      "why",
+      "after",
       6
     ],
     [
-      "are",
-      5
+      "with",
+      4
     ],
     [
-      "get",
+      "oil",
       3
     ],
     [
-      "what",
+      "tankers",
       3
+    ],
+    [
+      "trump",
+      3
+    ],
+    [
+      "envoys",
+      2
+    ],
+    [
+      "putin",
+      2
+    ],
+    [
+      "ukraine",
+      2
     ],
     [
       "talks",
+      2
+    ],
+    [
+      "disruption",
+      2
+    ],
+    [
+      "during",
       2
     ],
     [
@@ -25,39 +49,27 @@
       2
     ],
     [
-      "after",
+      "three",
       2
     ],
     [
-      "how",
+      "iranian",
       2
     ],
     [
-      "big",
+      "warships",
       2
     ],
     [
-      "that",
+      "are",
       2
     ],
     [
-      "police",
+      "key",
       2
     ],
     [
-      "they",
-      2
-    ],
-    [
-      "being",
-      2
-    ],
-    [
-      "world",
-      2
-    ],
-    [
-      "wrong",
+      "why",
       2
     ],
     [
@@ -67,61 +79,49 @@
     [
       "has",
       2
-    ],
-    [
-      "but",
-      2
-    ],
-    [
-      "says",
-      2
-    ],
-    [
-      "envoys",
-      2
     ]
   ],
   "topics": [
     {
-      "name": "why",
+      "name": "after",
       "count": 6
     },
     {
-      "name": "are",
-      "count": 5
+      "name": "with",
+      "count": 4
     },
     {
-      "name": "get",
+      "name": "oil",
       "count": 3
     },
     {
-      "name": "what",
+      "name": "tankers",
       "count": 3
+    },
+    {
+      "name": "trump",
+      "count": 3
+    },
+    {
+      "name": "envoys",
+      "count": 2
+    },
+    {
+      "name": "putin",
+      "count": 2
+    },
+    {
+      "name": "ukraine",
+      "count": 2
     },
     {
       "name": "talks",
       "count": 2
     },
     {
-      "name": "reform",
-      "count": 2
-    },
-    {
-      "name": "after",
-      "count": 2
-    },
-    {
-      "name": "how",
-      "count": 2
-    },
-    {
-      "name": "big",
-      "count": 2
-    },
-    {
-      "name": "that",
+      "name": "disruption",
       "count": 2
     }
   ],
-  "updated_at": "2026-09-05 14:53:28.115809"
+  "updated_at": "2026-09-05 20:08:19.208784"
 }
