@@ -1,32 +1,36 @@
 {
   "keywords": [
     [
-      "israeli",
+      "after",
       5
     ],
     [
-      "after",
-      3
-    ],
-    [
-      "says",
-      3
-    ],
-    [
       "why",
+      4
+    ],
+    [
+      "from",
+      4
+    ],
+    [
+      "how",
       3
     ],
     [
-      "more",
+      "could",
       3
     ],
     [
-      "attacks",
+      "palestinians",
       3
     ],
     [
-      "lebanon",
+      "gaza",
       3
+    ],
+    [
+      "meet",
+      2
     ],
     [
       "ukraine",
@@ -37,7 +41,7 @@
       2
     ],
     [
-      "police",
+      "with",
       2
     ],
     [
@@ -45,70 +49,70 @@
       2
     ],
     [
-      "minister",
-      2
-    ],
-    [
-      "presenter",
-      2
-    ],
-    [
-      "sentenced",
-      2
-    ],
-    [
-      "death",
-      2
-    ],
-    [
-      "drugs",
-      2
-    ],
-    [
-      "case",
-      2
-    ],
-    [
-      "questions",
-      2
-    ],
-    [
-      "eruption",
+      "thousands",
       2
     ],
     [
       "passengers",
       2
+    ],
+    [
+      "more",
+      2
+    ],
+    [
+      "can",
+      2
+    ],
+    [
+      "says",
+      2
+    ],
+    [
+      "city",
+      2
+    ],
+    [
+      "tells",
+      2
+    ],
+    [
+      "making",
+      2
     ]
   ],
   "topics": [
     {
-      "name": "israeli",
+      "name": "after",
       "count": 5
     },
     {
-      "name": "after",
-      "count": 3
-    },
-    {
-      "name": "says",
-      "count": 3
-    },
-    {
       "name": "why",
+      "count": 4
+    },
+    {
+      "name": "from",
+      "count": 4
+    },
+    {
+      "name": "how",
       "count": 3
     },
     {
-      "name": "more",
+      "name": "could",
       "count": 3
     },
     {
-      "name": "attacks",
+      "name": "palestinians",
       "count": 3
     },
     {
-      "name": "lebanon",
+      "name": "gaza",
       "count": 3
+    },
+    {
+      "name": "meet",
+      "count": 2
     },
     {
       "name": "ukraine",
@@ -117,11 +121,7 @@
     {
       "name": "talks",
       "count": 2
-    },
-    {
-      "name": "police",
-      "count": 2
     }
   ],
-  "updated_at": "2026-09-06 10:37:25.433457"
+  "updated_at": "2026-09-06 15:13:44.328212"
 }
