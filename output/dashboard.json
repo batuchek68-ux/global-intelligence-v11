@@ -1,27 +1,15 @@
 {
   "keywords": [
     [
+      "israeli",
+      5
+    ],
+    [
       "after",
-      4
-    ],
-    [
-      "ukraine",
       3
     ],
     [
-      "talks",
-      3
-    ],
-    [
-      "disruption",
-      3
-    ],
-    [
-      "iran",
-      3
-    ],
-    [
-      "attacks",
+      "says",
       3
     ],
     [
@@ -29,81 +17,81 @@
       3
     ],
     [
-      "death",
-      3
-    ],
-    [
-      "killed",
-      3
-    ],
-    [
-      "envoys",
-      2
-    ],
-    [
-      "putin",
-      2
-    ],
-    [
-      "during",
-      2
-    ],
-    [
-      "ships",
-      2
-    ],
-    [
-      "might",
-      2
-    ],
-    [
       "more",
+      3
+    ],
+    [
+      "attacks",
+      3
+    ],
+    [
+      "lebanon",
+      3
+    ],
+    [
+      "ukraine",
       2
     ],
     [
-      "airport",
+      "talks",
       2
     ],
     [
-      "from",
+      "police",
       2
     ],
     [
-      "watch",
+      "boss",
       2
     ],
     [
-      "moment",
+      "minister",
       2
     ],
     [
-      "woman",
+      "presenter",
+      2
+    ],
+    [
+      "sentenced",
+      2
+    ],
+    [
+      "death",
+      2
+    ],
+    [
+      "drugs",
+      2
+    ],
+    [
+      "case",
+      2
+    ],
+    [
+      "questions",
+      2
+    ],
+    [
+      "eruption",
+      2
+    ],
+    [
+      "passengers",
       2
     ]
   ],
   "topics": [
     {
+      "name": "israeli",
+      "count": 5
+    },
+    {
       "name": "after",
-      "count": 4
-    },
-    {
-      "name": "ukraine",
       "count": 3
     },
     {
-      "name": "talks",
-      "count": 3
-    },
-    {
-      "name": "disruption",
-      "count": 3
-    },
-    {
-      "name": "iran",
-      "count": 3
-    },
-    {
-      "name": "attacks",
+      "name": "says",
       "count": 3
     },
     {
@@ -111,17 +99,29 @@
       "count": 3
     },
     {
-      "name": "death",
+      "name": "more",
       "count": 3
     },
     {
-      "name": "killed",
+      "name": "attacks",
       "count": 3
     },
     {
-      "name": "envoys",
+      "name": "lebanon",
+      "count": 3
+    },
+    {
+      "name": "ukraine",
+      "count": 2
+    },
+    {
+      "name": "talks",
+      "count": 2
+    },
+    {
+      "name": "police",
       "count": 2
     }
   ],
-  "updated_at": "2026-09-06 03:52:10.419544"
+  "updated_at": "2026-09-06 10:37:25.433457"
 }
