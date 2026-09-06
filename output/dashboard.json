@@ -2,22 +2,38 @@
   "keywords": [
     [
       "after",
-      6
-    ],
-    [
-      "with",
       4
     ],
     [
-      "oil",
+      "ukraine",
       3
     ],
     [
-      "tankers",
+      "talks",
       3
     ],
     [
-      "trump",
+      "disruption",
+      3
+    ],
+    [
+      "iran",
+      3
+    ],
+    [
+      "attacks",
+      3
+    ],
+    [
+      "why",
+      3
+    ],
+    [
+      "death",
+      3
+    ],
+    [
+      "killed",
       3
     ],
     [
@@ -29,99 +45,83 @@
       2
     ],
     [
-      "ukraine",
-      2
-    ],
-    [
-      "talks",
-      2
-    ],
-    [
-      "disruption",
-      2
-    ],
-    [
       "during",
       2
     ],
     [
-      "reform",
+      "ships",
       2
     ],
     [
-      "three",
+      "might",
       2
     ],
     [
-      "iranian",
+      "more",
       2
     ],
     [
-      "warships",
+      "airport",
       2
     ],
     [
-      "are",
+      "from",
       2
     ],
     [
-      "key",
+      "watch",
       2
     ],
     [
-      "why",
+      "moment",
       2
     ],
     [
-      "new",
-      2
-    ],
-    [
-      "has",
+      "woman",
       2
     ]
   ],
   "topics": [
     {
       "name": "after",
-      "count": 6
-    },
-    {
-      "name": "with",
       "count": 4
     },
     {
-      "name": "oil",
+      "name": "ukraine",
       "count": 3
     },
     {
-      "name": "tankers",
+      "name": "talks",
       "count": 3
     },
     {
-      "name": "trump",
+      "name": "disruption",
+      "count": 3
+    },
+    {
+      "name": "iran",
+      "count": 3
+    },
+    {
+      "name": "attacks",
+      "count": 3
+    },
+    {
+      "name": "why",
+      "count": 3
+    },
+    {
+      "name": "death",
+      "count": 3
+    },
+    {
+      "name": "killed",
       "count": 3
     },
     {
       "name": "envoys",
       "count": 2
-    },
-    {
-      "name": "putin",
-      "count": 2
-    },
-    {
-      "name": "ukraine",
-      "count": 2
-    },
-    {
-      "name": "talks",
-      "count": 2
-    },
-    {
-      "name": "disruption",
-      "count": 2
     }
   ],
-  "updated_at": "2026-09-05 20:08:19.208784"
+  "updated_at": "2026-09-06 03:52:10.419544"
 }
