@@ -5,43 +5,51 @@
       5
     ],
     [
-      "why",
+      "says",
       4
-    ],
-    [
-      "from",
-      4
-    ],
-    [
-      "how",
-      3
-    ],
-    [
-      "could",
-      3
-    ],
-    [
-      "palestinians",
-      3
-    ],
-    [
-      "gaza",
-      3
-    ],
-    [
-      "meet",
-      2
-    ],
-    [
-      "ukraine",
-      2
     ],
     [
       "talks",
-      2
+      4
     ],
     [
       "with",
+      3
+    ],
+    [
+      "indonesia",
+      3
+    ],
+    [
+      "more",
+      3
+    ],
+    [
+      "iran",
+      3
+    ],
+    [
+      "why",
+      3
+    ],
+    [
+      "from",
+      3
+    ],
+    [
+      "over",
+      3
+    ],
+    [
+      "farright",
+      2
+    ],
+    [
+      "state",
+      2
+    ],
+    [
+      "envoys",
       2
     ],
     [
@@ -49,7 +57,11 @@
       2
     ],
     [
-      "thousands",
+      "volcano",
+      2
+    ],
+    [
+      "eruption",
       2
     ],
     [
@@ -57,27 +69,15 @@
       2
     ],
     [
-      "more",
+      "trapped",
       2
     ],
     [
-      "can",
+      "faces",
       2
     ],
     [
-      "says",
-      2
-    ],
-    [
-      "city",
-      2
-    ],
-    [
-      "tells",
-      2
-    ],
-    [
-      "making",
+      "have",
       2
     ]
   ],
@@ -87,41 +87,41 @@
       "count": 5
     },
     {
-      "name": "why",
+      "name": "says",
       "count": 4
-    },
-    {
-      "name": "from",
-      "count": 4
-    },
-    {
-      "name": "how",
-      "count": 3
-    },
-    {
-      "name": "could",
-      "count": 3
-    },
-    {
-      "name": "palestinians",
-      "count": 3
-    },
-    {
-      "name": "gaza",
-      "count": 3
-    },
-    {
-      "name": "meet",
-      "count": 2
-    },
-    {
-      "name": "ukraine",
-      "count": 2
     },
     {
       "name": "talks",
-      "count": 2
+      "count": 4
+    },
+    {
+      "name": "with",
+      "count": 3
+    },
+    {
+      "name": "indonesia",
+      "count": 3
+    },
+    {
+      "name": "more",
+      "count": 3
+    },
+    {
+      "name": "iran",
+      "count": 3
+    },
+    {
+      "name": "why",
+      "count": 3
+    },
+    {
+      "name": "from",
+      "count": 3
+    },
+    {
+      "name": "over",
+      "count": 3
     }
   ],
-  "updated_at": "2026-09-06 15:13:44.328212"
+  "updated_at": "2026-09-06 20:12:58.935986"
 }
