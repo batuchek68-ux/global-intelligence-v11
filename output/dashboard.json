@@ -2,10 +2,18 @@
   "keywords": [
     [
       "after",
-      5
+      4
     ],
     [
-      "how",
+      "with",
+      4
+    ],
+    [
+      "what",
+      3
+    ],
+    [
+      "rover",
       3
     ],
     [
@@ -13,81 +21,81 @@
       3
     ],
     [
+      "portsmouth",
+      2
+    ],
+    [
+      "antimigrant",
+      2
+    ],
+    [
+      "protest",
+      2
+    ],
+    [
+      "know",
+      2
+    ],
+    [
+      "about",
+      2
+    ],
+    [
+      "protests",
+      2
+    ],
+    [
+      "king",
+      2
+    ],
+    [
+      "rises",
+      2
+    ],
+    [
+      "jaguar",
+      2
+    ],
+    [
+      "land",
+      2
+    ],
+    [
+      "next",
+      2
+    ],
+    [
+      "pay",
+      2
+    ],
+    [
+      "genocidal",
+      2
+    ],
+    [
+      "bbc",
+      2
+    ],
+    [
       "man",
-      3
-    ],
-    [
-      "state",
-      3
-    ],
-    [
-      "kill",
-      3
-    ],
-    [
-      "people",
-      3
-    ],
-    [
-      "air",
-      3
-    ],
-    [
-      "why",
-      3
-    ],
-    [
-      "iran",
-      3
-    ],
-    [
-      "killed",
-      3
-    ],
-    [
-      "boat",
-      2
-    ],
-    [
-      "who",
-      2
-    ],
-    [
-      "them",
-      2
-    ],
-    [
-      "death",
-      2
-    ],
-    [
-      "new",
-      2
-    ],
-    [
-      "germanys",
-      2
-    ],
-    [
-      "afd",
-      2
-    ],
-    [
-      "with",
-      2
-    ],
-    [
-      "election",
       2
     ]
   ],
   "topics": [
     {
       "name": "after",
-      "count": 5
+      "count": 4
     },
     {
-      "name": "how",
+      "name": "with",
+      "count": 4
+    },
+    {
+      "name": "what",
+      "count": 3
+    },
+    {
+      "name": "rover",
       "count": 3
     },
     {
@@ -95,33 +103,25 @@
       "count": 3
     },
     {
-      "name": "man",
-      "count": 3
+      "name": "portsmouth",
+      "count": 2
     },
     {
-      "name": "state",
-      "count": 3
+      "name": "antimigrant",
+      "count": 2
     },
     {
-      "name": "kill",
-      "count": 3
+      "name": "protest",
+      "count": 2
     },
     {
-      "name": "people",
-      "count": 3
+      "name": "know",
+      "count": 2
     },
     {
-      "name": "air",
-      "count": 3
-    },
-    {
-      "name": "why",
-      "count": 3
-    },
-    {
-      "name": "iran",
-      "count": 3
+      "name": "about",
+      "count": 2
     }
   ],
-  "updated_at": "2026-09-07 12:02:50.322835"
+  "updated_at": "2026-09-07 21:20:48.889627"
 }
