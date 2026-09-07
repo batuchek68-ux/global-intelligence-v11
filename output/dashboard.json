@@ -1,27 +1,43 @@
 {
   "keywords": [
     [
+      "war",
+      4
+    ],
+    [
+      "killed",
+      4
+    ],
+    [
+      "five",
+      3
+    ],
+    [
       "after",
-      5
+      3
+    ],
+    [
+      "amazon",
+      3
+    ],
+    [
+      "plane",
+      3
+    ],
+    [
+      "miami",
+      3
+    ],
+    [
+      "airport",
+      3
     ],
     [
       "says",
-      4
-    ],
-    [
-      "talks",
-      4
+      3
     ],
     [
       "with",
-      3
-    ],
-    [
-      "indonesia",
-      3
-    ],
-    [
-      "more",
       3
     ],
     [
@@ -29,11 +45,7 @@
       3
     ],
     [
-      "why",
-      3
-    ],
-    [
-      "from",
+      "new",
       3
     ],
     [
@@ -41,7 +53,23 @@
       3
     ],
     [
+      "least",
+      3
+    ],
+    [
+      "germanys",
+      2
+    ],
+    [
       "farright",
+      2
+    ],
+    [
+      "afd",
+      2
+    ],
+    [
+      "big",
       2
     ],
     [
@@ -49,79 +77,51 @@
       2
     ],
     [
-      "envoys",
-      2
-    ],
-    [
-      "boss",
-      2
-    ],
-    [
-      "volcano",
-      2
-    ],
-    [
-      "eruption",
-      2
-    ],
-    [
-      "passengers",
-      2
-    ],
-    [
-      "trapped",
-      2
-    ],
-    [
-      "faces",
-      2
-    ],
-    [
-      "have",
+      "cargo",
       2
     ]
   ],
   "topics": [
     {
+      "name": "war",
+      "count": 4
+    },
+    {
+      "name": "killed",
+      "count": 4
+    },
+    {
+      "name": "five",
+      "count": 3
+    },
+    {
       "name": "after",
-      "count": 5
+      "count": 3
+    },
+    {
+      "name": "amazon",
+      "count": 3
+    },
+    {
+      "name": "plane",
+      "count": 3
+    },
+    {
+      "name": "miami",
+      "count": 3
+    },
+    {
+      "name": "airport",
+      "count": 3
     },
     {
       "name": "says",
-      "count": 4
-    },
-    {
-      "name": "talks",
-      "count": 4
+      "count": 3
     },
     {
       "name": "with",
       "count": 3
-    },
-    {
-      "name": "indonesia",
-      "count": 3
-    },
-    {
-      "name": "more",
-      "count": 3
-    },
-    {
-      "name": "iran",
-      "count": 3
-    },
-    {
-      "name": "why",
-      "count": 3
-    },
-    {
-      "name": "from",
-      "count": 3
-    },
-    {
-      "name": "over",
-      "count": 3
     }
   ],
-  "updated_at": "2026-09-06 20:12:58.935986"
+  "updated_at": "2026-09-07 03:51:15.687517"
 }
