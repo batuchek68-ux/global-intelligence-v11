@@ -1,48 +1,40 @@
 {
   "keywords": [
     [
-      "israeli",
-      5
-    ],
-    [
-      "from",
-      5
-    ],
-    [
       "after",
       4
     ],
     [
       "says",
-      4
+      3
     ],
     [
-      "over",
-      3
+      "announces",
+      2
     ],
     [
       "west",
-      3
+      2
     ],
     [
       "bank",
-      3
-    ],
-    [
-      "sanctions",
-      3
-    ],
-    [
-      "what",
-      3
-    ],
-    [
-      "goods",
-      3
+      2
     ],
     [
       "settlements",
-      3
+      2
+    ],
+    [
+      "israeli",
+      2
+    ],
+    [
+      "paul",
+      2
+    ],
+    [
+      "trump",
+      2
     ],
     [
       "leave",
@@ -53,75 +45,83 @@
       2
     ],
     [
-      "stars",
+      "more",
       2
     ],
     [
-      "criminal",
+      "than",
       2
     ],
     [
-      "case",
+      "years",
       2
     ],
     [
-      "among",
+      "british",
       2
     ],
     [
-      "shortlist",
+      "from",
       2
     ],
     [
-      "really",
+      "players",
       2
     ],
     [
-      "recruitment",
+      "renoir",
+      2
+    ],
+    [
+      "paintings",
+      2
+    ],
+    [
+      "worth",
       2
     ]
   ],
   "topics": [
-    {
-      "name": "israeli",
-      "count": 5
-    },
-    {
-      "name": "from",
-      "count": 5
-    },
     {
       "name": "after",
       "count": 4
     },
     {
       "name": "says",
-      "count": 4
+      "count": 3
     },
     {
-      "name": "over",
-      "count": 3
+      "name": "announces",
+      "count": 2
     },
     {
       "name": "west",
-      "count": 3
+      "count": 2
     },
     {
       "name": "bank",
-      "count": 3
+      "count": 2
     },
     {
-      "name": "sanctions",
-      "count": 3
+      "name": "settlements",
+      "count": 2
     },
     {
-      "name": "what",
-      "count": 3
+      "name": "israeli",
+      "count": 2
     },
     {
-      "name": "goods",
-      "count": 3
+      "name": "paul",
+      "count": 2
+    },
+    {
+      "name": "trump",
+      "count": 2
+    },
+    {
+      "name": "leave",
+      "count": 2
     }
   ],
-  "updated_at": "2026-09-08 16:21:13.900237"
+  "updated_at": "2026-09-08 20:56:24.690585"
 }
