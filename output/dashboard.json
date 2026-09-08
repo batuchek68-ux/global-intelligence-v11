@@ -1,59 +1,23 @@
 {
   "keywords": [
     [
-      "over",
-      6
-    ],
-    [
       "after",
-      3
+      6
     ],
     [
       "says",
       3
     ],
     [
-      "rover",
+      "from",
       3
     ],
     [
-      "forces",
+      "world",
       3
     ],
     [
-      "what",
-      3
-    ],
-    [
-      "government",
-      2
-    ],
-    [
-      "with",
-      2
-    ],
-    [
-      "get",
-      2
-    ],
-    [
-      "basics",
-      2
-    ],
-    [
-      "antimigrant",
-      2
-    ],
-    [
-      "protest",
-      2
-    ],
-    [
-      "police",
-      2
-    ],
-    [
-      "king",
+      "watch",
       2
     ],
     [
@@ -61,15 +25,19 @@
       2
     ],
     [
-      "genocidal",
+      "attacks",
       2
     ],
     [
-      "investigation",
+      "into",
       2
     ],
     [
-      "first",
+      "force",
+      2
+    ],
+    [
+      "trade",
       2
     ],
     [
@@ -77,51 +45,83 @@
       2
     ],
     [
-      "despite",
+      "get",
+      2
+    ],
+    [
+      "leave",
+      2
+    ],
+    [
+      "shetland",
+      2
+    ],
+    [
+      "government",
+      2
+    ],
+    [
+      "how",
+      2
+    ],
+    [
+      "champions",
+      2
+    ],
+    [
+      "league",
+      2
+    ],
+    [
+      "eiffel",
+      2
+    ],
+    [
+      "tower",
       2
     ]
   ],
   "topics": [
     {
-      "name": "over",
-      "count": 6
-    },
-    {
       "name": "after",
-      "count": 3
+      "count": 6
     },
     {
       "name": "says",
       "count": 3
     },
     {
-      "name": "rover",
+      "name": "from",
       "count": 3
     },
     {
-      "name": "forces",
+      "name": "world",
       "count": 3
     },
     {
-      "name": "what",
-      "count": 3
-    },
-    {
-      "name": "government",
+      "name": "watch",
       "count": 2
     },
     {
-      "name": "with",
+      "name": "remain",
       "count": 2
     },
     {
-      "name": "get",
+      "name": "attacks",
       "count": 2
     },
     {
-      "name": "basics",
+      "name": "into",
+      "count": 2
+    },
+    {
+      "name": "force",
+      "count": 2
+    },
+    {
+      "name": "trade",
       "count": 2
     }
   ],
-  "updated_at": "2026-09-08 03:54:42.032703"
+  "updated_at": "2026-09-08 10:56:29.058582"
 }
