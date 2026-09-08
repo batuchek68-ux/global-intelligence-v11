@@ -1,15 +1,15 @@
 {
   "keywords": [
     [
+      "over",
+      6
+    ],
+    [
       "after",
-      4
+      3
     ],
     [
-      "with",
-      4
-    ],
-    [
-      "what",
+      "says",
       3
     ],
     [
@@ -17,11 +17,27 @@
       3
     ],
     [
-      "over",
+      "forces",
       3
     ],
     [
-      "portsmouth",
+      "what",
+      3
+    ],
+    [
+      "government",
+      2
+    ],
+    [
+      "with",
+      2
+    ],
+    [
+      "get",
+      2
+    ],
+    [
+      "basics",
       2
     ],
     [
@@ -33,15 +49,7 @@
       2
     ],
     [
-      "know",
-      2
-    ],
-    [
-      "about",
-      2
-    ],
-    [
-      "protests",
+      "police",
       2
     ],
     [
@@ -49,23 +57,7 @@
       2
     ],
     [
-      "rises",
-      2
-    ],
-    [
-      "jaguar",
-      2
-    ],
-    [
-      "land",
-      2
-    ],
-    [
-      "next",
-      2
-    ],
-    [
-      "pay",
+      "remain",
       2
     ],
     [
@@ -73,25 +65,33 @@
       2
     ],
     [
-      "bbc",
+      "investigation",
       2
     ],
     [
-      "man",
+      "first",
+      2
+    ],
+    [
+      "day",
+      2
+    ],
+    [
+      "despite",
       2
     ]
   ],
   "topics": [
     {
+      "name": "over",
+      "count": 6
+    },
+    {
       "name": "after",
-      "count": 4
+      "count": 3
     },
     {
-      "name": "with",
-      "count": 4
-    },
-    {
-      "name": "what",
+      "name": "says",
       "count": 3
     },
     {
@@ -99,29 +99,29 @@
       "count": 3
     },
     {
-      "name": "over",
+      "name": "forces",
       "count": 3
     },
     {
-      "name": "portsmouth",
+      "name": "what",
+      "count": 3
+    },
+    {
+      "name": "government",
       "count": 2
     },
     {
-      "name": "antimigrant",
+      "name": "with",
       "count": 2
     },
     {
-      "name": "protest",
+      "name": "get",
       "count": 2
     },
     {
-      "name": "know",
-      "count": 2
-    },
-    {
-      "name": "about",
+      "name": "basics",
       "count": 2
     }
   ],
-  "updated_at": "2026-09-07 21:20:48.889627"
+  "updated_at": "2026-09-08 03:54:42.032703"
 }
