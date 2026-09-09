@@ -5,51 +5,63 @@
       4
     ],
     [
-      "says",
+      "air",
+      4
+    ],
+    [
+      "iranian",
+      4
+    ],
+    [
+      "oil",
+      4
+    ],
+    [
+      "tankers",
+      4
+    ],
+    [
+      "with",
+      4
+    ],
+    [
+      "sanctions",
       3
     ],
     [
-      "announces",
-      2
-    ],
-    [
       "west",
-      2
+      3
     ],
     [
       "bank",
-      2
+      3
     ],
     [
-      "settlements",
-      2
-    ],
-    [
-      "israeli",
-      2
-    ],
-    [
-      "paul",
-      2
-    ],
-    [
-      "trump",
-      2
-    ],
-    [
-      "leave",
-      2
-    ],
-    [
-      "world",
-      2
+      "iran",
+      3
     ],
     [
       "more",
       2
     ],
     [
-      "than",
+      "traffic",
+      2
+    ],
+    [
+      "strikes",
+      2
+    ],
+    [
+      "tehran",
+      2
+    ],
+    [
+      "jordan",
+      2
+    ],
+    [
+      "911",
       2
     ],
     [
@@ -57,27 +69,15 @@
       2
     ],
     [
-      "british",
+      "than",
       2
     ],
     [
-      "from",
+      "food",
       2
     ],
     [
-      "players",
-      2
-    ],
-    [
-      "renoir",
-      2
-    ],
-    [
-      "paintings",
-      2
-    ],
-    [
-      "worth",
+      "what",
       2
     ]
   ],
@@ -87,41 +87,41 @@
       "count": 4
     },
     {
-      "name": "says",
+      "name": "air",
+      "count": 4
+    },
+    {
+      "name": "iranian",
+      "count": 4
+    },
+    {
+      "name": "oil",
+      "count": 4
+    },
+    {
+      "name": "tankers",
+      "count": 4
+    },
+    {
+      "name": "with",
+      "count": 4
+    },
+    {
+      "name": "sanctions",
       "count": 3
     },
     {
-      "name": "announces",
-      "count": 2
-    },
-    {
       "name": "west",
-      "count": 2
+      "count": 3
     },
     {
       "name": "bank",
-      "count": 2
+      "count": 3
     },
     {
-      "name": "settlements",
-      "count": 2
-    },
-    {
-      "name": "israeli",
-      "count": 2
-    },
-    {
-      "name": "paul",
-      "count": 2
-    },
-    {
-      "name": "trump",
-      "count": 2
-    },
-    {
-      "name": "leave",
-      "count": 2
+      "name": "iran",
+      "count": 3
     }
   ],
-  "updated_at": "2026-09-08 20:56:24.690585"
+  "updated_at": "2026-09-09 03:59:37.842921"
 }
