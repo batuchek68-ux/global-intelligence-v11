@@ -1,11 +1,23 @@
 {
   "keywords": [
     [
-      "than",
+      "after",
+      8
+    ],
+    [
+      "sanctions",
       4
     ],
     [
-      "will",
+      "says",
+      3
+    ],
+    [
+      "all",
+      3
+    ],
+    [
+      "what",
       3
     ],
     [
@@ -13,19 +25,23 @@
       3
     ],
     [
-      "war",
+      "why",
       3
     ],
     [
-      "israel",
-      3
-    ],
-    [
-      "with",
+      "police",
       2
     ],
     [
-      "sanctions",
+      "security",
+      2
+    ],
+    [
+      "chief",
+      2
+    ],
+    [
+      "out",
       2
     ],
     [
@@ -33,61 +49,57 @@
       2
     ],
     [
-      "first",
+      "killed",
       2
     ],
     [
-      "after",
+      "with",
       2
     ],
     [
-      "watch",
+      "attacks",
       2
     ],
     [
-      "shelton",
+      "anthropic",
       2
     ],
     [
-      "alcaraz",
+      "researcher",
       2
     ],
     [
-      "open",
+      "than",
       2
     ],
     [
-      "what",
+      "could",
       2
     ],
     [
-      "rights",
-      2
-    ],
-    [
-      "but",
-      2
-    ],
-    [
-      "cost",
-      2
-    ],
-    [
-      "why",
-      2
-    ],
-    [
-      "ban",
+      "kill",
       2
     ]
   ],
   "topics": [
     {
-      "name": "than",
+      "name": "after",
+      "count": 8
+    },
+    {
+      "name": "sanctions",
       "count": 4
     },
     {
-      "name": "will",
+      "name": "says",
+      "count": 3
+    },
+    {
+      "name": "all",
+      "count": 3
+    },
+    {
+      "name": "what",
       "count": 3
     },
     {
@@ -95,33 +107,21 @@
       "count": 3
     },
     {
-      "name": "war",
+      "name": "why",
       "count": 3
     },
     {
-      "name": "israel",
-      "count": 3
-    },
-    {
-      "name": "with",
+      "name": "police",
       "count": 2
     },
     {
-      "name": "sanctions",
+      "name": "security",
       "count": 2
     },
     {
-      "name": "women",
-      "count": 2
-    },
-    {
-      "name": "first",
-      "count": 2
-    },
-    {
-      "name": "after",
+      "name": "chief",
       "count": 2
     }
   ],
-  "updated_at": "2026-09-09 11:00:54.001177"
+  "updated_at": "2026-09-09 16:16:37.865978"
 }
