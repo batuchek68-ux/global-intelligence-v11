@@ -1,43 +1,47 @@
 {
   "keywords": [
     [
-      "after",
+      "trump",
       7
     ],
     [
-      "says",
+      "after",
       6
     ],
     [
-      "security",
-      3
-    ],
-    [
-      "sanctions",
-      3
-    ],
-    [
-      "with",
-      3
-    ],
-    [
-      "are",
-      3
-    ],
-    [
-      "israeli",
-      3
+      "iran",
+      5
     ],
     [
       "war",
+      4
+    ],
+    [
+      "says",
+      4
+    ],
+    [
+      "over",
+      4
+    ],
+    [
+      "will",
       3
     ],
     [
-      "crisis",
+      "convention",
       3
     ],
     [
-      "police",
+      "tourist",
+      2
+    ],
+    [
+      "tax",
+      2
+    ],
+    [
+      "end",
       2
     ],
     [
@@ -53,23 +57,7 @@
       2
     ],
     [
-      "burnham",
-      2
-    ],
-    [
-      "chief",
-      2
-    ],
-    [
-      "british",
-      2
-    ],
-    [
-      "jews",
-      2
-    ],
-    [
-      "move",
+      "was",
       2
     ],
     [
@@ -77,51 +65,63 @@
       2
     ],
     [
-      "drag",
+      "west",
+      2
+    ],
+    [
+      "bank",
+      2
+    ],
+    [
+      "can",
+      2
+    ],
+    [
+      "agency",
       2
     ]
   ],
   "topics": [
     {
-      "name": "after",
+      "name": "trump",
       "count": 7
     },
     {
-      "name": "says",
+      "name": "after",
       "count": 6
     },
     {
-      "name": "security",
-      "count": 3
-    },
-    {
-      "name": "sanctions",
-      "count": 3
-    },
-    {
-      "name": "with",
-      "count": 3
-    },
-    {
-      "name": "are",
-      "count": 3
-    },
-    {
-      "name": "israeli",
-      "count": 3
+      "name": "iran",
+      "count": 5
     },
     {
       "name": "war",
+      "count": 4
+    },
+    {
+      "name": "says",
+      "count": 4
+    },
+    {
+      "name": "over",
+      "count": 4
+    },
+    {
+      "name": "will",
       "count": 3
     },
     {
-      "name": "crisis",
+      "name": "convention",
       "count": 3
     },
     {
-      "name": "police",
+      "name": "tourist",
+      "count": 2
+    },
+    {
+      "name": "tax",
       "count": 2
     }
   ],
-  "updated_at": "2026-09-09 20:44:53.331591"
+  "updated_at": "2026-09-10 03:58:31.893294"
 }
