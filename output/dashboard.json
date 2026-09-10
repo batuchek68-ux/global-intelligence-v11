@@ -2,18 +2,54 @@
   "keywords": [
     [
       "over",
-      4
+      5
     ],
     [
-      "new",
-      4
+      "says",
+      5
+    ],
+    [
+      "houthis",
+      5
     ],
     [
       "why",
+      5
+    ],
+    [
+      "trump",
+      4
+    ],
+    [
+      "city",
+      4
+    ],
+    [
+      "after",
+      4
+    ],
+    [
+      "will",
+      4
+    ],
+    [
+      "with",
+      4
+    ],
+    [
+      "yemens",
       3
     ],
     [
-      "attacks",
+      "red",
+      3
+    ],
+    [
+      "sea",
+      3
+    ],
+    [
+      "can",
       3
     ],
     [
@@ -21,11 +57,7 @@
       2
     ],
     [
-      "american",
-      2
-    ],
-    [
-      "would",
+      "get",
       2
     ],
     [
@@ -33,95 +65,63 @@
       2
     ],
     [
-      "win",
+      "killed",
       2
     ],
     [
-      "trumps",
+      "new",
       2
     ],
     [
-      "some",
+      "seize",
       2
     ],
     [
-      "will",
-      2
-    ],
-    [
-      "after",
-      2
-    ],
-    [
-      "cancer",
-      2
-    ],
-    [
-      "russias",
-      2
-    ],
-    [
-      "drones",
-      2
-    ],
-    [
-      "ukraines",
-      2
-    ],
-    [
-      "with",
-      2
-    ],
-    [
-      "five",
-      2
-    ],
-    [
-      "fire",
+      "strategic",
       2
     ]
   ],
   "topics": [
     {
       "name": "over",
-      "count": 4
+      "count": 5
     },
     {
-      "name": "new",
-      "count": 4
+      "name": "says",
+      "count": 5
+    },
+    {
+      "name": "houthis",
+      "count": 5
     },
     {
       "name": "why",
+      "count": 5
+    },
+    {
+      "name": "trump",
+      "count": 4
+    },
+    {
+      "name": "city",
+      "count": 4
+    },
+    {
+      "name": "after",
+      "count": 4
+    },
+    {
+      "name": "will",
+      "count": 4
+    },
+    {
+      "name": "with",
+      "count": 4
+    },
+    {
+      "name": "yemens",
       "count": 3
-    },
-    {
-      "name": "attacks",
-      "count": 3
-    },
-    {
-      "name": "englands",
-      "count": 2
-    },
-    {
-      "name": "american",
-      "count": 2
-    },
-    {
-      "name": "would",
-      "count": 2
-    },
-    {
-      "name": "5000",
-      "count": 2
-    },
-    {
-      "name": "win",
-      "count": 2
-    },
-    {
-      "name": "trumps",
-      "count": 2
     }
   ],
-  "updated_at": "2026-09-10 10:57:40.252395"
+  "updated_at": "2026-09-10 16:07:41.535833"
 }
