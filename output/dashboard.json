@@ -1,127 +1,127 @@
 {
   "keywords": [
     [
-      "over",
-      5
-    ],
-    [
-      "says",
-      5
-    ],
-    [
-      "houthis",
-      5
-    ],
-    [
-      "why",
-      5
-    ],
-    [
-      "trump",
-      4
-    ],
-    [
-      "city",
-      4
-    ],
-    [
-      "after",
-      4
-    ],
-    [
-      "will",
-      4
-    ],
-    [
-      "with",
-      4
-    ],
-    [
-      "yemens",
-      3
-    ],
-    [
-      "red",
-      3
-    ],
-    [
-      "sea",
-      3
-    ],
-    [
-      "can",
-      3
-    ],
-    [
-      "englands",
-      2
-    ],
-    [
-      "get",
-      2
-    ],
-    [
-      "5000",
-      2
-    ],
-    [
       "killed",
-      2
+      5
+    ],
+    [
+      "over",
+      3
+    ],
+    [
+      "four",
+      3
     ],
     [
       "new",
+      3
+    ],
+    [
+      "says",
+      3
+    ],
+    [
+      "with",
+      3
+    ],
+    [
+      "fire",
+      3
+    ],
+    [
+      "england",
       2
     ],
     [
-      "seize",
+      "oil",
       2
     ],
     [
-      "strategic",
+      "police",
+      2
+    ],
+    [
+      "can",
+      2
+    ],
+    [
+      "trump",
+      2
+    ],
+    [
+      "midterm",
+      2
+    ],
+    [
+      "city",
+      2
+    ],
+    [
+      "army",
+      2
+    ],
+    [
+      "funeral",
+      2
+    ],
+    [
+      "a66",
+      2
+    ],
+    [
+      "strike",
+      2
+    ],
+    [
+      "ukraine",
+      2
+    ],
+    [
+      "from",
       2
     ]
   ],
   "topics": [
     {
-      "name": "over",
+      "name": "killed",
       "count": 5
+    },
+    {
+      "name": "over",
+      "count": 3
+    },
+    {
+      "name": "four",
+      "count": 3
+    },
+    {
+      "name": "new",
+      "count": 3
     },
     {
       "name": "says",
-      "count": 5
-    },
-    {
-      "name": "houthis",
-      "count": 5
-    },
-    {
-      "name": "why",
-      "count": 5
-    },
-    {
-      "name": "trump",
-      "count": 4
-    },
-    {
-      "name": "city",
-      "count": 4
-    },
-    {
-      "name": "after",
-      "count": 4
-    },
-    {
-      "name": "will",
-      "count": 4
+      "count": 3
     },
     {
       "name": "with",
-      "count": 4
+      "count": 3
     },
     {
-      "name": "yemens",
+      "name": "fire",
       "count": 3
+    },
+    {
+      "name": "england",
+      "count": 2
+    },
+    {
+      "name": "oil",
+      "count": 2
+    },
+    {
+      "name": "police",
+      "count": 2
     }
   ],
-  "updated_at": "2026-09-10 16:07:41.535833"
+  "updated_at": "2026-09-10 20:39:25.449305"
 }
