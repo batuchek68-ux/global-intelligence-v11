@@ -2,14 +2,14 @@
   "keywords": [
     [
       "911",
-      5
-    ],
-    [
-      "how",
       4
     ],
     [
-      "new",
+      "over",
+      4
+    ],
+    [
+      "crash",
       3
     ],
     [
@@ -17,59 +17,55 @@
       3
     ],
     [
-      "from",
+      "trump",
       3
     ],
     [
-      "why",
-      3
-    ],
-    [
-      "are",
+      "kill",
       2
     ],
     [
-      "anthropic",
+      "visits",
       2
     ],
     [
-      "use",
+      "with",
       2
     ],
     [
-      "biological",
+      "legal",
       2
     ],
     [
-      "weapons",
+      "ireland",
       2
     ],
     [
-      "record",
+      "watch",
       2
     ],
     [
-      "some",
+      "new",
       2
     ],
     [
-      "who",
+      "historic",
       2
     ],
     [
-      "flee",
+      "hull",
       2
     ],
     [
-      "bids",
+      "city",
       2
     ],
     [
-      "control",
+      "how",
       2
     ],
     [
-      "coach",
+      "being",
       2
     ],
     [
@@ -77,21 +73,25 @@
       2
     ],
     [
-      "family",
+      "from",
+      2
+    ],
+    [
+      "say",
       2
     ]
   ],
   "topics": [
     {
       "name": "911",
-      "count": 5
-    },
-    {
-      "name": "how",
       "count": 4
     },
     {
-      "name": "new",
+      "name": "over",
+      "count": 4
+    },
+    {
+      "name": "crash",
       "count": 3
     },
     {
@@ -99,29 +99,29 @@
       "count": 3
     },
     {
-      "name": "from",
+      "name": "trump",
       "count": 3
     },
     {
-      "name": "why",
-      "count": 3
-    },
-    {
-      "name": "are",
+      "name": "kill",
       "count": 2
     },
     {
-      "name": "anthropic",
+      "name": "visits",
       "count": 2
     },
     {
-      "name": "use",
+      "name": "with",
       "count": 2
     },
     {
-      "name": "biological",
+      "name": "legal",
+      "count": 2
+    },
+    {
+      "name": "ireland",
       "count": 2
     }
   ],
-  "updated_at": "2026-09-11 10:56:08.658263"
+  "updated_at": "2026-09-11 16:11:10.833072"
 }
