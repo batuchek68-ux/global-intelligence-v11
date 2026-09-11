@@ -1,31 +1,35 @@
 {
   "keywords": [
     [
-      "are",
+      "911",
       5
     ],
     [
-      "says",
-      5
-    ],
-    [
-      "trump",
-      5
-    ],
-    [
-      "iran",
+      "how",
       4
     ],
     [
-      "that",
+      "new",
       3
     ],
     [
-      "war",
+      "was",
       3
     ],
     [
-      "over",
+      "from",
+      3
+    ],
+    [
+      "why",
+      3
+    ],
+    [
+      "are",
+      2
+    ],
+    [
+      "anthropic",
       2
     ],
     [
@@ -33,35 +37,39 @@
       2
     ],
     [
-      "could",
+      "biological",
       2
     ],
     [
-      "fire",
+      "weapons",
       2
     ],
     [
-      "seize",
+      "record",
       2
     ],
     [
-      "all",
+      "some",
       2
     ],
     [
-      "protests",
+      "who",
       2
     ],
     [
-      "home",
+      "flee",
       2
     ],
     [
-      "5000",
+      "bids",
       2
     ],
     [
-      "yemens",
+      "control",
+      2
+    ],
+    [
+      "coach",
       2
     ],
     [
@@ -69,45 +77,41 @@
       2
     ],
     [
-      "times",
-      2
-    ],
-    [
-      "pay",
-      2
-    ],
-    [
-      "why",
+      "family",
       2
     ]
   ],
   "topics": [
     {
-      "name": "are",
+      "name": "911",
       "count": 5
     },
     {
-      "name": "says",
-      "count": 5
-    },
-    {
-      "name": "trump",
-      "count": 5
-    },
-    {
-      "name": "iran",
+      "name": "how",
       "count": 4
     },
     {
-      "name": "that",
+      "name": "new",
       "count": 3
     },
     {
-      "name": "war",
+      "name": "was",
       "count": 3
     },
     {
-      "name": "over",
+      "name": "from",
+      "count": 3
+    },
+    {
+      "name": "why",
+      "count": 3
+    },
+    {
+      "name": "are",
+      "count": 2
+    },
+    {
+      "name": "anthropic",
       "count": 2
     },
     {
@@ -115,13 +119,9 @@
       "count": 2
     },
     {
-      "name": "could",
-      "count": 2
-    },
-    {
-      "name": "fire",
+      "name": "biological",
       "count": 2
     }
   ],
-  "updated_at": "2026-09-11 03:55:37.184670"
+  "updated_at": "2026-09-11 10:56:08.658263"
 }
