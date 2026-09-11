@@ -1,127 +1,127 @@
 {
   "keywords": [
     [
-      "killed",
+      "are",
       5
     ],
     [
-      "over",
-      3
-    ],
-    [
-      "four",
-      3
-    ],
-    [
-      "new",
-      3
-    ],
-    [
       "says",
-      3
-    ],
-    [
-      "with",
-      3
-    ],
-    [
-      "fire",
-      3
-    ],
-    [
-      "england",
-      2
-    ],
-    [
-      "oil",
-      2
-    ],
-    [
-      "police",
-      2
-    ],
-    [
-      "can",
-      2
+      5
     ],
     [
       "trump",
+      5
+    ],
+    [
+      "iran",
+      4
+    ],
+    [
+      "that",
+      3
+    ],
+    [
+      "war",
+      3
+    ],
+    [
+      "over",
       2
     ],
     [
-      "midterm",
+      "use",
       2
     ],
     [
-      "city",
+      "could",
       2
     ],
     [
-      "army",
+      "fire",
       2
     ],
     [
-      "funeral",
+      "seize",
       2
     ],
     [
-      "a66",
+      "all",
       2
     ],
     [
-      "strike",
+      "protests",
       2
     ],
     [
-      "ukraine",
+      "home",
       2
     ],
     [
-      "from",
+      "5000",
+      2
+    ],
+    [
+      "yemens",
+      2
+    ],
+    [
+      "killed",
+      2
+    ],
+    [
+      "times",
+      2
+    ],
+    [
+      "pay",
+      2
+    ],
+    [
+      "why",
       2
     ]
   ],
   "topics": [
     {
-      "name": "killed",
+      "name": "are",
       "count": 5
     },
     {
-      "name": "over",
-      "count": 3
-    },
-    {
-      "name": "four",
-      "count": 3
-    },
-    {
-      "name": "new",
-      "count": 3
-    },
-    {
       "name": "says",
+      "count": 5
+    },
+    {
+      "name": "trump",
+      "count": 5
+    },
+    {
+      "name": "iran",
+      "count": 4
+    },
+    {
+      "name": "that",
       "count": 3
     },
     {
-      "name": "with",
+      "name": "war",
       "count": 3
+    },
+    {
+      "name": "over",
+      "count": 2
+    },
+    {
+      "name": "use",
+      "count": 2
+    },
+    {
+      "name": "could",
+      "count": 2
     },
     {
       "name": "fire",
-      "count": 3
-    },
-    {
-      "name": "england",
-      "count": 2
-    },
-    {
-      "name": "oil",
-      "count": 2
-    },
-    {
-      "name": "police",
       "count": 2
     }
   ],
-  "updated_at": "2026-09-10 20:39:25.449305"
+  "updated_at": "2026-09-11 03:55:37.184670"
 }
