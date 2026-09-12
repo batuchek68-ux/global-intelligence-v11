@@ -1,7 +1,15 @@
 {
   "keywords": [
     [
+      "911",
+      5
+    ],
+    [
       "from",
+      4
+    ],
+    [
+      "how",
       4
     ],
     [
@@ -13,47 +21,55 @@
       3
     ],
     [
-      "woman",
+      "when",
       3
     ],
     [
-      "against",
+      "over",
       3
     ],
     [
-      "dying",
+      "brics",
       3
     ],
     [
-      "911",
-      3
-    ],
-    [
-      "attacks",
-      3
-    ],
-    [
-      "saudi",
-      3
-    ],
-    [
-      "pipeline",
-      3
-    ],
-    [
-      "iran",
+      "reform",
       2
     ],
     [
-      "how",
+      "donation",
       2
     ],
     [
-      "made",
+      "yemen",
       2
     ],
     [
-      "death",
+      "may",
+      2
+    ],
+    [
+      "bring",
+      2
+    ],
+    [
+      "new",
+      2
+    ],
+    [
+      "why",
+      2
+    ],
+    [
+      "across",
+      2
+    ],
+    [
+      "now",
+      2
+    ],
+    [
+      "will",
       2
     ],
     [
@@ -61,29 +77,21 @@
       2
     ],
     [
-      "mps",
-      2
-    ],
-    [
-      "assisted",
-      2
-    ],
-    [
-      "september",
-      2
-    ],
-    [
-      "never",
-      2
-    ],
-    [
-      "marks",
+      "one",
       2
     ]
   ],
   "topics": [
     {
+      "name": "911",
+      "count": 5
+    },
+    {
       "name": "from",
+      "count": 4
+    },
+    {
+      "name": "how",
       "count": 4
     },
     {
@@ -95,33 +103,25 @@
       "count": 3
     },
     {
-      "name": "woman",
+      "name": "when",
       "count": 3
     },
     {
-      "name": "against",
+      "name": "over",
       "count": 3
     },
     {
-      "name": "dying",
+      "name": "brics",
       "count": 3
     },
     {
-      "name": "911",
-      "count": 3
+      "name": "reform",
+      "count": 2
     },
     {
-      "name": "attacks",
-      "count": 3
-    },
-    {
-      "name": "saudi",
-      "count": 3
-    },
-    {
-      "name": "pipeline",
-      "count": 3
+      "name": "donation",
+      "count": 2
     }
   ],
-  "updated_at": "2026-09-12 03:57:29.779280"
+  "updated_at": "2026-09-12 10:23:23.534399"
 }
