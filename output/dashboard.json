@@ -1,11 +1,15 @@
 {
   "keywords": [
     [
-      "after",
-      6
+      "says",
+      5
     ],
     [
-      "are",
+      "after",
+      5
+    ],
+    [
+      "with",
       4
     ],
     [
@@ -13,81 +17,81 @@
       4
     ],
     [
+      "bbc",
+      3
+    ],
+    [
+      "government",
+      3
+    ],
+    [
+      "new",
+      3
+    ],
+    [
+      "about",
+      3
+    ],
+    [
+      "why",
+      3
+    ],
+    [
+      "are",
+      3
+    ],
+    [
+      "their",
+      3
+    ],
+    [
+      "see",
+      3
+    ],
+    [
+      "some",
+      3
+    ],
+    [
       "two",
       3
     ],
     [
+      "tells",
+      2
+    ],
+    [
+      "law",
+      2
+    ],
+    [
+      "will",
+      2
+    ],
+    [
+      "homes",
+      2
+    ],
+    [
+      "pms",
+      2
+    ],
+    [
       "more",
-      3
-    ],
-    [
-      "one",
-      3
-    ],
-    [
-      "open",
-      3
-    ],
-    [
-      "says",
-      3
-    ],
-    [
-      "final",
-      3
-    ],
-    [
-      "bbc",
-      2
-    ],
-    [
-      "about",
-      2
-    ],
-    [
-      "united",
-      2
-    ],
-    [
-      "ireland",
-      2
-    ],
-    [
-      "have",
-      2
-    ],
-    [
-      "across",
-      2
-    ],
-    [
-      "days",
-      2
-    ],
-    [
-      "some",
-      2
-    ],
-    [
-      "their",
-      2
-    ],
-    [
-      "you",
-      2
-    ],
-    [
-      "they",
       2
     ]
   ],
   "topics": [
     {
-      "name": "after",
-      "count": 6
+      "name": "says",
+      "count": 5
     },
     {
-      "name": "are",
+      "name": "after",
+      "count": 5
+    },
+    {
+      "name": "with",
       "count": 4
     },
     {
@@ -95,33 +99,29 @@
       "count": 4
     },
     {
-      "name": "two",
-      "count": 3
-    },
-    {
-      "name": "more",
-      "count": 3
-    },
-    {
-      "name": "one",
-      "count": 3
-    },
-    {
-      "name": "open",
-      "count": 3
-    },
-    {
-      "name": "says",
-      "count": 3
-    },
-    {
-      "name": "final",
-      "count": 3
-    },
-    {
       "name": "bbc",
-      "count": 2
+      "count": 3
+    },
+    {
+      "name": "government",
+      "count": 3
+    },
+    {
+      "name": "new",
+      "count": 3
+    },
+    {
+      "name": "about",
+      "count": 3
+    },
+    {
+      "name": "why",
+      "count": 3
+    },
+    {
+      "name": "are",
+      "count": 3
     }
   ],
-  "updated_at": "2026-09-13 04:33:11.755947"
+  "updated_at": "2026-09-13 11:25:45.473185"
 }
