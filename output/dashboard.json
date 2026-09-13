@@ -1,55 +1,59 @@
 {
   "keywords": [
     [
+      "after",
+      9
+    ],
+    [
       "new",
       5
     ],
     [
-      "are",
+      "will",
       4
     ],
     [
-      "brics",
-      4
-    ],
-    [
-      "why",
+      "trump",
       3
     ],
     [
-      "their",
+      "over",
       3
     ],
     [
-      "after",
+      "government",
       3
     ],
     [
-      "war",
+      "police",
       3
     ],
     [
-      "final",
-      3
-    ],
-    [
-      "summit",
-      3
+      "ukrainian",
+      2
     ],
     [
       "what",
-      3
+      2
     ],
     [
-      "houthis",
-      3
+      "reform",
+      2
     ],
     [
-      "live",
-      3
+      "political",
+      2
     ],
     [
-      "under",
+      "change",
+      2
+    ],
+    [
+      "life",
+      2
+    ],
+    [
+      "homes",
       2
     ],
     [
@@ -61,67 +65,63 @@
       2
     ],
     [
-      "will",
+      "six",
       2
     ],
     [
-      "homes",
-      2
-    ],
-    [
-      "united",
-      2
-    ],
-    [
-      "day",
+      "child",
       2
     ],
     [
       "images",
       2
+    ],
+    [
+      "haaland",
+      2
     ]
   ],
   "topics": [
+    {
+      "name": "after",
+      "count": 9
+    },
     {
       "name": "new",
       "count": 5
     },
     {
-      "name": "are",
+      "name": "will",
       "count": 4
     },
     {
-      "name": "brics",
-      "count": 4
-    },
-    {
-      "name": "why",
+      "name": "trump",
       "count": 3
     },
     {
-      "name": "their",
+      "name": "over",
       "count": 3
     },
     {
-      "name": "after",
+      "name": "government",
       "count": 3
     },
     {
-      "name": "war",
+      "name": "police",
       "count": 3
     },
     {
-      "name": "final",
-      "count": 3
-    },
-    {
-      "name": "summit",
-      "count": 3
+      "name": "ukrainian",
+      "count": 2
     },
     {
       "name": "what",
-      "count": 3
+      "count": 2
+    },
+    {
+      "name": "reform",
+      "count": 2
     }
   ],
-  "updated_at": "2026-09-13 15:55:06.089483"
+  "updated_at": "2026-09-13 20:33:11.032361"
 }
