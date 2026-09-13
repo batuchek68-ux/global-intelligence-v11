@@ -1,23 +1,63 @@
 {
   "keywords": [
     [
-      "with",
+      "after",
+      6
+    ],
+    [
+      "are",
       4
     ],
     [
-      "court",
+      "saudi",
+      4
+    ],
+    [
+      "two",
       3
     ],
     [
-      "will",
+      "more",
       3
     ],
     [
-      "iran",
+      "one",
       3
     ],
     [
-      "reform",
+      "open",
+      3
+    ],
+    [
+      "says",
+      3
+    ],
+    [
+      "final",
+      3
+    ],
+    [
+      "bbc",
+      2
+    ],
+    [
+      "about",
+      2
+    ],
+    [
+      "united",
+      2
+    ],
+    [
+      "ireland",
+      2
+    ],
+    [
+      "have",
+      2
+    ],
+    [
+      "across",
       2
     ],
     [
@@ -25,103 +65,63 @@
       2
     ],
     [
-      "trump",
+      "some",
       2
     ],
     [
-      "says",
+      "their",
       2
     ],
     [
-      "calls",
+      "you",
       2
     ],
     [
-      "three",
-      2
-    ],
-    [
-      "man",
-      2
-    ],
-    [
-      "over",
-      2
-    ],
-    [
-      "now",
-      2
-    ],
-    [
-      "activists",
-      2
-    ],
-    [
-      "are",
-      2
-    ],
-    [
-      "when",
-      2
-    ],
-    [
-      "killed",
-      2
-    ],
-    [
-      "hits",
-      2
-    ],
-    [
-      "fire",
-      2
-    ],
-    [
-      "owner",
+      "they",
       2
     ]
   ],
   "topics": [
     {
-      "name": "with",
+      "name": "after",
+      "count": 6
+    },
+    {
+      "name": "are",
       "count": 4
     },
     {
-      "name": "court",
+      "name": "saudi",
+      "count": 4
+    },
+    {
+      "name": "two",
       "count": 3
     },
     {
-      "name": "will",
+      "name": "more",
       "count": 3
     },
     {
-      "name": "iran",
+      "name": "one",
       "count": 3
     },
     {
-      "name": "reform",
-      "count": 2
-    },
-    {
-      "name": "days",
-      "count": 2
-    },
-    {
-      "name": "trump",
-      "count": 2
+      "name": "open",
+      "count": 3
     },
     {
       "name": "says",
-      "count": 2
+      "count": 3
     },
     {
-      "name": "calls",
-      "count": 2
+      "name": "final",
+      "count": 3
     },
     {
-      "name": "three",
+      "name": "bbc",
       "count": 2
     }
   ],
-  "updated_at": "2026-09-12 20:22:27.985979"
+  "updated_at": "2026-09-13 04:33:11.755947"
 }
