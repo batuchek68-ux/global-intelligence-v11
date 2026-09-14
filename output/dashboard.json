@@ -1,39 +1,11 @@
 {
   "keywords": [
     [
-      "why",
-      5
-    ],
-    [
       "after",
-      4
+      7
     ],
     [
-      "what",
-      3
-    ],
-    [
-      "but",
-      3
-    ],
-    [
-      "are",
-      3
-    ],
-    [
-      "new",
-      3
-    ],
-    [
-      "how",
-      3
-    ],
-    [
-      "missing",
-      3
-    ],
-    [
-      "hormuz",
+      "over",
       3
     ],
     [
@@ -41,31 +13,35 @@
       3
     ],
     [
-      "you",
+      "from",
+      3
+    ],
+    [
+      "tour",
+      3
+    ],
+    [
+      "ukraine",
+      3
+    ],
+    [
+      "why",
+      3
+    ],
+    [
+      "what",
+      3
+    ],
+    [
+      "war",
+      3
+    ],
+    [
+      "man",
       2
     ],
     [
-      "officials",
-      2
-    ],
-    [
-      "station",
-      2
-    ],
-    [
-      "shows",
-      2
-    ],
-    [
-      "had",
-      2
-    ],
-    [
-      "attack",
-      2
-    ],
-    [
-      "korean",
+      "years",
       2
     ],
     [
@@ -73,55 +49,79 @@
       2
     ],
     [
-      "off",
+      "are",
       2
     ],
     [
-      "who",
+      "with",
+      2
+    ],
+    [
+      "macklemore",
+      2
+    ],
+    [
+      "dropped",
+      2
+    ],
+    [
+      "sheeran",
+      2
+    ],
+    [
+      "palestine",
+      2
+    ],
+    [
+      "killed",
+      2
+    ],
+    [
+      "have",
       2
     ]
   ],
   "topics": [
     {
-      "name": "why",
-      "count": 5
+      "name": "after",
+      "count": 7
     },
     {
-      "name": "after",
-      "count": 4
+      "name": "over",
+      "count": 3
+    },
+    {
+      "name": "says",
+      "count": 3
+    },
+    {
+      "name": "from",
+      "count": 3
+    },
+    {
+      "name": "tour",
+      "count": 3
+    },
+    {
+      "name": "ukraine",
+      "count": 3
+    },
+    {
+      "name": "why",
+      "count": 3
     },
     {
       "name": "what",
       "count": 3
     },
     {
-      "name": "but",
+      "name": "war",
       "count": 3
     },
     {
-      "name": "are",
-      "count": 3
-    },
-    {
-      "name": "new",
-      "count": 3
-    },
-    {
-      "name": "how",
-      "count": 3
-    },
-    {
-      "name": "missing",
-      "count": 3
-    },
-    {
-      "name": "hormuz",
-      "count": 3
-    },
-    {
-      "name": "says",
-      "count": 3
+      "name": "man",
+      "count": 2
     }
   ],
-  "updated_at": "2026-09-14 12:18:40.016390"
+  "updated_at": "2026-09-14 21:40:15.809279"
 }
