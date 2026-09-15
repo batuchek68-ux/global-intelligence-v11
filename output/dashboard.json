@@ -1,59 +1,71 @@
 {
   "keywords": [
     [
-      "after",
-      7
+      "from",
+      5
     ],
     [
       "over",
-      3
+      4
     ],
     [
-      "says",
-      3
-    ],
-    [
-      "from",
-      3
+      "trump",
+      4
     ],
     [
       "tour",
       3
     ],
     [
-      "ukraine",
+      "israeli",
       3
     ],
     [
-      "why",
+      "gaza",
       3
     ],
     [
-      "what",
+      "iran",
       3
     ],
     [
-      "war",
-      3
-    ],
-    [
-      "man",
+      "set",
       2
     ],
     [
-      "years",
+      "has",
       2
     ],
     [
-      "may",
+      "down",
       2
     ],
     [
-      "are",
+      "double",
       2
     ],
     [
-      "with",
+      "watch",
+      2
+    ],
+    [
+      "emmys",
+      2
+    ],
+    [
+      "first",
+      2
+    ],
+    [
+      "time",
+      2
+    ],
+    [
+      "harry",
+      2
+    ],
+    [
+      "security",
       2
     ],
     [
@@ -61,67 +73,55 @@
       2
     ],
     [
-      "dropped",
-      2
-    ],
-    [
       "sheeran",
       2
     ],
     [
-      "palestine",
-      2
-    ],
-    [
-      "killed",
-      2
-    ],
-    [
-      "have",
+      "after",
       2
     ]
   ],
   "topics": [
     {
-      "name": "after",
-      "count": 7
+      "name": "from",
+      "count": 5
     },
     {
       "name": "over",
-      "count": 3
+      "count": 4
     },
     {
-      "name": "says",
-      "count": 3
-    },
-    {
-      "name": "from",
-      "count": 3
+      "name": "trump",
+      "count": 4
     },
     {
       "name": "tour",
       "count": 3
     },
     {
-      "name": "ukraine",
+      "name": "israeli",
       "count": 3
     },
     {
-      "name": "why",
+      "name": "gaza",
       "count": 3
     },
     {
-      "name": "what",
+      "name": "iran",
       "count": 3
     },
     {
-      "name": "war",
-      "count": 3
+      "name": "set",
+      "count": 2
     },
     {
-      "name": "man",
+      "name": "has",
+      "count": 2
+    },
+    {
+      "name": "down",
       "count": 2
     }
   ],
-  "updated_at": "2026-09-14 21:40:15.809279"
+  "updated_at": "2026-09-15 04:14:57.243123"
 }
