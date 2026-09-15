@@ -1,47 +1,71 @@
 {
   "keywords": [
     [
-      "after",
-      4
-    ],
-    [
-      "says",
-      3
-    ],
-    [
-      "not",
-      3
-    ],
-    [
-      "war",
-      3
-    ],
-    [
-      "who",
-      3
-    ],
-    [
-      "from",
-      2
-    ],
-    [
-      "lucy",
-      2
-    ],
-    [
       "letby",
-      2
+      6
+    ],
+    [
+      "after",
+      5
     ],
     [
       "inquiry",
+      5
+    ],
+    [
+      "from",
+      4
+    ],
+    [
+      "lucy",
+      3
+    ],
+    [
+      "could",
+      3
+    ],
+    [
+      "police",
+      3
+    ],
+    [
+      "trump",
+      3
+    ],
+    [
+      "hospital",
+      3
+    ],
+    [
+      "what",
+      3
+    ],
+    [
+      "with",
+      3
+    ],
+    [
+      "over",
+      3
+    ],
+    [
+      "have",
       2
     ],
     [
-      "was",
+      "been",
       2
     ],
     [
-      "macklemore",
+      "support",
+      2
+    ],
+    [
+      "space",
+      2
+    ],
+    [
+      "confirms",
       2
     ],
     [
@@ -49,79 +73,55 @@
       2
     ],
     [
-      "denmark",
+      "dead",
       2
     ],
     [
-      "russian",
-      2
-    ],
-    [
-      "likely",
-      2
-    ],
-    [
-      "stars",
-      2
-    ],
-    [
-      "about",
-      2
-    ],
-    [
-      "death",
-      2
-    ],
-    [
-      "what",
-      2
-    ],
-    [
-      "into",
+      "ballot",
       2
     ]
   ],
   "topics": [
     {
-      "name": "after",
-      "count": 4
-    },
-    {
-      "name": "says",
-      "count": 3
-    },
-    {
-      "name": "not",
-      "count": 3
-    },
-    {
-      "name": "war",
-      "count": 3
-    },
-    {
-      "name": "who",
-      "count": 3
-    },
-    {
-      "name": "from",
-      "count": 2
-    },
-    {
-      "name": "lucy",
-      "count": 2
-    },
-    {
       "name": "letby",
-      "count": 2
+      "count": 6
+    },
+    {
+      "name": "after",
+      "count": 5
     },
     {
       "name": "inquiry",
-      "count": 2
+      "count": 5
     },
     {
-      "name": "was",
-      "count": 2
+      "name": "from",
+      "count": 4
+    },
+    {
+      "name": "lucy",
+      "count": 3
+    },
+    {
+      "name": "could",
+      "count": 3
+    },
+    {
+      "name": "police",
+      "count": 3
+    },
+    {
+      "name": "trump",
+      "count": 3
+    },
+    {
+      "name": "hospital",
+      "count": 3
+    },
+    {
+      "name": "what",
+      "count": 3
     }
   ],
-  "updated_at": "2026-09-15 16:38:18.585330"
+  "updated_at": "2026-09-15 21:03:13.820224"
 }
