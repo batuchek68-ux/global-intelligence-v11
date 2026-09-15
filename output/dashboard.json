@@ -1,43 +1,51 @@
 {
   "keywords": [
     [
-      "from",
-      5
-    ],
-    [
-      "over",
-      4
-    ],
-    [
       "trump",
       4
     ],
     [
-      "tour",
+      "says",
       3
     ],
     [
-      "israeli",
+      "rejects",
       3
     ],
     [
-      "gaza",
+      "supreme",
       3
     ],
     [
-      "iran",
+      "court",
       3
     ],
     [
-      "set",
+      "watch",
+      3
+    ],
+    [
+      "say",
+      3
+    ],
+    [
+      "fears",
       2
     ],
     [
-      "has",
+      "hoax",
       2
     ],
     [
-      "down",
+      "calls",
+      2
+    ],
+    [
+      "emmy",
+      2
+    ],
+    [
+      "with",
       2
     ],
     [
@@ -45,19 +53,23 @@
       2
     ],
     [
-      "watch",
+      "russian",
       2
     ],
     [
-      "emmys",
+      "trumps",
       2
     ],
     [
-      "first",
+      "ballots",
       2
     ],
     [
-      "time",
+      "small",
+      2
+    ],
+    [
+      "law",
       2
     ],
     [
@@ -65,63 +77,51 @@
       2
     ],
     [
-      "security",
-      2
-    ],
-    [
-      "macklemore",
-      2
-    ],
-    [
-      "sheeran",
-      2
-    ],
-    [
-      "after",
+      "over",
       2
     ]
   ],
   "topics": [
     {
-      "name": "from",
-      "count": 5
-    },
-    {
-      "name": "over",
-      "count": 4
-    },
-    {
       "name": "trump",
       "count": 4
     },
     {
-      "name": "tour",
+      "name": "says",
       "count": 3
     },
     {
-      "name": "israeli",
+      "name": "rejects",
       "count": 3
     },
     {
-      "name": "gaza",
+      "name": "supreme",
       "count": 3
     },
     {
-      "name": "iran",
+      "name": "court",
       "count": 3
     },
     {
-      "name": "set",
+      "name": "watch",
+      "count": 3
+    },
+    {
+      "name": "say",
+      "count": 3
+    },
+    {
+      "name": "fears",
       "count": 2
     },
     {
-      "name": "has",
+      "name": "hoax",
       "count": 2
     },
     {
-      "name": "down",
+      "name": "calls",
       "count": 2
     }
   ],
-  "updated_at": "2026-09-15 04:14:57.243123"
+  "updated_at": "2026-09-15 11:25:49.623385"
 }
