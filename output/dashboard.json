@@ -1,7 +1,7 @@
 {
   "keywords": [
     [
-      "trump",
+      "after",
       4
     ],
     [
@@ -9,47 +9,47 @@
       3
     ],
     [
-      "rejects",
+      "not",
       3
     ],
     [
-      "supreme",
+      "war",
       3
     ],
     [
-      "court",
+      "who",
       3
     ],
     [
-      "watch",
-      3
-    ],
-    [
-      "say",
-      3
-    ],
-    [
-      "fears",
+      "from",
       2
     ],
     [
-      "hoax",
+      "lucy",
       2
     ],
     [
-      "calls",
+      "letby",
       2
     ],
     [
-      "emmy",
+      "inquiry",
       2
     ],
     [
-      "with",
+      "was",
       2
     ],
     [
-      "double",
+      "macklemore",
+      2
+    ],
+    [
+      "has",
+      2
+    ],
+    [
+      "denmark",
       2
     ],
     [
@@ -57,33 +57,33 @@
       2
     ],
     [
-      "trumps",
+      "likely",
       2
     ],
     [
-      "ballots",
+      "stars",
       2
     ],
     [
-      "small",
+      "about",
       2
     ],
     [
-      "law",
+      "death",
       2
     ],
     [
-      "harry",
+      "what",
       2
     ],
     [
-      "over",
+      "into",
       2
     ]
   ],
   "topics": [
     {
-      "name": "trump",
+      "name": "after",
       "count": 4
     },
     {
@@ -91,37 +91,37 @@
       "count": 3
     },
     {
-      "name": "rejects",
+      "name": "not",
       "count": 3
     },
     {
-      "name": "supreme",
+      "name": "war",
       "count": 3
     },
     {
-      "name": "court",
+      "name": "who",
       "count": 3
     },
     {
-      "name": "watch",
-      "count": 3
-    },
-    {
-      "name": "say",
-      "count": 3
-    },
-    {
-      "name": "fears",
+      "name": "from",
       "count": 2
     },
     {
-      "name": "hoax",
+      "name": "lucy",
       "count": 2
     },
     {
-      "name": "calls",
+      "name": "letby",
+      "count": 2
+    },
+    {
+      "name": "inquiry",
+      "count": 2
+    },
+    {
+      "name": "was",
       "count": 2
     }
   ],
-  "updated_at": "2026-09-15 11:25:49.623385"
+  "updated_at": "2026-09-15 16:38:18.585330"
 }
