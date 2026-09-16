@@ -1,55 +1,31 @@
 {
   "keywords": [
     [
-      "over",
-      6
-    ],
-    [
       "why",
-      4
-    ],
-    [
-      "plan",
       3
     ],
     [
-      "from",
+      "over",
       3
     ],
     [
-      "how",
+      "israel",
       3
     ],
     [
-      "says",
-      3
-    ],
-    [
-      "have",
-      3
-    ],
-    [
-      "with",
-      3
-    ],
-    [
-      "after",
-      3
-    ],
-    [
-      "iran",
-      3
-    ],
-    [
-      "war",
-      3
-    ],
-    [
-      "chief",
+      "found",
       2
     ],
     [
-      "canada",
+      "can",
+      2
+    ],
+    [
+      "after",
+      2
+    ],
+    [
+      "plan",
       2
     ],
     [
@@ -57,7 +33,11 @@
       2
     ],
     [
-      "member",
+      "show",
+      2
+    ],
+    [
+      "watch",
       2
     ],
     [
@@ -65,11 +45,11 @@
       2
     ],
     [
-      "sheerans",
+      "votes",
       2
     ],
     [
-      "strike",
+      "lets",
       2
     ],
     [
@@ -77,51 +57,71 @@
       2
     ],
     [
-      "impact",
+      "have",
+      2
+    ],
+    [
+      "saudi",
+      2
+    ],
+    [
+      "his",
+      2
+    ],
+    [
+      "trump",
+      2
+    ],
+    [
+      "are",
+      2
+    ],
+    [
+      "village",
       2
     ]
   ],
   "topics": [
     {
-      "name": "over",
-      "count": 6
-    },
-    {
       "name": "why",
-      "count": 4
-    },
-    {
-      "name": "plan",
       "count": 3
     },
     {
-      "name": "from",
+      "name": "over",
       "count": 3
     },
     {
-      "name": "how",
+      "name": "israel",
       "count": 3
     },
     {
-      "name": "says",
-      "count": 3
+      "name": "found",
+      "count": 2
     },
     {
-      "name": "have",
-      "count": 3
-    },
-    {
-      "name": "with",
-      "count": 3
+      "name": "can",
+      "count": 2
     },
     {
       "name": "after",
-      "count": 3
+      "count": 2
     },
     {
-      "name": "iran",
-      "count": 3
+      "name": "plan",
+      "count": 2
+    },
+    {
+      "name": "associate",
+      "count": 2
+    },
+    {
+      "name": "show",
+      "count": 2
+    },
+    {
+      "name": "watch",
+      "count": 2
     }
   ],
-  "updated_at": "2026-09-16 16:31:12.694061"
+  "updated_at": "2026-09-16 21:05:38.887105"
 }
