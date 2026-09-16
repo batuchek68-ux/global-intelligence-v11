@@ -1,27 +1,31 @@
 {
   "keywords": [
     [
-      "letby",
+      "after",
+      6
+    ],
+    [
+      "over",
       4
     ],
     [
-      "war",
+      "least",
       4
     ],
     [
-      "defence",
+      "gaza",
+      4
+    ],
+    [
+      "trump",
+      4
+    ],
+    [
+      "dozens",
       3
     ],
     [
-      "inquiry",
-      3
-    ],
-    [
-      "iran",
-      3
-    ],
-    [
-      "from",
+      "building",
       3
     ],
     [
@@ -29,31 +33,39 @@
       3
     ],
     [
-      "saudi",
-      3
-    ],
-    [
-      "oil",
-      3
-    ],
-    [
-      "boss",
-      2
-    ],
-    [
       "says",
+      3
+    ],
+    [
+      "his",
+      3
+    ],
+    [
+      "with",
+      3
+    ],
+    [
+      "kills",
+      3
+    ],
+    [
+      "war",
+      3
+    ],
+    [
+      "support",
       2
     ],
     [
-      "should",
+      "acts",
       2
     ],
     [
-      "firms",
+      "quit",
       2
     ],
     [
-      "all",
+      "sheeran",
       2
     ],
     [
@@ -61,49 +73,41 @@
       2
     ],
     [
-      "after",
+      "chief",
       2
     ],
     [
-      "macklemore",
-      2
-    ],
-    [
-      "talks",
-      2
-    ],
-    [
-      "about",
-      2
-    ],
-    [
-      "global",
+      "plan",
       2
     ]
   ],
   "topics": [
     {
-      "name": "letby",
+      "name": "after",
+      "count": 6
+    },
+    {
+      "name": "over",
       "count": 4
     },
     {
-      "name": "war",
+      "name": "least",
       "count": 4
     },
     {
-      "name": "defence",
+      "name": "gaza",
+      "count": 4
+    },
+    {
+      "name": "trump",
+      "count": 4
+    },
+    {
+      "name": "dozens",
       "count": 3
     },
     {
-      "name": "inquiry",
-      "count": 3
-    },
-    {
-      "name": "iran",
-      "count": 3
-    },
-    {
-      "name": "from",
+      "name": "building",
       "count": 3
     },
     {
@@ -111,17 +115,13 @@
       "count": 3
     },
     {
-      "name": "saudi",
+      "name": "says",
       "count": 3
     },
     {
-      "name": "oil",
+      "name": "his",
       "count": 3
-    },
-    {
-      "name": "boss",
-      "count": 2
     }
   ],
-  "updated_at": "2026-09-16 04:10:44.786172"
+  "updated_at": "2026-09-16 11:11:27.995396"
 }
