@@ -1,7 +1,7 @@
 {
   "keywords": [
     [
-      "what",
+      "but",
       4
     ],
     [
@@ -9,47 +9,27 @@
       3
     ],
     [
-      "interest",
+      "charles",
       3
     ],
     [
-      "rates",
+      "can",
       3
     ],
     [
-      "say",
+      "release",
       3
     ],
     [
-      "iran",
+      "says",
       3
-    ],
-    [
-      "saudi",
-      3
-    ],
-    [
-      "over",
-      3
-    ],
-    [
-      "will",
-      3
-    ],
-    [
-      "india",
-      3
-    ],
-    [
-      "remains",
-      2
     ],
     [
       "found",
       2
     ],
     [
-      "but",
+      "since",
       2
     ],
     [
@@ -57,33 +37,53 @@
       2
     ],
     [
-      "stay",
+      "high",
       2
     ],
     [
-      "canada",
+      "king",
       2
     ],
     [
-      "more",
+      "warns",
       2
     ],
     [
-      "can",
+      "existential",
       2
     ],
     [
-      "get",
+      "from",
       2
     ],
     [
-      "demands",
+      "say",
+      2
+    ],
+    [
+      "committed",
+      2
+    ],
+    [
+      "war",
+      2
+    ],
+    [
+      "crimes",
+      2
+    ],
+    [
+      "iran",
+      2
+    ],
+    [
+      "strikes",
       2
     ]
   ],
   "topics": [
     {
-      "name": "what",
+      "name": "but",
       "count": 4
     },
     {
@@ -91,37 +91,37 @@
       "count": 3
     },
     {
-      "name": "interest",
+      "name": "charles",
       "count": 3
     },
     {
-      "name": "rates",
+      "name": "can",
       "count": 3
     },
     {
-      "name": "say",
+      "name": "release",
       "count": 3
     },
     {
-      "name": "iran",
+      "name": "says",
       "count": 3
     },
     {
-      "name": "saudi",
-      "count": 3
+      "name": "found",
+      "count": 2
     },
     {
-      "name": "over",
-      "count": 3
+      "name": "since",
+      "count": 2
     },
     {
-      "name": "will",
-      "count": 3
+      "name": "prices",
+      "count": 2
     },
     {
-      "name": "india",
-      "count": 3
+      "name": "high",
+      "count": 2
     }
   ],
-  "updated_at": "2026-09-17 16:36:47.611302"
+  "updated_at": "2026-09-17 21:08:10.131657"
 }
