@@ -1,59 +1,67 @@
 {
   "keywords": [
     [
-      "after",
+      "what",
       4
+    ],
+    [
+      "after",
+      3
+    ],
+    [
+      "interest",
+      3
+    ],
+    [
+      "rates",
+      3
+    ],
+    [
+      "say",
+      3
+    ],
+    [
+      "iran",
+      3
+    ],
+    [
+      "saudi",
+      3
     ],
     [
       "over",
       3
     ],
     [
-      "how",
+      "will",
       3
     ],
     [
-      "they",
+      "india",
       3
     ],
     [
-      "from",
-      3
-    ],
-    [
-      "new",
-      3
-    ],
-    [
-      "israeli",
-      3
-    ],
-    [
-      "oil",
-      3
-    ],
-    [
-      "with",
+      "remains",
       2
     ],
     [
-      "claims",
+      "found",
       2
     ],
     [
-      "could",
+      "but",
       2
     ],
     [
-      "bbc",
+      "prices",
       2
     ],
     [
-      "was",
+      "stay",
       2
     ],
     [
-      "get",
+      "canada",
       2
     ],
     [
@@ -61,67 +69,59 @@
       2
     ],
     [
-      "why",
+      "can",
       2
     ],
     [
-      "least",
+      "get",
       2
     ],
     [
-      "use",
-      2
-    ],
-    [
-      "again",
-      2
-    ],
-    [
-      "trump",
+      "demands",
       2
     ]
   ],
   "topics": [
     {
-      "name": "after",
+      "name": "what",
       "count": 4
+    },
+    {
+      "name": "after",
+      "count": 3
+    },
+    {
+      "name": "interest",
+      "count": 3
+    },
+    {
+      "name": "rates",
+      "count": 3
+    },
+    {
+      "name": "say",
+      "count": 3
+    },
+    {
+      "name": "iran",
+      "count": 3
+    },
+    {
+      "name": "saudi",
+      "count": 3
     },
     {
       "name": "over",
       "count": 3
     },
     {
-      "name": "how",
+      "name": "will",
       "count": 3
     },
     {
-      "name": "they",
+      "name": "india",
       "count": 3
-    },
-    {
-      "name": "from",
-      "count": 3
-    },
-    {
-      "name": "new",
-      "count": 3
-    },
-    {
-      "name": "israeli",
-      "count": 3
-    },
-    {
-      "name": "oil",
-      "count": 3
-    },
-    {
-      "name": "with",
-      "count": 2
-    },
-    {
-      "name": "claims",
-      "count": 2
     }
   ],
-  "updated_at": "2026-09-17 11:19:53.554409"
+  "updated_at": "2026-09-17 16:36:47.611302"
 }
