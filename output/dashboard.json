@@ -1,35 +1,35 @@
 {
   "keywords": [
     [
-      "not",
+      "says",
       6
     ],
     [
-      "war",
-      4
+      "from",
+      5
     ],
     [
-      "how",
-      4
-    ],
-    [
-      "home",
+      "watch",
       3
     ],
     [
-      "pakistan",
+      "with",
       3
     ],
     [
-      "why",
+      "migrants",
       3
     ],
     [
-      "least",
+      "ceuta",
       3
     ],
     [
-      "woman",
+      "over",
+      3
+    ],
+    [
+      "charles",
       2
     ],
     [
@@ -37,23 +37,39 @@
       2
     ],
     [
+      "brother",
+      2
+    ],
+    [
       "after",
       2
     ],
     [
-      "our",
+      "her",
       2
     ],
     [
-      "did",
+      "actress",
       2
     ],
     [
-      "suspects",
+      "ronaldo",
       2
     ],
     [
-      "lies",
+      "first",
+      2
+    ],
+    [
+      "portugal",
+      2
+    ],
+    [
+      "squad",
+      2
+    ],
+    [
+      "war",
       2
     ],
     [
@@ -61,57 +77,41 @@
       2
     ],
     [
-      "left",
-      2
-    ],
-    [
-      "dead",
-      2
-    ],
-    [
-      "with",
-      2
-    ],
-    [
-      "says",
-      2
-    ],
-    [
-      "crimes",
+      "game",
       2
     ]
   ],
   "topics": [
     {
-      "name": "not",
+      "name": "says",
       "count": 6
     },
     {
-      "name": "war",
-      "count": 4
+      "name": "from",
+      "count": 5
     },
     {
-      "name": "how",
-      "count": 4
-    },
-    {
-      "name": "home",
+      "name": "watch",
       "count": 3
     },
     {
-      "name": "pakistan",
+      "name": "with",
       "count": 3
     },
     {
-      "name": "why",
+      "name": "migrants",
       "count": 3
     },
     {
-      "name": "least",
+      "name": "ceuta",
       "count": 3
     },
     {
-      "name": "woman",
+      "name": "over",
+      "count": 3
+    },
+    {
+      "name": "charles",
       "count": 2
     },
     {
@@ -119,9 +119,9 @@
       "count": 2
     },
     {
-      "name": "after",
+      "name": "brother",
       "count": 2
     }
   ],
-  "updated_at": "2026-09-18 10:53:43.615088"
+  "updated_at": "2026-09-18 16:08:26.632175"
 }
