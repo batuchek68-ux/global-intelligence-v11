@@ -1,71 +1,47 @@
 {
   "keywords": [
     [
-      "but",
-      4
+      "war",
+      5
+    ],
+    [
+      "over",
+      5
     ],
     [
       "after",
+      4
+    ],
+    [
+      "with",
+      4
+    ],
+    [
+      "iran",
+      4
+    ],
+    [
+      "left",
       3
     ],
     [
-      "charles",
+      "but",
       3
     ],
     [
-      "can",
+      "approves",
       3
-    ],
-    [
-      "release",
-      3
-    ],
-    [
-      "says",
-      3
-    ],
-    [
-      "found",
-      2
     ],
     [
       "since",
       2
     ],
     [
-      "prices",
+      "earl",
       2
     ],
     [
-      "high",
-      2
-    ],
-    [
-      "king",
-      2
-    ],
-    [
-      "warns",
-      2
-    ],
-    [
-      "existential",
-      2
-    ],
-    [
-      "from",
-      2
-    ],
-    [
-      "say",
-      2
-    ],
-    [
-      "committed",
-      2
-    ],
-    [
-      "war",
+      "spencer",
       2
     ],
     [
@@ -73,55 +49,79 @@
       2
     ],
     [
-      "iran",
+      "strikes",
       2
     ],
     [
-      "strikes",
+      "challenge",
+      2
+    ],
+    [
+      "withdraws",
+      2
+    ],
+    [
+      "not",
+      2
+    ],
+    [
+      "show",
+      2
+    ],
+    [
+      "why",
+      2
+    ],
+    [
+      "first",
+      2
+    ],
+    [
+      "risks",
       2
     ]
   ],
   "topics": [
     {
-      "name": "but",
-      "count": 4
+      "name": "war",
+      "count": 5
+    },
+    {
+      "name": "over",
+      "count": 5
     },
     {
       "name": "after",
+      "count": 4
+    },
+    {
+      "name": "with",
+      "count": 4
+    },
+    {
+      "name": "iran",
+      "count": 4
+    },
+    {
+      "name": "left",
       "count": 3
     },
     {
-      "name": "charles",
+      "name": "but",
       "count": 3
     },
     {
-      "name": "can",
+      "name": "approves",
       "count": 3
-    },
-    {
-      "name": "release",
-      "count": 3
-    },
-    {
-      "name": "says",
-      "count": 3
-    },
-    {
-      "name": "found",
-      "count": 2
     },
     {
       "name": "since",
       "count": 2
     },
     {
-      "name": "prices",
-      "count": 2
-    },
-    {
-      "name": "high",
+      "name": "earl",
       "count": 2
     }
   ],
-  "updated_at": "2026-09-17 21:08:10.131657"
+  "updated_at": "2026-09-18 04:01:09.179416"
 }
