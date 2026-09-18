@@ -5,27 +5,35 @@
       6
     ],
     [
-      "from",
+      "with",
       5
     ],
     [
-      "watch",
-      3
-    ],
-    [
-      "with",
-      3
+      "from",
+      4
     ],
     [
       "migrants",
+      4
+    ],
+    [
+      "over",
+      4
+    ],
+    [
+      "war",
+      4
+    ],
+    [
+      "police",
+      4
+    ],
+    [
+      "trump",
       3
     ],
     [
       "ceuta",
-      3
-    ],
-    [
-      "over",
       3
     ],
     [
@@ -37,43 +45,35 @@
       2
     ],
     [
+      "watch",
+      2
+    ],
+    [
       "brother",
       2
     ],
     [
-      "after",
+      "cnn",
       2
     ],
     [
-      "her",
+      "politico",
       2
     ],
     [
-      "actress",
+      "white",
       2
     ],
     [
-      "ronaldo",
+      "house",
       2
     ],
     [
-      "first",
+      "russian",
       2
     ],
     [
-      "portugal",
-      2
-    ],
-    [
-      "squad",
-      2
-    ],
-    [
-      "war",
-      2
-    ],
-    [
-      "are",
+      "against",
       2
     ],
     [
@@ -87,19 +87,31 @@
       "count": 6
     },
     {
-      "name": "from",
+      "name": "with",
       "count": 5
     },
     {
-      "name": "watch",
-      "count": 3
-    },
-    {
-      "name": "with",
-      "count": 3
+      "name": "from",
+      "count": 4
     },
     {
       "name": "migrants",
+      "count": 4
+    },
+    {
+      "name": "over",
+      "count": 4
+    },
+    {
+      "name": "war",
+      "count": 4
+    },
+    {
+      "name": "police",
+      "count": 4
+    },
+    {
+      "name": "trump",
       "count": 3
     },
     {
@@ -107,21 +119,9 @@
       "count": 3
     },
     {
-      "name": "over",
-      "count": 3
-    },
-    {
       "name": "charles",
-      "count": 2
-    },
-    {
-      "name": "bbc",
-      "count": 2
-    },
-    {
-      "name": "brother",
       "count": 2
     }
   ],
-  "updated_at": "2026-09-18 16:08:26.632175"
+  "updated_at": "2026-09-18 20:40:30.997838"
 }
