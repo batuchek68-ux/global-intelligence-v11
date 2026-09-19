@@ -1,43 +1,23 @@
 {
   "keywords": [
     [
-      "trump",
+      "says",
       6
     ],
     [
-      "from",
-      5
-    ],
-    [
-      "says",
-      4
-    ],
-    [
-      "could",
-      4
-    ],
-    [
-      "over",
-      3
-    ],
-    [
-      "greenland",
-      3
-    ],
-    [
-      "threats",
-      3
-    ],
-    [
-      "has",
-      3
+      "after",
+      6
     ],
     [
       "how",
       3
     ],
     [
-      "when",
+      "fear",
+      3
+    ],
+    [
+      "found",
       3
     ],
     [
@@ -49,79 +29,99 @@
       3
     ],
     [
-      "security",
+      "sea",
       3
     ],
     [
-      "cnn",
-      3
-    ],
-    [
-      "white",
-      3
-    ],
-    [
-      "house",
-      3
+      "trump",
+      2
     ],
     [
       "are",
-      3
-    ],
-    [
-      "deal",
       2
     ],
     [
-      "after",
+      "bodies",
       2
     ],
     [
-      "diana",
+      "south",
+      2
+    ],
+    [
+      "africa",
+      2
+    ],
+    [
+      "nine",
+      2
+    ],
+    [
+      "women",
+      2
+    ],
+    [
+      "two",
+      2
+    ],
+    [
+      "when",
+      2
+    ],
+    [
+      "could",
+      2
+    ],
+    [
+      "say",
+      2
+    ],
+    [
+      "attack",
       2
     ]
   ],
   "topics": [
     {
-      "name": "trump",
+      "name": "says",
       "count": 6
     },
     {
-      "name": "from",
-      "count": 5
-    },
-    {
-      "name": "says",
-      "count": 4
-    },
-    {
-      "name": "could",
-      "count": 4
-    },
-    {
-      "name": "over",
-      "count": 3
-    },
-    {
-      "name": "greenland",
-      "count": 3
-    },
-    {
-      "name": "threats",
-      "count": 3
-    },
-    {
-      "name": "has",
-      "count": 3
+      "name": "after",
+      "count": 6
     },
     {
       "name": "how",
       "count": 3
     },
     {
-      "name": "when",
+      "name": "fear",
       "count": 3
+    },
+    {
+      "name": "found",
+      "count": 3
+    },
+    {
+      "name": "new",
+      "count": 3
+    },
+    {
+      "name": "now",
+      "count": 3
+    },
+    {
+      "name": "sea",
+      "count": 3
+    },
+    {
+      "name": "trump",
+      "count": 2
+    },
+    {
+      "name": "are",
+      "count": 2
     }
   ],
-  "updated_at": "2026-09-19 10:36:28.555540"
+  "updated_at": "2026-09-19 15:40:41.846512"
 }
