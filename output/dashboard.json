@@ -2,18 +2,18 @@
   "keywords": [
     [
       "says",
-      6
+      9
     ],
     [
       "after",
-      6
+      7
     ],
     [
-      "how",
-      3
+      "trump",
+      4
     ],
     [
-      "fear",
+      "with",
       3
     ],
     [
@@ -25,51 +25,19 @@
       3
     ],
     [
-      "now",
-      3
-    ],
-    [
-      "sea",
-      3
-    ],
-    [
-      "trump",
+      "greenland",
       2
     ],
     [
-      "are",
+      "deal",
       2
     ],
     [
-      "bodies",
+      "will",
       2
     ],
     [
-      "south",
-      2
-    ],
-    [
-      "africa",
-      2
-    ],
-    [
-      "nine",
-      2
-    ],
-    [
-      "women",
-      2
-    ],
-    [
-      "two",
-      2
-    ],
-    [
-      "when",
-      2
-    ],
-    [
-      "could",
+      "major",
       2
     ],
     [
@@ -77,25 +45,57 @@
       2
     ],
     [
-      "attack",
+      "they",
+      2
+    ],
+    [
+      "over",
+      2
+    ],
+    [
+      "when",
+      2
+    ],
+    [
+      "now",
+      2
+    ],
+    [
+      "from",
+      2
+    ],
+    [
+      "journalists",
+      2
+    ],
+    [
+      "white",
+      2
+    ],
+    [
+      "house",
+      2
+    ],
+    [
+      "outlets",
       2
     ]
   ],
   "topics": [
     {
       "name": "says",
-      "count": 6
+      "count": 9
     },
     {
       "name": "after",
-      "count": 6
+      "count": 7
     },
     {
-      "name": "how",
-      "count": 3
+      "name": "trump",
+      "count": 4
     },
     {
-      "name": "fear",
+      "name": "with",
       "count": 3
     },
     {
@@ -107,21 +107,21 @@
       "count": 3
     },
     {
-      "name": "now",
-      "count": 3
-    },
-    {
-      "name": "sea",
-      "count": 3
-    },
-    {
-      "name": "trump",
+      "name": "greenland",
       "count": 2
     },
     {
-      "name": "are",
+      "name": "deal",
+      "count": 2
+    },
+    {
+      "name": "will",
+      "count": 2
+    },
+    {
+      "name": "major",
       "count": 2
     }
   ],
-  "updated_at": "2026-09-19 15:40:41.846512"
+  "updated_at": "2026-09-19 20:19:28.219286"
 }
