@@ -1,40 +1,72 @@
 {
   "keywords": [
     [
+      "trump",
+      9
+    ],
+    [
       "says",
-      6
-    ],
-    [
-      "with",
-      5
-    ],
-    [
-      "from",
-      4
-    ],
-    [
-      "migrants",
-      4
+      7
     ],
     [
       "over",
-      4
+      5
     ],
     [
       "war",
       4
     ],
     [
-      "police",
-      4
-    ],
-    [
-      "trump",
+      "denmark",
       3
     ],
     [
-      "ceuta",
+      "deal",
       3
+    ],
+    [
+      "greenland",
+      3
+    ],
+    [
+      "after",
+      3
+    ],
+    [
+      "from",
+      3
+    ],
+    [
+      "could",
+      3
+    ],
+    [
+      "russia",
+      3
+    ],
+    [
+      "sanctions",
+      3
+    ],
+    [
+      "iran",
+      3
+    ],
+    [
+      "earl",
+      2
+    ],
+    [
+      "diana",
+      2
+    ],
+    [
+      "book",
+      2
+    ],
+    [
+      "claims",
+      2
     ],
     [
       "charles",
@@ -45,83 +77,51 @@
       2
     ],
     [
-      "watch",
-      2
-    ],
-    [
       "brother",
-      2
-    ],
-    [
-      "cnn",
-      2
-    ],
-    [
-      "politico",
-      2
-    ],
-    [
-      "white",
-      2
-    ],
-    [
-      "house",
-      2
-    ],
-    [
-      "russian",
-      2
-    ],
-    [
-      "against",
-      2
-    ],
-    [
-      "game",
       2
     ]
   ],
   "topics": [
     {
+      "name": "trump",
+      "count": 9
+    },
+    {
       "name": "says",
-      "count": 6
-    },
-    {
-      "name": "with",
-      "count": 5
-    },
-    {
-      "name": "from",
-      "count": 4
-    },
-    {
-      "name": "migrants",
-      "count": 4
+      "count": 7
     },
     {
       "name": "over",
-      "count": 4
+      "count": 5
     },
     {
       "name": "war",
       "count": 4
     },
     {
-      "name": "police",
-      "count": 4
-    },
-    {
-      "name": "trump",
+      "name": "denmark",
       "count": 3
     },
     {
-      "name": "ceuta",
+      "name": "deal",
       "count": 3
     },
     {
-      "name": "charles",
-      "count": 2
+      "name": "greenland",
+      "count": 3
+    },
+    {
+      "name": "after",
+      "count": 3
+    },
+    {
+      "name": "from",
+      "count": 3
+    },
+    {
+      "name": "could",
+      "count": 3
     }
   ],
-  "updated_at": "2026-09-18 20:40:30.997838"
+  "updated_at": "2026-09-19 03:58:43.942851"
 }
