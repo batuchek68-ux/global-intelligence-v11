@@ -2,26 +2,22 @@
   "keywords": [
     [
       "trump",
-      9
+      6
     ],
     [
-      "says",
-      7
-    ],
-    [
-      "over",
+      "from",
       5
     ],
     [
-      "war",
+      "says",
       4
     ],
     [
-      "denmark",
-      3
+      "could",
+      4
     ],
     [
-      "deal",
+      "over",
       3
     ],
     [
@@ -29,81 +25,81 @@
       3
     ],
     [
+      "threats",
+      3
+    ],
+    [
+      "has",
+      3
+    ],
+    [
+      "how",
+      3
+    ],
+    [
+      "when",
+      3
+    ],
+    [
+      "new",
+      3
+    ],
+    [
+      "now",
+      3
+    ],
+    [
+      "security",
+      3
+    ],
+    [
+      "cnn",
+      3
+    ],
+    [
+      "white",
+      3
+    ],
+    [
+      "house",
+      3
+    ],
+    [
+      "are",
+      3
+    ],
+    [
+      "deal",
+      2
+    ],
+    [
       "after",
-      3
-    ],
-    [
-      "from",
-      3
-    ],
-    [
-      "could",
-      3
-    ],
-    [
-      "russia",
-      3
-    ],
-    [
-      "sanctions",
-      3
-    ],
-    [
-      "iran",
-      3
-    ],
-    [
-      "earl",
       2
     ],
     [
       "diana",
-      2
-    ],
-    [
-      "book",
-      2
-    ],
-    [
-      "claims",
-      2
-    ],
-    [
-      "charles",
-      2
-    ],
-    [
-      "bbc",
-      2
-    ],
-    [
-      "brother",
       2
     ]
   ],
   "topics": [
     {
       "name": "trump",
-      "count": 9
+      "count": 6
     },
     {
-      "name": "says",
-      "count": 7
-    },
-    {
-      "name": "over",
+      "name": "from",
       "count": 5
     },
     {
-      "name": "war",
+      "name": "says",
       "count": 4
     },
     {
-      "name": "denmark",
-      "count": 3
+      "name": "could",
+      "count": 4
     },
     {
-      "name": "deal",
+      "name": "over",
       "count": 3
     },
     {
@@ -111,17 +107,21 @@
       "count": 3
     },
     {
-      "name": "after",
+      "name": "threats",
       "count": 3
     },
     {
-      "name": "from",
+      "name": "has",
       "count": 3
     },
     {
-      "name": "could",
+      "name": "how",
+      "count": 3
+    },
+    {
+      "name": "when",
       "count": 3
     }
   ],
-  "updated_at": "2026-09-19 03:58:43.942851"
+  "updated_at": "2026-09-19 10:36:28.555540"
 }
