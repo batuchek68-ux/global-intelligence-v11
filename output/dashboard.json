@@ -2,27 +2,71 @@
   "keywords": [
     [
       "says",
-      9
+      7
+    ],
+    [
+      "with",
+      6
     ],
     [
       "after",
-      7
+      6
     ],
     [
       "trump",
       4
     ],
     [
-      "with",
+      "war",
+      4
+    ],
+    [
+      "sheeran",
       3
     ],
     [
-      "found",
+      "saudi",
       3
     ],
     [
       "new",
       3
+    ],
+    [
+      "are",
+      3
+    ],
+    [
+      "not",
+      3
+    ],
+    [
+      "workers",
+      3
+    ],
+    [
+      "tech",
+      3
+    ],
+    [
+      "gaza",
+      3
+    ],
+    [
+      "iran",
+      3
+    ],
+    [
+      "controversy",
+      2
+    ],
+    [
+      "say",
+      2
+    ],
+    [
+      "during",
+      2
     ],
     [
       "greenland",
@@ -35,71 +79,35 @@
     [
       "will",
       2
-    ],
-    [
-      "major",
-      2
-    ],
-    [
-      "say",
-      2
-    ],
-    [
-      "they",
-      2
-    ],
-    [
-      "over",
-      2
-    ],
-    [
-      "when",
-      2
-    ],
-    [
-      "now",
-      2
-    ],
-    [
-      "from",
-      2
-    ],
-    [
-      "journalists",
-      2
-    ],
-    [
-      "white",
-      2
-    ],
-    [
-      "house",
-      2
-    ],
-    [
-      "outlets",
-      2
     ]
   ],
   "topics": [
     {
       "name": "says",
-      "count": 9
+      "count": 7
+    },
+    {
+      "name": "with",
+      "count": 6
     },
     {
       "name": "after",
-      "count": 7
+      "count": 6
     },
     {
       "name": "trump",
       "count": 4
     },
     {
-      "name": "with",
+      "name": "war",
+      "count": 4
+    },
+    {
+      "name": "sheeran",
       "count": 3
     },
     {
-      "name": "found",
+      "name": "saudi",
       "count": 3
     },
     {
@@ -107,21 +115,13 @@
       "count": 3
     },
     {
-      "name": "greenland",
-      "count": 2
+      "name": "are",
+      "count": 3
     },
     {
-      "name": "deal",
-      "count": 2
-    },
-    {
-      "name": "will",
-      "count": 2
-    },
-    {
-      "name": "major",
-      "count": 2
+      "name": "not",
+      "count": 3
     }
   ],
-  "updated_at": "2026-09-19 20:19:28.219286"
+  "updated_at": "2026-09-20 04:17:06.029094"
 }
