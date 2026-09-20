@@ -1,19 +1,31 @@
 {
   "keywords": [
     [
+      "earl",
+      5
+    ],
+    [
+      "spencer",
+      5
+    ],
+    [
       "says",
       5
+    ],
+    [
+      "diana",
+      4
     ],
     [
       "after",
       4
     ],
     [
-      "what",
-      3
+      "are",
+      4
     ],
     [
-      "sheeran",
+      "watch",
       3
     ],
     [
@@ -21,55 +33,39 @@
       3
     ],
     [
-      "people",
+      "latest",
       3
     ],
     [
-      "trump",
+      "war",
       3
     ],
     [
-      "saudi",
+      "years",
       3
     ],
     [
-      "gaza",
+      "israeli",
       3
     ],
     [
-      "harry",
+      "what",
       2
     ],
     [
-      "meghans",
+      "bbc",
       2
     ],
     [
-      "media",
+      "interview",
       2
     ],
     [
-      "has",
+      "emotional",
       2
     ],
     [
-      "two",
-      2
-    ],
-    [
-      "killed",
-      2
-    ],
-    [
-      "ukrainian",
-      2
-    ],
-    [
-      "drone",
-      2
-    ],
-    [
-      "attack",
+      "sister",
       2
     ],
     [
@@ -77,25 +73,41 @@
       2
     ],
     [
-      "russia",
+      "fire",
+      2
+    ],
+    [
+      "hundreds",
       2
     ]
   ],
   "topics": [
     {
+      "name": "earl",
+      "count": 5
+    },
+    {
+      "name": "spencer",
+      "count": 5
+    },
+    {
       "name": "says",
       "count": 5
+    },
+    {
+      "name": "diana",
+      "count": 4
     },
     {
       "name": "after",
       "count": 4
     },
     {
-      "name": "what",
-      "count": 3
+      "name": "are",
+      "count": 4
     },
     {
-      "name": "sheeran",
+      "name": "watch",
       "count": 3
     },
     {
@@ -103,25 +115,13 @@
       "count": 3
     },
     {
-      "name": "people",
+      "name": "latest",
       "count": 3
     },
     {
-      "name": "trump",
+      "name": "war",
       "count": 3
-    },
-    {
-      "name": "saudi",
-      "count": 3
-    },
-    {
-      "name": "gaza",
-      "count": 3
-    },
-    {
-      "name": "harry",
-      "count": 2
     }
   ],
-  "updated_at": "2026-09-20 10:59:26.686701"
+  "updated_at": "2026-09-20 15:45:26.962057"
 }
