@@ -2,26 +2,22 @@
   "keywords": [
     [
       "earl",
-      5
+      6
     ],
     [
       "spencer",
-      5
+      6
     ],
     [
       "says",
-      5
+      6
     ],
     [
-      "diana",
+      "trump",
       4
     ],
     [
-      "after",
-      4
-    ],
-    [
-      "are",
+      "with",
       4
     ],
     [
@@ -29,27 +25,23 @@
       3
     ],
     [
-      "with",
+      "diana",
       3
     ],
     [
-      "latest",
+      "after",
       3
     ],
     [
-      "war",
+      "will",
       3
     ],
     [
-      "years",
+      "why",
       3
     ],
     [
-      "israeli",
-      3
-    ],
-    [
-      "what",
+      "calls",
       2
     ],
     [
@@ -61,15 +53,11 @@
       2
     ],
     [
-      "emotional",
+      "king",
       2
     ],
     [
       "sister",
-      2
-    ],
-    [
-      "moscow",
       2
     ],
     [
@@ -79,31 +67,39 @@
     [
       "hundreds",
       2
+    ],
+    [
+      "drones",
+      2
+    ],
+    [
+      "deal",
+      2
+    ],
+    [
+      "ahead",
+      2
     ]
   ],
   "topics": [
     {
       "name": "earl",
-      "count": 5
+      "count": 6
     },
     {
       "name": "spencer",
-      "count": 5
+      "count": 6
     },
     {
       "name": "says",
-      "count": 5
+      "count": 6
     },
     {
-      "name": "diana",
+      "name": "trump",
       "count": 4
     },
     {
-      "name": "after",
-      "count": 4
-    },
-    {
-      "name": "are",
+      "name": "with",
       "count": 4
     },
     {
@@ -111,17 +107,21 @@
       "count": 3
     },
     {
-      "name": "with",
+      "name": "diana",
       "count": 3
     },
     {
-      "name": "latest",
+      "name": "after",
       "count": 3
     },
     {
-      "name": "war",
+      "name": "will",
+      "count": 3
+    },
+    {
+      "name": "why",
       "count": 3
     }
   ],
-  "updated_at": "2026-09-20 15:45:26.962057"
+  "updated_at": "2026-09-20 20:33:55.050555"
 }
