@@ -2,26 +2,30 @@
   "keywords": [
     [
       "says",
-      7
-    ],
-    [
-      "with",
-      6
+      5
     ],
     [
       "after",
-      6
-    ],
-    [
-      "trump",
       4
     ],
     [
-      "war",
-      4
+      "what",
+      3
     ],
     [
       "sheeran",
+      3
+    ],
+    [
+      "with",
+      3
+    ],
+    [
+      "people",
+      3
+    ],
+    [
+      "trump",
       3
     ],
     [
@@ -29,81 +33,81 @@
       3
     ],
     [
-      "new",
-      3
-    ],
-    [
-      "are",
-      3
-    ],
-    [
-      "not",
-      3
-    ],
-    [
-      "workers",
-      3
-    ],
-    [
-      "tech",
-      3
-    ],
-    [
       "gaza",
       3
     ],
     [
-      "iran",
-      3
-    ],
-    [
-      "controversy",
+      "harry",
       2
     ],
     [
-      "say",
+      "meghans",
       2
     ],
     [
-      "during",
+      "media",
       2
     ],
     [
-      "greenland",
+      "has",
       2
     ],
     [
-      "deal",
+      "two",
       2
     ],
     [
-      "will",
+      "killed",
+      2
+    ],
+    [
+      "ukrainian",
+      2
+    ],
+    [
+      "drone",
+      2
+    ],
+    [
+      "attack",
+      2
+    ],
+    [
+      "moscow",
+      2
+    ],
+    [
+      "russia",
       2
     ]
   ],
   "topics": [
     {
       "name": "says",
-      "count": 7
-    },
-    {
-      "name": "with",
-      "count": 6
+      "count": 5
     },
     {
       "name": "after",
-      "count": 6
-    },
-    {
-      "name": "trump",
       "count": 4
     },
     {
-      "name": "war",
-      "count": 4
+      "name": "what",
+      "count": 3
     },
     {
       "name": "sheeran",
+      "count": 3
+    },
+    {
+      "name": "with",
+      "count": 3
+    },
+    {
+      "name": "people",
+      "count": 3
+    },
+    {
+      "name": "trump",
       "count": 3
     },
     {
@@ -111,17 +115,13 @@
       "count": 3
     },
     {
-      "name": "new",
+      "name": "gaza",
       "count": 3
     },
     {
-      "name": "are",
-      "count": 3
-    },
-    {
-      "name": "not",
-      "count": 3
+      "name": "harry",
+      "count": 2
     }
   ],
-  "updated_at": "2026-09-20 04:17:06.029094"
+  "updated_at": "2026-09-20 10:59:26.686701"
 }
