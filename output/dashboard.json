@@ -1,23 +1,31 @@
 {
   "keywords": [
     [
-      "says",
+      "with",
       6
     ],
     [
-      "after",
+      "over",
       5
     ],
     [
       "how",
+      5
+    ],
+    [
+      "death",
+      4
+    ],
+    [
+      "military",
       3
     ],
     [
-      "with",
+      "says",
       3
     ],
     [
-      "bbc",
+      "war",
       3
     ],
     [
@@ -25,81 +33,81 @@
       3
     ],
     [
-      "why",
-      3
-    ],
-    [
-      "people",
+      "air",
       2
     ],
     [
-      "yemen",
+      "traffic",
       2
     ],
     [
-      "but",
+      "control",
       2
     ],
     [
-      "results",
+      "first",
       2
     ],
     [
-      "will",
+      "rwanda",
       2
     ],
     [
-      "killer",
+      "genocide",
       2
     ],
     [
-      "election",
+      "flights",
       2
     ],
     [
-      "party",
+      "major",
       2
     ],
     [
-      "from",
+      "airports",
       2
     ],
     [
-      "new",
+      "after",
       2
     ],
     [
-      "wales",
+      "watch",
       2
     ],
     [
-      "should",
-      2
-    ],
-    [
-      "minister",
+      "police",
       2
     ]
   ],
   "topics": [
     {
-      "name": "says",
+      "name": "with",
       "count": 6
     },
     {
-      "name": "after",
+      "name": "over",
       "count": 5
     },
     {
       "name": "how",
+      "count": 5
+    },
+    {
+      "name": "death",
+      "count": 4
+    },
+    {
+      "name": "military",
       "count": 3
     },
     {
-      "name": "with",
+      "name": "says",
       "count": 3
     },
     {
-      "name": "bbc",
+      "name": "war",
       "count": 3
     },
     {
@@ -107,21 +115,13 @@
       "count": 3
     },
     {
-      "name": "why",
-      "count": 3
-    },
-    {
-      "name": "people",
+      "name": "air",
       "count": 2
     },
     {
-      "name": "yemen",
-      "count": 2
-    },
-    {
-      "name": "but",
+      "name": "traffic",
       "count": 2
     }
   ],
-  "updated_at": "2026-09-21 12:26:12.334597"
+  "updated_at": "2026-09-21 21:50:49.401989"
 }
