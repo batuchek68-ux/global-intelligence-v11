@@ -1,127 +1,127 @@
 {
   "keywords": [
     [
-      "earl",
+      "with",
       6
     ],
     [
-      "spencer",
-      6
+      "over",
+      4
+    ],
+    [
+      "people",
+      4
+    ],
+    [
+      "iran",
+      4
+    ],
+    [
+      "should",
+      3
+    ],
+    [
+      "bbc",
+      3
     ],
     [
       "says",
-      6
-    ],
-    [
-      "trump",
-      4
-    ],
-    [
-      "with",
-      4
-    ],
-    [
-      "watch",
       3
     ],
     [
-      "diana",
+      "how",
       3
     ],
     [
-      "after",
+      "man",
       3
     ],
     [
-      "will",
+      "you",
       3
     ],
     [
-      "why",
+      "against",
       3
+    ],
+    [
+      "qatar",
+      3
+    ],
+    [
+      "across",
+      2
     ],
     [
       "calls",
       2
     ],
     [
-      "bbc",
+      "election",
       2
     ],
     [
-      "interview",
+      "party",
       2
     ],
     [
-      "king",
+      "but",
       2
     ],
     [
-      "sister",
+      "new",
       2
     ],
     [
-      "fire",
+      "alliance",
       2
     ],
     [
-      "hundreds",
-      2
-    ],
-    [
-      "drones",
-      2
-    ],
-    [
-      "deal",
-      2
-    ],
-    [
-      "ahead",
+      "from",
       2
     ]
   ],
   "topics": [
     {
-      "name": "earl",
+      "name": "with",
       "count": 6
     },
     {
-      "name": "spencer",
-      "count": 6
+      "name": "over",
+      "count": 4
+    },
+    {
+      "name": "people",
+      "count": 4
+    },
+    {
+      "name": "iran",
+      "count": 4
+    },
+    {
+      "name": "should",
+      "count": 3
+    },
+    {
+      "name": "bbc",
+      "count": 3
     },
     {
       "name": "says",
-      "count": 6
-    },
-    {
-      "name": "trump",
-      "count": 4
-    },
-    {
-      "name": "with",
-      "count": 4
-    },
-    {
-      "name": "watch",
       "count": 3
     },
     {
-      "name": "diana",
+      "name": "how",
       "count": 3
     },
     {
-      "name": "after",
+      "name": "man",
       "count": 3
     },
     {
-      "name": "will",
-      "count": 3
-    },
-    {
-      "name": "why",
+      "name": "you",
       "count": 3
     }
   ],
-  "updated_at": "2026-09-20 20:33:55.050555"
+  "updated_at": "2026-09-21 04:14:48.496393"
 }
