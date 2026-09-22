@@ -2,38 +2,38 @@
   "keywords": [
     [
       "trump",
-      5
-    ],
-    [
-      "new",
-      4
-    ],
-    [
-      "house",
       4
     ],
     [
       "with",
+      4
+    ],
+    [
+      "from",
+      4
+    ],
+    [
+      "says",
       3
     ],
     [
-      "over",
+      "two",
       3
     ],
     [
-      "why",
+      "after",
       3
     ],
     [
-      "white",
+      "children",
       3
     ],
     [
-      "can",
-      3
+      "burnham",
+      2
     ],
     [
-      "warns",
+      "targeting",
       2
     ],
     [
@@ -41,27 +41,23 @@
       2
     ],
     [
-      "more",
+      "greenland",
       2
     ],
     [
-      "police",
+      "new",
       2
     ],
     [
-      "from",
+      "deal",
       2
     ],
     [
-      "drug",
+      "denmark",
       2
     ],
     [
-      "rule",
-      2
-    ],
-    [
-      "out",
+      "warns",
       2
     ],
     [
@@ -69,53 +65,57 @@
       2
     ],
     [
+      "becomes",
+      2
+    ],
+    [
+      "one",
+      2
+    ],
+    [
       "record",
       2
     ],
     [
-      "says",
-      2
-    ],
-    [
-      "wars",
+      "meeting",
       2
     ]
   ],
   "topics": [
     {
       "name": "trump",
-      "count": 5
-    },
-    {
-      "name": "new",
-      "count": 4
-    },
-    {
-      "name": "house",
       "count": 4
     },
     {
       "name": "with",
+      "count": 4
+    },
+    {
+      "name": "from",
+      "count": 4
+    },
+    {
+      "name": "says",
       "count": 3
     },
     {
-      "name": "over",
+      "name": "two",
       "count": 3
     },
     {
-      "name": "why",
+      "name": "after",
       "count": 3
     },
     {
-      "name": "white",
+      "name": "children",
       "count": 3
     },
     {
-      "name": "can",
-      "count": 3
+      "name": "burnham",
+      "count": 2
     },
     {
-      "name": "warns",
+      "name": "targeting",
       "count": 2
     },
     {
@@ -123,5 +123,5 @@
       "count": 2
     }
   ],
-  "updated_at": "2026-09-22 16:38:03.748546"
+  "updated_at": "2026-09-22 21:04:24.054632"
 }
