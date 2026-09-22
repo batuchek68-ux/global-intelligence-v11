@@ -1,15 +1,15 @@
 {
   "keywords": [
     [
-      "who",
-      4
+      "trump",
+      5
     ],
     [
       "new",
       4
     ],
     [
-      "why",
+      "house",
       4
     ],
     [
@@ -17,16 +17,44 @@
       3
     ],
     [
-      "trump",
+      "over",
       3
     ],
     [
-      "when",
+      "why",
       3
     ],
     [
-      "strikes",
+      "white",
       3
+    ],
+    [
+      "can",
+      3
+    ],
+    [
+      "warns",
+      2
+    ],
+    [
+      "charged",
+      2
+    ],
+    [
+      "more",
+      2
+    ],
+    [
+      "police",
+      2
+    ],
+    [
+      "from",
+      2
+    ],
+    [
+      "drug",
+      2
     ],
     [
       "rule",
@@ -37,61 +65,33 @@
       2
     ],
     [
-      "first",
-      2
-    ],
-    [
-      "general",
-      2
-    ],
-    [
-      "assembly",
-      2
-    ],
-    [
-      "high",
-      2
-    ],
-    [
-      "from",
-      2
-    ],
-    [
-      "saudi",
-      2
-    ],
-    [
-      "was",
-      2
-    ],
-    [
-      "more",
-      2
-    ],
-    [
-      "than",
-      2
-    ],
-    [
-      "left",
-      2
-    ],
-    [
       "london",
+      2
+    ],
+    [
+      "record",
+      2
+    ],
+    [
+      "says",
+      2
+    ],
+    [
+      "wars",
       2
     ]
   ],
   "topics": [
     {
-      "name": "who",
-      "count": 4
+      "name": "trump",
+      "count": 5
     },
     {
       "name": "new",
       "count": 4
     },
     {
-      "name": "why",
+      "name": "house",
       "count": 4
     },
     {
@@ -99,29 +99,29 @@
       "count": 3
     },
     {
-      "name": "trump",
+      "name": "over",
       "count": 3
     },
     {
-      "name": "when",
+      "name": "why",
       "count": 3
     },
     {
-      "name": "strikes",
+      "name": "white",
       "count": 3
     },
     {
-      "name": "rule",
+      "name": "can",
+      "count": 3
+    },
+    {
+      "name": "warns",
       "count": 2
     },
     {
-      "name": "out",
-      "count": 2
-    },
-    {
-      "name": "first",
+      "name": "charged",
       "count": 2
     }
   ],
-  "updated_at": "2026-09-22 11:15:53.331172"
+  "updated_at": "2026-09-22 16:38:03.748546"
 }
