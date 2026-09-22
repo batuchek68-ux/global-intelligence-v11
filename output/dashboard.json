@@ -1,47 +1,55 @@
 {
   "keywords": [
     [
-      "with",
-      6
-    ],
-    [
-      "over",
-      5
-    ],
-    [
-      "how",
-      5
-    ],
-    [
-      "death",
+      "trump",
       4
     ],
     [
-      "military",
-      3
+      "over",
+      4
+    ],
+    [
+      "what",
+      4
     ],
     [
       "says",
       3
     ],
     [
-      "war",
-      3
-    ],
-    [
-      "you",
+      "out",
       3
     ],
     [
       "air",
-      2
+      3
     ],
     [
       "traffic",
-      2
+      3
     ],
     [
       "control",
+      3
+    ],
+    [
+      "white",
+      3
+    ],
+    [
+      "house",
+      3
+    ],
+    [
+      "ban",
+      3
+    ],
+    [
+      "burnham",
+      2
+    ],
+    [
+      "with",
       2
     ],
     [
@@ -49,79 +57,71 @@
       2
     ],
     [
-      "rwanda",
+      "meeting",
       2
     ],
     [
-      "genocide",
+      "saudi",
       2
     ],
     [
-      "flights",
+      "military",
       2
     ],
     [
-      "major",
+      "rule",
       2
     ],
     [
-      "airports",
+      "ready",
       2
     ],
     [
-      "after",
-      2
-    ],
-    [
-      "watch",
-      2
-    ],
-    [
-      "police",
+      "but",
       2
     ]
   ],
   "topics": [
     {
-      "name": "with",
-      "count": 6
-    },
-    {
-      "name": "over",
-      "count": 5
-    },
-    {
-      "name": "how",
-      "count": 5
-    },
-    {
-      "name": "death",
+      "name": "trump",
       "count": 4
     },
     {
-      "name": "military",
-      "count": 3
+      "name": "over",
+      "count": 4
+    },
+    {
+      "name": "what",
+      "count": 4
     },
     {
       "name": "says",
       "count": 3
     },
     {
-      "name": "war",
-      "count": 3
-    },
-    {
-      "name": "you",
+      "name": "out",
       "count": 3
     },
     {
       "name": "air",
-      "count": 2
+      "count": 3
     },
     {
       "name": "traffic",
-      "count": 2
+      "count": 3
+    },
+    {
+      "name": "control",
+      "count": 3
+    },
+    {
+      "name": "white",
+      "count": 3
+    },
+    {
+      "name": "house",
+      "count": 3
     }
   ],
-  "updated_at": "2026-09-21 21:50:49.401989"
+  "updated_at": "2026-09-22 04:10:47.863017"
 }
