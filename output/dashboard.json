@@ -1,55 +1,39 @@
 {
   "keywords": [
     [
-      "trump",
+      "who",
       4
     ],
     [
-      "over",
+      "new",
       4
     ],
     [
-      "what",
+      "why",
       4
-    ],
-    [
-      "says",
-      3
-    ],
-    [
-      "out",
-      3
-    ],
-    [
-      "air",
-      3
-    ],
-    [
-      "traffic",
-      3
-    ],
-    [
-      "control",
-      3
-    ],
-    [
-      "white",
-      3
-    ],
-    [
-      "house",
-      3
-    ],
-    [
-      "ban",
-      3
-    ],
-    [
-      "burnham",
-      2
     ],
     [
       "with",
+      3
+    ],
+    [
+      "trump",
+      3
+    ],
+    [
+      "when",
+      3
+    ],
+    [
+      "strikes",
+      3
+    ],
+    [
+      "rule",
+      2
+    ],
+    [
+      "out",
       2
     ],
     [
@@ -57,7 +41,19 @@
       2
     ],
     [
-      "meeting",
+      "general",
+      2
+    ],
+    [
+      "assembly",
+      2
+    ],
+    [
+      "high",
+      2
+    ],
+    [
+      "from",
       2
     ],
     [
@@ -65,63 +61,67 @@
       2
     ],
     [
-      "military",
+      "was",
       2
     ],
     [
-      "rule",
+      "more",
       2
     ],
     [
-      "ready",
+      "than",
       2
     ],
     [
-      "but",
+      "left",
+      2
+    ],
+    [
+      "london",
       2
     ]
   ],
   "topics": [
     {
-      "name": "trump",
+      "name": "who",
       "count": 4
     },
     {
-      "name": "over",
+      "name": "new",
       "count": 4
     },
     {
-      "name": "what",
+      "name": "why",
       "count": 4
     },
     {
-      "name": "says",
+      "name": "with",
       "count": 3
+    },
+    {
+      "name": "trump",
+      "count": 3
+    },
+    {
+      "name": "when",
+      "count": 3
+    },
+    {
+      "name": "strikes",
+      "count": 3
+    },
+    {
+      "name": "rule",
+      "count": 2
     },
     {
       "name": "out",
-      "count": 3
+      "count": 2
     },
     {
-      "name": "air",
-      "count": 3
-    },
-    {
-      "name": "traffic",
-      "count": 3
-    },
-    {
-      "name": "control",
-      "count": 3
-    },
-    {
-      "name": "white",
-      "count": 3
-    },
-    {
-      "name": "house",
-      "count": 3
+      "name": "first",
+      "count": 2
     }
   ],
-  "updated_at": "2026-09-22 04:10:47.863017"
+  "updated_at": "2026-09-22 11:15:53.331172"
 }
