@@ -1,19 +1,19 @@
 {
   "keywords": [
     [
-      "says",
+      "after",
+      4
+    ],
+    [
+      "with",
       4
     ],
     [
       "trump",
-      4
-    ],
-    [
-      "against",
       3
     ],
     [
-      "who",
+      "over",
       3
     ],
     [
@@ -21,81 +21,81 @@
       3
     ],
     [
-      "china",
+      "players",
       3
     ],
     [
-      "unga",
+      "says",
       3
     ],
     [
-      "over",
+      "can",
+      3
+    ],
+    [
+      "watch",
       2
     ],
     [
-      "first",
+      "tells",
       2
     ],
     [
-      "women",
+      "will",
       2
     ],
     [
-      "warn",
+      "from",
       2
     ],
     [
-      "ahead",
+      "manager",
       2
     ],
     [
-      "say",
+      "her",
       2
     ],
     [
-      "off",
+      "war",
       2
     ],
     [
-      "drug",
+      "was",
       2
     ],
     [
-      "rise",
+      "she",
       2
     ],
     [
-      "with",
+      "they",
       2
     ],
     [
-      "after",
+      "kill",
       2
     ],
     [
-      "hours",
-      2
-    ],
-    [
-      "killed",
+      "iran",
       2
     ]
   ],
   "topics": [
     {
-      "name": "says",
+      "name": "after",
+      "count": 4
+    },
+    {
+      "name": "with",
       "count": 4
     },
     {
       "name": "trump",
-      "count": 4
-    },
-    {
-      "name": "against",
       "count": 3
     },
     {
-      "name": "who",
+      "name": "over",
       "count": 3
     },
     {
@@ -103,25 +103,25 @@
       "count": 3
     },
     {
-      "name": "china",
+      "name": "players",
       "count": 3
     },
     {
-      "name": "unga",
+      "name": "says",
       "count": 3
     },
     {
-      "name": "over",
+      "name": "can",
+      "count": 3
+    },
+    {
+      "name": "watch",
       "count": 2
     },
     {
-      "name": "first",
-      "count": 2
-    },
-    {
-      "name": "women",
+      "name": "tells",
       "count": 2
     }
   ],
-  "updated_at": "2026-09-23 11:09:00.435509"
+  "updated_at": "2026-09-23 16:30:38.613054"
 }
