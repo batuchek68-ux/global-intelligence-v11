@@ -1,47 +1,35 @@
 {
   "keywords": [
     [
-      "trump",
-      6
-    ],
-    [
-      "with",
-      6
-    ],
-    [
       "says",
-      5
-    ],
-    [
-      "iran",
-      5
-    ],
-    [
-      "unga",
       4
     ],
     [
-      "new",
+      "trump",
+      4
+    ],
+    [
+      "against",
       3
     ],
     [
-      "burnham",
+      "who",
       3
     ],
     [
-      "from",
+      "are",
       3
     ],
     [
-      "deal",
+      "china",
       3
     ],
     [
-      "russian",
-      2
+      "unga",
+      3
     ],
     [
-      "watch",
+      "over",
       2
     ],
     [
@@ -49,79 +37,91 @@
       2
     ],
     [
-      "speech",
+      "women",
       2
     ],
     [
-      "business",
+      "warn",
       2
     ],
     [
-      "who",
+      "ahead",
       2
     ],
     [
-      "should",
+      "say",
       2
     ],
     [
-      "targeting",
+      "off",
       2
     ],
     [
-      "threat",
+      "drug",
       2
     ],
     [
-      "war",
+      "rise",
+      2
+    ],
+    [
+      "with",
       2
     ],
     [
       "after",
       2
+    ],
+    [
+      "hours",
+      2
+    ],
+    [
+      "killed",
+      2
     ]
   ],
   "topics": [
     {
-      "name": "trump",
-      "count": 6
-    },
-    {
-      "name": "with",
-      "count": 6
-    },
-    {
       "name": "says",
-      "count": 5
-    },
-    {
-      "name": "iran",
-      "count": 5
-    },
-    {
-      "name": "unga",
       "count": 4
     },
     {
-      "name": "new",
+      "name": "trump",
+      "count": 4
+    },
+    {
+      "name": "against",
       "count": 3
     },
     {
-      "name": "burnham",
+      "name": "who",
       "count": 3
     },
     {
-      "name": "from",
+      "name": "are",
       "count": 3
     },
     {
-      "name": "deal",
+      "name": "china",
       "count": 3
     },
     {
-      "name": "russian",
+      "name": "unga",
+      "count": 3
+    },
+    {
+      "name": "over",
+      "count": 2
+    },
+    {
+      "name": "first",
+      "count": 2
+    },
+    {
+      "name": "women",
       "count": 2
     }
   ],
-  "updated_at": "2026-09-23 04:07:37.042197"
+  "updated_at": "2026-09-23 11:09:00.435509"
 }
