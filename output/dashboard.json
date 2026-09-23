@@ -2,34 +2,66 @@
   "keywords": [
     [
       "trump",
-      4
+      6
     ],
     [
       "with",
-      4
-    ],
-    [
-      "from",
-      4
+      6
     ],
     [
       "says",
-      3
+      5
     ],
     [
-      "two",
-      3
+      "iran",
+      5
     ],
     [
-      "after",
-      3
+      "unga",
+      4
     ],
     [
-      "children",
+      "new",
       3
     ],
     [
       "burnham",
+      3
+    ],
+    [
+      "from",
+      3
+    ],
+    [
+      "deal",
+      3
+    ],
+    [
+      "russian",
+      2
+    ],
+    [
+      "watch",
+      2
+    ],
+    [
+      "first",
+      2
+    ],
+    [
+      "speech",
+      2
+    ],
+    [
+      "business",
+      2
+    ],
+    [
+      "who",
+      2
+    ],
+    [
+      "should",
       2
     ],
     [
@@ -37,91 +69,59 @@
       2
     ],
     [
-      "charged",
+      "threat",
       2
     ],
     [
-      "greenland",
+      "war",
       2
     ],
     [
-      "new",
-      2
-    ],
-    [
-      "deal",
-      2
-    ],
-    [
-      "denmark",
-      2
-    ],
-    [
-      "warns",
-      2
-    ],
-    [
-      "london",
-      2
-    ],
-    [
-      "becomes",
-      2
-    ],
-    [
-      "one",
-      2
-    ],
-    [
-      "record",
-      2
-    ],
-    [
-      "meeting",
+      "after",
       2
     ]
   ],
   "topics": [
     {
       "name": "trump",
-      "count": 4
+      "count": 6
     },
     {
       "name": "with",
-      "count": 4
-    },
-    {
-      "name": "from",
-      "count": 4
+      "count": 6
     },
     {
       "name": "says",
-      "count": 3
+      "count": 5
     },
     {
-      "name": "two",
-      "count": 3
+      "name": "iran",
+      "count": 5
     },
     {
-      "name": "after",
-      "count": 3
+      "name": "unga",
+      "count": 4
     },
     {
-      "name": "children",
+      "name": "new",
       "count": 3
     },
     {
       "name": "burnham",
-      "count": 2
+      "count": 3
     },
     {
-      "name": "targeting",
-      "count": 2
+      "name": "from",
+      "count": 3
     },
     {
-      "name": "charged",
+      "name": "deal",
+      "count": 3
+    },
+    {
+      "name": "russian",
       "count": 2
     }
   ],
-  "updated_at": "2026-09-22 21:04:24.054632"
+  "updated_at": "2026-09-23 04:07:37.042197"
 }
