@@ -2,70 +2,30 @@
   "keywords": [
     [
       "after",
-      5
+      6
     ],
     [
-      "with",
+      "why",
       4
     ],
     [
-      "ban",
-      3
-    ],
-    [
-      "they",
-      3
-    ],
-    [
-      "review",
-      2
-    ],
-    [
-      "over",
-      2
-    ],
-    [
-      "openai",
-      2
-    ],
-    [
-      "who",
-      2
-    ],
-    [
-      "before",
-      2
-    ],
-    [
-      "crash",
-      2
-    ],
-    [
-      "make",
-      2
-    ],
-    [
-      "gangs",
-      2
+      "live",
+      4
     ],
     [
       "trump",
+      3
+    ],
+    [
+      "says",
+      3
+    ],
+    [
+      "has",
       2
     ],
     [
       "welcome",
-      2
-    ],
-    [
-      "alcohol",
-      2
-    ],
-    [
-      "judge",
-      2
-    ],
-    [
-      "trumps",
       2
     ],
     [
@@ -77,51 +37,91 @@
       2
     ],
     [
-      "from",
+      "warns",
+      2
+    ],
+    [
+      "threat",
+      2
+    ],
+    [
+      "years",
+      2
+    ],
+    [
+      "over",
+      2
+    ],
+    [
+      "migrant",
+      2
+    ],
+    [
+      "one",
+      2
+    ],
+    [
+      "system",
+      2
+    ],
+    [
+      "football",
+      2
+    ],
+    [
+      "matches",
+      2
+    ],
+    [
+      "are",
+      2
+    ],
+    [
+      "new",
       2
     ]
   ],
   "topics": [
     {
       "name": "after",
-      "count": 5
+      "count": 6
     },
     {
-      "name": "with",
+      "name": "why",
       "count": 4
     },
     {
-      "name": "ban",
+      "name": "live",
+      "count": 4
+    },
+    {
+      "name": "trump",
       "count": 3
     },
     {
-      "name": "they",
+      "name": "says",
       "count": 3
     },
     {
-      "name": "review",
+      "name": "has",
       "count": 2
     },
     {
-      "name": "over",
+      "name": "welcome",
       "count": 2
     },
     {
-      "name": "openai",
+      "name": "white",
       "count": 2
     },
     {
-      "name": "who",
+      "name": "house",
       "count": 2
     },
     {
-      "name": "before",
-      "count": 2
-    },
-    {
-      "name": "crash",
+      "name": "warns",
       "count": 2
     }
   ],
-  "updated_at": "2026-09-24 11:25:07.521422"
+  "updated_at": "2026-09-24 16:50:46.788192"
 }
