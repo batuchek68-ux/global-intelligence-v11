@@ -1,55 +1,55 @@
 {
   "keywords": [
     [
-      "says",
-      3
-    ],
-    [
-      "ban",
-      3
-    ],
-    [
-      "islands",
-      3
-    ],
-    [
       "trump",
+      6
+    ],
+    [
+      "says",
+      5
+    ],
+    [
+      "new",
       3
     ],
     [
-      "sanctions",
+      "from",
       3
     ],
     [
-      "west",
+      "openai",
       3
     ],
     [
-      "bank",
+      "global",
       3
     ],
     [
-      "other",
+      "unga",
+      3
+    ],
+    [
+      "residents",
       2
     ],
     [
-      "defend",
+      "raf",
       2
     ],
     [
-      "bbc",
+      "jet",
       2
     ],
     [
-      "watch",
+      "crash",
       2
     ],
     [
-      "burnham",
+      "how",
       2
     ],
     [
-      "football",
+      "welcomed",
       2
     ],
     [
@@ -57,71 +57,71 @@
       2
     ],
     [
-      "activist",
+      "they",
       2
     ],
     [
-      "with",
+      "tories",
       2
     ],
     [
-      "from",
+      "benefits",
       2
     ],
     [
-      "harvey",
+      "cut",
       2
     ],
     [
-      "weinstein",
+      "anthropic",
       2
     ],
     [
-      "sentenced",
+      "why",
       2
     ]
   ],
   "topics": [
     {
-      "name": "says",
-      "count": 3
-    },
-    {
-      "name": "ban",
-      "count": 3
-    },
-    {
-      "name": "islands",
-      "count": 3
-    },
-    {
       "name": "trump",
+      "count": 6
+    },
+    {
+      "name": "says",
+      "count": 5
+    },
+    {
+      "name": "new",
       "count": 3
     },
     {
-      "name": "sanctions",
+      "name": "from",
       "count": 3
     },
     {
-      "name": "west",
+      "name": "openai",
       "count": 3
     },
     {
-      "name": "bank",
+      "name": "global",
       "count": 3
     },
     {
-      "name": "other",
+      "name": "unga",
+      "count": 3
+    },
+    {
+      "name": "residents",
       "count": 2
     },
     {
-      "name": "defend",
+      "name": "raf",
       "count": 2
     },
     {
-      "name": "bbc",
+      "name": "jet",
       "count": 2
     }
   ],
-  "updated_at": "2026-09-23 21:19:02.310048"
+  "updated_at": "2026-09-24 04:02:54.299081"
 }
