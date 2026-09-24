@@ -2,15 +2,11 @@
   "keywords": [
     [
       "after",
-      6
+      9
     ],
     [
       "why",
-      4
-    ],
-    [
-      "live",
-      4
+      3
     ],
     [
       "trump",
@@ -21,7 +17,19 @@
       3
     ],
     [
-      "has",
+      "man",
+      3
+    ],
+    [
+      "over",
+      3
+    ],
+    [
+      "killed",
+      3
+    ],
+    [
+      "watch",
       2
     ],
     [
@@ -37,39 +45,23 @@
       2
     ],
     [
-      "warns",
+      "restores",
       2
     ],
     [
-      "threat",
+      "access",
       2
     ],
     [
-      "years",
+      "netanyahu",
       2
     ],
     [
-      "over",
+      "speech",
       2
     ],
     [
-      "migrant",
-      2
-    ],
-    [
-      "one",
-      2
-    ],
-    [
-      "system",
-      2
-    ],
-    [
-      "football",
-      2
-    ],
-    [
-      "matches",
+      "poland",
       2
     ],
     [
@@ -77,22 +69,26 @@
       2
     ],
     [
-      "new",
+      "tells",
+      2
+    ],
+    [
+      "rapper",
+      2
+    ],
+    [
+      "macklemore",
       2
     ]
   ],
   "topics": [
     {
       "name": "after",
-      "count": 6
+      "count": 9
     },
     {
       "name": "why",
-      "count": 4
-    },
-    {
-      "name": "live",
-      "count": 4
+      "count": 3
     },
     {
       "name": "trump",
@@ -103,7 +99,19 @@
       "count": 3
     },
     {
-      "name": "has",
+      "name": "man",
+      "count": 3
+    },
+    {
+      "name": "over",
+      "count": 3
+    },
+    {
+      "name": "killed",
+      "count": 3
+    },
+    {
+      "name": "watch",
       "count": 2
     },
     {
@@ -113,15 +121,7 @@
     {
       "name": "white",
       "count": 2
-    },
-    {
-      "name": "house",
-      "count": 2
-    },
-    {
-      "name": "warns",
-      "count": 2
     }
   ],
-  "updated_at": "2026-09-24 16:50:46.788192"
+  "updated_at": "2026-09-24 21:20:28.679582"
 }
