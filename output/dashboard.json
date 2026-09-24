@@ -1,43 +1,39 @@
 {
   "keywords": [
     [
-      "trump",
-      6
-    ],
-    [
-      "says",
+      "after",
       5
     ],
     [
-      "new",
+      "with",
+      4
+    ],
+    [
+      "ban",
       3
     ],
     [
-      "from",
+      "they",
       3
+    ],
+    [
+      "review",
+      2
+    ],
+    [
+      "over",
+      2
     ],
     [
       "openai",
-      3
-    ],
-    [
-      "global",
-      3
-    ],
-    [
-      "unga",
-      3
-    ],
-    [
-      "residents",
       2
     ],
     [
-      "raf",
+      "who",
       2
     ],
     [
-      "jet",
+      "before",
       2
     ],
     [
@@ -45,11 +41,19 @@
       2
     ],
     [
-      "how",
+      "make",
       2
     ],
     [
-      "welcomed",
+      "gangs",
+      2
+    ],
+    [
+      "trump",
+      2
+    ],
+    [
+      "welcome",
       2
     ],
     [
@@ -57,71 +61,67 @@
       2
     ],
     [
-      "they",
+      "judge",
       2
     ],
     [
-      "tories",
+      "trumps",
       2
     ],
     [
-      "benefits",
+      "white",
       2
     ],
     [
-      "cut",
+      "house",
       2
     ],
     [
-      "anthropic",
-      2
-    ],
-    [
-      "why",
+      "from",
       2
     ]
   ],
   "topics": [
     {
-      "name": "trump",
-      "count": 6
-    },
-    {
-      "name": "says",
+      "name": "after",
       "count": 5
     },
     {
-      "name": "new",
+      "name": "with",
+      "count": 4
+    },
+    {
+      "name": "ban",
       "count": 3
     },
     {
-      "name": "from",
+      "name": "they",
       "count": 3
+    },
+    {
+      "name": "review",
+      "count": 2
+    },
+    {
+      "name": "over",
+      "count": 2
     },
     {
       "name": "openai",
-      "count": 3
-    },
-    {
-      "name": "global",
-      "count": 3
-    },
-    {
-      "name": "unga",
-      "count": 3
-    },
-    {
-      "name": "residents",
       "count": 2
     },
     {
-      "name": "raf",
+      "name": "who",
       "count": 2
     },
     {
-      "name": "jet",
+      "name": "before",
+      "count": 2
+    },
+    {
+      "name": "crash",
       "count": 2
     }
   ],
-  "updated_at": "2026-09-24 04:02:54.299081"
+  "updated_at": "2026-09-24 11:25:07.521422"
 }
