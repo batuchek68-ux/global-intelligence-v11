@@ -1,23 +1,31 @@
 {
   "keywords": [
     [
+      "after",
+      4
+    ],
+    [
       "from",
-      5
+      4
+    ],
+    [
+      "says",
+      3
+    ],
+    [
+      "how",
+      3
+    ],
+    [
+      "was",
+      3
     ],
     [
       "with",
-      4
+      3
     ],
     [
-      "new",
-      4
-    ],
-    [
-      "netanyahu",
-      4
-    ],
-    [
-      "after",
+      "watch",
       3
     ],
     [
@@ -25,39 +33,27 @@
       3
     ],
     [
-      "palestine",
-      3
-    ],
-    [
-      "saudi",
-      3
-    ],
-    [
-      "meeting",
-      3
-    ],
-    [
-      "worlds",
+      "playground",
       2
     ],
     [
-      "men",
+      "families",
       2
     ],
     [
-      "just",
+      "near",
       2
     ],
     [
-      "how",
+      "trumps",
       2
     ],
     [
-      "did",
+      "but",
       2
     ],
     [
-      "military",
+      "not",
       2
     ],
     [
@@ -65,41 +61,53 @@
       2
     ],
     [
-      "speech",
-      2
-    ],
-    [
-      "was",
-      2
-    ],
-    [
-      "visit",
+      "what",
       2
     ],
     [
       "dinner",
       2
+    ],
+    [
+      "order",
+      2
+    ],
+    [
+      "why",
+      2
+    ],
+    [
+      "world",
+      2
     ]
   ],
   "topics": [
     {
+      "name": "after",
+      "count": 4
+    },
+    {
       "name": "from",
-      "count": 5
+      "count": 4
+    },
+    {
+      "name": "says",
+      "count": 3
+    },
+    {
+      "name": "how",
+      "count": 3
+    },
+    {
+      "name": "was",
+      "count": 3
     },
     {
       "name": "with",
-      "count": 4
+      "count": 3
     },
     {
-      "name": "new",
-      "count": 4
-    },
-    {
-      "name": "netanyahu",
-      "count": 4
-    },
-    {
-      "name": "after",
+      "name": "watch",
       "count": 3
     },
     {
@@ -107,21 +115,13 @@
       "count": 3
     },
     {
-      "name": "palestine",
-      "count": 3
+      "name": "playground",
+      "count": 2
     },
     {
-      "name": "saudi",
-      "count": 3
-    },
-    {
-      "name": "meeting",
-      "count": 3
-    },
-    {
-      "name": "worlds",
+      "name": "families",
       "count": 2
     }
   ],
-  "updated_at": "2026-09-25 04:17:02.302883"
+  "updated_at": "2026-09-25 11:31:03.763631"
 }
