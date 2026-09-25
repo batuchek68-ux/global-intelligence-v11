@@ -1,11 +1,23 @@
 {
   "keywords": [
     [
-      "after",
-      9
+      "from",
+      5
     ],
     [
-      "why",
+      "with",
+      4
+    ],
+    [
+      "new",
+      4
+    ],
+    [
+      "netanyahu",
+      4
+    ],
+    [
+      "after",
       3
     ],
     [
@@ -13,47 +25,43 @@
       3
     ],
     [
-      "says",
+      "palestine",
       3
     ],
     [
-      "man",
+      "saudi",
       3
     ],
     [
-      "over",
+      "meeting",
       3
     ],
     [
-      "killed",
-      3
-    ],
-    [
-      "watch",
+      "worlds",
       2
     ],
     [
-      "welcome",
+      "men",
       2
     ],
     [
-      "white",
+      "just",
       2
     ],
     [
-      "house",
+      "how",
       2
     ],
     [
-      "restores",
+      "did",
       2
     ],
     [
-      "access",
+      "military",
       2
     ],
     [
-      "netanyahu",
+      "out",
       2
     ],
     [
@@ -61,33 +69,37 @@
       2
     ],
     [
-      "poland",
+      "was",
       2
     ],
     [
-      "are",
+      "visit",
       2
     ],
     [
-      "tells",
-      2
-    ],
-    [
-      "rapper",
-      2
-    ],
-    [
-      "macklemore",
+      "dinner",
       2
     ]
   ],
   "topics": [
     {
-      "name": "after",
-      "count": 9
+      "name": "from",
+      "count": 5
     },
     {
-      "name": "why",
+      "name": "with",
+      "count": 4
+    },
+    {
+      "name": "new",
+      "count": 4
+    },
+    {
+      "name": "netanyahu",
+      "count": 4
+    },
+    {
+      "name": "after",
       "count": 3
     },
     {
@@ -95,33 +107,21 @@
       "count": 3
     },
     {
-      "name": "says",
+      "name": "palestine",
       "count": 3
     },
     {
-      "name": "man",
+      "name": "saudi",
       "count": 3
     },
     {
-      "name": "over",
+      "name": "meeting",
       "count": 3
     },
     {
-      "name": "killed",
-      "count": 3
-    },
-    {
-      "name": "watch",
-      "count": 2
-    },
-    {
-      "name": "welcome",
-      "count": 2
-    },
-    {
-      "name": "white",
+      "name": "worlds",
       "count": 2
     }
   ],
-  "updated_at": "2026-09-24 21:20:28.679582"
+  "updated_at": "2026-09-25 04:17:02.302883"
 }
