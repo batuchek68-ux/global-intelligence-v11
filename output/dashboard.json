@@ -2,126 +2,126 @@
   "keywords": [
     [
       "after",
-      4
+      5
     ],
     [
-      "from",
+      "man",
       4
     ],
     [
       "says",
-      3
-    ],
-    [
-      "how",
-      3
-    ],
-    [
-      "was",
-      3
-    ],
-    [
-      "with",
-      3
-    ],
-    [
-      "watch",
-      3
-    ],
-    [
-      "trump",
-      3
-    ],
-    [
-      "playground",
-      2
-    ],
-    [
-      "families",
-      2
-    ],
-    [
-      "near",
-      2
-    ],
-    [
-      "trumps",
-      2
-    ],
-    [
-      "but",
-      2
-    ],
-    [
-      "not",
-      2
-    ],
-    [
-      "out",
-      2
+      4
     ],
     [
       "what",
+      3
+    ],
+    [
+      "city",
+      3
+    ],
+    [
+      "not",
+      3
+    ],
+    [
+      "from",
+      3
+    ],
+    [
+      "out",
+      3
+    ],
+    [
+      "calls",
+      3
+    ],
+    [
+      "fighting",
+      3
+    ],
+    [
+      "election",
       2
     ],
     [
-      "dinner",
+      "daniel",
       2
     ],
     [
-      "order",
+      "thomas",
       2
     ],
     [
-      "why",
+      "guilty",
       2
     ],
     [
-      "world",
+      "sex",
+      2
+    ],
+    [
+      "case",
+      2
+    ],
+    [
+      "against",
+      2
+    ],
+    [
+      "military",
+      2
+    ],
+    [
+      "115",
+      2
+    ],
+    [
+      "charges",
       2
     ]
   ],
   "topics": [
     {
       "name": "after",
-      "count": 4
+      "count": 5
     },
     {
-      "name": "from",
+      "name": "man",
       "count": 4
     },
     {
       "name": "says",
+      "count": 4
+    },
+    {
+      "name": "what",
       "count": 3
     },
     {
-      "name": "how",
+      "name": "city",
       "count": 3
     },
     {
-      "name": "was",
+      "name": "not",
       "count": 3
     },
     {
-      "name": "with",
+      "name": "from",
       "count": 3
     },
     {
-      "name": "watch",
+      "name": "out",
       "count": 3
     },
     {
-      "name": "trump",
+      "name": "calls",
       "count": 3
     },
     {
-      "name": "playground",
-      "count": 2
-    },
-    {
-      "name": "families",
-      "count": 2
+      "name": "fighting",
+      "count": 3
     }
   ],
-  "updated_at": "2026-09-25 11:31:03.763631"
+  "updated_at": "2026-09-25 16:55:00.950771"
 }
