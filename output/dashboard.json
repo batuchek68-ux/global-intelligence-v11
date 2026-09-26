@@ -1,47 +1,51 @@
 {
   "keywords": [
     [
-      "city",
+      "trump",
       4
-    ],
-    [
-      "says",
-      4
-    ],
-    [
-      "could",
-      3
-    ],
-    [
-      "chairman",
-      3
-    ],
-    [
-      "league",
-      3
-    ],
-    [
-      "over",
-      3
     ],
     [
       "years",
+      3
+    ],
+    [
+      "rejects",
+      3
+    ],
+    [
+      "israel",
+      3
+    ],
+    [
+      "after",
+      3
+    ],
+    [
+      "thousands",
+      3
+    ],
+    [
+      "could",
       2
     ],
     [
-      "man",
+      "iran",
       2
     ],
     [
-      "confident",
+      "deal",
       2
     ],
     [
-      "prove",
+      "reopen",
       2
     ],
     [
-      "innocence",
+      "strait",
+      2
+    ],
+    [
+      "hormuz",
       2
     ],
     [
@@ -53,75 +57,71 @@
       2
     ],
     [
+      "ireland",
+      2
+    ],
+    [
+      "watch",
+      2
+    ],
+    [
+      "says",
+      2
+    ],
+    [
+      "kids",
+      2
+    ],
+    [
       "british",
       2
     ],
     [
       "six",
       2
-    ],
-    [
-      "murder",
-      2
-    ],
-    [
-      "case",
-      2
-    ],
-    [
-      "ireland",
-      2
-    ],
-    [
-      "israel",
-      2
-    ],
-    [
-      "game",
-      2
     ]
   ],
   "topics": [
     {
-      "name": "city",
+      "name": "trump",
       "count": 4
-    },
-    {
-      "name": "says",
-      "count": 4
-    },
-    {
-      "name": "could",
-      "count": 3
-    },
-    {
-      "name": "chairman",
-      "count": 3
-    },
-    {
-      "name": "league",
-      "count": 3
-    },
-    {
-      "name": "over",
-      "count": 3
     },
     {
       "name": "years",
+      "count": 3
+    },
+    {
+      "name": "rejects",
+      "count": 3
+    },
+    {
+      "name": "israel",
+      "count": 3
+    },
+    {
+      "name": "after",
+      "count": 3
+    },
+    {
+      "name": "thousands",
+      "count": 3
+    },
+    {
+      "name": "could",
       "count": 2
     },
     {
-      "name": "man",
+      "name": "iran",
       "count": 2
     },
     {
-      "name": "confident",
+      "name": "deal",
       "count": 2
     },
     {
-      "name": "prove",
+      "name": "reopen",
       "count": 2
     }
   ],
-  "updated_at": "2026-09-26 16:06:07.236189"
+  "updated_at": "2026-09-26 20:51:51.407618"
 }
