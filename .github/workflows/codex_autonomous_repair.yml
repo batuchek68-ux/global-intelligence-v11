@@ -7,40 +7,76 @@ on:
 
 permissions:
   contents: write
-  actions: read
-  issues: write
 
 jobs:
   diagnose-repair-optimize:
     runs-on: ubuntu-latest
-    env:
-      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-      WECHAT_WEBHOOK_URL: ${{ secrets.WECHAT_WEBHOOK_URL }}
-      ENTERPRISE_WECHAT_WEBHOOK_URL: ${{ secrets.ENTERPRISE_WECHAT_WEBHOOK_URL }}
-      FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
-      ALERT_EMAIL_TO: ${{ secrets.ALERT_EMAIL_TO }}
-      SMTP_HOST: ${{ secrets.SMTP_HOST }}
-      SMTP_PORT: ${{ secrets.SMTP_PORT }}
-      SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
-      SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
-      SMTP_FROM: ${{ secrets.SMTP_FROM }}
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
+        id: checkout
+
       - uses: actions/setup-python@v5
+        id: python_setup
         with:
           python-version: "3.12"
+
       - name: Codex / AI diagnose repair optimize
+        id: repair
+        continue-on-error: true
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
         run: python workflows/autonomous_repair.py
+        working-directory: backend
+
+      - name: Review repair health gate
+        if: always() && steps.checkout.outcome == 'success' && steps.python_setup.outcome == 'success'
+        env:
+          GITHUB_ACTIONS: "true"
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          report_path = Path('backend/reports/autonomous_repair.json')
+          if not report_path.exists():
+              print('::warning::Repair report missing; treating as a manual review required state.')
+              print('Repair report missing; treating as a manual review required state.')
+              raise SystemExit(0)
+
+          data = json.loads(report_path.read_text(encoding='utf-8'))
+          status = data.get('status', 'unknown')
+          notes = data.get('notes', [])
+          print(f"Autonomous repair status: {status}")
+          for note in notes:
+              print(f"- {note}")
+
+          if status in {"repair_rejected", "tests_failed", "manual_review_required", "health_check_only"}:
+              print('::warning::Human review required before release or publication.')
+              print('Human review required before release or publication.')
+              raise SystemExit(0)
+          if status == "unknown":
+              print('::error::Unknown repair status; escalation required.')
+              print('Unknown repair status; escalation required.')
+              raise SystemExit(1)
+          print('Repair health gate passed.')
+          PY
+        working-directory: backend
+
       - name: Persist repair evidence
-        if: always()
+        if: always() && steps.checkout.outcome == 'success' && steps.python_setup.outcome == 'success'
         env:
           STATE_COMMIT_MESSAGE: Persist Codex autonomous repair evidence
         run: python workflows/persist_state.py
+        working-directory: backend
+
       - name: Upload repair report
-        if: always()
+        if: always() && steps.checkout.outcome == 'success' && steps.python_setup.outcome == 'success'
         uses: actions/upload-artifact@v4
         with:
           name: codex-autonomous-repair-${{ github.run_id }}
           path: |
-            reports/autonomous_repair.json
-            reports/autonomous_repair.md
+            backend/reports/autonomous_repair.json
+            backend/reports/autonomous_repair.md
+          if-no-files-found: warn

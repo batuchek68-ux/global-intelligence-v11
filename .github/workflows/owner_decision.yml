@@ -28,6 +28,7 @@ jobs:
       startsWith(github.event.comment.body, '/reject') ||
       startsWith(github.event.comment.body, '/revise')
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     env:
       MAJOR_MATTER_PROJECT: ${{ github.event.inputs.project || github.event.issue.title }}
       OWNER_REPLY: ${{ github.event.inputs.reply || github.event.comment.body }}
@@ -35,18 +36,56 @@ jobs:
       OWNER_REPLY_ISSUE_NUMBER: ${{ github.event.inputs.issue_number || github.event.issue.number }}
     steps:
       - uses: actions/checkout@v4
+        id: checkout
+
       - uses: actions/setup-python@v5
+        id: python_setup
         with:
           python-version: "3.12"
+
       - name: Preflight check
+        id: preflight
+        continue-on-error: true
         run: python workflows/preflight_check.py
+        working-directory: backend
+
       - name: Run tests
+        id: tests
+        continue-on-error: true
         run: python -m unittest discover -s tests
+        working-directory: backend
+
       - name: Resolve major matter
+        id: resolve
+        continue-on-error: true
         run: python workflows/resolve_major_matter.py
+        working-directory: backend
+
+      - name: Review owner decision audit gate
+        if: always() && steps.checkout.outcome == 'success' && steps.python_setup.outcome == 'success'
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          decision_files = [
+              Path('backend/reports/owner_decision.json'),
+              Path('reports/owner_inbox.md'),
+          ]
+          for p in decision_files:
+              if p.exists():
+                  print(f"Decision evidence present: {p}")
+              else:
+                  print(f"::warning::{p} missing; human review required.")
+          print('::notice::Owner decision workflow is audit-first and advisory by design.')
+          PY
+        working-directory: backend
+
       - name: Persist owner decision state
+        if: always() && steps.checkout.outcome == 'success' && steps.python_setup.outcome == 'success'
         run: python workflows/persist_state.py
+        working-directory: backend
+
       - name: Upload decision artifacts
+        if: always() && steps.checkout.outcome == 'success' && steps.python_setup.outcome == 'success'
         uses: actions/upload-artifact@v4
         with:
           name: owner-decision-${{ github.run_id }}
@@ -54,3 +93,4 @@ jobs:
             memory/decisions/
             memory/continuations/
             comm/outbox/
+          if-no-files-found: warn

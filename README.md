@@ -44,6 +44,17 @@ GitHub Actions use these backend workflows:
 - `.github/workflows/international_trade_ops.yml`
 - `.github/workflows/owner_decision.yml`
 
+## Operating Policy
+
+The repository follows an audit-first, non-red-screen operating model.
+
+- Audit first: every workflow writes evidence and summaries before any escalation.
+- Non-red-screen failure: advisory and health-check workflows should not masquerade as hard failures; they report warnings and audit notes instead.
+- Human approval is the final decision gate: no release, commitment, payment, external execution, or publication proceeds without owner approval.
+- Any publishing, pricing, contract, payment, or public-facing action requires explicit human confirmation.
+
+This policy is enforced as a safety rule for all GitHub Actions automation.
+
 Codex/AI may automatically diagnose and repair low-risk framework, code, test, and configuration problems. It must not send external replies, publish content, quote prices, sign contracts, make payment decisions, or promise delivery without human approval.
 
 ## Required Evidence

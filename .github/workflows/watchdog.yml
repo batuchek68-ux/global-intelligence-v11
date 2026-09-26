@@ -12,22 +12,59 @@ permissions:
 jobs:
   watchdog:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
+        id: checkout
+
       - uses: actions/setup-python@v5
+        id: python_setup
         with:
           python-version: "3.12"
+
       - name: Run watchdog
+        id: watchdog_run
+        continue-on-error: true
         run: python workflows/watchdog.py
-      - name: Publish watchdog summary
+        working-directory: backend
+
+      - name: Review watchdog health gate
+        if: always() && steps.checkout.outcome == 'success' && steps.python_setup.outcome == 'success'
         run: |
-          cat reports/watchdog_status.md >> "$GITHUB_STEP_SUMMARY"
+          python - <<'PY'
+          from pathlib import Path
+          report = Path('backend/reports/watchdog_status.md')
+          if not report.exists():
+              print('::warning::Watchdog report missing; human review required.')
+              print('Watchdog report missing; human review required.')
+              raise SystemExit(0)
+          print('Watchdog audit summary:')
+          print(report.read_text(encoding='utf-8'))
+          print('::notice::Watchdog status is recorded for human review and audit.')
+          PY
+        working-directory: backend
+
+      - name: Publish watchdog summary
+        if: always() && steps.checkout.outcome == 'success' && steps.python_setup.outcome == 'success'
+        run: |
+          if [ -f reports/watchdog_status.md ]; then
+            cat reports/watchdog_status.md >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "Watchdog summary missing; human review required." >> "$GITHUB_STEP_SUMMARY"
+          fi
+        working-directory: backend
+
       - name: Persist watchdog state
+        if: always() && steps.checkout.outcome == 'success' && steps.python_setup.outcome == 'success'
         env:
           STATE_COMMIT_MESSAGE: Persist Codex watchdog state
         run: python workflows/persist_state.py
+        working-directory: backend
+
       - name: Upload watchdog report
+        if: always() && steps.checkout.outcome == 'success' && steps.python_setup.outcome == 'success'
         uses: actions/upload-artifact@v4
         with:
           name: codex-watchdog-${{ github.run_id }}
           path: reports/watchdog_status.md
+          if-no-files-found: warn

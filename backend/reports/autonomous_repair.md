@@ -1,6 +1,6 @@
 # Autonomous Repair Report
 
-- Generated: 2026-09-26T13:06:28+00:00 UTC
+- Generated: 2026-09-26T13:16:55+00:00 UTC
 - Status: tests_failed
 - Repair necessary: true
 
@@ -36,7 +36,7 @@ Traceback (most recent call last):
 ValueError: Repair report contains an unsafe or missing source path: backend/core/models.py
 
 ----------------------------------------------------------------------
-Ran 4 tests in 0.258s
+Ran 4 tests in 0.126s
 
 FAILED (errors=1)
 
@@ -45,3 +45,4 @@ FAILED (errors=1)
 ## Notes
 
 - Tests failed; no automated behavioral repair was attempted.
+- Human review is required: fix the failing test suite before release or publishing.
