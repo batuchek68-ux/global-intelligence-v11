@@ -1,0 +1,17 @@
+{
+  "generated_at": "2026-09-26T13:06:28+00:00",
+  "status": "tests_failed",
+  "repair_necessary": true,
+  "initial_compile_errors": [],
+  "compile_errors": [],
+  "repair_actions": [],
+  "changed_files": [],
+  "tests": {
+    "available": true,
+    "passed": false,
+    "output": "test_compile_errors_reports_syntax_location (test_autonomous_repair.AutonomousRepairTests.test_compile_errors_reports_syntax_location) ... ok\ntest_persistence_only_accepts_successfully_repaired_backend_files (test_autonomous_repair.AutonomousRepairTests.test_persistence_only_accepts_successfully_repaired_backend_files) ... ERROR\ntest_repair_payload_rejects_paths_outside_backend (test_autonomous_repair.AutonomousRepairTests.test_repair_payload_rejects_paths_outside_backend) ... ok\ntest_repair_payload_requires_exact_failed_file_set (test_autonomous_repair.AutonomousRepairTests.test_repair_payload_requires_exact_failed_file_set) ... ok\n\n======================================================================\nERROR: test_persistence_only_accepts_successfully_repaired_backend_files (test_autonomous_repair.AutonomousRepairTests.test_persistence_only_accepts_successfully_repaired_backend_files)\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"F:\\Documents\\GitHub\\global-intelligence-v11\\backend\\tests\\test_autonomous_repair.py\", line 42, in test_persistence_only_accepts_successfully_repaired_backend_files\n    validated_source_files({\"status\": \"repaired\", \"changed_files\": [\"backend/core/models.py\"]}),\n    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"F:\\Documents\\GitHub\\global-intelligence-v11\\backend\\workflows\\persist_state.py\", line 41, in validated_source_files\n    raise ValueError(f\"Repair report contains an unsafe or missing source path: {path}\")\nValueError: Repair report contains an unsafe or missing source path: backend/core/models.py\n\n----------------------------------------------------------------------\nRan 4 tests in 0.258s\n\nFAILED (errors=1)\n"
+  },
+  "notes": [
+    "Tests failed; no automated behavioral repair was attempted."
+  ]
+}
