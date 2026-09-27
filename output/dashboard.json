@@ -1,51 +1,71 @@
 {
   "keywords": [
     [
-      "two",
-      4
-    ],
-    [
-      "are",
-      4
-    ],
-    [
-      "says",
-      3
-    ],
-    [
-      "over",
-      3
+      "after",
+      5
     ],
     [
       "big",
+      4
+    ],
+    [
+      "minister",
       3
     ],
     [
-      "after",
+      "hormuz",
       3
     ],
     [
-      "thousands",
+      "deal",
       3
     ],
     [
-      "war",
+      "calls",
       3
     ],
     [
-      "end",
+      "what",
       2
     ],
     [
-      "nhs",
+      "know",
       2
     ],
     [
-      "mass",
+      "raf",
       2
     ],
     [
-      "shootings",
+      "base",
+      2
+    ],
+    [
+      "burnham",
+      2
+    ],
+    [
+      "social",
+      2
+    ],
+    [
+      "care",
+      2
+    ],
+    [
+      "system",
+      2
+    ],
+    [
+      "ireland",
+      2
+    ],
+    [
+      "ten",
+      2
+    ],
+    [
+      "over",
       2
     ],
     [
@@ -53,75 +73,55 @@
       2
     ],
     [
-      "years",
-      2
-    ],
-    [
-      "back",
-      2
-    ],
-    [
       "why",
       2
     ],
     [
-      "walks",
-      2
-    ],
-    [
-      "star",
-      2
-    ],
-    [
-      "minister",
-      2
-    ],
-    [
-      "hormuz",
+      "league",
       2
     ]
   ],
   "topics": [
     {
-      "name": "two",
-      "count": 4
-    },
-    {
-      "name": "are",
-      "count": 4
-    },
-    {
-      "name": "says",
-      "count": 3
-    },
-    {
-      "name": "over",
-      "count": 3
+      "name": "after",
+      "count": 5
     },
     {
       "name": "big",
+      "count": 4
+    },
+    {
+      "name": "minister",
       "count": 3
     },
     {
-      "name": "after",
+      "name": "hormuz",
       "count": 3
     },
     {
-      "name": "thousands",
+      "name": "deal",
       "count": 3
     },
     {
-      "name": "war",
+      "name": "calls",
       "count": 3
     },
     {
-      "name": "end",
+      "name": "what",
       "count": 2
     },
     {
-      "name": "nhs",
+      "name": "know",
+      "count": 2
+    },
+    {
+      "name": "raf",
+      "count": 2
+    },
+    {
+      "name": "base",
       "count": 2
     }
   ],
-  "updated_at": "2026-09-27 11:44:33.295426"
+  "updated_at": "2026-09-27 16:42:47.437872"
 }
