@@ -1,6 +1,11 @@
 [
   {
-    "title": "What we know about RAF base counter-terror investigation",
+    "title": "Five arrested as counter-terror police investigate major incident near RAF Fairford",
+    "summary": "The men have been detained on suspicion of preparation of a terrorist act after three suspicious vehicles were reported to be travelling towards the base.",
+    "source": "https://feeds.bbci.co.uk/news/rss.xml"
+  },
+  {
+    "title": "What we know about RAF Fairford counter-terror probe",
     "summary": "Five men have been arrested as counter-terror police lead an investigation into a major incident near the airbase.",
     "source": "https://feeds.bbci.co.uk/news/rss.xml"
   },
@@ -17,6 +22,16 @@
   {
     "title": "Ten NHS staff removed over Noah Woods data breach",
     "summary": "East Suffolk and North Essex NHS Foundation Trust says it has launched an \"urgent\" investigation.",
+    "source": "https://feeds.bbci.co.uk/news/rss.xml"
+  },
+  {
+    "title": "No handshakes between Republic of Ireland and Israel",
+    "summary": "The Republic of Ireland and Israel players do not shake hands with each other before or after Sunday's controversial Uefa Nations League game in Hungary.",
+    "source": "https://feeds.bbci.co.uk/news/rss.xml"
+  },
+  {
+    "title": "England win series as Banton delivers on potential",
+    "summary": "Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrapped up their summer with an ODI series win over Sri Lanka.",
     "source": "https://feeds.bbci.co.uk/news/rss.xml"
   },
   {
@@ -40,17 +55,12 @@
     "source": "https://feeds.bbci.co.uk/news/rss.xml"
   },
   {
-    "title": "Venezuela releases dozens of political prisoners as election calls grow",
-    "summary": "A slew of dissidents being released from long-term detention comes days after the nation's interim leader met the US president.",
-    "source": "https://feeds.bbci.co.uk/news/rss.xml"
-  },
-  {
     "title": "Celebrity Traitors 2 cast: Who are this year's 'big dogs' and dark horses?",
     "summary": "The reality TV game show returns on Thursday, with 21 stars vying to win £100,000 for their chosen charity.",
     "source": "https://feeds.bbci.co.uk/news/rss.xml"
   },
   {
-    "title": "Killer Christa Pike is to be executed within days, but her defence say she's a victim too",
+    "title": "Killer Christa Pike to be executed within days - but her defence say she's a victim too",
     "summary": "Lawyers for Pike, who killed a fellow student in 1995, say she should get clemency and would not be sentenced to death if the crime happened today.",
     "source": "https://feeds.bbci.co.uk/news/rss.xml"
   },
@@ -80,24 +90,104 @@
     "source": "https://feeds.bbci.co.uk/news/rss.xml"
   },
   {
-    "title": "Ten climbers missing after avalanche hits Himalayan base camp",
-    "summary": "The Nepali team was preparing to take overseas climbers up the Himlung Himal peak.",
+    "title": "Two bodies found after avalanche hits Himalayan climbing group",
+    "summary": "Rescuers are looking for at least 10 Nepalese people who were preparing to take climbers up the Himlung Himal peak.",
     "source": "https://feeds.bbci.co.uk/news/rss.xml"
   },
   {
-    "title": "Thousands without water and roads closed after burst pipe",
+    "title": "Thousands affected and roads closed after burst pipe",
     "summary": "Southern Water says it is investigating the burst pipe which happened on Sunday morning.",
     "source": "https://feeds.bbci.co.uk/news/rss.xml"
   },
   {
-    "title": "US states declare emergency as powerful storm brings flooding and power cuts",
-    "summary": "Tens of millions of people from Maine to Virginia found themselves in the path of the powerful weather system.",
-    "source": "https://feeds.bbci.co.uk/news/rss.xml"
+    "title": "‘Atrocious’ crime: Cuban official decries possibility of US military action",
+    "summary": "Cuba&#039;s deputy foreign minister slams US sanctions, labelling them &#039;equivalent to genocide&#039;.",
+    "source": "https://www.aljazeera.com/xml/rss/all.xml"
   },
   {
-    "title": "Police get more time to quiz suspects in alleged plot against Jewish community",
-    "summary": "Two men - both in the 30s - were arrested under the 2000 Terrorism Act in Manchester on 20 September.",
-    "source": "https://feeds.bbci.co.uk/news/rss.xml"
+    "title": "Serbian President Aleksandar Vucic resigns amid prolonged protests",
+    "summary": "Despite student-led protests and political unrest challenging his rule, Vucic intends to run in the snap elections.",
+    "source": "https://www.aljazeera.com/xml/rss/all.xml"
+  },
+  {
+    "title": "Israel revokes Dutch diplomats’ status over sanctions on settlements",
+    "summary": "Israel escalates retaliatory measures as Western sanctions target illegal West Bank settlements.",
+    "source": "https://www.aljazeera.com/xml/rss/all.xml"
+  },
+  {
+    "title": "Why has Trump rejected Iran’s peace proposal?",
+    "summary": "The US president has reportedly threatened to resume strikes on Iran.",
+    "source": "https://www.aljazeera.com/xml/rss/all.xml"
+  },
+  {
+    "title": "Pubs in Ireland refuse to screen Israel match in protest over Gaza genocide",
+    "summary": "Ireland has been thrust into the global spotlight over two controversial Nations League football games against Israel.",
+    "source": "https://www.aljazeera.com/xml/rss/all.xml"
+  },
+  {
+    "title": "Bill Gates says AI without regulation is ‘completely irresponsible’",
+    "summary": "The billionaire cofounder of Microsoft says, without restrictions, AI could &#039;cause a billion deaths&#039;.",
+    "source": "https://www.aljazeera.com/xml/rss/all.xml"
+  },
+  {
+    "title": "Stuck between Israeli military checkpoints",
+    "summary": "Israeli road closures have become a part of daily life for Palestinians in the occupied West Bank.",
+    "source": "https://www.aljazeera.com/xml/rss/all.xml"
+  },
+  {
+    "title": "Palestine Action protesters arrested in Liverpool",
+    "summary": "Police have arrested protesters at a Palestine Action demonstration in Liverpool, ahead of the Labour Party conference.",
+    "source": "https://www.aljazeera.com/xml/rss/all.xml"
+  },
+  {
+    "title": "At least 12 dead and dozens missing after a vessel capsizes in DRC",
+    "summary": "This incident comes only two days after at least 41 people died in another boat capsizing in DRC.",
+    "source": "https://www.aljazeera.com/xml/rss/all.xml"
+  },
+  {
+    "title": "South Korea, Ukraine relations sour over North Korean POW transfer",
+    "summary": "South Korea&#039;s presidential office criticised Ukraine for denying POW nondisclosure agreement.",
+    "source": "https://www.aljazeera.com/xml/rss/all.xml"
+  },
+  {
+    "title": "‘Iran ready for doomsday war’, FM Araghchi says",
+    "summary": "Foreign Minister Abbas Araghchi says Iran is prepared for war to resume, ‘even if it comes to a doomsday war’.",
+    "source": "https://www.aljazeera.com/xml/rss/all.xml"
+  },
+  {
+    "title": "Mike Waltz: US offered to sell Iran uranium for civilian programme",
+    "summary": "US ambassador says Iran refused to agree to an arrangement where uranium would be supplied by Washington.",
+    "source": "https://www.aljazeera.com/xml/rss/all.xml"
+  },
+  {
+    "title": "One month after Nepal’s catastrophic floods, thousands remain missing",
+    "summary": "A month after floods tore through Nepal, 5,285 people remain missing and more than 1,100 are still in holding centres.",
+    "source": "https://www.aljazeera.com/xml/rss/all.xml"
+  },
+  {
+    "title": "Giant pandas arrive in Atlanta as part of 10-year US-China agreement",
+    "summary": "The two pandas, Ping Ping and Fu Shuang, arrived from southwestern China.",
+    "source": "https://www.aljazeera.com/xml/rss/all.xml"
+  },
+  {
+    "title": "Dozens killed in two mass shootings in South Africa",
+    "summary": "At least 27 people have been killed in two mass shootings across South Africa.",
+    "source": "https://www.aljazeera.com/xml/rss/all.xml"
+  },
+  {
+    "title": "Jerusalem Daily: Israeli opposition leaders unite to drive out Netanyahu",
+    "summary": "Jerusalem Daily: Israeli opposition leaders unite to drive out Netanyahu",
+    "source": "https://www.aljazeera.com/xml/rss/all.xml"
+  },
+  {
+    "title": "Northern Ireland protesters block Orange Order march into Catholic area",
+    "summary": "Thousands of Protesters blocked a road leading into a Catholic area of Northern Ireland ahead of an Orange Order march.",
+    "source": "https://www.aljazeera.com/xml/rss/all.xml"
+  },
+  {
+    "title": "Muslims protest planned demolition of ‘600-year-old’ mosque in India",
+    "summary": "Hundreds of Muslims have gathered in the Indian city of Ujjain to protest the partial demolition of a historic mosque.",
+    "source": "https://www.aljazeera.com/xml/rss/all.xml"
   },
   {
     "title": "Afghanistan says 28 fighters killed as Islamabad, Kabul trade accusations",
@@ -107,96 +197,6 @@
   {
     "title": "LIVE: Norway vs Portugal – Nations League",
     "summary": "Follow updates as Norway host Portugal for a Group A4 clash, including the build-up, analysis and live text commentary.",
-    "source": "https://www.aljazeera.com/xml/rss/all.xml"
-  },
-  {
-    "title": "Who is Gavin Bazunu, and why is he boycotting the Ireland vs Israel match?",
-    "summary": "Bazunu says his decision to withdraw was based on a &#039;personal belief that the killing of innocent people is wrong&#039;.",
-    "source": "https://www.aljazeera.com/xml/rss/all.xml"
-  },
-  {
-    "title": "The longevity boom is getting ahead of the science",
-    "summary": "Billions are pouring into anti-ageing biotech, but manipulating ageing has risks we are only beginning to understand.",
-    "source": "https://www.aljazeera.com/xml/rss/all.xml"
-  },
-  {
-    "title": "Finding Desert Angels: Searching for the missing at the US-Mexico border",
-    "summary": "An ageing trailblazer of search and rescue risks his life to find a woman’s missing son in the US-Mexico borderlands.",
-    "source": "https://www.aljazeera.com/xml/rss/all.xml"
-  },
-  {
-    "title": "For Libya, the Hormuz crisis can be a trap or an opportunity",
-    "summary": "Libyan hydrocarbons are increasingly sought after. To take full advantage, the country needs a new economic strategy.",
-    "source": "https://www.aljazeera.com/xml/rss/all.xml"
-  },
-  {
-    "title": "Strait of Hormuz tensions linger as Iran and US move further from a deal",
-    "summary": "There are fears of renewed fighting between the US and Iran, after President Trump rejected a deal.",
-    "source": "https://www.aljazeera.com/xml/rss/all.xml"
-  },
-  {
-    "title": "True Crime Reports: The Dosa King’s Deadly Obsession",
-    "summary": "The Dosa King built an empire. After a woman rejects him, her husband is found dead – and the pursuit of justice begins.",
-    "source": "https://www.aljazeera.com/xml/rss/all.xml"
-  },
-  {
-    "title": "Yemen’s health system could collapse in some areas, minister warns",
-    "summary": "Yemen&#039;s healthcare system may not be able to support the population as war strains resources, minister tells Al Jazeera.",
-    "source": "https://www.aljazeera.com/xml/rss/all.xml"
-  },
-  {
-    "title": "Israel’s Smotrich calls for ‘war’ in West Bank: Rhetoric or real threat?",
-    "summary": "Smotrich’s words should not be dismissed as mere election rhetoric, human rights experts and analysts warn.",
-    "source": "https://www.aljazeera.com/xml/rss/all.xml"
-  },
-  {
-    "title": "US installation commemorates victims of South African ‘white genocide’",
-    "summary": "Memorial crosses installed in the US have revived erroneous claims of a ‘white genocide’ against farmers in South Africa",
-    "source": "https://www.aljazeera.com/xml/rss/all.xml"
-  },
-  {
-    "title": "Ethiopians celebrate Meskel and call for peace amid fighting",
-    "summary": "Ethiopians celebrate Meskel and call for peace amid fighting",
-    "source": "https://www.aljazeera.com/xml/rss/all.xml"
-  },
-  {
-    "title": "‘Better deal’: What’s behind Trump’s rejection of Iran’s truce offer?",
-    "summary": "Experts say Trump sees economic sanctions as key to extracting more concessions but he risks losing leverage.",
-    "source": "https://www.aljazeera.com/xml/rss/all.xml"
-  },
-  {
-    "title": "Swiss voters reject tighter neutrality rules in referendum",
-    "summary": "About 71 percent of voters oppose initiative to impose stricter limits on neutrality.",
-    "source": "https://www.aljazeera.com/xml/rss/all.xml"
-  },
-  {
-    "title": "Political rallies fill Brazil’s streets a week before elections",
-    "summary": "Rival political rallies have been held in Brazil as campaigns intensify with one week to go until election day.",
-    "source": "https://www.aljazeera.com/xml/rss/all.xml"
-  },
-  {
-    "title": "Floods and landslides kill at least 56 people in India, 12 in Nepal",
-    "summary": "Authorities report increasing death toll over three days as rivers rise above danger levels in parts of both countries.",
-    "source": "https://www.aljazeera.com/xml/rss/all.xml"
-  },
-  {
-    "title": "‘No role for UNRWA in Gaza’: Does the Board of Peace toe Israeli lines?",
-    "summary": "Board of Peace excludes UNRWA from Gaza, aligning with repeated Israeli calls to sideline the refugee aid agency.",
-    "source": "https://www.aljazeera.com/xml/rss/all.xml"
-  },
-  {
-    "title": "‘My hands are empty’: Displaced Palestinians struggle to survive",
-    "summary": "In Tulkarem and other West Bank cities, displaced Palestinians are being forced deeper into debt and poverty.",
-    "source": "https://www.aljazeera.com/xml/rss/all.xml"
-  },
-  {
-    "title": "Israeli minister Bezalel Smotrich calls for war in occupied West Bank",
-    "summary": "Comments come as Israeli authorities announce military closure across occupied West Bank, citing Jewish holiday Sukkot.",
-    "source": "https://www.aljazeera.com/xml/rss/all.xml"
-  },
-  {
-    "title": "Yemen government forces widen attacks against Houthis: What we know",
-    "summary": "Yemeni government forces claim multiple air and ground operations across Taiz in 24 hours.",
     "source": "https://www.aljazeera.com/xml/rss/all.xml"
   }
 ]

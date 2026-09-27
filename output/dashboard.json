@@ -2,42 +2,54 @@
   "keywords": [
     [
       "after",
+      7
+    ],
+    [
+      "over",
       5
+    ],
+    [
+      "ireland",
+      4
+    ],
+    [
+      "says",
+      4
     ],
     [
       "big",
       4
     ],
     [
-      "minister",
-      3
-    ],
-    [
-      "hormuz",
-      3
-    ],
-    [
-      "deal",
-      3
-    ],
-    [
-      "calls",
-      3
-    ],
-    [
-      "what",
-      2
-    ],
-    [
-      "know",
-      2
-    ],
-    [
       "raf",
+      3
+    ],
+    [
+      "fairford",
+      3
+    ],
+    [
+      "israel",
+      3
+    ],
+    [
+      "two",
+      3
+    ],
+    [
+      "south",
+      3
+    ],
+    [
+      "arrested",
       2
     ],
     [
-      "base",
+      "counterterror",
+      2
+    ],
+    [
+      "near",
       2
     ],
     [
@@ -53,75 +65,63 @@
       2
     ],
     [
-      "system",
+      "england",
       2
     ],
     [
-      "ireland",
+      "orange",
       2
     ],
     [
-      "ten",
+      "order",
       2
     ],
     [
-      "over",
-      2
-    ],
-    [
-      "south",
-      2
-    ],
-    [
-      "why",
-      2
-    ],
-    [
-      "league",
+      "march",
       2
     ]
   ],
   "topics": [
     {
       "name": "after",
+      "count": 7
+    },
+    {
+      "name": "over",
       "count": 5
+    },
+    {
+      "name": "ireland",
+      "count": 4
+    },
+    {
+      "name": "says",
+      "count": 4
     },
     {
       "name": "big",
       "count": 4
     },
     {
-      "name": "minister",
-      "count": 3
-    },
-    {
-      "name": "hormuz",
-      "count": 3
-    },
-    {
-      "name": "deal",
-      "count": 3
-    },
-    {
-      "name": "calls",
-      "count": 3
-    },
-    {
-      "name": "what",
-      "count": 2
-    },
-    {
-      "name": "know",
-      "count": 2
-    },
-    {
       "name": "raf",
-      "count": 2
+      "count": 3
     },
     {
-      "name": "base",
-      "count": 2
+      "name": "fairford",
+      "count": 3
+    },
+    {
+      "name": "israel",
+      "count": 3
+    },
+    {
+      "name": "two",
+      "count": 3
+    },
+    {
+      "name": "south",
+      "count": 3
     }
   ],
-  "updated_at": "2026-09-27 16:42:47.437872"
+  "updated_at": "2026-09-27 21:08:27.548014"
 }
