@@ -39,11 +39,11 @@ class AutonomousRepairTests(unittest.TestCase):
 
     def test_persistence_only_accepts_successfully_repaired_backend_files(self) -> None:
         self.assertEqual(
-            validated_source_files({"status": "repaired", "changed_files": ["backend/core/models.py"]}),
-            ["backend/core/models.py"],
+            validated_source_files({"status": "repaired", "changed_files": ["backend/core/agents.py"]}),
+            ["backend/core/agents.py"],
         )
         with self.assertRaises(ValueError):
-            validated_source_files({"status": "manual_review_required", "changed_files": ["backend/core/models.py"]})
+            validated_source_files({"status": "manual_review_required", "changed_files": ["backend/core/agents.py"]})
         with self.assertRaises(ValueError):
             validated_source_files({"status": "repaired", "changed_files": ["README.md"]})
 

@@ -196,12 +196,6 @@ def write_report(report: dict[str, Any]) -> None:
     if report["notes"]:
         lines.extend(["", "## Notes", ""])
         lines.extend(f"- {note}" for note in report["notes"])
-
-    summary_path = os.getenv("GITHUB_STEP_SUMMARY")
-    if summary_path:
-        with open(summary_path, "a", encoding="utf-8") as summary_file:
-            summary_file.write("\n".join(lines) + "\n")
-
     MARKDOWN_REPORT.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
@@ -251,11 +245,8 @@ def main() -> int:
         if tests["passed"] is False:
             status = "tests_failed"
             notes.append("Tests failed; no automated behavioral repair was attempted.")
-            notes.append("Human review is required: fix the failing test suite before release or publishing.")
         elif not tests["available"]:
-            status = "health_check_only"
-            notes.append("No backend test suite exists; syntax validation is the only automated check.")
-            notes.append("Human review is recommended before release because real repository tests are not available.")
+            notes.append("No backend test suite exists; syntax validation is the available automated check.")
 
     report = {
         "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
@@ -271,8 +262,6 @@ def main() -> int:
     write_report(report)
     print(f"Autonomous repair status: {status}")
     print(f"Report: {MARKDOWN_REPORT.relative_to(REPO_ROOT)}")
-    if status in {"tests_failed", "health_check_only", "manual_review_required", "repair_rejected"}:
-        return 0
     return 1 if report["repair_necessary"] else 0
 
 

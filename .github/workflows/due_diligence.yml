@@ -1,0 +1,55 @@
+name: Due Diligence Review
+
+on:
+  workflow_dispatch:
+    inputs:
+      request_json:
+        description: "JSON request with query and optional metadata.counterparties"
+        required: true
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: due-diligence-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  due-diligence:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        id: checkout
+      - uses: actions/setup-python@v5
+        id: python_setup
+        with:
+          python-version: "3.12"
+      - name: Install project dependencies
+        run: python -m pip install -r requirements.txt
+      - name: Run backend tests
+        run: python -m unittest discover -s tests -v
+        working-directory: backend
+      - name: Run due diligence orchestration
+        id: run_due_diligence
+        env:
+          DUE_DILIGENCE_REQUEST_JSON: ${{ inputs.request_json }}
+          BING_SEARCH_KEY: ${{ secrets.BING_SEARCH_KEY }}
+          BRAVE_SEARCH_API_KEY: ${{ secrets.BRAVE_SEARCH_API_KEY }}
+        run: python workflows/run_due_diligence.py
+        working-directory: backend
+      - name: Persist anonymized learning state
+        if: always() && steps.checkout.outcome == 'success' && steps.python_setup.outcome == 'success'
+        env:
+          STATE_COMMIT_MESSAGE: Persist anonymized due diligence learning
+        run: python workflows/persist_due_diligence_learning.py
+        working-directory: backend
+      - name: Upload due diligence report
+        if: always() && steps.checkout.outcome == 'success' && steps.python_setup.outcome == 'success' && steps.run_due_diligence.outcome == 'success'
+        uses: actions/upload-artifact@v4
+        with:
+          name: due-diligence-${{ github.run_id }}
+          path: backend/reports/due_diligence/due_diligence_${{ github.run_id }}.*
+          retention-days: 30
+          if-no-files-found: warn

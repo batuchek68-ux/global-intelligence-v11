@@ -3,14 +3,19 @@ from typing import Any
 from pathlib import Path
 
 
-def run_integrity_check(auto_fix: bool = False) -> dict[str, Any]:
-    project_root = Path(__file__).resolve().parents[2]
+def run_integrity_check(auto_fix: bool = False, project_root: Path | None = None) -> dict[str, Any]:
+    project_root = (project_root or Path(__file__).resolve().parents[2]).resolve()
+    required_directories = ("memory", "reports", "projects", "comm")
+    if auto_fix:
+        for name in required_directories:
+            directory = (project_root / name).resolve()
+            if directory.parent == project_root and not directory.exists():
+                directory.mkdir(parents=True, exist_ok=True)
+
     checks = {
         "directories": {
-            "memory": (project_root / "memory").exists(),
-            "reports": (project_root / "reports").exists(),
-            "projects": (project_root / "projects").exists(),
-            "comm": (project_root / "comm").exists(),
+            name: (project_root / name).is_dir()
+            for name in required_directories
         },
         "config": (project_root / "config.py").exists(),
         "env": (project_root / ".env").exists(),

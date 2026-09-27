@@ -8,6 +8,7 @@ from enum import Enum
 from typing import Any
 
 from backend.services.audit_service import append_audit
+from backend.services.self_improvement_service import record_execution_outcome
 
 logger = logging.getLogger(__name__)
 
@@ -121,18 +122,81 @@ class OrchestrationEngine:
                 dependencies=["task_1", "task_2"],
             ),
             Task(
-                id="task_4",
-                name="approval_risk_gate",
-                agent_type="risk_gate",
+                id="task_13",
+                name="sanctions_screening",
+                agent_type="sanctions_screening",
                 input_data=base_input,
-                dependencies=["task_2", "task_3"],
+                dependencies=["task_2"],
+            ),
+            Task(
+                id="task_14",
+                name="counterparty_identity_verification",
+                agent_type="counterparty_verification",
+                input_data=base_input,
+                dependencies=["task_2"],
+            ),
+            Task(
+                id="task_4",
+                name="web_research",
+                agent_type="web_researcher",
+                input_data=base_input,
+                dependencies=["task_3"],
             ),
             Task(
                 id="task_5",
+                name="news_research",
+                agent_type="news_researcher",
+                input_data=base_input,
+                dependencies=["task_3"],
+            ),
+            Task(
+                id="task_6",
+                name="academic_research",
+                agent_type="academic_researcher",
+                input_data=base_input,
+                dependencies=["task_3"],
+            ),
+            Task(
+                id="task_7",
+                name="evidence_quality_assessment",
+                agent_type="evidence_quality",
+                input_data=base_input,
+                dependencies=["task_4", "task_5", "task_6"],
+            ),
+            Task(
+                id="task_8",
+                name="approval_risk_gate",
+                agent_type="risk_gate",
+                input_data=base_input,
+                dependencies=["task_2", "task_3", "task_7", "task_13", "task_14"],
+            ),
+            Task(
+                id="task_9",
+                name="systems_reasoning_and_method_lenses",
+                agent_type="systems_reasoning",
+                input_data=base_input,
+                dependencies=[f"task_{task_id}" for task_id in range(1, 8)],
+            ),
+            Task(
+                id="task_10",
+                name="adversarial_counteranalysis",
+                agent_type="adversarial_critic",
+                input_data=base_input,
+                dependencies=["task_2", "task_7", "task_9", "task_13", "task_14"],
+            ),
+            Task(
+                id="task_11",
+                name="decision_and_action_judgment",
+                agent_type="decision_judge",
+                input_data=base_input,
+                dependencies=["task_7", "task_8", "task_9", "task_10"],
+            ),
+            Task(
+                id="task_12",
                 name="team_synthesis",
                 agent_type="synthesizer",
                 input_data=base_input,
-                dependencies=["task_1", "task_2", "task_3", "task_4"],
+                dependencies=[f"task_{task_id}" for task_id in range(1, 12)] + ["task_13", "task_14"],
             ),
         ]
 
@@ -195,11 +259,13 @@ class OrchestrationEngine:
         except Exception as exc:  # pragma: no cover - defensive envelope
             task.status = TaskStatus.FAILED
             task.error = str(exc)
+            if hasattr(agent, "metrics"):
+                agent.metrics["errors"] += 1
             logger.exception("Task failed: %s", task.name)
             return {"error": str(exc)}
 
     async def _synthesize_results(self, results: dict[str, Any], original_query: str) -> dict[str, Any]:
-        existing = results.get("task_5")
+        existing = results.get("task_12")
         if isinstance(existing, dict) and "error" not in existing:
             return existing
 
@@ -230,6 +296,7 @@ class OrchestrationEngine:
                 "timestamp": datetime.now().isoformat(),
             }
         )
+        record_execution_outcome(result)
 
     @staticmethod
     def _task_summaries(task_graph: list[Task]) -> list[dict[str, Any]]:
