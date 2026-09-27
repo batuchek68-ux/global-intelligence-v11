@@ -24,6 +24,10 @@ Windows 桌面入口：双击桌面上的 **Global Intelligence - 尽调核验**
 
 单次完整结果保存在 `backend/reports/due_diligence/`，GitHub workflow 会将 JSON/Markdown 上传为保留 30 天的 artifact。报告含查询与交易对手信息，应按敏感业务资料管理；不要把报告提交到仓库。
 
+如果报告中 Web provider 显示 `not_configured`，可配置 Bing 的 `BING_SEARCH_KEY` 或 Brave 的 `BRAVE_SEARCH_API_KEY` 后重新运行；不要将密钥写入请求 JSON、仓库文件或截图。GitHub Actions 请将密钥存为同名 repository secret。公开 GDELT 新闻源还需要本机/runner 能访问外网；报告会将网络错误显示为 `error (URLError)` 等状态。没有结果时先查看 provider 状态和证据条数，不要把流程的 `success` 当成搜索成功。
+
+桌面窗口会列出各智能体和检索 provider 状态，并自动打开 Markdown 报告。名单筛查会逐辖区显示官方源是否配置；企业核验会说明对应国家的登记适配器是否接入。当前这些权威适配器尚未接通，因此即使 Web 搜到了公司网页，也不能替代官方制裁名单或企业登记证明。
+
 每次成功运行会把不含查询、主体名称、别名或注册号的状态记录追加至 `memory/due_diligence_runs.jsonl`，并更新 `memory/due_diligence_learning.json` 中的累计状态、来源可用性和基于观察生成的改进建议。Actions 会只提交这两份匿名记忆文件。学习过程仅调整建议，不会自动改业务规则、名单适配器或源代码。
 
 仓库已有的 **Codex Autonomous Repair** workflow 独立负责受限的 Python 编译修复、测试验证和回滚；它不会擅自修改业务逻辑。两条 workflow 的职责不同：尽调 workflow 执行业务分析并积累匿名运行记忆，自动修复 workflow 检查和修复限定范围内的语法问题。

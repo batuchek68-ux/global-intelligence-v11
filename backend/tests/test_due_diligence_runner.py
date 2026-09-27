@@ -101,12 +101,20 @@ class DueDiligenceRunnerTests(unittest.TestCase):
                 "status": "success",
                 "execution_id": "exec-test",
                 "task_count": 14,
-                "tasks": [],
+                "tasks": [{"agent_type": "sanctions_screening", "name": "sanctions_screening", "status": "completed"}],
                 "result": {
                     "sanctions_screening": {"status": "inconclusive", "screenings": []},
                     "counterparty_verification": {"status": "unavailable", "verifications": []},
                     "risk_gate": {"needs_human_approval": True},
                     "decision": {"decision": "blocked_pending_human_approval", "action_plan": []},
+                    "evidence_quality": {
+                        "provider_status": {"bing": {"status": "not_configured", "credential_env": "BING_SEARCH_KEY"}},
+                    },
+                    "evidence_results": {
+                        "web": [{"title": "Official registry result", "url": "https://registry.example.test/entity"}],
+                        "news": [],
+                        "academic": [],
+                    },
                 },
             }
 
@@ -129,11 +137,16 @@ class DueDiligenceRunnerTests(unittest.TestCase):
                                             with redirect_stderr(StringIO()):
                                                 exit_code = run_due_diligence.main()
             report = json.loads((root / "reports" / "due_diligence_test-123.json").read_text(encoding="utf-8"))
+            markdown = (root / "reports" / "due_diligence_test-123.md").read_text(encoding="utf-8")
             learning_state = json.loads((root / "memory" / "learning.json").read_text(encoding="utf-8"))
 
         self.assertEqual(exit_code, 0)
         self.assertEqual(report["result"]["decision"]["decision"], "blocked_pending_human_approval")
         self.assertEqual(learning_state["run_count"], 1)
+        self.assertIn("## Modules", markdown)
+        self.assertIn("BING_SEARCH_KEY", markdown)
+        self.assertIn("Official registry result", markdown)
+        self.assertIn("1 result(s)", markdown)
 
 
 if __name__ == "__main__":

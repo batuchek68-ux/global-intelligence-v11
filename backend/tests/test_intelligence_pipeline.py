@@ -17,7 +17,15 @@ if str(REPO_ROOT) not in sys.path:
 from backend.services import search_service, self_improvement_service
 from backend.services.due_diligence_service import SANCTIONS_JURISDICTIONS, screen_sanctions, verify_counterparty
 from backend.workflows import system_integrity
-from core.agents import AgentPool, CounterpartyVerificationAgent, RiskGateAgent, SanctionsScreeningAgent
+from core.agents import (
+    AgentPool,
+    CounterpartyVerificationAgent,
+    EvidencePlannerAgent,
+    EvidenceQualityAgent,
+    RiskGateAgent,
+    SanctionsScreeningAgent,
+    SearchResearchAgent,
+)
 from core.orchestration import OrchestrationEngine
 
 
@@ -146,6 +154,8 @@ class IntelligencePipelineTests(unittest.IsolatedAsyncioTestCase):
                     )
 
         self.assertEqual(result["status"], "success")
+        academic_task = next(task for task in result["tasks"] if task["agent_type"] == "academic_researcher")
+        self.assertEqual(academic_task["status"], "skipped")
         response = result["result"]
         self.assertEqual(response["sanctions_screening"]["status"], "inconclusive")
         self.assertEqual(response["counterparty_verification"]["status"], "unavailable")
@@ -189,6 +199,43 @@ class SelfImprovementTests(unittest.TestCase):
 
 
 class DueDiligenceTests(unittest.TestCase):
+    def test_due_diligence_search_targets_party_and_skips_irrelevant_academic_sources(self) -> None:
+        metadata = {
+            "counterparties": [{
+                "name": "Example Trading LLC",
+                "aliases": ["Example Trading"],
+                "country": "Indonesia",
+            }],
+            "sanctions_screening_required": True,
+        }
+
+        async def run_agents() -> tuple[dict, dict, dict]:
+            planner = await EvidencePlannerAgent().execute_async(
+                {"query": "check counterparty", "metadata": metadata, "prev_task_2": {}},
+                "test-org",
+            )
+            academic = await SearchResearchAgent("academic").execute_async(
+                {"query": "check counterparty", "metadata": metadata, "prev_task_3": planner},
+                "test-org",
+            )
+            quality = await EvidenceQualityAgent().execute_async({
+                "prev_task_4": {"category": "web", "total_results": 0, "source_status": {"bing": {"status": "not_configured"}}},
+                "prev_task_5": {"category": "news", "total_results": 0, "source_status": {"gdelt": {"status": "error"}}},
+                "prev_task_6": academic,
+            }, "test-org")
+            return planner, academic, quality
+
+        planner, academic, quality = asyncio.run(run_agents())
+
+        self.assertIn("Example Trading LLC", planner["search_queries_by_category"]["web"])
+        self.assertIn("Example Trading", planner["search_queries_by_category"]["news"])
+        self.assertIn("Indonesia", planner["search_queries_by_category"]["web"])
+        self.assertNotIn("Kazakhstan", planner["search_queries_by_category"]["web"])
+        self.assertEqual(academic["status"], "skipped")
+        self.assertEqual(academic["total_results"], 0)
+        self.assertEqual(quality["quality_score"], 0)
+        self.assertTrue(quality["review_required"])
+
     def test_unresolved_due_diligence_blocks_automatic_approval(self) -> None:
         async def run_agents() -> dict:
             request = {

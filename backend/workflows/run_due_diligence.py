@@ -94,6 +94,8 @@ def _write_report(report: dict[str, Any], run_id: str) -> tuple[Path, Path]:
     counterparty = result.get("counterparty_verification", {})
     gate = result.get("risk_gate", {})
     decision = result.get("decision", {})
+    quality = result.get("evidence_quality", {})
+    evidence_results = result.get("evidence_results", {})
     lines = [
         "# Due Diligence Run",
         "",
@@ -103,20 +105,72 @@ def _write_report(report: dict[str, Any], run_id: str) -> tuple[Path, Path]:
         f"- Orchestration status: `{report['orchestration_status']}`",
         f"- Decision: `{decision.get('decision', 'unknown')}`",
         f"- Human review required: `{str(gate.get('needs_human_approval', True)).lower()}`",
+        f"- Evidence quality: `{quality.get('quality_score', 0)}`; review required: `{str(quality.get('review_required', True)).lower()}`",
+        "",
+        "## Modules",
+        "",
+    ]
+    for task in report.get("tasks", []):
+        result_status = task.get("result_status")
+        status_text = task.get("status", "unknown")
+        if result_status and result_status != status_text:
+            status_text = f"{status_text} / result: {result_status}"
+        detail = f" ({task['detail']})" if task.get("detail") else ""
+        lines.append(f"- `{task.get('agent_type', 'unknown')}` / {task.get('name', 'unknown')}: **{status_text}**{detail}")
+
+    lines.extend(["", "## Search Sources", ""])
+    provider_status = quality.get("provider_status", {})
+    for provider, status in sorted(provider_status.items()):
+        detail = status.get("credential_env") or status.get("error") or ""
+        suffix = f" ({detail})" if detail else ""
+        lines.append(f"- `{provider}`: `{status.get('status', 'unknown')}`{suffix}")
+    if not provider_status:
+        lines.append("- No search source status was reported.")
+
+    lines.extend(["", "## Evidence", ""])
+    evidence_count = 0
+    for category in ("web", "news", "academic"):
+        items = evidence_results.get(category, [])
+        lines.append(f"- `{category}`: {len(items)} result(s)")
+        evidence_count += len(items)
+    if evidence_count:
+        lines.append("")
+        for category in ("web", "news", "academic"):
+            for item in evidence_results.get(category, [])[:10]:
+                lines.append(f"- [{item.get('title', 'Untitled source')}]({item.get('url', '')}) ({category}, {item.get('source', 'unknown')})")
+    else:
+        lines.append("- No relevant evidence was returned. Check source status above; a successful workflow run does not mean search returned results.")
+
+    lines.extend([
         "",
         "## Sanctions Screening",
         "",
         f"- Status: `{sanctions.get('status', 'missing')}`",
-        "- This is not legal clearance. Each individual result and source limitation is in the JSON artifact.",
+        "- This is not legal clearance.",
         "",
         "## Counterparty Verification",
         "",
         f"- Status: `{counterparty.get('status', 'missing')}`",
         "- Identity verification does not establish creditworthiness or performance capability.",
         "",
+        "### Official Source Coverage",
+        "",
+    ])
+    for screening in sanctions.get("screenings", []):
+        for jurisdiction, source in screening.get("source_status", {}).items():
+            detail = source.get("error") or source.get("source_url") or "No adapter configured"
+            lines.append(f"- Sanctions `{jurisdiction}`: `{source.get('status', 'unknown')}` ({detail})")
+        for limitation in screening.get("limitations", []):
+            lines.append(f"- Limitation: {limitation}")
+    for verification in counterparty.get("verifications", []):
+        for limitation in verification.get("limitations", []):
+            lines.append(f"- Registry limitation: {limitation}")
+
+    lines.extend([
+        "",
         "## Next Steps",
         "",
-    ]
+    ])
     for item in decision.get("action_plan", []):
         lines.append(f"- **{item.get('priority', 'normal')}** {item.get('action', 'Review result')}")
     if report.get("learning_recommendations"):
@@ -189,6 +243,29 @@ def main() -> int:
     print(f"Sanctions: {result.get('sanctions_screening', {}).get('status', 'missing')}")
     print(f"Counterparty identity: {result.get('counterparty_verification', {}).get('status', 'missing')}")
     print(f"Human review required: {result.get('risk_gate', {}).get('needs_human_approval', True)}")
+    quality = result.get("evidence_quality", {})
+    print(f"Evidence quality: {quality.get('quality_score', 0)}; review required: {quality.get('review_required', True)}")
+    print("Modules:")
+    for task in orchestration.get("tasks", []):
+        result_status = task.get("result_status")
+        status_text = task.get("status", "unknown")
+        if result_status and result_status != status_text:
+            status_text = f"{status_text} / result: {result_status}"
+        detail = f" ({task['detail']})" if task.get("detail") else ""
+        print(f"  - {task.get('agent_type', 'unknown')}: {status_text}{detail}")
+    quality = result.get("evidence_quality", {})
+    evidence_results = result.get("evidence_results", {})
+    print("Evidence:")
+    for category in ("web", "news", "academic"):
+        items = evidence_results.get(category, [])
+        print(f"  - {category}: {len(items)} result(s)")
+    print("Search providers:")
+    for provider, status in sorted(quality.get("provider_status", {}).items()):
+        detail = status.get("credential_env") or status.get("error")
+        suffix = f" ({detail})" if detail else ""
+        print(f"  - {provider}: {status.get('status', 'unknown')}{suffix}")
+    if not any(evidence_results.get(category) for category in ("web", "news", "academic")):
+        print("  No research results returned. Configure web search credentials or check network access.")
     print(f"Reports: {json_path}, {markdown_path}")
     print(f"Anonymized learning runs recorded: {learning['run_count']}")
     return 0

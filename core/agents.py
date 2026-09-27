@@ -116,10 +116,61 @@ class EvidencePlannerAgent(BaseAgent):
         query = str(input_data.get("query") or "")
         metadata = input_data.get("metadata") if isinstance(input_data.get("metadata"), dict) else {}
         extracted = input_data.get("prev_task_2", {})
-        country = str(metadata.get("country") or (extracted.get("countries") or ["Kazakhstan"])[0])
+        parties = metadata.get("counterparties", [])
+        if isinstance(parties, dict):
+            parties = [parties]
+        party_country = next((
+            party.get("country")
+            for party in parties
+            if isinstance(party, dict) and isinstance(party.get("country"), str) and party["country"].strip()
+        ), "") if isinstance(parties, list) else ""
+        country = str(metadata.get("country") or party_country or (extracted.get("countries") or ["Kazakhstan"])[0])
+        named_entities = []
+        if isinstance(parties, list):
+            for party in parties:
+                if not isinstance(party, dict):
+                    continue
+                names = [party.get("name", "")]
+                aliases = party.get("aliases", [])
+                if isinstance(aliases, list):
+                    names.extend(aliases)
+                named_entities.extend(name.strip() for name in names if isinstance(name, str) and name.strip())
+        search_terms = list(dict.fromkeys(named_entities))[:4]
+        subject = " OR ".join(f'"{name}"' for name in search_terms)
+        target = f'({subject}) {country}'.strip() if subject else f'{country} "{query}"'
+        due_diligence_mode = bool(subject or metadata.get("sanctions_screening_required") or extracted.get("risk_terms"))
+        if due_diligence_mode:
+            search_queries = [
+                f'{target} official company registry registration number legal entity',
+                f'{target} sanctions ownership beneficial owner official',
+                f'{target} company registry registration official government',
+                f'{target} procurement contract project owner official',
+                f'{target} news sanctions litigation',
+                f'{target} YouTube TikTok Telegram public attention',
+            ]
+            category_queries = {
+                "web": f'{target} official company registry registration sanctions regulator',
+                "news": f'{target} company contract sanctions litigation news',
+                "academic": f'{target} business ownership company due diligence',
+            }
+        else:
+            search_queries = [
+                f'{country} "{query}" official government project owner developer',
+                f'{country} "{query}" tender procurement EPC contractor',
+                f'{country} customs HS code tariff import documents "{query}"',
+                f'{country} investment promotion "{query}" investor developer official',
+                f'{country} "{query}" feasibility study EIA ministry akimat',
+                f'{country} "{query}" YouTube TikTok Douyin Telegram forum public attention',
+            ]
+            category_queries = {
+                "web": f'{country} "{query}" official government procurement regulator',
+                "news": f'{country} "{query}" infrastructure trade project news',
+                "academic": f'{country} "{query}" feasibility study technical research',
+            }
         return self._done(
             {
                 "country": country,
+                "counterparty_search_terms": named_entities,
                 "required_sources": [
                     "government project page",
                     "official procurement or tender page",
@@ -128,19 +179,8 @@ class EvidencePlannerAgent(BaseAgent):
                     "academic, patent, library, or standards source for technical feasibility",
                     "reputable media plus social/video signals for attention tracking only",
                 ],
-                "search_queries": [
-                    f'{country} "{query}" official government project owner developer',
-                    f'{country} "{query}" tender procurement EPC contractor',
-                    f'{country} customs HS code tariff import documents "{query}"',
-                    f'{country} investment promotion "{query}" investor developer official',
-                    f'{country} "{query}" feasibility study EIA ministry akimat',
-                    f'{country} "{query}" YouTube TikTok Douyin Telegram forum public attention',
-                ],
-                "search_queries_by_category": {
-                    "web": f'{country} "{query}" official government procurement regulator',
-                    "news": f'{country} "{query}" infrastructure trade project news',
-                    "academic": f'{country} "{query}" feasibility study technical research',
-                },
+                "search_queries": search_queries,
+                "search_queries_by_category": category_queries,
                 "evidence_rule": "Government, customs, procurement, regulator, and official company pages are required before outreach or feasibility conclusions.",
             }
         )
@@ -282,18 +322,37 @@ class SearchResearchAgent(BaseAgent):
         del org_id
         query = str(input_data.get("query") or "").strip()
         plan = input_data.get("prev_task_3", {})
-        queries = [query] if query else []
+        metadata = input_data.get("metadata") if isinstance(input_data.get("metadata"), dict) else {}
+        parties = metadata.get("counterparties", [])
+        if isinstance(parties, dict):
+            parties = [parties]
+        due_diligence_mode = bool(parties) or bool(metadata.get("sanctions_screening_required"))
+        if self.category == "academic" and due_diligence_mode:
+            return self._done({
+                "category": self.category,
+                "queries_used": [],
+                "results": {self.category: []},
+                "total_results": 0,
+                "source_status": {},
+                "iterations": 0,
+                "status": "skipped",
+                "skip_reason": "Academic literature is not an identity or sanctions source.",
+            })
+
+        queries = []
         by_category = plan.get("search_queries_by_category", {})
         if isinstance(by_category, dict):
             category_query = str(by_category.get(self.category) or "").strip()
-            if category_query and category_query not in queries:
+            if category_query:
                 queries.append(category_query)
         planned = plan.get("search_queries", [])
-        fallback_index = {"web": 0, "news": 5, "academic": 4}.get(self.category, 0)
+        fallback_index = {"web": 0, "news": 4 if due_diligence_mode else 5, "academic": 4}.get(self.category, 0)
         if isinstance(planned, list) and len(planned) > fallback_index:
             fallback = str(planned[fallback_index]).strip()
             if fallback and fallback not in queries:
                 queries.append(fallback)
+        if query and query not in queries:
+            queries.append(query)
 
         reports = []
         for search_query in queries[:2]:

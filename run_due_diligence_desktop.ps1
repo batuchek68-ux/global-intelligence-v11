@@ -24,7 +24,15 @@ if (-not $query.Trim()) {
 }
 
 $name = Read-RequiredValue '交易对手法定名称'
+while ($name -match '^\d+$' -or $name -notmatch '\p{L}') {
+    Write-Host '不能使用纯数字作为公司名称；请输入真实法定名称。' -ForegroundColor Yellow
+    $name = Read-RequiredValue '交易对手法定名称'
+}
 $country = Read-RequiredValue '注册国家/地区（例如 Kazakhstan）'
+while ($country -match '^\d+$' -or $country -notmatch '\p{L}') {
+    Write-Host '请输入国家/地区名称，不要使用纯数字占位。' -ForegroundColor Yellow
+    $country = Read-RequiredValue '注册国家/地区（例如 Kazakhstan）'
+}
 $aliasesText = Read-Host '别名（可选，多个用英文逗号分隔）'
 $registrationNumber = Read-Host '注册号（可选）'
 $aliases = @()
@@ -66,6 +74,13 @@ $request = @{
 $requestPath = Join-Path ([System.IO.Path]::GetTempPath()) ("global-intelligence-due-diligence-{0}.json" -f [guid]::NewGuid())
 $json = $request | ConvertTo-Json -Depth 8
 [System.IO.File]::WriteAllText($requestPath, $json, [System.Text.UTF8Encoding]::new($false))
+$runId = 'desktop-' + (Get-Date -Format 'yyyyMMdd-HHmmss')
+$previousRunId = $env:GITHUB_RUN_ID
+$env:GITHUB_RUN_ID = $runId
+
+if (-not $env:BING_SEARCH_KEY -and -not $env:BRAVE_SEARCH_API_KEY) {
+    Write-Host '提示：BING_SEARCH_KEY/BRAVE_SEARCH_API_KEY 均未配置，Web 公司资料搜索可能无结果。' -ForegroundColor Yellow
+}
 
 try {
     Write-Host ''
@@ -75,6 +90,11 @@ try {
 }
 finally {
     Remove-Item $requestPath -Force -ErrorAction SilentlyContinue
+    if ($null -eq $previousRunId) {
+        Remove-Item Env:\GITHUB_RUN_ID -ErrorAction SilentlyContinue
+    } else {
+        $env:GITHUB_RUN_ID = $previousRunId
+    }
 }
 
 Write-Host ''
@@ -84,6 +104,11 @@ if ($runExitCode -ne 0) {
     Write-Host '本次执行未完成，请查看上方错误信息。' -ForegroundColor Red
 } else {
     Write-Host '运行结束。未决或不可用的权威来源需要人工复核。' -ForegroundColor Green
+}
+$markdownReport = Join-Path $projectRoot ("backend\reports\due_diligence\due_diligence_{0}.md" -f $runId)
+if (Test-Path $markdownReport) {
+    Write-Host '正在打开本次详细报告……' -ForegroundColor Cyan
+    Start-Process -FilePath 'notepad.exe' -ArgumentList ('"' + $markdownReport + '"')
 }
 Read-Host '按回车关闭窗口' | Out-Null
 exit $runExitCode

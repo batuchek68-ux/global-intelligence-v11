@@ -300,13 +300,20 @@ class OrchestrationEngine:
 
     @staticmethod
     def _task_summaries(task_graph: list[Task]) -> list[dict[str, Any]]:
-        return [
-            {
+        summaries = []
+        for task in task_graph:
+            result_status = task.result.get("status") if isinstance(task.result, dict) else None
+            summaries.append({
                 "id": task.id,
                 "name": task.name,
                 "agent_type": task.agent_type,
-                "status": task.status.value,
+                "status": result_status if result_status == "skipped" else task.status.value,
+                "result_status": result_status,
+                "detail": (
+                    task.result.get("reason") or task.result.get("skip_reason")
+                    if isinstance(task.result, dict)
+                    else task.error
+                ),
                 "dependencies": task.dependencies,
-            }
-            for task in task_graph
-        ]
+            })
+        return summaries
