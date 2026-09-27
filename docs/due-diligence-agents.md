@@ -18,6 +18,8 @@ python -m pip install -r requirements.txt
 python backend/workflows/run_due_diligence.py --input path/to/request.json
 ```
 
+Windows 桌面入口：双击桌面上的 **Global Intelligence - 尽调核验** 图标，按提示填写事项、法定名称和国家/地区，别名及注册号可留空。仓库中的 `run_due_diligence_desktop.ps1` 是启动器；更换仓库位置后需重新创建快捷方式并将其指向新位置。
+
 `request.json` 使用下方的 v12 请求结构。GitHub Actions 中手动运行 **Due Diligence Review**，将同一 JSON 对象作为 `request_json` 输入。可选配置 `BING_SEARCH_KEY` 和 `BRAVE_SEARCH_API_KEY` 来支持一般网页研究；这些搜索源不等同于制裁名单或官方企业登记源。
 
 单次完整结果保存在 `backend/reports/due_diligence/`，GitHub workflow 会将 JSON/Markdown 上传为保留 30 天的 artifact。报告含查询与交易对手信息，应按敏感业务资料管理；不要把报告提交到仓库。
