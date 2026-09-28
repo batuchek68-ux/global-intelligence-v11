@@ -1,127 +1,127 @@
 {
   "keywords": [
     [
-      "city",
-      4
-    ],
-    [
-      "iran",
-      4
-    ],
-    [
-      "says",
-      4
-    ],
-    [
-      "from",
-      4
-    ],
-    [
       "after",
-      3
-    ],
-    [
-      "found",
-      3
-    ],
-    [
-      "conference",
-      3
-    ],
-    [
-      "bangkok",
-      3
-    ],
-    [
-      "why",
-      3
-    ],
-    [
-      "could",
-      3
-    ],
-    [
-      "before",
-      3
-    ],
-    [
-      "israel",
-      3
-    ],
-    [
-      "man",
-      2
-    ],
-    [
-      "guilty",
-      2
-    ],
-    [
-      "over",
-      2
-    ],
-    [
-      "rule",
-      2
-    ],
-    [
-      "who",
-      2
-    ],
-    [
-      "labour",
-      2
+      5
     ],
     [
       "police",
+      4
+    ],
+    [
+      "watch",
+      3
+    ],
+    [
+      "from",
+      3
+    ],
+    [
+      "how",
+      3
+    ],
+    [
+      "over",
+      3
+    ],
+    [
+      "israeli",
+      3
+    ],
+    [
+      "raf",
       2
     ],
     [
-      "disaster",
+      "says",
+      2
+    ],
+    [
+      "new",
+      2
+    ],
+    [
+      "orange",
+      2
+    ],
+    [
+      "order",
+      2
+    ],
+    [
+      "three",
+      2
+    ],
+    [
+      "child",
+      2
+    ],
+    [
+      "channel",
+      2
+    ],
+    [
+      "crossing",
+      2
+    ],
+    [
+      "attempt",
+      2
+    ],
+    [
+      "care",
+      2
+    ],
+    [
+      "home",
+      2
+    ],
+    [
+      "bbc",
       2
     ]
   ],
   "topics": [
     {
-      "name": "city",
+      "name": "after",
+      "count": 5
+    },
+    {
+      "name": "police",
       "count": 4
     },
     {
-      "name": "iran",
-      "count": 4
-    },
-    {
-      "name": "says",
-      "count": 4
+      "name": "watch",
+      "count": 3
     },
     {
       "name": "from",
-      "count": 4
-    },
-    {
-      "name": "after",
       "count": 3
     },
     {
-      "name": "found",
+      "name": "how",
       "count": 3
     },
     {
-      "name": "conference",
+      "name": "over",
       "count": 3
     },
     {
-      "name": "bangkok",
+      "name": "israeli",
       "count": 3
     },
     {
-      "name": "why",
-      "count": 3
+      "name": "raf",
+      "count": 2
     },
     {
-      "name": "could",
-      "count": 3
+      "name": "says",
+      "count": 2
+    },
+    {
+      "name": "new",
+      "count": 2
     }
   ],
-  "updated_at": "2026-09-26 11:05:45.406401"
+  "updated_at": "2026-09-28 13:23:47.899402"
 }
