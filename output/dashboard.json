@@ -1,59 +1,43 @@
 {
   "keywords": [
     [
-      "raf",
+      "after",
       5
     ],
     [
-      "near",
+      "police",
       4
-    ],
-    [
-      "ireland",
-      4
-    ],
-    [
-      "new",
-      4
-    ],
-    [
-      "arrested",
-      3
-    ],
-    [
-      "fairford",
-      3
     ],
     [
       "watch",
       3
     ],
     [
-      "war",
+      "from",
       3
     ],
     [
-      "israel",
+      "how",
       3
     ],
     [
-      "action",
+      "over",
       3
     ],
     [
-      "five",
+      "israeli",
+      3
+    ],
+    [
+      "raf",
       2
     ],
     [
-      "counterterror",
+      "says",
       2
     ],
     [
-      "police",
-      2
-    ],
-    [
-      "protesters",
+      "new",
       2
     ],
     [
@@ -65,63 +49,79 @@
       2
     ],
     [
-      "yemens",
+      "three",
       2
     ],
     [
-      "frontline",
+      "child",
       2
     ],
     [
-      "from",
+      "channel",
       2
     ],
     [
-      "have",
+      "crossing",
+      2
+    ],
+    [
+      "attempt",
+      2
+    ],
+    [
+      "care",
+      2
+    ],
+    [
+      "home",
+      2
+    ],
+    [
+      "bbc",
       2
     ]
   ],
   "topics": [
     {
-      "name": "raf",
+      "name": "after",
       "count": 5
     },
     {
-      "name": "near",
+      "name": "police",
       "count": 4
-    },
-    {
-      "name": "ireland",
-      "count": 4
-    },
-    {
-      "name": "new",
-      "count": 4
-    },
-    {
-      "name": "arrested",
-      "count": 3
-    },
-    {
-      "name": "fairford",
-      "count": 3
     },
     {
       "name": "watch",
       "count": 3
     },
     {
-      "name": "war",
+      "name": "from",
       "count": 3
     },
     {
-      "name": "israel",
+      "name": "how",
       "count": 3
     },
     {
-      "name": "action",
+      "name": "over",
       "count": 3
+    },
+    {
+      "name": "israeli",
+      "count": 3
+    },
+    {
+      "name": "raf",
+      "count": 2
+    },
+    {
+      "name": "says",
+      "count": 2
+    },
+    {
+      "name": "new",
+      "count": 2
     }
   ],
-  "updated_at": "2026-09-28 04:40:01.610258"
+  "updated_at": "2026-09-28 13:23:47.899402"
 }
