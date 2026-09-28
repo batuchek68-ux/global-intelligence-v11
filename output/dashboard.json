@@ -1,27 +1,23 @@
 {
   "keywords": [
     [
-      "after",
-      7
+      "raf",
+      5
     ],
     [
-      "over",
-      5
+      "near",
+      4
     ],
     [
       "ireland",
       4
     ],
     [
-      "says",
+      "new",
       4
     ],
     [
-      "big",
-      4
-    ],
-    [
-      "raf",
+      "arrested",
       3
     ],
     [
@@ -29,19 +25,23 @@
       3
     ],
     [
+      "watch",
+      3
+    ],
+    [
+      "war",
+      3
+    ],
+    [
       "israel",
       3
     ],
     [
-      "two",
+      "action",
       3
     ],
     [
-      "south",
-      3
-    ],
-    [
-      "arrested",
+      "five",
       2
     ],
     [
@@ -49,23 +49,11 @@
       2
     ],
     [
-      "near",
+      "police",
       2
     ],
     [
-      "burnham",
-      2
-    ],
-    [
-      "social",
-      2
-    ],
-    [
-      "care",
-      2
-    ],
-    [
-      "england",
+      "protesters",
       2
     ],
     [
@@ -77,33 +65,41 @@
       2
     ],
     [
-      "march",
+      "yemens",
+      2
+    ],
+    [
+      "frontline",
+      2
+    ],
+    [
+      "from",
+      2
+    ],
+    [
+      "have",
       2
     ]
   ],
   "topics": [
     {
-      "name": "after",
-      "count": 7
+      "name": "raf",
+      "count": 5
     },
     {
-      "name": "over",
-      "count": 5
+      "name": "near",
+      "count": 4
     },
     {
       "name": "ireland",
       "count": 4
     },
     {
-      "name": "says",
+      "name": "new",
       "count": 4
     },
     {
-      "name": "big",
-      "count": 4
-    },
-    {
-      "name": "raf",
+      "name": "arrested",
       "count": 3
     },
     {
@@ -111,17 +107,21 @@
       "count": 3
     },
     {
+      "name": "watch",
+      "count": 3
+    },
+    {
+      "name": "war",
+      "count": 3
+    },
+    {
       "name": "israel",
       "count": 3
     },
     {
-      "name": "two",
-      "count": 3
-    },
-    {
-      "name": "south",
+      "name": "action",
       "count": 3
     }
   ],
-  "updated_at": "2026-09-27 21:08:27.548014"
+  "updated_at": "2026-09-28 04:40:01.610258"
 }
