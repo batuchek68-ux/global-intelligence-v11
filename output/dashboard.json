@@ -1,11 +1,11 @@
 {
   "keywords": [
     [
-      "after",
-      5
+      "what",
+      6
     ],
     [
-      "police",
+      "after",
       4
     ],
     [
@@ -13,19 +13,7 @@
       3
     ],
     [
-      "from",
-      3
-    ],
-    [
       "how",
-      3
-    ],
-    [
-      "over",
-      3
-    ],
-    [
-      "israeli",
       3
     ],
     [
@@ -33,61 +21,73 @@
       2
     ],
     [
+      "fairford",
+      2
+    ],
+    [
+      "released",
+      2
+    ],
+    [
+      "are",
+      2
+    ],
+    [
+      "diesel",
+      2
+    ],
+    [
+      "export",
+      2
+    ],
+    [
+      "ban",
+      2
+    ],
+    [
+      "can",
+      2
+    ],
+    [
+      "young",
+      2
+    ],
+    [
       "says",
       2
     ],
     [
-      "new",
+      "women",
       2
     ],
     [
-      "orange",
+      "iran",
       2
     ],
     [
-      "order",
+      "court",
       2
     ],
     [
-      "three",
+      "have",
       2
     ],
     [
-      "child",
+      "south",
       2
     ],
     [
-      "channel",
-      2
-    ],
-    [
-      "crossing",
-      2
-    ],
-    [
-      "attempt",
-      2
-    ],
-    [
-      "care",
-      2
-    ],
-    [
-      "home",
-      2
-    ],
-    [
-      "bbc",
+      "heres",
       2
     ]
   ],
   "topics": [
     {
-      "name": "after",
-      "count": 5
+      "name": "what",
+      "count": 6
     },
     {
-      "name": "police",
+      "name": "after",
       "count": 4
     },
     {
@@ -95,19 +95,7 @@
       "count": 3
     },
     {
-      "name": "from",
-      "count": 3
-    },
-    {
       "name": "how",
-      "count": 3
-    },
-    {
-      "name": "over",
-      "count": 3
-    },
-    {
-      "name": "israeli",
       "count": 3
     },
     {
@@ -115,13 +103,25 @@
       "count": 2
     },
     {
-      "name": "says",
+      "name": "fairford",
       "count": 2
     },
     {
-      "name": "new",
+      "name": "released",
+      "count": 2
+    },
+    {
+      "name": "are",
+      "count": 2
+    },
+    {
+      "name": "diesel",
+      "count": 2
+    },
+    {
+      "name": "export",
       "count": 2
     }
   ],
-  "updated_at": "2026-09-28 13:23:47.899402"
+  "updated_at": "2026-09-28 23:04:56.458693"
 }
