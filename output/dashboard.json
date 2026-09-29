@@ -1,31 +1,35 @@
 {
   "keywords": [
     [
-      "over",
-      5
+      "from",
+      4
     ],
     [
-      "says",
+      "police",
+      4
+    ],
+    [
+      "burnham",
       3
     ],
     [
-      "what",
+      "triple",
       3
     ],
     [
-      "investigation",
+      "lock",
       3
     ],
     [
-      "safety",
+      "speech",
       3
     ],
     [
-      "why",
+      "man",
       3
     ],
     [
-      "are",
+      "city",
       3
     ],
     [
@@ -33,81 +37,81 @@
       3
     ],
     [
-      "back",
-      3
-    ],
-    [
-      "malaysia",
-      3
-    ],
-    [
-      "rohingya",
-      3
-    ],
-    [
       "raf",
-      2
+      3
     ],
     [
       "fairford",
+      3
+    ],
+    [
+      "after",
+      3
+    ],
+    [
+      "burnhams",
+      3
+    ],
+    [
+      "gaza",
+      3
+    ],
+    [
+      "pension",
       2
     ],
     [
-      "incident",
+      "care",
       2
     ],
     [
-      "foreign",
+      "with",
       2
     ],
     [
-      "actor",
+      "guilty",
       2
     ],
     [
-      "rubio",
+      "found",
       2
     ],
     [
-      "bbc",
-      2
-    ],
-    [
-      "its",
-      2
-    ],
-    [
-      "body",
+      "three",
       2
     ]
   ],
   "topics": [
     {
-      "name": "over",
-      "count": 5
+      "name": "from",
+      "count": 4
     },
     {
-      "name": "says",
+      "name": "police",
+      "count": 4
+    },
+    {
+      "name": "burnham",
       "count": 3
     },
     {
-      "name": "what",
+      "name": "triple",
       "count": 3
     },
     {
-      "name": "investigation",
+      "name": "lock",
       "count": 3
     },
     {
-      "name": "safety",
+      "name": "speech",
       "count": 3
     },
     {
-      "name": "why",
+      "name": "man",
       "count": 3
     },
     {
-      "name": "are",
+      "name": "city",
       "count": 3
     },
     {
@@ -115,13 +119,9 @@
       "count": 3
     },
     {
-      "name": "back",
-      "count": 3
-    },
-    {
-      "name": "malaysia",
+      "name": "raf",
       "count": 3
     }
   ],
-  "updated_at": "2026-09-29 12:28:20.753739"
+  "updated_at": "2026-09-29 22:03:38.706206"
 }
