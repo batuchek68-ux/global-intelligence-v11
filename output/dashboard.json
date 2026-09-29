@@ -1,20 +1,40 @@
 {
   "keywords": [
     [
-      "what",
-      6
+      "are",
+      5
     ],
     [
-      "after",
-      4
-    ],
-    [
-      "watch",
+      "over",
       3
     ],
     [
-      "how",
+      "concerns",
       3
+    ],
+    [
+      "says",
+      3
+    ],
+    [
+      "risk",
+      3
+    ],
+    [
+      "talks",
+      3
+    ],
+    [
+      "openai",
+      2
+    ],
+    [
+      "model",
+      2
+    ],
+    [
+      "safety",
+      2
     ],
     [
       "raf",
@@ -25,19 +45,31 @@
       2
     ],
     [
-      "released",
+      "police",
       2
     ],
     [
-      "are",
+      "home",
       2
     ],
     [
-      "diesel",
+      "report",
       2
     ],
     [
-      "export",
+      "finds",
+      2
+    ],
+    [
+      "they",
+      2
+    ],
+    [
+      "late",
+      2
+    ],
+    [
+      "more",
       2
     ],
     [
@@ -45,83 +77,51 @@
       2
     ],
     [
-      "can",
-      2
-    ],
-    [
-      "young",
-      2
-    ],
-    [
-      "says",
-      2
-    ],
-    [
-      "women",
-      2
-    ],
-    [
-      "iran",
-      2
-    ],
-    [
-      "court",
-      2
-    ],
-    [
-      "have",
-      2
-    ],
-    [
-      "south",
-      2
-    ],
-    [
-      "heres",
+      "war",
       2
     ]
   ],
   "topics": [
     {
-      "name": "what",
-      "count": 6
+      "name": "are",
+      "count": 5
     },
     {
-      "name": "after",
-      "count": 4
-    },
-    {
-      "name": "watch",
+      "name": "over",
       "count": 3
     },
     {
-      "name": "how",
+      "name": "concerns",
       "count": 3
+    },
+    {
+      "name": "says",
+      "count": 3
+    },
+    {
+      "name": "risk",
+      "count": 3
+    },
+    {
+      "name": "talks",
+      "count": 3
+    },
+    {
+      "name": "openai",
+      "count": 2
+    },
+    {
+      "name": "model",
+      "count": 2
+    },
+    {
+      "name": "safety",
+      "count": 2
     },
     {
       "name": "raf",
       "count": 2
-    },
-    {
-      "name": "fairford",
-      "count": 2
-    },
-    {
-      "name": "released",
-      "count": 2
-    },
-    {
-      "name": "are",
-      "count": 2
-    },
-    {
-      "name": "diesel",
-      "count": 2
-    },
-    {
-      "name": "export",
-      "count": 2
     }
   ],
-  "updated_at": "2026-09-28 23:04:56.458693"
+  "updated_at": "2026-09-29 05:07:00.228744"
 }
