@@ -1,11 +1,19 @@
 {
   "keywords": [
     [
-      "after",
-      5
+      "who",
+      4
     ],
     [
-      "korea",
+      "after",
+      4
+    ],
+    [
+      "how",
+      4
+    ],
+    [
+      "flydubai",
       4
     ],
     [
@@ -13,19 +21,39 @@
       3
     ],
     [
+      "stabbing",
+      3
+    ],
+    [
+      "israeli",
+      3
+    ],
+    [
       "over",
       3
     ],
     [
-      "that",
-      3
+      "dame",
+      2
     ],
     [
-      "four",
-      3
+      "esther",
+      2
     ],
     [
-      "burnham",
+      "rantzen",
+      2
+    ],
+    [
+      "raf",
+      2
+    ],
+    [
+      "fairford",
+      2
+    ],
+    [
+      "incident",
       2
     ],
     [
@@ -33,61 +61,41 @@
       2
     ],
     [
-      "men",
+      "warns",
       2
     ],
     [
-      "near",
+      "that",
       2
     ],
     [
-      "school",
+      "possible",
       2
     ],
     [
-      "against",
+      "tells",
       2
     ],
     [
-      "man",
-      2
-    ],
-    [
-      "city",
-      2
-    ],
-    [
-      "strike",
-      2
-    ],
-    [
-      "last",
-      2
-    ],
-    [
-      "mum",
-      2
-    ],
-    [
-      "more",
-      2
-    ],
-    [
-      "energy",
-      2
-    ],
-    [
-      "social",
+      "our",
       2
     ]
   ],
   "topics": [
     {
-      "name": "after",
-      "count": 5
+      "name": "who",
+      "count": 4
     },
     {
-      "name": "korea",
+      "name": "after",
+      "count": 4
+    },
+    {
+      "name": "how",
+      "count": 4
+    },
+    {
+      "name": "flydubai",
       "count": 4
     },
     {
@@ -95,33 +103,25 @@
       "count": 3
     },
     {
+      "name": "stabbing",
+      "count": 3
+    },
+    {
+      "name": "israeli",
+      "count": 3
+    },
+    {
       "name": "over",
       "count": 3
     },
     {
-      "name": "that",
-      "count": 3
-    },
-    {
-      "name": "four",
-      "count": 3
-    },
-    {
-      "name": "burnham",
+      "name": "dame",
       "count": 2
     },
     {
-      "name": "one",
-      "count": 2
-    },
-    {
-      "name": "men",
-      "count": 2
-    },
-    {
-      "name": "near",
+      "name": "esther",
       "count": 2
     }
   ],
-  "updated_at": "2026-09-30 12:13:22.027178"
+  "updated_at": "2026-09-30 22:02:33.576065"
 }
