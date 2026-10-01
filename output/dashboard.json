@@ -1,11 +1,11 @@
 {
   "keywords": [
     [
-      "says",
-      6
+      "after",
+      8
     ],
     [
-      "after",
+      "will",
       4
     ],
     [
@@ -17,43 +17,51 @@
       4
     ],
     [
-      "israeli",
-      4
-    ],
-    [
-      "flydubai",
-      4
-    ],
-    [
-      "iran",
-      4
-    ],
-    [
-      "about",
+      "early",
       3
     ],
     [
-      "passenger",
+      "execution",
       3
     ],
     [
-      "stabbing",
+      "failed",
       3
     ],
     [
-      "how",
+      "children",
       3
     ],
     [
-      "trump",
+      "attack",
       3
     ],
     [
-      "death",
+      "says",
+      3
+    ],
+    [
+      "indian",
+      3
+    ],
+    [
+      "who",
+      3
+    ],
+    [
+      "our",
       2
     ],
     [
-      "christa",
+      "being",
+      2
+    ],
+    [
+      "freed",
+      2
+    ],
+    [
+      "attempt",
       2
     ],
     [
@@ -61,33 +69,25 @@
       2
     ],
     [
-      "esther",
+      "christa",
       2
     ],
     [
-      "rantzen",
+      "pike",
       2
     ],
     [
-      "boom",
-      2
-    ],
-    [
-      "could",
-      2
-    ],
-    [
-      "warns",
+      "next",
       2
     ]
   ],
   "topics": [
     {
-      "name": "says",
-      "count": 6
+      "name": "after",
+      "count": 8
     },
     {
-      "name": "after",
+      "name": "will",
       "count": 4
     },
     {
@@ -99,29 +99,29 @@
       "count": 4
     },
     {
-      "name": "israeli",
-      "count": 4
-    },
-    {
-      "name": "flydubai",
-      "count": 4
-    },
-    {
-      "name": "iran",
-      "count": 4
-    },
-    {
-      "name": "about",
+      "name": "early",
       "count": 3
     },
     {
-      "name": "passenger",
+      "name": "execution",
       "count": 3
     },
     {
-      "name": "stabbing",
+      "name": "failed",
+      "count": 3
+    },
+    {
+      "name": "children",
+      "count": 3
+    },
+    {
+      "name": "attack",
+      "count": 3
+    },
+    {
+      "name": "says",
       "count": 3
     }
   ],
-  "updated_at": "2026-10-01 05:07:20.162975"
+  "updated_at": "2026-10-01 12:48:07.202894"
 }
