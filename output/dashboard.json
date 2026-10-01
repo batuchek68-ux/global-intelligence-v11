@@ -1,15 +1,23 @@
 {
   "keywords": [
     [
-      "who",
-      4
+      "says",
+      6
     ],
     [
       "after",
       4
     ],
     [
-      "how",
+      "what",
+      4
+    ],
+    [
+      "flight",
+      4
+    ],
+    [
+      "israeli",
       4
     ],
     [
@@ -17,7 +25,15 @@
       4
     ],
     [
-      "says",
+      "iran",
+      4
+    ],
+    [
+      "about",
+      3
+    ],
+    [
+      "passenger",
       3
     ],
     [
@@ -25,15 +41,23 @@
       3
     ],
     [
-      "israeli",
+      "how",
       3
     ],
     [
-      "over",
+      "trump",
       3
     ],
     [
-      "dame",
+      "death",
+      2
+    ],
+    [
+      "christa",
+      2
+    ],
+    [
+      "lethal",
       2
     ],
     [
@@ -45,53 +69,37 @@
       2
     ],
     [
-      "raf",
+      "boom",
       2
     ],
     [
-      "fairford",
-      2
-    ],
-    [
-      "incident",
-      2
-    ],
-    [
-      "one",
+      "could",
       2
     ],
     [
       "warns",
       2
-    ],
-    [
-      "that",
-      2
-    ],
-    [
-      "possible",
-      2
-    ],
-    [
-      "tells",
-      2
-    ],
-    [
-      "our",
-      2
     ]
   ],
   "topics": [
     {
-      "name": "who",
-      "count": 4
+      "name": "says",
+      "count": 6
     },
     {
       "name": "after",
       "count": 4
     },
     {
-      "name": "how",
+      "name": "what",
+      "count": 4
+    },
+    {
+      "name": "flight",
+      "count": 4
+    },
+    {
+      "name": "israeli",
       "count": 4
     },
     {
@@ -99,29 +107,21 @@
       "count": 4
     },
     {
-      "name": "says",
+      "name": "iran",
+      "count": 4
+    },
+    {
+      "name": "about",
+      "count": 3
+    },
+    {
+      "name": "passenger",
       "count": 3
     },
     {
       "name": "stabbing",
       "count": 3
-    },
-    {
-      "name": "israeli",
-      "count": 3
-    },
-    {
-      "name": "over",
-      "count": 3
-    },
-    {
-      "name": "dame",
-      "count": 2
-    },
-    {
-      "name": "esther",
-      "count": 2
     }
   ],
-  "updated_at": "2026-09-30 22:02:33.576065"
+  "updated_at": "2026-10-01 05:07:20.162975"
 }
