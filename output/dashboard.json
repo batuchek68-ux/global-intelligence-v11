@@ -2,22 +2,38 @@
   "keywords": [
     [
       "over",
-      8
+      5
     ],
     [
-      "says",
+      "new",
+      5
+    ],
+    [
+      "attack",
       4
     ],
     [
-      "europe",
+      "how",
+      4
+    ],
+    [
+      "protests",
+      4
+    ],
+    [
+      "pilot",
       3
     ],
     [
-      "trump",
+      "flydubai",
       3
     ],
     [
-      "why",
+      "after",
+      3
+    ],
+    [
+      "rules",
       3
     ],
     [
@@ -25,103 +41,87 @@
       3
     ],
     [
-      "are",
+      "whats",
       3
     ],
     [
-      "row",
-      3
-    ],
-    [
-      "iran",
-      3
-    ],
-    [
-      "amid",
-      3
-    ],
-    [
-      "diesel",
+      "was",
       2
     ],
     [
-      "reserves",
+      "going",
       2
     ],
     [
-      "ban",
+      "describes",
       2
     ],
     [
-      "kill",
+      "cockpit",
       2
     ],
     [
-      "arrested",
+      "man",
       2
     ],
     [
-      "christa",
+      "city",
       2
     ],
     [
-      "condition",
+      "appeal",
       2
     ],
     [
-      "after",
+      "financial",
       2
     ],
     [
-      "spain",
-      2
-    ],
-    [
-      "celebrity",
+      "grows",
       2
     ]
   ],
   "topics": [
     {
       "name": "over",
-      "count": 8
+      "count": 5
     },
     {
-      "name": "says",
+      "name": "new",
+      "count": 5
+    },
+    {
+      "name": "attack",
       "count": 4
     },
     {
-      "name": "europe",
+      "name": "how",
+      "count": 4
+    },
+    {
+      "name": "protests",
+      "count": 4
+    },
+    {
+      "name": "pilot",
       "count": 3
     },
     {
-      "name": "trump",
+      "name": "flydubai",
       "count": 3
     },
     {
-      "name": "why",
+      "name": "after",
+      "count": 3
+    },
+    {
+      "name": "rules",
       "count": 3
     },
     {
       "name": "two",
       "count": 3
-    },
-    {
-      "name": "are",
-      "count": 3
-    },
-    {
-      "name": "row",
-      "count": 3
-    },
-    {
-      "name": "iran",
-      "count": 3
-    },
-    {
-      "name": "amid",
-      "count": 3
     }
   ],
-  "updated_at": "2026-10-02 04:56:36.395218"
+  "updated_at": "2026-10-02 12:11:26.408256"
 }
