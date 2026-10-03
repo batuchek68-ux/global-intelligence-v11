@@ -1,63 +1,47 @@
 {
   "keywords": [
     [
-      "over",
+      "from",
       4
     ],
     [
-      "flydubai",
-      3
-    ],
-    [
-      "copilot",
-      3
+      "election",
+      4
     ],
     [
       "with",
       3
     ],
     [
-      "says",
+      "housing",
       3
     ],
     [
-      "his",
+      "why",
       3
     ],
     [
-      "could",
+      "what",
       3
     ],
     [
-      "are",
+      "know",
       3
     ],
     [
-      "how",
-      3
-    ],
-    [
-      "pakistan",
-      3
-    ],
-    [
-      "attacked",
+      "flydubai",
       2
     ],
     [
-      "captain",
+      "copilot",
       2
     ],
     [
-      "axe",
+      "over",
       2
     ],
     [
-      "uae",
-      2
-    ],
-    [
-      "released",
+      "has",
       2
     ],
     [
@@ -65,63 +49,79 @@
       2
     ],
     [
-      "she",
-      2
-    ],
-    [
       "big",
       2
     ],
     [
-      "act",
+      "spain",
       2
     ],
     [
-      "against",
+      "crisis",
+      2
+    ],
+    [
+      "home",
+      2
+    ],
+    [
+      "after",
+      2
+    ],
+    [
+      "this",
+      2
+    ],
+    [
+      "their",
+      2
+    ],
+    [
+      "could",
       2
     ]
   ],
   "topics": [
     {
-      "name": "over",
+      "name": "from",
       "count": 4
     },
     {
-      "name": "flydubai",
-      "count": 3
-    },
-    {
-      "name": "copilot",
-      "count": 3
+      "name": "election",
+      "count": 4
     },
     {
       "name": "with",
       "count": 3
     },
     {
-      "name": "says",
+      "name": "housing",
       "count": 3
     },
     {
-      "name": "his",
+      "name": "why",
       "count": 3
     },
     {
-      "name": "could",
+      "name": "what",
       "count": 3
     },
     {
-      "name": "are",
+      "name": "know",
       "count": 3
     },
     {
-      "name": "how",
-      "count": 3
+      "name": "flydubai",
+      "count": 2
     },
     {
-      "name": "pakistan",
-      "count": 3
+      "name": "copilot",
+      "count": 2
+    },
+    {
+      "name": "over",
+      "count": 2
     }
   ],
-  "updated_at": "2026-10-03 11:21:33.908690"
+  "updated_at": "2026-10-03 15:59:25.969336"
 }
