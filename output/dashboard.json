@@ -1,15 +1,35 @@
 {
   "keywords": [
     [
-      "from",
-      4
+      "after",
+      5
     ],
     [
       "election",
       4
     ],
     [
-      "with",
+      "attack",
+      4
+    ],
+    [
+      "flydubai",
+      3
+    ],
+    [
+      "copilot",
+      3
+    ],
+    [
+      "says",
+      3
+    ],
+    [
+      "failed",
+      3
+    ],
+    [
+      "thousands",
       3
     ],
     [
@@ -21,19 +41,31 @@
       3
     ],
     [
-      "what",
+      "president",
       3
     ],
     [
-      "know",
+      "home",
       3
     ],
     [
-      "flydubai",
+      "from",
+      3
+    ],
+    [
+      "israeli",
+      3
+    ],
+    [
+      "with",
       2
     ],
     [
-      "copilot",
+      "uae",
+      2
+    ],
+    [
+      "official",
       2
     ],
     [
@@ -41,57 +73,45 @@
       2
     ],
     [
-      "has",
+      "tennessee",
       2
     ],
     [
-      "her",
-      2
-    ],
-    [
-      "big",
-      2
-    ],
-    [
-      "spain",
-      2
-    ],
-    [
-      "crisis",
-      2
-    ],
-    [
-      "home",
-      2
-    ],
-    [
-      "after",
-      2
-    ],
-    [
-      "this",
-      2
-    ],
-    [
-      "their",
-      2
-    ],
-    [
-      "could",
+      "christa",
       2
     ]
   ],
   "topics": [
     {
-      "name": "from",
-      "count": 4
+      "name": "after",
+      "count": 5
     },
     {
       "name": "election",
       "count": 4
     },
     {
-      "name": "with",
+      "name": "attack",
+      "count": 4
+    },
+    {
+      "name": "flydubai",
+      "count": 3
+    },
+    {
+      "name": "copilot",
+      "count": 3
+    },
+    {
+      "name": "says",
+      "count": 3
+    },
+    {
+      "name": "failed",
+      "count": 3
+    },
+    {
+      "name": "thousands",
       "count": 3
     },
     {
@@ -101,27 +121,7 @@
     {
       "name": "why",
       "count": 3
-    },
-    {
-      "name": "what",
-      "count": 3
-    },
-    {
-      "name": "know",
-      "count": 3
-    },
-    {
-      "name": "flydubai",
-      "count": 2
-    },
-    {
-      "name": "copilot",
-      "count": 2
-    },
-    {
-      "name": "over",
-      "count": 2
     }
   ],
-  "updated_at": "2026-10-03 15:59:25.969336"
+  "updated_at": "2026-10-03 20:49:24.029098"
 }
