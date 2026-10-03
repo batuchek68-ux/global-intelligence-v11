@@ -2,22 +2,34 @@
   "keywords": [
     [
       "after",
-      6
-    ],
-    [
-      "elections",
       5
     ],
     [
-      "rape",
+      "with",
       4
+    ],
+    [
+      "why",
+      4
+    ],
+    [
+      "charged",
+      3
     ],
     [
       "diesel",
       3
     ],
     [
-      "trump",
+      "over",
+      3
+    ],
+    [
+      "police",
+      3
+    ],
+    [
+      "france",
       3
     ],
     [
@@ -25,81 +37,81 @@
       3
     ],
     [
-      "cornell",
-      3
-    ],
-    [
-      "says",
-      3
-    ],
-    [
       "could",
       3
     ],
     [
-      "israeli",
+      "gaza",
       3
-    ],
-    [
-      "charged",
-      2
-    ],
-    [
-      "with",
-      2
-    ],
-    [
-      "against",
-      2
-    ],
-    [
-      "release",
-      2
     ],
     [
       "oil",
       2
     ],
     [
-      "ban",
+      "alleged",
       2
     ],
     [
-      "watch",
+      "plot",
       2
     ],
     [
-      "why",
+      "jewish",
       2
     ],
     [
-      "has",
+      "community",
       2
     ],
     [
-      "protests",
+      "given",
+      2
+    ],
+    [
+      "his",
+      2
+    ],
+    [
+      "clash",
+      2
+    ],
+    [
+      "students",
       2
     ]
   ],
   "topics": [
     {
       "name": "after",
-      "count": 6
-    },
-    {
-      "name": "elections",
       "count": 5
     },
     {
-      "name": "rape",
+      "name": "with",
       "count": 4
+    },
+    {
+      "name": "why",
+      "count": 4
+    },
+    {
+      "name": "charged",
+      "count": 3
     },
     {
       "name": "diesel",
       "count": 3
     },
     {
-      "name": "trump",
+      "name": "over",
+      "count": 3
+    },
+    {
+      "name": "police",
+      "count": 3
+    },
+    {
+      "name": "france",
       "count": 3
     },
     {
@@ -107,21 +119,9 @@
       "count": 3
     },
     {
-      "name": "cornell",
-      "count": 3
-    },
-    {
-      "name": "says",
-      "count": 3
-    },
-    {
       "name": "could",
-      "count": 3
-    },
-    {
-      "name": "israeli",
       "count": 3
     }
   ],
-  "updated_at": "2026-10-02 21:59:59.281003"
+  "updated_at": "2026-10-03 04:39:48.946041"
 }
