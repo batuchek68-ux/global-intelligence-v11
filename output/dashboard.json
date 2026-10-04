@@ -1,7 +1,11 @@
 {
   "keywords": [
     [
-      "election",
+      "after",
+      5
+    ],
+    [
+      "will",
       4
     ],
     [
@@ -9,47 +13,59 @@
       4
     ],
     [
-      "after",
+      "lula",
       4
     ],
     [
-      "president",
+      "attack",
       3
     ],
     [
-      "from",
+      "election",
       3
     ],
     [
-      "houthis",
+      "against",
       3
-    ],
-    [
-      "trump",
-      3
-    ],
-    [
-      "strike",
-      3
-    ],
-    [
-      "about",
-      2
-    ],
-    [
-      "brazils",
-      2
-    ],
-    [
-      "lula",
-      2
     ],
     [
       "bolsonaro",
+      3
+    ],
+    [
+      "plan",
+      2
+    ],
+    [
+      "flydubai",
+      2
+    ],
+    [
+      "surprise",
+      2
+    ],
+    [
+      "visit",
       2
     ],
     [
       "cornell",
+      2
+    ],
+    [
+      "president",
+      2
+    ],
+    [
+      "university",
+      2
+    ],
+    [
+      "must",
+      2
+    ],
+    [
+      "better",
       2
     ],
     [
@@ -61,29 +77,17 @@
       2
     ],
     [
-      "man",
-      2
-    ],
-    [
-      "shot",
-      2
-    ],
-    [
-      "you",
-      2
-    ],
-    [
-      "her",
-      2
-    ],
-    [
-      "how",
+      "allegations",
       2
     ]
   ],
   "topics": [
     {
-      "name": "election",
+      "name": "after",
+      "count": 5
+    },
+    {
+      "name": "will",
       "count": 4
     },
     {
@@ -91,37 +95,33 @@
       "count": 4
     },
     {
-      "name": "after",
+      "name": "lula",
       "count": 4
     },
     {
-      "name": "president",
+      "name": "attack",
       "count": 3
     },
     {
-      "name": "from",
+      "name": "election",
       "count": 3
     },
     {
-      "name": "houthis",
+      "name": "against",
       "count": 3
     },
     {
-      "name": "trump",
+      "name": "bolsonaro",
       "count": 3
     },
     {
-      "name": "strike",
-      "count": 3
-    },
-    {
-      "name": "about",
+      "name": "plan",
       "count": 2
     },
     {
-      "name": "brazils",
+      "name": "flydubai",
       "count": 2
     }
   ],
-  "updated_at": "2026-10-04 05:11:13.312475"
+  "updated_at": "2026-10-04 12:03:18.920654"
 }
