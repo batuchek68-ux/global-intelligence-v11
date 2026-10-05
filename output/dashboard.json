@@ -1,31 +1,39 @@
 {
   "keywords": [
     [
-      "from",
-      7
-    ],
-    [
-      "says",
-      6
-    ],
-    [
       "after",
-      5
-    ],
-    [
-      "over",
       4
     ],
     [
-      "israel",
+      "election",
+      4
+    ],
+    [
+      "man",
+      4
+    ],
+    [
+      "what",
       3
     ],
     [
-      "out",
+      "police",
       3
     ],
     [
-      "war",
+      "over",
+      3
+    ],
+    [
+      "first",
+      3
+    ],
+    [
+      "zionism",
+      3
+    ],
+    [
+      "racism",
       3
     ],
     [
@@ -33,95 +41,87 @@
       3
     ],
     [
+      "raf",
+      2
+    ],
+    [
       "fairford",
       2
     ],
     [
-      "base",
+      "withdraws",
       2
     ],
     [
-      "first",
+      "bombers",
       2
     ],
     [
-      "round",
+      "former",
       2
     ],
     [
-      "migrants",
+      "prince",
       2
     ],
     [
-      "south",
+      "against",
       2
     ],
     [
-      "houthis",
+      "protest",
       2
     ],
     [
-      "christa",
+      "calls",
       2
     ],
     [
-      "failed",
-      2
-    ],
-    [
-      "execution",
-      2
-    ],
-    [
-      "what",
-      2
-    ],
-    [
-      "chinese",
+      "housing",
       2
     ]
   ],
   "topics": [
     {
-      "name": "from",
-      "count": 7
-    },
-    {
-      "name": "says",
-      "count": 6
-    },
-    {
       "name": "after",
-      "count": 5
-    },
-    {
-      "name": "over",
       "count": 4
     },
     {
-      "name": "israel",
+      "name": "election",
+      "count": 4
+    },
+    {
+      "name": "man",
+      "count": 4
+    },
+    {
+      "name": "what",
       "count": 3
     },
     {
-      "name": "out",
+      "name": "police",
       "count": 3
     },
     {
-      "name": "war",
+      "name": "over",
+      "count": 3
+    },
+    {
+      "name": "first",
+      "count": 3
+    },
+    {
+      "name": "zionism",
+      "count": 3
+    },
+    {
+      "name": "racism",
       "count": 3
     },
     {
       "name": "amid",
       "count": 3
-    },
-    {
-      "name": "fairford",
-      "count": 2
-    },
-    {
-      "name": "base",
-      "count": 2
     }
   ],
-  "updated_at": "2026-10-05 04:55:34.185334"
+  "updated_at": "2026-10-05 14:07:11.940300"
 }
