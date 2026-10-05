@@ -1,32 +1,92 @@
 [
   {
-    "title": "No 10 insists RAF Fairford is safe after US withdraws bombers",
-    "summary": "US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week.",
+    "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
+    "summary": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
     "source": "https://feeds.bbci.co.uk/news/rss.xml"
   },
   {
-    "title": "What we know about former Prince Andrew's legal action against police",
+    "title": "Author and former politician Jeffrey Archer dies aged 86",
+    "summary": "His last book, Adam and Eve, is set to release this month.",
+    "source": "https://feeds.bbci.co.uk/news/rss.xml"
+  },
+  {
+    "title": "King's funding for Andrew not to be used for legal action against police",
+    "summary": "Andrew Mountbatten-Windsor is taking action over search warrants issued ahead of his arrest in February.",
+    "source": "https://feeds.bbci.co.uk/news/rss.xml"
+  },
+  {
+    "title": "What we know about Andrew Mountbatten-Windsor's legal action against police",
     "summary": "Andrew Mountbatten-Windsor is taking legal action against Thames Valley Police over his arrest in February.",
     "source": "https://feeds.bbci.co.uk/news/rss.xml"
   },
   {
-    "title": "Twelve arrests after protest over migrant boat arrival",
-    "summary": "Flares were set off and there were a few scuffles with police during the stand-off in Gosport.",
+    "title": "France braces for national day of school protests after injuries and mass arrests",
+    "summary": "France prepares for a day of protests in support of students who’ve been demanding more investment in education.",
     "source": "https://feeds.bbci.co.uk/news/rss.xml"
   },
   {
-    "title": "Spanish PM Sánchez calls early election after housing protests",
-    "summary": "Sánchez says Spain will head to the polls on 29 November after recent defeats on measures aimed at addressing the country's housing crisis.",
+    "title": "Prisoner took his own life after terror order had 'substantial impact' on mental state, inquest finds",
+    "summary": "Akhtar Uddin was jailed for breaching Terrorism Prevention and Investigation Measures in 2020.",
     "source": "https://feeds.bbci.co.uk/news/rss.xml"
   },
   {
-    "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
-    "summary": "The Omani national was a \"lone wolf\" extremist, according to the reports.",
+    "title": "Tories pledge £10bn 'Britannia Shield' air defence system",
+    "summary": "The Conservatives said their plan would protect the UK at a time when Nato allies have warned of Russian drone incursions.",
     "source": "https://feeds.bbci.co.uk/news/rss.xml"
   },
   {
-    "title": "BBC appoints Rachel Jupp as new director of news",
-    "summary": "Jupp is a former deputy editor of BBC Two's Newsnight and has also served as Panorama's editor.",
+    "title": "British Museum boss 'sorry' for Bayeux Tapestry visitor issues",
+    "summary": "Changes to how visitors see the Bayeux Tapestry exhibition were made after concerns over long queues and overcrowding.",
+    "source": "https://feeds.bbci.co.uk/news/rss.xml"
+  },
+  {
+    "title": "I won't accept exclusion, says Polanski after criticism of Zionism motion",
+    "summary": "Labour MPs and the European Greens have demanded clarity from the Green Party over a \"Zionism is racism\" motion.",
+    "source": "https://feeds.bbci.co.uk/news/rss.xml"
+  },
+  {
+    "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
+    "summary": "It labelled Anthropic a \"supply chain risk\" in February after the firm refused to remove safety guardrails from its tools.",
+    "source": "https://feeds.bbci.co.uk/news/rss.xml"
+  },
+  {
+    "title": "Blue Planet and Gandhi composer George Fenton dies aged 76",
+    "summary": "The musician received five Oscar nominations, and soundtracked dozens of memorable nature films.",
+    "source": "https://feeds.bbci.co.uk/news/rss.xml"
+  },
+  {
+    "title": "US 'watching closely' after plague researcher dies in Russia",
+    "summary": "Donald Trump says the US was looking \"very strongly\" at the case of a lab technician who died at a research centre in Siberia.",
+    "source": "https://feeds.bbci.co.uk/news/rss.xml"
+  },
+  {
+    "title": "Jeffrey Archer: successful novelist, disgraced politician and convicted liar",
+    "summary": "Politician and best-selling author whose career was mired in scandal and disgrace.",
+    "source": "https://feeds.bbci.co.uk/news/rss.xml"
+  },
+  {
+    "title": "Spain PM pins hopes on housing crisis to help win snap election",
+    "summary": "Calling of a snap election was not a knee-jerk reaction from Pedro Sánchez but a carefully thought-out manoeuvre, Guy Hedgecoe reports from Madrid.",
+    "source": "https://feeds.bbci.co.uk/news/rss.xml"
+  },
+  {
+    "title": "Would the Conservatives' plan make new houses £50,000 cheaper?",
+    "summary": "BBC Verify looks into the shadow chancellor's plan to cut some building regulations to reduce construction costs.",
+    "source": "https://feeds.bbci.co.uk/news/rss.xml"
+  },
+  {
+    "title": "Henry Zeffman: Tensions exposed among Greens by 'Zionism is racism' conference vote",
+    "summary": "What may be troubling for the Greens institutionally is what this episode reveals about some of the dynamics in the party.",
+    "source": "https://feeds.bbci.co.uk/news/rss.xml"
+  },
+  {
+    "title": "Rachel Jupp is a bold choice for BBC News chief, says Katie Razzall",
+    "summary": "The new director of news takes over from Deborah Turness, who resigned as CEO last year.",
+    "source": "https://feeds.bbci.co.uk/news/rss.xml"
+  },
+  {
+    "title": "It's been a terrible year for farming, Jeremy Clarkson tells Tory conference",
+    "summary": "The former Top Gear presenter and star of Clarkson's Farm also said farmers were being \"attacked\" from every angle.",
     "source": "https://feeds.bbci.co.uk/news/rss.xml"
   },
   {
@@ -35,168 +95,108 @@
     "source": "https://feeds.bbci.co.uk/news/rss.xml"
   },
   {
-    "title": "Average five-year mortgage rate hits 6% for first time in three years",
-    "summary": "The cost of a new fixed-rate mortgage has been rising in recent weeks as lenders face higher costs.",
+    "title": "BBC appoints Rachel Jupp as new director of news",
+    "summary": "Jupp is a former deputy editor of BBC Two's Newsnight and has also served as Panorama's editor.",
     "source": "https://feeds.bbci.co.uk/news/rss.xml"
   },
   {
-    "title": "Man jailed for life over failed knife attack at Israeli embassy in London",
-    "summary": "Abdullah Albadri arrived in the UK on a small 16 days before trying to break into the embassy with two knives.",
-    "source": "https://feeds.bbci.co.uk/news/rss.xml"
-  },
-  {
-    "title": "Nobel Prize awarded for revealing inner workings of the brain",
-    "summary": "US psychiatrist and neurologist Karl Deisseroth and his German colleagues Peter Hegemann and Georg Nagel have been awarded for their work.",
-    "source": "https://feeds.bbci.co.uk/news/rss.xml"
-  },
-  {
-    "title": "Jewish Greens chair says she could leave party over 'Zionism is racism' motion",
-    "summary": "The motion, which has divided senior party figures, backs a \"single democratic Palestinian state in all of historic Palestine\".",
-    "source": "https://feeds.bbci.co.uk/news/rss.xml"
-  },
-  {
-    "title": "The job interview question you don't have to answer",
-    "summary": "Experts explain what you should do if you are asked for your current salary during a job interview.",
-    "source": "https://feeds.bbci.co.uk/news/rss.xml"
-  },
-  {
-    "title": "Why are data centres such a big deal in Scotland?",
-    "summary": "At least 23 huge data centres are planned in Scotland, causing significant concern for campaigners.",
-    "source": "https://feeds.bbci.co.uk/news/rss.xml"
-  },
-  {
-    "title": "Watch: How the eviction of an elderly resident in Madrid led to a snap election",
-    "summary": "A series of measures to tackle the housing crisis were defeated in parliament on Friday",
-    "source": "https://feeds.bbci.co.uk/news/rss.xml"
-  },
-  {
-    "title": "Indian singer Anuv Jain on finding success without the Bollywood boost",
-    "summary": "The star reveals why he is \"very selective\" about releasing music - and shares his future collab hopes.",
-    "source": "https://feeds.bbci.co.uk/news/rss.xml"
-  },
-  {
-    "title": "£800m in, £800m out - Why Man City scandal shines light on Man Utd finances",
-    "summary": "Manchester City's owners have been found guilty of injecting money into the club. At Manchester United, fans are frustrated at how much has been taken out.",
-    "source": "https://feeds.bbci.co.uk/news/rss.xml"
-  },
-  {
-    "title": "'Not again': Arrest of US marine for murder reignites protests in Japan's Okinawa",
-    "summary": "For many locals on this island, the arrest has brought decades of frustration back to the fore.",
-    "source": "https://feeds.bbci.co.uk/news/rss.xml"
-  },
-  {
-    "title": "How India became dangerously addicted to Chinese imports",
-    "summary": "India’s toy shops provide an unlikely barometer by which to measure its economic relationship with China.",
-    "source": "https://feeds.bbci.co.uk/news/rss.xml"
-  },
-  {
-    "title": "Right-wing Flávio Bolsonaro wins first round of Brazil election",
-    "summary": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.",
-    "source": "https://feeds.bbci.co.uk/news/rss.xml"
-  },
-  {
-    "title": "Man detained for stabbing dog walker to death",
-    "summary": "Dawood Safi killed Wayne Broadhurst and injured two others in a knife attack in west London.",
-    "source": "https://feeds.bbci.co.uk/news/rss.xml"
-  },
-  {
-    "title": "Is Iran charging a toll to allow oil traffic through Hormuz?",
-    "summary": "Crude exports bypassing Hormuz surged in September, yet oil prices remain high. Could a secret fee be the reason?",
+    "title": "Whistleblower warns that humans don’t control AI",
+    "summary": "Former Anthropic researcher Jacob Coxon warns that AI companies ‘don’t fully control’ their models.",
     "source": "https://www.aljazeera.com/xml/rss/all.xml"
   },
   {
-    "title": "Before UK Greens, who else has equated Zionism with racism?",
-    "summary": "Israel condemns the move as the party&#039;s vote causes an uproar, including among party members.",
+    "title": "Trump’s approval hits new low among Hispanic voters ahead of midterms",
+    "summary": "Hispanic voters are twice as likely to favour Democratic Party over Trump&#039;s Republican Party in the November elections.",
     "source": "https://www.aljazeera.com/xml/rss/all.xml"
   },
   {
-    "title": "Bolsonaro favourite to win: What Brazil’s first round of elections tells us",
-    "summary": "Analysts say Flavio Bolsonaro is projected to win the run-off vote on October 25 and become Brazil&#039;s next president.",
+    "title": "‘Smash the patriarchy’: Activists graffiti Cornell hall over gang rape case",
+    "summary": "Student groups call for the abolition of Greek life and more punitive action in the wake of fraternity assault allegations.",
     "source": "https://www.aljazeera.com/xml/rss/all.xml"
   },
   {
-    "title": "Lionel Messi to join Argentina for farewell match against Benin",
-    "summary": "The friendly marks a symbolic passing of the torch for a player whose international legacy includes a World Cup title.",
+    "title": "Super-subs help France demolish Belgium with late flurry",
+    "summary": "Michael Olise scores twice and assists as France come from 1-0 with 13 minutes left to beat Belgium 4-1",
     "source": "https://www.aljazeera.com/xml/rss/all.xml"
   },
   {
-    "title": "In Russia-occupied Oleshky, Ukrainians face hunger, drones and landmines",
-    "summary": "Ukrainians are turning to weeds for sustenance in a town where bodies are reportedly eaten by feral dogs.",
+    "title": "Ethiopia’s PM insists on access to Red Sea despite regional conflict threat",
+    "summary": "Neighbouring countries say coastal states must govern Red Sea as fighting escalates in northern Ethiopia.",
     "source": "https://www.aljazeera.com/xml/rss/all.xml"
   },
   {
-    "title": "Students continue to protest in France as hundreds of schools close",
-    "summary": "Education Minister Edouard Geffray said on Sunday about 500 schools likely to be fully or partially closed on Monday.",
+    "title": "Trump says US ready to aid Russia with plague outbreak in Siberia",
+    "summary": "Russian authorities quarantine hospital, monitor 200 contacts after suspected pneumonic plague death in Siberia.",
     "source": "https://www.aljazeera.com/xml/rss/all.xml"
   },
   {
-    "title": "UK Green Party votes to define Zionism as ‘racism’",
-    "summary": "The UK’s Green Party has voted to define Zionism as a form of racism.",
+    "title": "Brazil’s presidential race head for a tough runoff",
+    "summary": "Brazil is heading into a fiercely contested presidential runoff after the first round revealed major gains for Bolsonaro",
     "source": "https://www.aljazeera.com/xml/rss/all.xml"
   },
   {
-    "title": "WMA members must call for release of detained Palestinian medics",
-    "summary": "All World Medical Association members have a duty to uphold their commitment to the protection of healthcare workers.",
+    "title": "What’s next for Bosnia after elections?",
+    "summary": "Bosnia and Herzegovina’s election strengthened nationalist parties.",
     "source": "https://www.aljazeera.com/xml/rss/all.xml"
   },
   {
-    "title": "Growing outrage in Japan after US Marine arrested in woman’s killing",
-    "summary": "The 20-year-old soldier denies the charge as protests held on Okinawa and in Tokyo.",
+    "title": "Can Yemen retake territory seized by Houthis?",
+    "summary": "The group has taken control of much of the Red Sea coast.",
     "source": "https://www.aljazeera.com/xml/rss/all.xml"
   },
   {
-    "title": "US abruptly withdraws bombers from UK’s RAF Fairford",
-    "summary": "The US has abruptly withdrawn all of its aircraft from the UK’s RAF Fairford, citing concerns about a potential attack.",
+    "title": "Israeli forces kill one, injure several in occupied West Bank",
+    "summary": "Palestinians in West Bank are suffering increasing Israeli violence and repression.",
     "source": "https://www.aljazeera.com/xml/rss/all.xml"
   },
   {
-    "title": "Photos: Yemen’s hospitals struggle to operate amid persistent power outages",
-    "summary": "Families in Aden endure sleepless nights and spoiled food as blackouts become a defining feature of daily life.",
+    "title": "Turkiye, Pakistan agree to military deployment to Saudi Arabia",
+    "summary": "Turkiye, Saudi Arabia and Pakistan have agreed to trigger collective deterrence measures in response to Houthi attacks.",
     "source": "https://www.aljazeera.com/xml/rss/all.xml"
   },
   {
-    "title": "Gaza mothers seek breastfeeding support amid hunger and siege",
-    "summary": "Palestinian mothers are finding it increasingly difficult to breastfeed their babies in Gaza.",
+    "title": "Premier League viewership in US up 20 percent among young Americans",
+    "summary": "English Premier League viewership up 20 percent among young Americans following World Cup, Nielsen Sports data shows.",
     "source": "https://www.aljazeera.com/xml/rss/all.xml"
   },
   {
-    "title": "Former Prince Andrew launches challenge to ‘quash’ police search warrants",
-    "summary": "A London court is likely to hold a private hearing on Thursday as Mountbatten-Windsor challenges Thames Valley Police.",
+    "title": "Medvedev disqualified after hitting spectator with ball",
+    "summary": "Medvedev disqualified after hitting spectator with ball",
     "source": "https://www.aljazeera.com/xml/rss/all.xml"
   },
   {
-    "title": "Libyan teachers’ strike escalates as union demands major education reforms",
-    "summary": "School year is on hold with teachers on strike and other unions threatening to take action.",
+    "title": "Ukraine says Russian drone attack sinks ship in Romanian waters",
+    "summary": "The latest suspected incursion on NATO&#039;s eastern flank increases fears that the war in Ukraine threatens to spill over.",
     "source": "https://www.aljazeera.com/xml/rss/all.xml"
   },
   {
-    "title": "The Republican consensus on Israel is starting to fracture",
-    "summary": "Christian Zionism made support for Israel a Republican cause. America First Republicans are challenging that consensus.",
+    "title": "Freed Syrians recount torture in Israeli detention centre",
+    "summary": "Syrians released from Israeli detention have described abuse behind bars.",
     "source": "https://www.aljazeera.com/xml/rss/all.xml"
   },
   {
-    "title": "Yemeni forces reclaim Dhubab, key positions near Bab al-Mandeb from Houthis",
-    "summary": "Army of internationally recognised gov&#039;t claims key gains near strait before Saudi, Pakistani, Turkish officials meet.",
+    "title": "Mexico seeks evidence of border shooting that prompted US troop deployment",
+    "summary": "Mexico&#039;s Sheinbaum has expressed concern about US officials overstepping norms on security cooperation.",
     "source": "https://www.aljazeera.com/xml/rss/all.xml"
   },
   {
-    "title": "Yemen war: What’s the latest, as government forces claim advances?",
-    "summary": "After launching major military offensive to reclaim Houthi-held areas, Yemeni government says it has taken key district.",
+    "title": "Trump blames Democrats and Ukraine for soaring US fuel prices, not Iran war",
+    "summary": "Trump shifts blame for fuel price hikes to blue states like California and Ukraine strikes on Russian oil refineries.",
     "source": "https://www.aljazeera.com/xml/rss/all.xml"
   },
   {
-    "title": "Formula One to probe software bug behind Bahrain GP chaos in Sepang",
-    "summary": "Drivers faced glitches at the race in Malaysia, where Lewis Hamilton had to stop and restart his car on the track.",
+    "title": "UK ‘threatens to expel 27 Israeli diplomats’ over Jerusalem consulate",
+    "summary": "Israel ordered East Jerusalem consulate to be closed after Britain sanctioned settlements in the occupied West Bank.",
     "source": "https://www.aljazeera.com/xml/rss/all.xml"
   },
   {
-    "title": "‘If I didn’t write what moved me, it’d be like putting myself in prison’",
-    "summary": "Award-winning author Arundhati Roy discusses why she&#039;s not afraid to address politically charged topics.",
+    "title": "Turkiye, Pakistan agree Saudi Arabia military deployment under Mecca pact",
+    "summary": "The three countries agree to trigger collective deterrence measures in response to &#039;heinous attacks&#039; by Yemen&#039;s Houthis.",
     "source": "https://www.aljazeera.com/xml/rss/all.xml"
   },
   {
-    "title": "Spain’s PM Pedro Sanchez calls snap election amid housing crisis",
-    "summary": "Spanish Prime Minister Pedro Sanchez has called a snap election for November 29.",
+    "title": "What is ‘Herod’s Pool’, and why is Israel developing it in the West Bank?",
+    "summary": "Israel is developing a reservoir on land in the occupied West Bank, with water syphoned off from Palestinians.",
     "source": "https://www.aljazeera.com/xml/rss/all.xml"
   }
 ]

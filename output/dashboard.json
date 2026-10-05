@@ -2,18 +2,18 @@
   "keywords": [
     [
       "after",
-      4
+      7
     ],
     [
-      "election",
-      4
+      "says",
+      5
     ],
     [
-      "man",
-      4
+      "trump",
+      3
     ],
     [
-      "what",
+      "dies",
       3
     ],
     [
@@ -21,81 +21,81 @@
       3
     ],
     [
-      "over",
+      "france",
       3
     ],
     [
-      "first",
+      "bbc",
       3
     ],
     [
-      "zionism",
+      "new",
       3
     ],
     [
-      "racism",
+      "among",
       3
     ],
     [
-      "amid",
+      "with",
       3
     ],
     [
-      "raf",
+      "israeli",
+      3
+    ],
+    [
+      "deployment",
+      3
+    ],
+    [
+      "threat",
       2
     ],
     [
-      "fairford",
+      "politician",
       2
     ],
     [
-      "withdraws",
+      "jeffrey",
       2
     ],
     [
-      "bombers",
+      "archer",
       2
     ],
     [
-      "former",
+      "aged",
       2
     ],
     [
-      "prince",
+      "andrew",
       2
     ],
     [
-      "against",
+      "not",
       2
     ],
     [
-      "protest",
-      2
-    ],
-    [
-      "calls",
-      2
-    ],
-    [
-      "housing",
+      "legal",
       2
     ]
   ],
   "topics": [
     {
       "name": "after",
-      "count": 4
+      "count": 7
     },
     {
-      "name": "election",
-      "count": 4
+      "name": "says",
+      "count": 5
     },
     {
-      "name": "man",
-      "count": 4
+      "name": "trump",
+      "count": 3
     },
     {
-      "name": "what",
+      "name": "dies",
       "count": 3
     },
     {
@@ -103,25 +103,25 @@
       "count": 3
     },
     {
-      "name": "over",
+      "name": "france",
       "count": 3
     },
     {
-      "name": "first",
+      "name": "bbc",
       "count": 3
     },
     {
-      "name": "zionism",
+      "name": "new",
       "count": 3
     },
     {
-      "name": "racism",
+      "name": "among",
       "count": 3
     },
     {
-      "name": "amid",
+      "name": "with",
       "count": 3
     }
   ],
-  "updated_at": "2026-10-05 14:07:11.940300"
+  "updated_at": "2026-10-05 23:54:11.273310"
 }
