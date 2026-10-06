@@ -1,43 +1,35 @@
 {
   "keywords": [
     [
-      "after",
-      6
-    ],
-    [
-      "dies",
-      4
-    ],
-    [
-      "new",
-      4
-    ],
-    [
-      "trump",
+      "arrested",
       3
     ],
     [
-      "says",
+      "who",
       3
     ],
     [
-      "with",
+      "are",
       3
     ],
     [
-      "bombers",
+      "drone",
+      3
+    ],
+    [
+      "student",
       2
     ],
     [
-      "from",
+      "protests",
       2
     ],
     [
-      "raf",
+      "british",
       2
     ],
     [
-      "fairford",
+      "incident",
       2
     ],
     [
@@ -45,83 +37,91 @@
       2
     ],
     [
-      "politician",
+      "chief",
       2
     ],
     [
-      "jeffrey",
+      "children",
       2
     ],
     [
-      "archer",
+      "one",
       2
     ],
     [
-      "aged",
+      "million",
       2
     ],
     [
-      "britannia",
+      "people",
       2
     ],
     [
-      "rise",
+      "ghost",
       2
     ],
     [
-      "france",
+      "particles",
       2
     ],
     [
-      "mass",
+      "wins",
       2
     ],
     [
-      "into",
+      "physics",
+      2
+    ],
+    [
+      "nobel",
+      2
+    ],
+    [
+      "over",
       2
     ]
   ],
   "topics": [
     {
-      "name": "after",
-      "count": 6
-    },
-    {
-      "name": "dies",
-      "count": 4
-    },
-    {
-      "name": "new",
-      "count": 4
-    },
-    {
-      "name": "trump",
+      "name": "arrested",
       "count": 3
     },
     {
-      "name": "says",
+      "name": "who",
       "count": 3
     },
     {
-      "name": "with",
+      "name": "are",
       "count": 3
     },
     {
-      "name": "bombers",
+      "name": "drone",
+      "count": 3
+    },
+    {
+      "name": "student",
       "count": 2
     },
     {
-      "name": "from",
+      "name": "protests",
       "count": 2
     },
     {
-      "name": "raf",
+      "name": "british",
       "count": 2
     },
     {
-      "name": "fairford",
+      "name": "incident",
+      "count": 2
+    },
+    {
+      "name": "former",
+      "count": 2
+    },
+    {
+      "name": "chief",
       "count": 2
     }
   ],
-  "updated_at": "2026-10-06 05:43:20.481752"
+  "updated_at": "2026-10-06 13:04:40.626099"
 }
