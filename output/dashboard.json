@@ -2,38 +2,22 @@
   "keywords": [
     [
       "after",
-      7
+      6
     ],
     [
-      "says",
-      5
+      "dies",
+      4
+    ],
+    [
+      "new",
+      4
     ],
     [
       "trump",
       3
     ],
     [
-      "dies",
-      3
-    ],
-    [
-      "police",
-      3
-    ],
-    [
-      "france",
-      3
-    ],
-    [
-      "bbc",
-      3
-    ],
-    [
-      "new",
-      3
-    ],
-    [
-      "among",
+      "says",
       3
     ],
     [
@@ -41,15 +25,23 @@
       3
     ],
     [
-      "israeli",
-      3
+      "bombers",
+      2
     ],
     [
-      "deployment",
-      3
+      "from",
+      2
     ],
     [
-      "threat",
+      "raf",
+      2
+    ],
+    [
+      "fairford",
+      2
+    ],
+    [
+      "former",
       2
     ],
     [
@@ -69,59 +61,67 @@
       2
     ],
     [
-      "andrew",
+      "britannia",
       2
     ],
     [
-      "not",
+      "rise",
       2
     ],
     [
-      "legal",
+      "france",
+      2
+    ],
+    [
+      "mass",
+      2
+    ],
+    [
+      "into",
       2
     ]
   ],
   "topics": [
     {
       "name": "after",
-      "count": 7
+      "count": 6
     },
     {
-      "name": "says",
-      "count": 5
+      "name": "dies",
+      "count": 4
+    },
+    {
+      "name": "new",
+      "count": 4
     },
     {
       "name": "trump",
       "count": 3
     },
     {
-      "name": "dies",
-      "count": 3
-    },
-    {
-      "name": "police",
-      "count": 3
-    },
-    {
-      "name": "france",
-      "count": 3
-    },
-    {
-      "name": "bbc",
-      "count": 3
-    },
-    {
-      "name": "new",
-      "count": 3
-    },
-    {
-      "name": "among",
+      "name": "says",
       "count": 3
     },
     {
       "name": "with",
       "count": 3
+    },
+    {
+      "name": "bombers",
+      "count": 2
+    },
+    {
+      "name": "from",
+      "count": 2
+    },
+    {
+      "name": "raf",
+      "count": 2
+    },
+    {
+      "name": "fairford",
+      "count": 2
     }
   ],
-  "updated_at": "2026-10-05 23:54:11.273310"
+  "updated_at": "2026-10-06 05:43:20.481752"
 }
