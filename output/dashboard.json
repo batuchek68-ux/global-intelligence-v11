@@ -1,127 +1,127 @@
 {
   "keywords": [
     [
-      "after",
+      "what",
       6
     ],
     [
-      "from",
+      "after",
+      5
+    ],
+    [
+      "how",
       4
     ],
     [
-      "what",
+      "gaza",
+      4
+    ],
+    [
+      "student",
       3
     ],
     [
-      "behind",
+      "attacks",
       3
     ],
     [
-      "oil",
+      "new",
       3
     ],
     [
-      "police",
-      3
+      "husband",
+      2
     ],
     [
-      "years",
-      3
-    ],
-    [
-      "airport",
-      3
+      "did",
+      2
     ],
     [
       "christa",
       2
     ],
     [
-      "failed",
+      "pike",
       2
     ],
     [
-      "execution",
+      "happens",
       2
     ],
     [
-      "say",
+      "now",
       2
     ],
     [
-      "october",
+      "cut",
       2
     ],
     [
-      "with",
+      "accused",
       2
     ],
     [
-      "how",
+      "break",
       2
     ],
     [
-      "three",
+      "into",
       2
     ],
     [
-      "raid",
+      "home",
       2
     ],
     [
-      "gang",
+      "france",
       2
     ],
     [
-      "gay",
-      2
-    ],
-    [
-      "asylum",
+      "halts",
       2
     ]
   ],
   "topics": [
     {
-      "name": "after",
+      "name": "what",
       "count": 6
     },
     {
-      "name": "from",
+      "name": "after",
+      "count": 5
+    },
+    {
+      "name": "how",
       "count": 4
     },
     {
-      "name": "what",
+      "name": "gaza",
+      "count": 4
+    },
+    {
+      "name": "student",
       "count": 3
     },
     {
-      "name": "behind",
+      "name": "attacks",
       "count": 3
     },
     {
-      "name": "oil",
+      "name": "new",
       "count": 3
     },
     {
-      "name": "police",
-      "count": 3
+      "name": "husband",
+      "count": 2
     },
     {
-      "name": "years",
-      "count": 3
-    },
-    {
-      "name": "airport",
-      "count": 3
+      "name": "did",
+      "count": 2
     },
     {
       "name": "christa",
       "count": 2
-    },
-    {
-      "name": "failed",
-      "count": 2
     }
   ],
-  "updated_at": "2026-10-07 05:14:19.296480"
+  "updated_at": "2026-10-07 12:59:04.387462"
 }
