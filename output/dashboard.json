@@ -1,39 +1,59 @@
 {
   "keywords": [
     [
-      "what",
+      "over",
       6
     ],
     [
       "after",
-      5
+      6
     ],
     [
-      "how",
-      4
-    ],
-    [
-      "gaza",
-      4
-    ],
-    [
-      "student",
+      "says",
       3
     ],
     [
-      "attacks",
+      "family",
       3
     ],
     [
-      "new",
+      "october",
       3
     ],
     [
-      "husband",
+      "three",
+      3
+    ],
+    [
+      "attack",
+      3
+    ],
+    [
+      "killed",
+      3
+    ],
+    [
+      "who",
+      3
+    ],
+    [
+      "election",
+      3
+    ],
+    [
+      "badenoch",
       2
     ],
     [
-      "did",
+      "tories",
+      2
+    ],
+    [
+      "inheritance",
+      2
+    ],
+    [
+      "tax",
       2
     ],
     [
@@ -45,83 +65,63 @@
       2
     ],
     [
-      "happens",
+      "execution",
       2
     ],
     [
-      "now",
+      "protests",
       2
     ],
     [
-      "cut",
+      "israelis",
       2
     ],
     [
-      "accused",
-      2
-    ],
-    [
-      "break",
-      2
-    ],
-    [
-      "into",
-      2
-    ],
-    [
-      "home",
-      2
-    ],
-    [
-      "france",
-      2
-    ],
-    [
-      "halts",
+      "years",
       2
     ]
   ],
   "topics": [
     {
-      "name": "what",
+      "name": "over",
       "count": 6
     },
     {
       "name": "after",
-      "count": 5
+      "count": 6
     },
     {
-      "name": "how",
-      "count": 4
-    },
-    {
-      "name": "gaza",
-      "count": 4
-    },
-    {
-      "name": "student",
+      "name": "says",
       "count": 3
     },
     {
-      "name": "attacks",
+      "name": "family",
       "count": 3
     },
     {
-      "name": "new",
+      "name": "october",
       "count": 3
     },
     {
-      "name": "husband",
-      "count": 2
+      "name": "three",
+      "count": 3
     },
     {
-      "name": "did",
-      "count": 2
+      "name": "attack",
+      "count": 3
     },
     {
-      "name": "christa",
-      "count": 2
+      "name": "killed",
+      "count": 3
+    },
+    {
+      "name": "who",
+      "count": 3
+    },
+    {
+      "name": "election",
+      "count": 3
     }
   ],
-  "updated_at": "2026-10-07 12:59:04.387462"
+  "updated_at": "2026-10-07 22:55:18.074987"
 }
