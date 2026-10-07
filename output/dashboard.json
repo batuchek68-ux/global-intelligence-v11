@@ -2,46 +2,66 @@
   "keywords": [
     [
       "after",
-      8
+      6
     ],
     [
-      "with",
-      5
-    ],
-    [
-      "says",
+      "from",
       4
-    ],
-    [
-      "get",
-      3
-    ],
-    [
-      "election",
-      3
-    ],
-    [
-      "deal",
-      3
     ],
     [
       "what",
       3
     ],
     [
-      "bros",
+      "behind",
       3
     ],
     [
-      "but",
+      "oil",
       3
     ],
     [
-      "over",
+      "police",
       3
     ],
     [
-      "arrested",
+      "years",
+      3
+    ],
+    [
+      "airport",
+      3
+    ],
+    [
+      "christa",
+      2
+    ],
+    [
+      "failed",
+      2
+    ],
+    [
+      "execution",
+      2
+    ],
+    [
+      "say",
+      2
+    ],
+    [
+      "october",
+      2
+    ],
+    [
+      "with",
+      2
+    ],
+    [
+      "how",
+      2
+    ],
+    [
+      "three",
       2
     ],
     [
@@ -59,69 +79,49 @@
     [
       "asylum",
       2
-    ],
-    [
-      "police",
-      2
-    ],
-    [
-      "behind",
-      2
-    ],
-    [
-      "death",
-      2
-    ],
-    [
-      "say",
-      2
-    ],
-    [
-      "school",
-      2
     ]
   ],
   "topics": [
     {
       "name": "after",
-      "count": 8
+      "count": 6
     },
     {
-      "name": "with",
-      "count": 5
-    },
-    {
-      "name": "says",
+      "name": "from",
       "count": 4
-    },
-    {
-      "name": "get",
-      "count": 3
-    },
-    {
-      "name": "election",
-      "count": 3
-    },
-    {
-      "name": "deal",
-      "count": 3
     },
     {
       "name": "what",
       "count": 3
     },
     {
-      "name": "bros",
+      "name": "behind",
       "count": 3
     },
     {
-      "name": "but",
+      "name": "oil",
       "count": 3
     },
     {
-      "name": "over",
+      "name": "police",
       "count": 3
+    },
+    {
+      "name": "years",
+      "count": 3
+    },
+    {
+      "name": "airport",
+      "count": 3
+    },
+    {
+      "name": "christa",
+      "count": 2
+    },
+    {
+      "name": "failed",
+      "count": 2
     }
   ],
-  "updated_at": "2026-10-06 22:31:33.638079"
+  "updated_at": "2026-10-07 05:14:19.296480"
 }
