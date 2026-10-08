@@ -1,19 +1,11 @@
 {
   "keywords": [
     [
-      "over",
-      7
-    ],
-    [
-      "with",
-      4
-    ],
-    [
       "says",
       4
     ],
     [
-      "trump",
+      "bbc",
       3
     ],
     [
@@ -21,81 +13,81 @@
       3
     ],
     [
+      "pike",
+      3
+    ],
+    [
+      "after",
+      3
+    ],
+    [
+      "face",
+      3
+    ],
+    [
+      "its",
+      3
+    ],
+    [
       "protests",
       3
     ],
     [
-      "houthi",
+      "why",
       3
     ],
     [
-      "talks",
+      "can",
+      3
+    ],
+    [
+      "royal",
       2
     ],
     [
-      "lebanon",
+      "navy",
       2
     ],
     [
-      "thousands",
+      "sailor",
       2
     ],
     [
-      "but",
+      "accused",
       2
     ],
     [
-      "face",
+      "who",
       2
     ],
     [
-      "israeli",
+      "off",
       2
     ],
     [
-      "strikes",
+      "took",
       2
     ],
     [
-      "ceasefire",
+      "finds",
       2
     ],
     [
-      "new",
+      "east",
       2
     ],
     [
-      "what",
-      2
-    ],
-    [
-      "pikes",
-      2
-    ],
-    [
-      "whose",
-      2
-    ],
-    [
-      "dies",
+      "jerusalem",
       2
     ]
   ],
   "topics": [
     {
-      "name": "over",
-      "count": 7
-    },
-    {
-      "name": "with",
-      "count": 4
-    },
-    {
       "name": "says",
       "count": 4
     },
     {
-      "name": "trump",
+      "name": "bbc",
       "count": 3
     },
     {
@@ -103,25 +95,33 @@
       "count": 3
     },
     {
+      "name": "pike",
+      "count": 3
+    },
+    {
+      "name": "after",
+      "count": 3
+    },
+    {
+      "name": "face",
+      "count": 3
+    },
+    {
+      "name": "its",
+      "count": 3
+    },
+    {
       "name": "protests",
       "count": 3
     },
     {
-      "name": "houthi",
+      "name": "why",
       "count": 3
     },
     {
-      "name": "talks",
-      "count": 2
-    },
-    {
-      "name": "lebanon",
-      "count": 2
-    },
-    {
-      "name": "thousands",
-      "count": 2
+      "name": "can",
+      "count": 3
     }
   ],
-  "updated_at": "2026-10-08 05:24:22.975713"
+  "updated_at": "2026-10-08 13:06:51.689794"
 }
