@@ -2,58 +2,50 @@
   "keywords": [
     [
       "says",
+      6
+    ],
+    [
+      "what",
       4
-    ],
-    [
-      "bbc",
-      3
-    ],
-    [
-      "christa",
-      3
-    ],
-    [
-      "pike",
-      3
     ],
     [
       "after",
       3
     ],
     [
-      "face",
+      "over",
       3
     ],
     [
-      "its",
+      "war",
       3
     ],
     [
-      "protests",
+      "charges",
       3
     ],
     [
-      "why",
-      3
-    ],
-    [
-      "can",
-      3
-    ],
-    [
-      "royal",
+      "adhd",
       2
     ],
     [
-      "navy",
+      "court",
       2
     ],
     [
-      "sailor",
+      "watch",
       2
     ],
     [
-      "accused",
+      "ruling",
+      2
+    ],
+    [
+      "into",
+      2
+    ],
+    [
+      "execution",
       2
     ],
     [
@@ -61,11 +53,11 @@
       2
     ],
     [
-      "off",
+      "took",
       2
     ],
     [
-      "took",
+      "lives",
       2
     ],
     [
@@ -73,55 +65,63 @@
       2
     ],
     [
-      "east",
+      "least",
       2
     ],
     [
-      "jerusalem",
+      "four",
+      2
+    ],
+    [
+      "end",
+      2
+    ],
+    [
+      "crisis",
       2
     ]
   ],
   "topics": [
     {
       "name": "says",
+      "count": 6
+    },
+    {
+      "name": "what",
       "count": 4
-    },
-    {
-      "name": "bbc",
-      "count": 3
-    },
-    {
-      "name": "christa",
-      "count": 3
-    },
-    {
-      "name": "pike",
-      "count": 3
     },
     {
       "name": "after",
       "count": 3
     },
     {
-      "name": "face",
+      "name": "over",
       "count": 3
     },
     {
-      "name": "its",
+      "name": "war",
       "count": 3
     },
     {
-      "name": "protests",
+      "name": "charges",
       "count": 3
     },
     {
-      "name": "why",
-      "count": 3
+      "name": "adhd",
+      "count": 2
     },
     {
-      "name": "can",
-      "count": 3
+      "name": "court",
+      "count": 2
+    },
+    {
+      "name": "watch",
+      "count": 2
+    },
+    {
+      "name": "ruling",
+      "count": 2
     }
   ],
-  "updated_at": "2026-10-08 13:06:51.689794"
+  "updated_at": "2026-10-08 23:07:47.025847"
 }
