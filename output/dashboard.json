@@ -2,126 +2,126 @@
   "keywords": [
     [
       "over",
-      6
+      7
     ],
     [
-      "after",
-      6
+      "with",
+      4
     ],
     [
       "says",
+      4
+    ],
+    [
+      "trump",
       3
-    ],
-    [
-      "family",
-      3
-    ],
-    [
-      "october",
-      3
-    ],
-    [
-      "three",
-      3
-    ],
-    [
-      "attack",
-      3
-    ],
-    [
-      "killed",
-      3
-    ],
-    [
-      "who",
-      3
-    ],
-    [
-      "election",
-      3
-    ],
-    [
-      "badenoch",
-      2
-    ],
-    [
-      "tories",
-      2
-    ],
-    [
-      "inheritance",
-      2
-    ],
-    [
-      "tax",
-      2
     ],
     [
       "christa",
-      2
-    ],
-    [
-      "pike",
-      2
-    ],
-    [
-      "execution",
-      2
+      3
     ],
     [
       "protests",
+      3
+    ],
+    [
+      "houthi",
+      3
+    ],
+    [
+      "talks",
       2
     ],
     [
-      "israelis",
+      "lebanon",
       2
     ],
     [
-      "years",
+      "thousands",
+      2
+    ],
+    [
+      "but",
+      2
+    ],
+    [
+      "face",
+      2
+    ],
+    [
+      "israeli",
+      2
+    ],
+    [
+      "strikes",
+      2
+    ],
+    [
+      "ceasefire",
+      2
+    ],
+    [
+      "new",
+      2
+    ],
+    [
+      "what",
+      2
+    ],
+    [
+      "pikes",
+      2
+    ],
+    [
+      "whose",
+      2
+    ],
+    [
+      "dies",
       2
     ]
   ],
   "topics": [
     {
       "name": "over",
-      "count": 6
+      "count": 7
     },
     {
-      "name": "after",
-      "count": 6
+      "name": "with",
+      "count": 4
     },
     {
       "name": "says",
+      "count": 4
+    },
+    {
+      "name": "trump",
       "count": 3
     },
     {
-      "name": "family",
+      "name": "christa",
       "count": 3
     },
     {
-      "name": "october",
+      "name": "protests",
       "count": 3
     },
     {
-      "name": "three",
+      "name": "houthi",
       "count": 3
     },
     {
-      "name": "attack",
-      "count": 3
+      "name": "talks",
+      "count": 2
     },
     {
-      "name": "killed",
-      "count": 3
+      "name": "lebanon",
+      "count": 2
     },
     {
-      "name": "who",
-      "count": 3
-    },
-    {
-      "name": "election",
-      "count": 3
+      "name": "thousands",
+      "count": 2
     }
   ],
-  "updated_at": "2026-10-07 22:55:18.074987"
+  "updated_at": "2026-10-08 05:24:22.975713"
 }
