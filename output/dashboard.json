@@ -2,42 +2,50 @@
   "keywords": [
     [
       "after",
-      7
+      4
     ],
     [
-      "will",
-      6
+      "pillay",
+      4
+    ],
+    [
+      "nobel",
+      4
+    ],
+    [
+      "peace",
+      4
+    ],
+    [
+      "prize",
+      4
+    ],
+    [
+      "green",
+      3
+    ],
+    [
+      "byelection",
+      3
     ],
     [
       "says",
-      5
-    ],
-    [
-      "man",
-      4
-    ],
-    [
-      "war",
-      4
-    ],
-    [
-      "execution",
       3
     ],
     [
-      "ice",
+      "attack",
       3
     ],
     [
-      "shoots",
+      "with",
       3
     ],
     [
-      "has",
+      "out",
       3
     ],
     [
-      "iran",
+      "navi",
       3
     ],
     [
@@ -45,35 +53,27 @@
       2
     ],
     [
-      "leadership",
+      "criticism",
       2
     ],
     [
-      "adhd",
+      "defeat",
       2
     ],
     [
-      "fort",
+      "watch",
       2
     ],
     [
-      "hood",
+      "15m",
       2
     ],
     [
-      "firing",
+      "execution",
       2
     ],
     [
-      "squad",
-      2
-    ],
-    [
-      "winter",
-      2
-    ],
-    [
-      "bbc",
+      "but",
       2
     ],
     [
@@ -84,44 +84,44 @@
   "topics": [
     {
       "name": "after",
-      "count": 7
+      "count": 4
     },
     {
-      "name": "will",
-      "count": 6
+      "name": "pillay",
+      "count": 4
+    },
+    {
+      "name": "nobel",
+      "count": 4
+    },
+    {
+      "name": "peace",
+      "count": 4
+    },
+    {
+      "name": "prize",
+      "count": 4
+    },
+    {
+      "name": "green",
+      "count": 3
+    },
+    {
+      "name": "byelection",
+      "count": 3
     },
     {
       "name": "says",
-      "count": 5
-    },
-    {
-      "name": "man",
-      "count": 4
-    },
-    {
-      "name": "war",
-      "count": 4
-    },
-    {
-      "name": "execution",
       "count": 3
     },
     {
-      "name": "ice",
+      "name": "attack",
       "count": 3
     },
     {
-      "name": "shoots",
-      "count": 3
-    },
-    {
-      "name": "has",
-      "count": 3
-    },
-    {
-      "name": "iran",
+      "name": "with",
       "count": 3
     }
   ],
-  "updated_at": "2026-10-09 05:27:58.909590"
+  "updated_at": "2026-10-09 12:53:32.145175"
 }
