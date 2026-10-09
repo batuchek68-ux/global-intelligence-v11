@@ -1,31 +1,31 @@
 {
   "keywords": [
     [
+      "trump",
+      4
+    ],
+    [
       "after",
       4
     ],
     [
-      "pillay",
+      "execution",
       4
     ],
     [
-      "nobel",
+      "watch",
       4
     ],
     [
-      "peace",
-      4
-    ],
-    [
-      "prize",
-      4
-    ],
-    [
-      "green",
+      "secretary",
       3
     ],
     [
-      "byelection",
+      "sanctions",
+      3
+    ],
+    [
+      "icc",
       3
     ],
     [
@@ -33,81 +33,81 @@
       3
     ],
     [
-      "attack",
+      "will",
       3
-    ],
-    [
-      "with",
-      3
-    ],
-    [
-      "out",
-      3
-    ],
-    [
-      "navi",
-      3
-    ],
-    [
-      "polanski",
-      2
-    ],
-    [
-      "criticism",
-      2
-    ],
-    [
-      "defeat",
-      2
-    ],
-    [
-      "watch",
-      2
-    ],
-    [
-      "15m",
-      2
-    ],
-    [
-      "execution",
-      2
-    ],
-    [
-      "but",
-      2
     ],
     [
       "from",
+      3
+    ],
+    [
+      "announces",
+      2
+    ],
+    [
+      "deal",
+      2
+    ],
+    [
+      "russian",
+      2
+    ],
+    [
+      "diesel",
+      2
+    ],
+    [
+      "court",
+      2
+    ],
+    [
+      "stay",
+      2
+    ],
+    [
+      "firing",
+      2
+    ],
+    [
+      "squad",
+      2
+    ],
+    [
+      "two",
+      2
+    ],
+    [
+      "who",
       2
     ]
   ],
   "topics": [
     {
+      "name": "trump",
+      "count": 4
+    },
+    {
       "name": "after",
       "count": 4
     },
     {
-      "name": "pillay",
+      "name": "execution",
       "count": 4
     },
     {
-      "name": "nobel",
+      "name": "watch",
       "count": 4
     },
     {
-      "name": "peace",
-      "count": 4
-    },
-    {
-      "name": "prize",
-      "count": 4
-    },
-    {
-      "name": "green",
+      "name": "secretary",
       "count": 3
     },
     {
-      "name": "byelection",
+      "name": "sanctions",
+      "count": 3
+    },
+    {
+      "name": "icc",
       "count": 3
     },
     {
@@ -115,13 +115,13 @@
       "count": 3
     },
     {
-      "name": "attack",
+      "name": "will",
       "count": 3
     },
     {
-      "name": "with",
+      "name": "from",
       "count": 3
     }
   ],
-  "updated_at": "2026-10-09 12:53:32.145175"
+  "updated_at": "2026-10-09 22:27:36.224790"
 }
