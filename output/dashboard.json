@@ -1,127 +1,127 @@
 {
   "keywords": [
     [
-      "says",
+      "after",
+      7
+    ],
+    [
+      "will",
       6
     ],
     [
-      "what",
+      "says",
+      5
+    ],
+    [
+      "man",
       4
     ],
     [
-      "after",
-      3
-    ],
-    [
-      "over",
-      3
-    ],
-    [
       "war",
+      4
+    ],
+    [
+      "execution",
       3
     ],
     [
-      "charges",
+      "ice",
       3
+    ],
+    [
+      "shoots",
+      3
+    ],
+    [
+      "has",
+      3
+    ],
+    [
+      "iran",
+      3
+    ],
+    [
+      "polanski",
+      2
+    ],
+    [
+      "leadership",
+      2
     ],
     [
       "adhd",
       2
     ],
     [
-      "court",
+      "fort",
       2
     ],
     [
-      "watch",
+      "hood",
       2
     ],
     [
-      "ruling",
+      "firing",
       2
     ],
     [
-      "into",
+      "squad",
       2
     ],
     [
-      "execution",
+      "winter",
       2
     ],
     [
-      "who",
+      "bbc",
       2
     ],
     [
-      "took",
-      2
-    ],
-    [
-      "lives",
-      2
-    ],
-    [
-      "finds",
-      2
-    ],
-    [
-      "least",
-      2
-    ],
-    [
-      "four",
-      2
-    ],
-    [
-      "end",
-      2
-    ],
-    [
-      "crisis",
+      "from",
       2
     ]
   ],
   "topics": [
     {
-      "name": "says",
+      "name": "after",
+      "count": 7
+    },
+    {
+      "name": "will",
       "count": 6
     },
     {
-      "name": "what",
+      "name": "says",
+      "count": 5
+    },
+    {
+      "name": "man",
       "count": 4
     },
     {
-      "name": "after",
-      "count": 3
-    },
-    {
-      "name": "over",
-      "count": 3
-    },
-    {
       "name": "war",
+      "count": 4
+    },
+    {
+      "name": "execution",
       "count": 3
     },
     {
-      "name": "charges",
+      "name": "ice",
       "count": 3
     },
     {
-      "name": "adhd",
-      "count": 2
+      "name": "shoots",
+      "count": 3
     },
     {
-      "name": "court",
-      "count": 2
+      "name": "has",
+      "count": 3
     },
     {
-      "name": "watch",
-      "count": 2
-    },
-    {
-      "name": "ruling",
-      "count": 2
+      "name": "iran",
+      "count": 3
     }
   ],
-  "updated_at": "2026-10-08 23:07:47.025847"
+  "updated_at": "2026-10-09 05:27:58.909590"
 }
