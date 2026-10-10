@@ -2,66 +2,54 @@
   "keywords": [
     [
       "after",
-      7
+      6
     ],
     [
-      "police",
+      "attack",
+      6
+    ],
+    [
+      "new",
       4
     ],
     [
-      "not",
-      3
-    ],
-    [
-      "was",
-      3
-    ],
-    [
-      "peace",
-      3
-    ],
-    [
-      "under",
-      3
-    ],
-    [
       "trump",
-      2
+      4
     ],
     [
-      "deal",
-      2
+      "her",
+      4
     ],
     [
-      "russian",
-      2
+      "ukraine",
+      3
     ],
     [
-      "trumps",
-      2
+      "president",
+      3
     ],
     [
-      "fuel",
-      2
+      "says",
+      3
     ],
     [
-      "prices",
-      2
+      "from",
+      3
     ],
     [
-      "three",
-      2
+      "airport",
+      3
     ],
     [
-      "children",
-      2
+      "saudi",
+      3
     ],
     [
-      "murder",
-      2
+      "gaza",
+      3
     ],
     [
-      "protests",
+      "days",
       2
     ],
     [
@@ -69,59 +57,71 @@
       2
     ],
     [
-      "they",
+      "coast",
       2
     ],
     [
-      "her",
+      "was",
       2
     ],
     [
-      "has",
+      "medical",
+      2
+    ],
+    [
+      "history",
+      2
+    ],
+    [
+      "not",
+      2
+    ],
+    [
+      "why",
       2
     ]
   ],
   "topics": [
     {
       "name": "after",
-      "count": 7
+      "count": 6
     },
     {
-      "name": "police",
+      "name": "attack",
+      "count": 6
+    },
+    {
+      "name": "new",
       "count": 4
     },
     {
-      "name": "not",
-      "count": 3
-    },
-    {
-      "name": "was",
-      "count": 3
-    },
-    {
-      "name": "peace",
-      "count": 3
-    },
-    {
-      "name": "under",
-      "count": 3
-    },
-    {
       "name": "trump",
-      "count": 2
+      "count": 4
     },
     {
-      "name": "deal",
-      "count": 2
+      "name": "her",
+      "count": 4
     },
     {
-      "name": "russian",
-      "count": 2
+      "name": "ukraine",
+      "count": 3
     },
     {
-      "name": "trumps",
-      "count": 2
+      "name": "president",
+      "count": 3
+    },
+    {
+      "name": "says",
+      "count": 3
+    },
+    {
+      "name": "from",
+      "count": 3
+    },
+    {
+      "name": "airport",
+      "count": 3
     }
   ],
-  "updated_at": "2026-10-10 12:11:18.874238"
+  "updated_at": "2026-10-10 21:23:30.304190"
 }
