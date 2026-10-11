@@ -1,31 +1,19 @@
 {
   "keywords": [
     [
-      "after",
-      8
-    ],
-    [
       "attack",
-      6
-    ],
-    [
-      "trump",
-      6
-    ],
-    [
-      "riyadh",
       5
     ],
     [
-      "airport",
-      4
+      "after",
+      5
     ],
     [
-      "saudi",
-      4
+      "man",
+      5
     ],
     [
-      "one",
+      "says",
       4
     ],
     [
@@ -33,23 +21,11 @@
       4
     ],
     [
-      "houthis",
+      "what",
       4
     ],
     [
-      "killed",
-      3
-    ],
-    [
-      "says",
-      3
-    ],
-    [
-      "man",
-      3
-    ],
-    [
-      "tiger",
+      "one",
       3
     ],
     [
@@ -57,57 +33,69 @@
       3
     ],
     [
-      "are",
+      "with",
       3
     ],
     [
-      "hurricane",
+      "years",
       3
     ],
     [
-      "forces",
+      "city",
       3
     ],
     [
-      "twelve",
+      "liverpool",
+      3
+    ],
+    [
+      "police",
+      3
+    ],
+    [
+      "airport",
       2
     ],
     [
-      "300",
+      "away",
       2
     ],
     [
-      "injured",
+      "not",
+      2
+    ],
+    [
+      "trumps",
+      2
+    ],
+    [
+      "three",
+      2
+    ],
+    [
+      "people",
+      2
+    ],
+    [
+      "young",
       2
     ]
   ],
   "topics": [
     {
-      "name": "after",
-      "count": 8
-    },
-    {
       "name": "attack",
-      "count": 6
-    },
-    {
-      "name": "trump",
-      "count": 6
-    },
-    {
-      "name": "riyadh",
       "count": 5
     },
     {
-      "name": "airport",
-      "count": 4
+      "name": "after",
+      "count": 5
     },
     {
-      "name": "saudi",
-      "count": 4
+      "name": "man",
+      "count": 5
     },
     {
-      "name": "one",
+      "name": "says",
       "count": 4
     },
     {
@@ -115,13 +103,25 @@
       "count": 4
     },
     {
-      "name": "houthis",
+      "name": "what",
       "count": 4
     },
     {
-      "name": "killed",
+      "name": "one",
+      "count": 3
+    },
+    {
+      "name": "was",
+      "count": 3
+    },
+    {
+      "name": "with",
+      "count": 3
+    },
+    {
+      "name": "years",
       "count": 3
     }
   ],
-  "updated_at": "2026-10-11 05:02:05.267919"
+  "updated_at": "2026-10-11 12:25:34.238132"
 }
