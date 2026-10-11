@@ -1,35 +1,23 @@
 {
   "keywords": [
     [
-      "attack",
-      5
-    ],
-    [
       "after",
-      5
+      8
     ],
     [
       "man",
-      5
+      6
     ],
     [
       "says",
+      5
+    ],
+    [
+      "city",
       4
     ],
     [
-      "off",
-      4
-    ],
-    [
-      "what",
-      4
-    ],
-    [
-      "one",
-      3
-    ],
-    [
-      "was",
+      "airport",
       3
     ],
     [
@@ -37,11 +25,19 @@
       3
     ],
     [
-      "years",
+      "attack",
       3
     ],
     [
-      "city",
+      "first",
+      3
+    ],
+    [
+      "into",
+      3
+    ],
+    [
+      "one",
       3
     ],
     [
@@ -49,69 +45,61 @@
       3
     ],
     [
-      "police",
-      3
-    ],
-    [
-      "airport",
+      "saudi",
       2
     ],
     [
-      "away",
+      "hit",
       2
     ],
     [
-      "not",
+      "strike",
       2
     ],
     [
-      "trumps",
+      "two",
       2
     ],
     [
-      "three",
+      "russia",
       2
     ],
     [
-      "people",
+      "poland",
       2
     ],
     [
-      "young",
+      "tusk",
+      2
+    ],
+    [
+      "party",
+      2
+    ],
+    [
+      "minister",
       2
     ]
   ],
   "topics": [
     {
-      "name": "attack",
-      "count": 5
-    },
-    {
       "name": "after",
-      "count": 5
+      "count": 8
     },
     {
       "name": "man",
-      "count": 5
+      "count": 6
     },
     {
       "name": "says",
+      "count": 5
+    },
+    {
+      "name": "city",
       "count": 4
     },
     {
-      "name": "off",
-      "count": 4
-    },
-    {
-      "name": "what",
-      "count": 4
-    },
-    {
-      "name": "one",
-      "count": 3
-    },
-    {
-      "name": "was",
+      "name": "airport",
       "count": 3
     },
     {
@@ -119,9 +107,21 @@
       "count": 3
     },
     {
-      "name": "years",
+      "name": "attack",
+      "count": 3
+    },
+    {
+      "name": "first",
+      "count": 3
+    },
+    {
+      "name": "into",
+      "count": 3
+    },
+    {
+      "name": "one",
       "count": 3
     }
   ],
-  "updated_at": "2026-10-11 12:25:34.238132"
+  "updated_at": "2026-10-11 21:41:04.625117"
 }
