@@ -1,35 +1,43 @@
 {
   "keywords": [
     [
-      "after",
-      8
-    ],
-    [
-      "man",
+      "strike",
       6
     ],
     [
       "says",
+      6
+    ],
+    [
+      "riyadh",
       5
     ],
     [
-      "city",
+      "airport",
+      5
+    ],
+    [
+      "russia",
       4
     ],
     [
-      "airport",
+      "killed",
+      4
+    ],
+    [
+      "trumps",
       3
     ],
     [
-      "with",
+      "ceasefire",
       3
     ],
     [
-      "attack",
+      "houthi",
       3
     ],
     [
-      "first",
+      "two",
       3
     ],
     [
@@ -37,91 +45,83 @@
       3
     ],
     [
+      "after",
+      3
+    ],
+    [
+      "with",
+      3
+    ],
+    [
+      "from",
+      3
+    ],
+    [
+      "near",
+      3
+    ],
+    [
+      "tax",
+      2
+    ],
+    [
+      "would",
+      2
+    ],
+    [
+      "energy",
+      2
+    ],
+    [
+      "claim",
+      2
+    ],
+    [
       "one",
-      3
-    ],
-    [
-      "liverpool",
-      3
-    ],
-    [
-      "saudi",
-      2
-    ],
-    [
-      "hit",
-      2
-    ],
-    [
-      "strike",
-      2
-    ],
-    [
-      "two",
-      2
-    ],
-    [
-      "russia",
-      2
-    ],
-    [
-      "poland",
-      2
-    ],
-    [
-      "tusk",
-      2
-    ],
-    [
-      "party",
-      2
-    ],
-    [
-      "minister",
       2
     ]
   ],
   "topics": [
     {
-      "name": "after",
-      "count": 8
-    },
-    {
-      "name": "man",
+      "name": "strike",
       "count": 6
     },
     {
       "name": "says",
+      "count": 6
+    },
+    {
+      "name": "riyadh",
       "count": 5
     },
     {
-      "name": "city",
+      "name": "airport",
+      "count": 5
+    },
+    {
+      "name": "russia",
       "count": 4
     },
     {
-      "name": "airport",
+      "name": "killed",
+      "count": 4
+    },
+    {
+      "name": "trumps",
       "count": 3
     },
     {
-      "name": "with",
+      "name": "ceasefire",
       "count": 3
     },
     {
-      "name": "attack",
+      "name": "houthi",
       "count": 3
     },
     {
-      "name": "first",
-      "count": 3
-    },
-    {
-      "name": "into",
-      "count": 3
-    },
-    {
-      "name": "one",
+      "name": "two",
       "count": 3
     }
   ],
-  "updated_at": "2026-10-11 21:41:04.625117"
+  "updated_at": "2026-10-12 05:16:13.121659"
 }
