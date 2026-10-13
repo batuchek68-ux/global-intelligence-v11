@@ -1,127 +1,127 @@
 {
   "keywords": [
     [
-      "from",
+      "with",
+      5
+    ],
+    [
+      "says",
+      5
+    ],
+    [
+      "man",
       4
     ],
     [
-      "iran",
-      3
+      "after",
+      4
     ],
     [
       "killed",
       3
     ],
     [
-      "over",
+      "pope",
       3
     ],
     [
-      "one",
+      "surgery",
       3
     ],
     [
-      "after",
+      "russia",
       3
     ],
     [
-      "incident",
+      "tupac",
       3
     ],
     [
-      "how",
+      "case",
       3
-    ],
-    [
-      "africa",
-      3
-    ],
-    [
-      "french",
-      3
-    ],
-    [
-      "fighting",
-      3
-    ],
-    [
-      "man",
-      2
     ],
     [
       "attack",
       2
     ],
     [
-      "three",
+      "diagnosed",
       2
     ],
     [
-      "about",
+      "lung",
       2
     ],
     [
-      "breaking",
+      "cancer",
       2
     ],
     [
-      "mitte",
+      "but",
       2
     ],
     [
-      "back",
+      "had",
       2
     ],
     [
-      "several",
+      "successful",
       2
     ],
     [
-      "rollercoaster",
+      "vatican",
+      2
+    ],
+    [
+      "recording",
+      2
+    ],
+    [
+      "mi5",
       2
     ]
   ],
   "topics": [
     {
-      "name": "from",
+      "name": "with",
+      "count": 5
+    },
+    {
+      "name": "says",
+      "count": 5
+    },
+    {
+      "name": "man",
       "count": 4
     },
     {
-      "name": "iran",
-      "count": 3
+      "name": "after",
+      "count": 4
     },
     {
       "name": "killed",
       "count": 3
     },
     {
-      "name": "over",
+      "name": "pope",
       "count": 3
     },
     {
-      "name": "one",
+      "name": "surgery",
       "count": 3
     },
     {
-      "name": "after",
+      "name": "russia",
       "count": 3
     },
     {
-      "name": "incident",
+      "name": "tupac",
       "count": 3
     },
     {
-      "name": "how",
-      "count": 3
-    },
-    {
-      "name": "africa",
-      "count": 3
-    },
-    {
-      "name": "french",
+      "name": "case",
       "count": 3
     }
   ],
-  "updated_at": "2026-10-13 13:53:10.956564"
+  "updated_at": "2026-10-13 22:27:36.575803"
 }
