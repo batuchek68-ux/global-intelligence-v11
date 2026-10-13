@@ -1,23 +1,23 @@
 {
   "keywords": [
     [
-      "houthis",
+      "says",
+      6
+    ],
+    [
+      "why",
       4
     ],
     [
-      "what",
+      "iran",
       4
     ],
     [
-      "whats",
-      4
-    ],
-    [
-      "saudi",
+      "with",
       3
     ],
     [
-      "attack",
+      "oil",
       3
     ],
     [
@@ -25,81 +25,81 @@
       3
     ],
     [
-      "minister",
+      "two",
+      3
+    ],
+    [
+      "government",
       2
     ],
     [
-      "vows",
+      "police",
       2
     ],
     [
-      "houthi",
+      "are",
       2
     ],
     [
-      "airports",
+      "not",
       2
     ],
     [
-      "why",
+      "war",
       2
     ],
     [
-      "abramovichs",
+      "global",
       2
     ],
     [
-      "wealth",
+      "making",
       2
     ],
     [
-      "uks",
+      "case",
       2
     ],
     [
-      "security",
+      "trumps",
       2
     ],
     [
-      "cyber",
+      "ceasefire",
       2
     ],
     [
-      "dies",
+      "elections",
       2
     ],
     [
-      "trump",
+      "over",
       2
     ],
     [
-      "watch",
-      2
-    ],
-    [
-      "how",
+      "saudi",
       2
     ]
   ],
   "topics": [
     {
-      "name": "houthis",
+      "name": "says",
+      "count": 6
+    },
+    {
+      "name": "why",
       "count": 4
     },
     {
-      "name": "what",
+      "name": "iran",
       "count": 4
     },
     {
-      "name": "whats",
-      "count": 4
-    },
-    {
-      "name": "saudi",
+      "name": "with",
       "count": 3
     },
     {
-      "name": "attack",
+      "name": "oil",
       "count": 3
     },
     {
@@ -107,21 +107,21 @@
       "count": 3
     },
     {
-      "name": "minister",
+      "name": "two",
+      "count": 3
+    },
+    {
+      "name": "government",
       "count": 2
     },
     {
-      "name": "vows",
+      "name": "police",
       "count": 2
     },
     {
-      "name": "houthi",
-      "count": 2
-    },
-    {
-      "name": "airports",
+      "name": "are",
       "count": 2
     }
   ],
-  "updated_at": "2026-10-12 14:55:33.713376"
+  "updated_at": "2026-10-13 00:23:31.552671"
 }
