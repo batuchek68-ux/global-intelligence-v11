@@ -1,15 +1,15 @@
 {
   "keywords": [
     [
+      "over",
+      5
+    ],
+    [
       "with",
-      5
+      4
     ],
     [
-      "says",
-      5
-    ],
-    [
-      "man",
+      "from",
       4
     ],
     [
@@ -17,81 +17,81 @@
       4
     ],
     [
-      "killed",
+      "man",
       3
     ],
     [
-      "pope",
+      "says",
       3
     ],
     [
-      "surgery",
+      "saudi",
       3
     ],
     [
-      "russia",
+      "warning",
       3
+    ],
+    [
+      "police",
+      3
+    ],
+    [
+      "tiger",
+      2
+    ],
+    [
+      "charged",
+      2
+    ],
+    [
+      "device",
+      2
+    ],
+    [
+      "openai",
+      2
+    ],
+    [
+      "office",
+      2
+    ],
+    [
+      "iran",
+      2
+    ],
+    [
+      "exgang",
+      2
+    ],
+    [
+      "years",
+      2
     ],
     [
       "tupac",
-      3
-    ],
-    [
-      "case",
-      3
-    ],
-    [
-      "attack",
       2
     ],
     [
-      "diagnosed",
+      "shakurs",
       2
     ],
     [
-      "lung",
-      2
-    ],
-    [
-      "cancer",
-      2
-    ],
-    [
-      "but",
-      2
-    ],
-    [
-      "had",
-      2
-    ],
-    [
-      "successful",
-      2
-    ],
-    [
-      "vatican",
-      2
-    ],
-    [
-      "recording",
-      2
-    ],
-    [
-      "mi5",
+      "murder",
       2
     ]
   ],
   "topics": [
     {
+      "name": "over",
+      "count": 5
+    },
+    {
       "name": "with",
-      "count": 5
+      "count": 4
     },
     {
-      "name": "says",
-      "count": 5
-    },
-    {
-      "name": "man",
+      "name": "from",
       "count": 4
     },
     {
@@ -99,29 +99,29 @@
       "count": 4
     },
     {
-      "name": "killed",
+      "name": "man",
       "count": 3
     },
     {
-      "name": "pope",
+      "name": "says",
       "count": 3
     },
     {
-      "name": "surgery",
+      "name": "saudi",
       "count": 3
     },
     {
-      "name": "russia",
+      "name": "warning",
       "count": 3
     },
     {
-      "name": "tupac",
+      "name": "police",
       "count": 3
     },
     {
-      "name": "case",
-      "count": 3
+      "name": "tiger",
+      "count": 2
     }
   ],
-  "updated_at": "2026-10-13 22:27:36.575803"
+  "updated_at": "2026-10-14 04:16:46.547844"
 }
