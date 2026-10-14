@@ -1,35 +1,11 @@
 {
   "keywords": [
     [
-      "with",
+      "what",
       6
     ],
     [
       "says",
-      4
-    ],
-    [
-      "why",
-      4
-    ],
-    [
-      "how",
-      4
-    ],
-    [
-      "israeli",
-      4
-    ],
-    [
-      "ukraine",
-      3
-    ],
-    [
-      "line",
-      3
-    ],
-    [
-      "what",
       3
     ],
     [
@@ -37,81 +13,81 @@
       3
     ],
     [
-      "man",
+      "cancer",
       3
     ],
     [
-      "attack",
+      "more",
       3
     ],
     [
-      "police",
+      "with",
       3
     ],
     [
-      "after",
+      "saudi",
       3
     ],
     [
-      "are",
+      "how",
       3
     ],
     [
-      "russian",
+      "why",
+      3
+    ],
+    [
+      "ukraine",
       2
     ],
     [
-      "strikes",
+      "war",
       2
     ],
     [
-      "power",
+      "zelensky",
       2
     ],
     [
-      "front",
+      "trump",
       2
     ],
     [
-      "watch",
+      "killed",
       2
     ],
     [
       "know",
       2
+    ],
+    [
+      "popes",
+      2
+    ],
+    [
+      "diagnosis",
+      2
+    ],
+    [
+      "one",
+      2
+    ],
+    [
+      "hormuz",
+      2
+    ],
+    [
+      "inflation",
+      2
     ]
   ],
   "topics": [
     {
-      "name": "with",
+      "name": "what",
       "count": 6
     },
     {
       "name": "says",
-      "count": 4
-    },
-    {
-      "name": "why",
-      "count": 4
-    },
-    {
-      "name": "how",
-      "count": 4
-    },
-    {
-      "name": "israeli",
-      "count": 4
-    },
-    {
-      "name": "ukraine",
-      "count": 3
-    },
-    {
-      "name": "line",
-      "count": 3
-    },
-    {
-      "name": "what",
       "count": 3
     },
     {
@@ -119,9 +95,33 @@
       "count": 3
     },
     {
-      "name": "man",
+      "name": "cancer",
       "count": 3
+    },
+    {
+      "name": "more",
+      "count": 3
+    },
+    {
+      "name": "with",
+      "count": 3
+    },
+    {
+      "name": "saudi",
+      "count": 3
+    },
+    {
+      "name": "how",
+      "count": 3
+    },
+    {
+      "name": "why",
+      "count": 3
+    },
+    {
+      "name": "ukraine",
+      "count": 2
     }
   ],
-  "updated_at": "2026-10-14 11:30:40.651869"
+  "updated_at": "2026-10-14 16:52:55.601614"
 }
