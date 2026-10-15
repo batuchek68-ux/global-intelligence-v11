@@ -1,23 +1,27 @@
 {
   "keywords": [
     [
-      "after",
+      "says",
+      5
+    ],
+    [
+      "was",
       4
     ],
     [
-      "how",
-      4
+      "trump",
+      3
     ],
     [
-      "could",
-      4
+      "not",
+      3
     ],
     [
       "ukraine",
       3
     ],
     [
-      "says",
+      "what",
       3
     ],
     [
@@ -25,11 +29,31 @@
       3
     ],
     [
-      "man",
+      "out",
+      3
+    ],
+    [
+      "sex",
       2
     ],
     [
-      "killed",
+      "fort",
+      2
+    ],
+    [
+      "hood",
+      2
+    ],
+    [
+      "execution",
+      2
+    ],
+    [
+      "use",
+      2
+    ],
+    [
+      "england",
       2
     ],
     [
@@ -37,69 +61,49 @@
       2
     ],
     [
-      "russian",
+      "severe",
       2
     ],
     [
-      "oil",
+      "drought",
       2
     ],
     [
-      "refineries",
+      "declared",
       2
     ],
     [
-      "why",
+      "public",
       2
     ],
     [
-      "sign",
-      2
-    ],
-    [
-      "criticism",
-      2
-    ],
-    [
-      "new",
-      2
-    ],
-    [
-      "backlash",
-      2
-    ],
-    [
-      "shape",
-      2
-    ],
-    [
-      "crisis",
-      2
-    ],
-    [
-      "west",
+      "emotional",
       2
     ]
   ],
   "topics": [
     {
-      "name": "after",
+      "name": "says",
+      "count": 5
+    },
+    {
+      "name": "was",
       "count": 4
     },
     {
-      "name": "how",
-      "count": 4
+      "name": "trump",
+      "count": 3
     },
     {
-      "name": "could",
-      "count": 4
+      "name": "not",
+      "count": 3
     },
     {
       "name": "ukraine",
       "count": 3
     },
     {
-      "name": "says",
+      "name": "what",
       "count": 3
     },
     {
@@ -107,21 +111,17 @@
       "count": 3
     },
     {
-      "name": "man",
+      "name": "out",
+      "count": 3
+    },
+    {
+      "name": "sex",
       "count": 2
     },
     {
-      "name": "killed",
-      "count": 2
-    },
-    {
-      "name": "before",
-      "count": 2
-    },
-    {
-      "name": "russian",
+      "name": "fort",
       "count": 2
     }
   ],
-  "updated_at": "2026-10-15 11:08:13.190033"
+  "updated_at": "2026-10-15 16:39:12.094953"
 }
