@@ -1,27 +1,51 @@
 {
   "keywords": [
     [
-      "trump",
-      6
-    ],
-    [
-      "over",
+      "after",
       4
     ],
     [
-      "against",
-      3
+      "how",
+      4
     ],
     [
-      "fire",
-      3
-    ],
-    [
-      "government",
-      2
+      "could",
+      4
     ],
     [
       "ukraine",
+      3
+    ],
+    [
+      "says",
+      3
+    ],
+    [
+      "over",
+      3
+    ],
+    [
+      "man",
+      2
+    ],
+    [
+      "killed",
+      2
+    ],
+    [
+      "before",
+      2
+    ],
+    [
+      "russian",
+      2
+    ],
+    [
+      "oil",
+      2
+    ],
+    [
+      "refineries",
       2
     ],
     [
@@ -29,99 +53,75 @@
       2
     ],
     [
-      "with",
+      "sign",
       2
     ],
     [
-      "faces",
+      "criticism",
       2
     ],
     [
-      "after",
+      "new",
       2
     ],
     [
-      "white",
+      "backlash",
       2
     ],
     [
-      "house",
+      "shape",
       2
     ],
     [
-      "amid",
+      "crisis",
       2
     ],
     [
-      "about",
-      2
-    ],
-    [
-      "from",
-      2
-    ],
-    [
-      "that",
-      2
-    ],
-    [
-      "sea",
-      2
-    ],
-    [
-      "brand",
-      2
-    ],
-    [
-      "predator",
-      2
-    ],
-    [
-      "how",
+      "west",
       2
     ]
   ],
   "topics": [
     {
-      "name": "trump",
-      "count": 6
-    },
-    {
-      "name": "over",
+      "name": "after",
       "count": 4
     },
     {
-      "name": "against",
-      "count": 3
+      "name": "how",
+      "count": 4
     },
     {
-      "name": "fire",
-      "count": 3
-    },
-    {
-      "name": "government",
-      "count": 2
+      "name": "could",
+      "count": 4
     },
     {
       "name": "ukraine",
+      "count": 3
+    },
+    {
+      "name": "says",
+      "count": 3
+    },
+    {
+      "name": "over",
+      "count": 3
+    },
+    {
+      "name": "man",
       "count": 2
     },
     {
-      "name": "why",
+      "name": "killed",
       "count": 2
     },
     {
-      "name": "with",
+      "name": "before",
       "count": 2
     },
     {
-      "name": "faces",
-      "count": 2
-    },
-    {
-      "name": "after",
+      "name": "russian",
       "count": 2
     }
   ],
-  "updated_at": "2026-10-15 03:59:18.244022"
+  "updated_at": "2026-10-15 11:08:13.190033"
 }
