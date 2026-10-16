@@ -2,62 +2,66 @@
   "keywords": [
     [
       "children",
-      4
+      3
     ],
     [
-      "school",
-      4
+      "police",
+      3
     ],
     [
-      "over",
-      4
+      "gaza",
+      3
     ],
     [
-      "after",
-      4
+      "man",
+      3
+    ],
+    [
+      "his",
+      2
+    ],
+    [
+      "death",
+      2
     ],
     [
       "killed",
-      3
+      2
     ],
     [
-      "oregon",
-      3
+      "school",
+      2
     ],
     [
-      "tax",
-      3
+      "shooting",
+      2
     ],
     [
-      "says",
-      3
-    ],
-    [
-      "with",
-      3
+      "after",
+      2
     ],
     [
       "trump",
-      3
-    ],
-    [
-      "three",
       2
     ],
     [
-      "teacher",
+      "ukraine",
       2
     ],
     [
-      "primary",
+      "more",
       2
     ],
     [
-      "banks",
+      "with",
       2
     ],
     [
-      "raid",
+      "than",
+      2
+    ],
+    [
+      "who",
       2
     ],
     [
@@ -65,63 +69,59 @@
       2
     ],
     [
-      "wins",
+      "now",
       2
     ],
     [
-      "despite",
+      "why",
       2
     ],
     [
-      "people",
-      2
-    ],
-    [
-      "sex",
+      "get",
       2
     ]
   ],
   "topics": [
     {
       "name": "children",
-      "count": 4
+      "count": 3
     },
     {
-      "name": "school",
-      "count": 4
+      "name": "police",
+      "count": 3
     },
     {
-      "name": "over",
-      "count": 4
+      "name": "gaza",
+      "count": 3
     },
     {
-      "name": "after",
-      "count": 4
+      "name": "man",
+      "count": 3
+    },
+    {
+      "name": "his",
+      "count": 2
+    },
+    {
+      "name": "death",
+      "count": 2
     },
     {
       "name": "killed",
-      "count": 3
+      "count": 2
     },
     {
-      "name": "oregon",
-      "count": 3
+      "name": "school",
+      "count": 2
     },
     {
-      "name": "tax",
-      "count": 3
+      "name": "shooting",
+      "count": 2
     },
     {
-      "name": "says",
-      "count": 3
-    },
-    {
-      "name": "with",
-      "count": 3
-    },
-    {
-      "name": "trump",
-      "count": 3
+      "name": "after",
+      "count": 2
     }
   ],
-  "updated_at": "2026-10-16 03:56:20.339267"
+  "updated_at": "2026-10-16 11:03:05.035511"
 }
