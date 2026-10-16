@@ -1,43 +1,39 @@
 {
   "keywords": [
     [
-      "children",
+      "says",
+      5
+    ],
+    [
+      "israeli",
+      5
+    ],
+    [
+      "west",
+      5
+    ],
+    [
+      "from",
+      4
+    ],
+    [
+      "settlers",
       3
     ],
     [
-      "police",
+      "bank",
       3
     ],
     [
-      "gaza",
+      "over",
       3
     ],
     [
-      "man",
+      "lebanon",
       3
     ],
     [
-      "his",
-      2
-    ],
-    [
-      "death",
-      2
-    ],
-    [
-      "killed",
-      2
-    ],
-    [
-      "school",
-      2
-    ],
-    [
-      "shooting",
-      2
-    ],
-    [
-      "after",
+      "ukraine",
       2
     ],
     [
@@ -45,83 +41,87 @@
       2
     ],
     [
-      "ukraine",
+      "calls",
       2
     ],
     [
-      "more",
+      "have",
       2
     ],
     [
-      "with",
+      "palestinians",
       2
     ],
     [
-      "than",
+      "journalist",
       2
     ],
     [
-      "who",
+      "harvest",
       2
     ],
     [
-      "from",
+      "attack",
       2
     ],
     [
-      "now",
+      "surgery",
       2
     ],
     [
-      "why",
+      "his",
       2
     ],
     [
-      "get",
+      "cyprus",
+      2
+    ],
+    [
+      "woman",
       2
     ]
   ],
   "topics": [
     {
-      "name": "children",
+      "name": "says",
+      "count": 5
+    },
+    {
+      "name": "israeli",
+      "count": 5
+    },
+    {
+      "name": "west",
+      "count": 5
+    },
+    {
+      "name": "from",
+      "count": 4
+    },
+    {
+      "name": "settlers",
       "count": 3
     },
     {
-      "name": "police",
+      "name": "bank",
       "count": 3
     },
     {
-      "name": "gaza",
+      "name": "over",
       "count": 3
     },
     {
-      "name": "man",
+      "name": "lebanon",
       "count": 3
     },
     {
-      "name": "his",
+      "name": "ukraine",
       "count": 2
     },
     {
-      "name": "death",
-      "count": 2
-    },
-    {
-      "name": "killed",
-      "count": 2
-    },
-    {
-      "name": "school",
-      "count": 2
-    },
-    {
-      "name": "shooting",
-      "count": 2
-    },
-    {
-      "name": "after",
+      "name": "trump",
       "count": 2
     }
   ],
-  "updated_at": "2026-10-16 11:03:05.035511"
+  "updated_at": "2026-10-16 16:22:05.785363"
 }
