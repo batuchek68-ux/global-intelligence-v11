@@ -1,23 +1,27 @@
 {
   "keywords": [
     [
-      "trump",
-      5
+      "police",
+      4
     ],
     [
-      "are",
-      5
+      "new",
+      4
+    ],
+    [
+      "protesters",
+      3
     ],
     [
       "with",
       3
     ],
     [
-      "school",
+      "attacks",
       3
     ],
     [
-      "that",
+      "against",
       3
     ],
     [
@@ -25,81 +29,81 @@
       3
     ],
     [
-      "ukraine",
+      "are",
       3
     ],
     [
-      "waives",
-      2
-    ],
-    [
-      "russia",
-      2
-    ],
-    [
-      "sanctions",
-      2
-    ],
-    [
-      "oregon",
-      2
-    ],
-    [
-      "man",
-      2
-    ],
-    [
-      "was",
-      2
-    ],
-    [
-      "now",
-      2
-    ],
-    [
-      "not",
-      2
-    ],
-    [
-      "what",
-      2
-    ],
-    [
       "year",
+      3
+    ],
+    [
+      "france",
+      3
+    ],
+    [
+      "clash",
       2
     ],
     [
-      "can",
+      "over",
       2
     ],
     [
-      "jailed",
+      "russian",
       2
     ],
     [
-      "attacks",
+      "says",
+      2
+    ],
+    [
+      "from",
+      2
+    ],
+    [
+      "days",
+      2
+    ],
+    [
+      "after",
+      2
+    ],
+    [
+      "set",
+      2
+    ],
+    [
+      "school",
+      2
+    ],
+    [
+      "that",
       2
     ]
   ],
   "topics": [
     {
-      "name": "trump",
-      "count": 5
+      "name": "police",
+      "count": 4
     },
     {
-      "name": "are",
-      "count": 5
+      "name": "new",
+      "count": 4
+    },
+    {
+      "name": "protesters",
+      "count": 3
     },
     {
       "name": "with",
       "count": 3
     },
     {
-      "name": "school",
+      "name": "attacks",
       "count": 3
     },
     {
-      "name": "that",
+      "name": "against",
       "count": 3
     },
     {
@@ -107,21 +111,17 @@
       "count": 3
     },
     {
-      "name": "ukraine",
+      "name": "are",
       "count": 3
     },
     {
-      "name": "waives",
-      "count": 2
+      "name": "year",
+      "count": 3
     },
     {
-      "name": "russia",
-      "count": 2
-    },
-    {
-      "name": "sanctions",
-      "count": 2
+      "name": "france",
+      "count": 3
     }
   ],
-  "updated_at": "2026-10-17 10:23:27.265284"
+  "updated_at": "2026-10-17 15:16:44.680629"
 }
