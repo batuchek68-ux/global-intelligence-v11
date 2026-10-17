@@ -1,12 +1,12 @@
 [
   {
-    "title": "Watch: 'Mood has really shifted' as Paris protesters clash with police",
-    "summary": "The BBC is on the ground at the Place de la République, where protesters and police clash after weeks of students demonstrations.",
+    "title": "More NHS staff sacked over attacks victims' records",
+    "summary": "Nottingham University Hospitals NHS Trust says a new system will be brought in to protect records.",
     "source": "https://feeds.bbci.co.uk/news/rss.xml"
   },
   {
-    "title": "More NHS staff sacked over attacks victims' records",
-    "summary": "Nottingham University Hospitals NHS Trust says a new system will be brought in to protect records.",
+    "title": "European diplomats attacked by Israeli settlers in West Bank",
+    "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
     "source": "https://feeds.bbci.co.uk/news/rss.xml"
   },
   {
@@ -15,13 +15,23 @@
     "source": "https://feeds.bbci.co.uk/news/rss.xml"
   },
   {
+    "title": "Swinney's emotional explanation for his commitment to independence",
+    "summary": "BBC Scotland's political editor Glenn Campbell reflects on John Swinney's SNP conference speech.",
+    "source": "https://feeds.bbci.co.uk/news/rss.xml"
+  },
+  {
     "title": "Pope discharged from hospital days after lung cancer surgery",
     "summary": "The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday.",
     "source": "https://feeds.bbci.co.uk/news/rss.xml"
   },
   {
-    "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
-    "summary": "The Australian government hopes to protect social media users from being served content they don't want to see.",
+    "title": "Chelsea's Martinez taken to hospital for 'precautionary tests'",
+    "summary": "Goalkeeper Emiliano Martinez was taken to hospital as Chelsea's 2-0 win at Everton on Saturday meant they secured their first clean sheet in nine months.",
+    "source": "https://feeds.bbci.co.uk/news/rss.xml"
+  },
+  {
+    "title": "Not sure what to wear for Halloween? These outfits are set to be the most popular this year",
+    "summary": "Freaky Nikki, Dolly Parton and whimsical costumes like gargoyles are popular among adults dressing up this year.",
     "source": "https://feeds.bbci.co.uk/news/rss.xml"
   },
   {
@@ -30,8 +40,8 @@
     "source": "https://feeds.bbci.co.uk/news/rss.xml"
   },
   {
-    "title": "Not sure what to wear for Halloween? These outfits are set to be the most popular this year",
-    "summary": "Freaky Nikki, Dolly Parton and whimsical costumes like gargoyles are popular among adults dressing up this year.",
+    "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
+    "summary": "The Australian government hopes to protect social media users from being served content they don't want to see.",
     "source": "https://feeds.bbci.co.uk/news/rss.xml"
   },
   {
@@ -75,8 +85,8 @@
     "source": "https://feeds.bbci.co.uk/news/rss.xml"
   },
   {
-    "title": "Recovery driver sentenced after runaway car crush",
-    "summary": "CCTV footage captured the vehicle rolling down the road, dragging driver Sean Baker along.",
+    "title": "Alligator kills 71-year-old man fishing in Florida",
+    "summary": "The 3.7m (12ft) alligator reportedly dragged the man into the water where he was fishing near Orlando.",
     "source": "https://feeds.bbci.co.uk/news/rss.xml"
   },
   {
@@ -90,14 +100,94 @@
     "source": "https://feeds.bbci.co.uk/news/rss.xml"
   },
   {
-    "title": "Isle of Wight fossil identified as new dinosaur species",
-    "summary": "Invictibellatrix would have been up to four metres long with feathers and had 20cm claws.",
-    "source": "https://feeds.bbci.co.uk/news/rss.xml"
+    "title": "At least 17 killed in stampede at religious gathering in India",
+    "summary": "Incident took place at festival in north Kolkata, in India&#039;s West Bengal state, amid big crowds and rainfall, police said.",
+    "source": "https://www.aljazeera.com/xml/rss/all.xml"
   },
   {
-    "title": "Poodle party reunites rescued dogs",
-    "summary": "The eight dogs were found alongside more than 250 poodle-cross breeds at a property in Norfolk.",
-    "source": "https://feeds.bbci.co.uk/news/rss.xml"
+    "title": "Albanian police fire rubber bullets as protests against Rama escalate",
+    "summary": "Five days of clashes rock Tirana as students join a wider movement demanding Prime Minister Edi Rama&#039;s resignation.",
+    "source": "https://www.aljazeera.com/xml/rss/all.xml"
+  },
+  {
+    "title": "Hundreds rally in Kyiv to demand the resignation of Mayor Vitali Klitschko",
+    "summary": "Hundreds of protesters rallied outside the office of Kyiv’s mayor Vitali Klitschko, demanding that he steps down.",
+    "source": "https://www.aljazeera.com/xml/rss/all.xml"
+  },
+  {
+    "title": "Will the EU come to Ukraine’s rescue in war against Russia?",
+    "summary": "US support at risk as Trump-Zelenskyy relations nosedive.",
+    "source": "https://www.aljazeera.com/xml/rss/all.xml"
+  },
+  {
+    "title": "Is the US Embassy in Jerusalem for Israel or America?",
+    "summary": "What led to the deaths of the nine Americans killed in the occupied West Bank since 2022?",
+    "source": "https://www.aljazeera.com/xml/rss/all.xml"
+  },
+  {
+    "title": "Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’",
+    "summary": "Attacks hit several areas as UNICEF reports more than 340 children killed since &#039;ceasefire&#039; began a year ago.",
+    "source": "https://www.aljazeera.com/xml/rss/all.xml"
+  },
+  {
+    "title": "India and West Indies denied a thrilling finale as rain hits final T20",
+    "summary": "India reached 118-5 after seven overs with Naman Dhir hitting 24 off six balls before rain forced an end to the game.",
+    "source": "https://www.aljazeera.com/xml/rss/all.xml"
+  },
+  {
+    "title": "Pope Leo returns to Vatican after lung cancer surgery",
+    "summary": "Doctors say they are seeing &#039;continued improvement&#039; after the US-born pope had a lump removed from his lung on Tuesday.",
+    "source": "https://www.aljazeera.com/xml/rss/all.xml"
+  },
+  {
+    "title": "Trump faces bipartisan backlash over Russia sanctions waiver",
+    "summary": "Republicans and Democrats condemn Trump’s decision to suspend sanctions, saying it undermines support for Ukraine.",
+    "source": "https://www.aljazeera.com/xml/rss/all.xml"
+  },
+  {
+    "title": "Jerusalem Daily: Israeli settlers attack farmers and journalists",
+    "summary": "After Israeli settlers beat and severely wounded Palestinian farmers, settler violence continues.",
+    "source": "https://www.aljazeera.com/xml/rss/all.xml"
+  },
+  {
+    "title": "Al Jazeera reports from Paris as protests turn violent",
+    "summary": "In Paris, thousands are protesting teacher shortages, poor school facilities and cuts to public services.",
+    "source": "https://www.aljazeera.com/xml/rss/all.xml"
+  },
+  {
+    "title": "Why are Latin American countries building closer ties with Israel?",
+    "summary": "A wave of new Latin American leaders reverses measures meant to isolate Israel after its genocidal war on Gaza.",
+    "source": "https://www.aljazeera.com/xml/rss/all.xml"
+  },
+  {
+    "title": "Egypt’s el-Sisi vows to defend Saudi Arabia from Houthi attacks",
+    "summary": "Egyptian President Abdel Fattah el-Sisi has vowed to take &#039;any measure&#039; to defend Saudi Arabia amid Houthi attacks.",
+    "source": "https://www.aljazeera.com/xml/rss/all.xml"
+  },
+  {
+    "title": "Kenya confirms four more Ebola cases, bringing total to seven",
+    "summary": "⁠Three health workers who ⁠treated the country&#039;s first Ebola patient are among the latest confirmed cases.",
+    "source": "https://www.aljazeera.com/xml/rss/all.xml"
+  },
+  {
+    "title": "Buildings and cars set on fire as cost of living protests rock France",
+    "summary": "Protesters have set fire to cars and buildings in France as demonstrations escalate.",
+    "source": "https://www.aljazeera.com/xml/rss/all.xml"
+  },
+  {
+    "title": "Pope Leo leaves hospital after lung cancer surgery",
+    "summary": "Pope Leo left Rome&#039;s Gemelli Hospital on Saturday after successful lung cancer surgery",
+    "source": "https://www.aljazeera.com/xml/rss/all.xml"
+  },
+  {
+    "title": "Neto’s brace fires Chelsea past Everton but Martinez head injury mars win",
+    "summary": "Argentinian international taken to hospital for precautionary tests after head clash with Everton&#039;s Jarrad Branthwaite.",
+    "source": "https://www.aljazeera.com/xml/rss/all.xml"
+  },
+  {
+    "title": "Ilhan Omar’s lawyers demand the return of property seized in house raid",
+    "summary": "Omar’s legal team says the search violated safeguards designed to protect constitutional rights of members of Congress.",
+    "source": "https://www.aljazeera.com/xml/rss/all.xml"
   },
   {
     "title": "Thousands rally for biggest protest in years against Tunisia’s Saied",
@@ -107,96 +197,6 @@
   {
     "title": "Why adults are going back to summer camp",
     "summary": "Loneliness and burnout are sending adults around the world back to bunk beds and bonfires.",
-    "source": "https://www.aljazeera.com/xml/rss/all.xml"
-  },
-  {
-    "title": "Hurricane Trudy makes its way towards Mexico, threatening heavy rain",
-    "summary": "Trudy is the latest in successive storms that have hit Mexico&#039;s Pacific coast this year.",
-    "source": "https://www.aljazeera.com/xml/rss/all.xml"
-  },
-  {
-    "title": "Nottingham Forest vs Arsenal: Premier League – preview, teams, prediction",
-    "summary": "The Gunners failed to score in their last two visits to the City Ground, as both matches ended in goalless draws.",
-    "source": "https://www.aljazeera.com/xml/rss/all.xml"
-  },
-  {
-    "title": "Egypt’s Sisi seeks authorisation for defence assistance to Saudi Arabia",
-    "summary": "Egyptian president pledges &#039;any measure&#039; to help defend Saudi Arabia &#039;if it is requested of us&#039;.",
-    "source": "https://www.aljazeera.com/xml/rss/all.xml"
-  },
-  {
-    "title": "California Gov Newsom boosts AI regulation as he eyes 2028 presidential run",
-    "summary": "Newsom signed an executive order to examine kill switches for AI models and other measures he had earlier vetoed.",
-    "source": "https://www.aljazeera.com/xml/rss/all.xml"
-  },
-  {
-    "title": "Protesters clash with police during nationwide demonstrations in France",
-    "summary": "Thousands rally in Paris and other cities for demonstrations set to unite students, teachers, unions and &#039;yellow vests&#039;.",
-    "source": "https://www.aljazeera.com/xml/rss/all.xml"
-  },
-  {
-    "title": "Why Trump’s latest White House press secretary lasted just five days",
-    "summary": "Katie Zacharia is the shortest-serving White House press secretary after a rocky tenure, but she&#039;s not the first to go.",
-    "source": "https://www.aljazeera.com/xml/rss/all.xml"
-  },
-  {
-    "title": "Child, four women among Palestinians injured in West Bank pogroms",
-    "summary": "Attacks follow a religious edict by a prominent far-right rabbi permitting the seizure of Palestinian olives.",
-    "source": "https://www.aljazeera.com/xml/rss/all.xml"
-  },
-  {
-    "title": "Davidovich Fokina stuns top seed Zverev to reach Shanghai Masters final",
-    "summary": "The 26th-ranked Spaniard fought back to win 5-7, 6-4, 6-3 and will play Daniil Medvedev or Rafael Jodar in the final.",
-    "source": "https://www.aljazeera.com/xml/rss/all.xml"
-  },
-  {
-    "title": "Hardline Israeli rabbi ruling on stolen Palestinian olives prompts uproar",
-    "summary": "A controversial ruling by a hardline Israeli rabbi has been condemned by Palestinians.",
-    "source": "https://www.aljazeera.com/xml/rss/all.xml"
-  },
-  {
-    "title": "France tackles new wave of nationwide protests",
-    "summary": "France is tackling nationwide protests, as students, unions, and activists rally against high prices and inequality.",
-    "source": "https://www.aljazeera.com/xml/rss/all.xml"
-  },
-  {
-    "title": "US and Iran both claim control of Strait of Hormuz amid attacks on vessels",
-    "summary": "Two vessels have been struck with naval mines in the Strait of Hormuz this week.",
-    "source": "https://www.aljazeera.com/xml/rss/all.xml"
-  },
-  {
-    "title": "Women protest in New Delhi against police brutality",
-    "summary": "Women protest in New Delhi against police brutality",
-    "source": "https://www.aljazeera.com/xml/rss/all.xml"
-  },
-  {
-    "title": "Russian strikes kill civilians, injure dozens across Ukraine",
-    "summary": "At least eight people have been killed and nearly 60 injured in the latest wave of Russian strikes across Ukraine.",
-    "source": "https://www.aljazeera.com/xml/rss/all.xml"
-  },
-  {
-    "title": "Protests spread across France as ‘yellow vests’ set to join",
-    "summary": "Demonstrations began in mid-September at schools and have expanded, tapping into wider grievances.",
-    "source": "https://www.aljazeera.com/xml/rss/all.xml"
-  },
-  {
-    "title": "Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas?",
-    "summary": "Analysts say Russia will benefit most from US sanctions waiver.",
-    "source": "https://www.aljazeera.com/xml/rss/all.xml"
-  },
-  {
-    "title": "Sally Rooney’s books pulled from UK over Palestine Action support",
-    "summary": "We asked students what they think.",
-    "source": "https://www.aljazeera.com/xml/rss/all.xml"
-  },
-  {
-    "title": "Solar power booms in Philippines as war on Iran spikes energy costs",
-    "summary": "With Southeast Asia&#039;s largest electricity bills rising even higher, Filipinos invest in rooftop panels.",
-    "source": "https://www.aljazeera.com/xml/rss/all.xml"
-  },
-  {
-    "title": "LIVE: India vs West Indies – fifth T20 International",
-    "summary": "Follow updates, including toss and team news, from our live text commentary stream of the cricket series decider.",
     "source": "https://www.aljazeera.com/xml/rss/all.xml"
   }
 ]
