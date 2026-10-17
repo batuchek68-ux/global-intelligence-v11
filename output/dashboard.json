@@ -1,35 +1,51 @@
 {
   "keywords": [
     [
-      "school",
-      5
-    ],
-    [
       "trump",
       5
     ],
     [
-      "oregon",
-      3
-    ],
-    [
-      "over",
-      3
+      "are",
+      5
     ],
     [
       "with",
       3
     ],
     [
-      "are",
+      "school",
       3
     ],
     [
-      "after",
+      "that",
       3
     ],
     [
-      "new",
+      "why",
+      3
+    ],
+    [
+      "ukraine",
+      3
+    ],
+    [
+      "waives",
+      2
+    ],
+    [
+      "russia",
+      2
+    ],
+    [
+      "sanctions",
+      2
+    ],
+    [
+      "oregon",
+      2
+    ],
+    [
+      "man",
       2
     ],
     [
@@ -37,15 +53,11 @@
       2
     ],
     [
-      "one",
+      "now",
       2
     ],
     [
-      "how",
-      2
-    ],
-    [
-      "show",
+      "not",
       2
     ],
     [
@@ -53,75 +65,63 @@
       2
     ],
     [
-      "from",
+      "year",
       2
     ],
     [
-      "support",
+      "can",
       2
     ],
     [
-      "ukraine",
+      "jailed",
       2
     ],
     [
-      "home",
-      2
-    ],
-    [
-      "have",
-      2
-    ],
-    [
-      "staff",
-      2
-    ],
-    [
-      "brazil",
+      "attacks",
       2
     ]
   ],
   "topics": [
     {
-      "name": "school",
-      "count": 5
-    },
-    {
       "name": "trump",
       "count": 5
     },
     {
-      "name": "oregon",
-      "count": 3
-    },
-    {
-      "name": "over",
-      "count": 3
+      "name": "are",
+      "count": 5
     },
     {
       "name": "with",
       "count": 3
     },
     {
-      "name": "are",
+      "name": "school",
       "count": 3
     },
     {
-      "name": "after",
+      "name": "that",
       "count": 3
     },
     {
-      "name": "new",
+      "name": "why",
+      "count": 3
+    },
+    {
+      "name": "ukraine",
+      "count": 3
+    },
+    {
+      "name": "waives",
       "count": 2
     },
     {
-      "name": "was",
+      "name": "russia",
       "count": 2
     },
     {
-      "name": "one",
+      "name": "sanctions",
       "count": 2
     }
   ],
-  "updated_at": "2026-10-17 03:45:59.460811"
+  "updated_at": "2026-10-17 10:23:27.265284"
 }
