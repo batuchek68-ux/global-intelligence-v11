@@ -1,23 +1,19 @@
 {
   "keywords": [
     [
-      "over",
+      "school",
       5
     ],
     [
-      "ukraine",
-      4
-    ],
-    [
       "trump",
-      4
+      5
     ],
     [
-      "watch",
+      "oregon",
       3
     ],
     [
-      "support",
+      "over",
       3
     ],
     [
@@ -25,19 +21,7 @@
       3
     ],
     [
-      "surgery",
-      3
-    ],
-    [
-      "records",
-      3
-    ],
-    [
-      "says",
-      3
-    ],
-    [
-      "first",
+      "are",
       3
     ],
     [
@@ -45,27 +29,39 @@
       3
     ],
     [
-      "get",
+      "new",
       2
     ],
     [
-      "pushing",
+      "was",
       2
     ],
     [
-      "russia",
+      "one",
       2
     ],
     [
-      "back",
+      "how",
       2
     ],
     [
-      "role",
+      "show",
       2
     ],
     [
-      "woman",
+      "what",
+      2
+    ],
+    [
+      "from",
+      2
+    ],
+    [
+      "support",
+      2
+    ],
+    [
+      "ukraine",
       2
     ],
     [
@@ -73,33 +69,33 @@
       2
     ],
     [
-      "man",
+      "have",
       2
     ],
     [
-      "now",
+      "staff",
+      2
+    ],
+    [
+      "brazil",
       2
     ]
   ],
   "topics": [
     {
-      "name": "over",
+      "name": "school",
       "count": 5
     },
     {
-      "name": "ukraine",
-      "count": 4
-    },
-    {
       "name": "trump",
-      "count": 4
+      "count": 5
     },
     {
-      "name": "watch",
+      "name": "oregon",
       "count": 3
     },
     {
-      "name": "support",
+      "name": "over",
       "count": 3
     },
     {
@@ -107,21 +103,25 @@
       "count": 3
     },
     {
-      "name": "surgery",
+      "name": "are",
       "count": 3
     },
     {
-      "name": "records",
+      "name": "after",
       "count": 3
     },
     {
-      "name": "says",
-      "count": 3
+      "name": "new",
+      "count": 2
     },
     {
-      "name": "first",
-      "count": 3
+      "name": "was",
+      "count": 2
+    },
+    {
+      "name": "one",
+      "count": 2
     }
   ],
-  "updated_at": "2026-10-16 20:44:49.404886"
+  "updated_at": "2026-10-17 03:45:59.460811"
 }
