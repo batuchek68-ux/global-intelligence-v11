@@ -1,27 +1,39 @@
 {
   "keywords": [
     [
+      "after",
+      7
+    ],
+    [
       "protests",
+      6
+    ],
+    [
+      "new",
       4
     ],
     [
-      "across",
-      4
+      "paris",
+      3
     ],
     [
       "says",
       3
     ],
     [
-      "will",
+      "who",
       3
     ],
     [
-      "after",
+      "west",
       3
     ],
     [
-      "with",
+      "bank",
+      3
+    ],
+    [
+      "why",
       3
     ],
     [
@@ -29,15 +41,27 @@
       2
     ],
     [
-      "looting",
+      "turn",
       2
     ],
     [
-      "dead",
+      "not",
       2
     ],
     [
-      "deepens",
+      "health",
+      2
+    ],
+    [
+      "secretary",
+      2
+    ],
+    [
+      "synthetic",
+      2
+    ],
+    [
+      "drugs",
       2
     ],
     [
@@ -45,83 +69,59 @@
       2
     ],
     [
-      "shot",
+      "watch",
       2
     ],
     [
-      "man",
+      "police",
       2
     ],
     [
-      "who",
-      2
-    ],
-    [
-      "near",
-      2
-    ],
-    [
-      "photos",
-      2
-    ],
-    [
-      "sports",
-      2
-    ],
-    [
-      "how",
-      2
-    ],
-    [
-      "that",
-      2
-    ],
-    [
-      "dubois",
+      "with",
       2
     ]
   ],
   "topics": [
     {
+      "name": "after",
+      "count": 7
+    },
+    {
       "name": "protests",
+      "count": 6
+    },
+    {
+      "name": "new",
       "count": 4
     },
     {
-      "name": "across",
-      "count": 4
+      "name": "paris",
+      "count": 3
     },
     {
       "name": "says",
       "count": 3
     },
     {
-      "name": "will",
+      "name": "who",
       "count": 3
     },
     {
-      "name": "after",
+      "name": "west",
       "count": 3
     },
     {
-      "name": "with",
+      "name": "bank",
+      "count": 3
+    },
+    {
+      "name": "why",
       "count": 3
     },
     {
       "name": "out",
       "count": 2
-    },
-    {
-      "name": "looting",
-      "count": 2
-    },
-    {
-      "name": "dead",
-      "count": 2
-    },
-    {
-      "name": "deepens",
-      "count": 2
     }
   ],
-  "updated_at": "2026-10-18 10:41:21.682656"
+  "updated_at": "2026-10-18 15:38:19.134821"
 }
