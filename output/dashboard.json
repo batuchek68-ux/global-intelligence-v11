@@ -1,67 +1,67 @@
 {
   "keywords": [
     [
-      "attacks",
+      "protests",
+      8
+    ],
+    [
+      "after",
+      5
+    ],
+    [
+      "with",
+      5
+    ],
+    [
+      "france",
       4
     ],
     [
-      "against",
+      "fire",
       4
     ],
     [
-      "are",
-      4
+      "violent",
+      3
+    ],
+    [
+      "french",
+      3
+    ],
+    [
+      "diplomats",
+      3
     ],
     [
       "israeli",
       3
     ],
     [
-      "pope",
+      "settlers",
       3
     ],
     [
-      "from",
+      "police",
       3
     ],
     [
-      "hospital",
+      "out",
       3
     ],
     [
-      "after",
+      "attack",
       3
     ],
     [
-      "lung",
-      3
+      "clashes",
+      2
     ],
     [
-      "cancer",
-      3
+      "looting",
+      2
     ],
     [
-      "surgery",
-      3
-    ],
-    [
-      "year",
-      3
-    ],
-    [
-      "why",
-      3
-    ],
-    [
-      "russia",
-      3
-    ],
-    [
-      "protests",
-      3
-    ],
-    [
-      "more",
+      "buildings",
       2
     ],
     [
@@ -69,59 +69,59 @@
       2
     ],
     [
-      "settlers",
+      "arrested",
       2
     ],
     [
-      "west",
+      "amid",
       2
     ],
     [
-      "says",
+      "european",
       2
     ]
   ],
   "topics": [
     {
-      "name": "attacks",
+      "name": "protests",
+      "count": 8
+    },
+    {
+      "name": "after",
+      "count": 5
+    },
+    {
+      "name": "with",
+      "count": 5
+    },
+    {
+      "name": "france",
       "count": 4
     },
     {
-      "name": "against",
+      "name": "fire",
       "count": 4
     },
     {
-      "name": "are",
-      "count": 4
+      "name": "violent",
+      "count": 3
+    },
+    {
+      "name": "french",
+      "count": 3
+    },
+    {
+      "name": "diplomats",
+      "count": 3
     },
     {
       "name": "israeli",
       "count": 3
     },
     {
-      "name": "pope",
-      "count": 3
-    },
-    {
-      "name": "from",
-      "count": 3
-    },
-    {
-      "name": "hospital",
-      "count": 3
-    },
-    {
-      "name": "after",
-      "count": 3
-    },
-    {
-      "name": "lung",
-      "count": 3
-    },
-    {
-      "name": "cancer",
+      "name": "settlers",
       "count": 3
     }
   ],
-  "updated_at": "2026-10-17 20:21:38.267347"
+  "updated_at": "2026-10-18 03:52:22.804053"
 }
