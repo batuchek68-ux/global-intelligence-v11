@@ -2,58 +2,30 @@
   "keywords": [
     [
       "protests",
-      8
+      4
+    ],
+    [
+      "across",
+      4
+    ],
+    [
+      "says",
+      3
+    ],
+    [
+      "will",
+      3
     ],
     [
       "after",
-      5
+      3
     ],
     [
       "with",
-      5
-    ],
-    [
-      "france",
-      4
-    ],
-    [
-      "fire",
-      4
-    ],
-    [
-      "violent",
-      3
-    ],
-    [
-      "french",
-      3
-    ],
-    [
-      "diplomats",
-      3
-    ],
-    [
-      "israeli",
-      3
-    ],
-    [
-      "settlers",
-      3
-    ],
-    [
-      "police",
       3
     ],
     [
       "out",
-      3
-    ],
-    [
-      "attack",
-      3
-    ],
-    [
-      "clashes",
       2
     ],
     [
@@ -61,67 +33,95 @@
       2
     ],
     [
-      "buildings",
+      "dead",
       2
     ],
     [
-      "over",
+      "deepens",
       2
     ],
     [
-      "arrested",
+      "crisis",
       2
     ],
     [
-      "amid",
+      "shot",
       2
     ],
     [
-      "european",
+      "man",
+      2
+    ],
+    [
+      "who",
+      2
+    ],
+    [
+      "near",
+      2
+    ],
+    [
+      "photos",
+      2
+    ],
+    [
+      "sports",
+      2
+    ],
+    [
+      "how",
+      2
+    ],
+    [
+      "that",
+      2
+    ],
+    [
+      "dubois",
       2
     ]
   ],
   "topics": [
     {
       "name": "protests",
-      "count": 8
+      "count": 4
+    },
+    {
+      "name": "across",
+      "count": 4
+    },
+    {
+      "name": "says",
+      "count": 3
+    },
+    {
+      "name": "will",
+      "count": 3
     },
     {
       "name": "after",
-      "count": 5
+      "count": 3
     },
     {
       "name": "with",
-      "count": 5
-    },
-    {
-      "name": "france",
-      "count": 4
-    },
-    {
-      "name": "fire",
-      "count": 4
-    },
-    {
-      "name": "violent",
       "count": 3
     },
     {
-      "name": "french",
-      "count": 3
+      "name": "out",
+      "count": 2
     },
     {
-      "name": "diplomats",
-      "count": 3
+      "name": "looting",
+      "count": 2
     },
     {
-      "name": "israeli",
-      "count": 3
+      "name": "dead",
+      "count": 2
     },
     {
-      "name": "settlers",
-      "count": 3
+      "name": "deepens",
+      "count": 2
     }
   ],
-  "updated_at": "2026-10-18 03:52:22.804053"
+  "updated_at": "2026-10-18 10:41:21.682656"
 }
