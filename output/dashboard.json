@@ -1,23 +1,43 @@
 {
   "keywords": [
     [
-      "with",
-      5
-    ],
-    [
       "says",
-      4
+      6
     ],
     [
       "after",
+      5
+    ],
+    [
+      "ukraine",
       4
     ],
     [
-      "police",
+      "macron",
       3
     ],
     [
-      "attack",
+      "from",
+      3
+    ],
+    [
+      "russia",
+      3
+    ],
+    [
+      "crisis",
+      3
+    ],
+    [
+      "fire",
+      3
+    ],
+    [
+      "will",
+      3
+    ],
+    [
+      "war",
       3
     ],
     [
@@ -25,103 +45,83 @@
       3
     ],
     [
-      "west",
-      3
-    ],
-    [
-      "bank",
-      3
-    ],
-    [
       "calls",
       2
     ],
     [
-      "must",
+      "riots",
       2
     ],
     [
-      "not",
+      "inside",
       2
     ],
     [
-      "deadly",
+      "russian",
+      2
+    ],
+    [
+      "shares",
+      2
+    ],
+    [
+      "youth",
+      2
+    ],
+    [
+      "moral",
+      2
+    ],
+    [
+      "failure",
       2
     ],
     [
       "military",
       2
-    ],
-    [
-      "will",
-      2
-    ],
-    [
-      "synthetic",
-      2
-    ],
-    [
-      "drugs",
-      2
-    ],
-    [
-      "watch",
-      2
-    ],
-    [
-      "health",
-      2
-    ],
-    [
-      "secretary",
-      2
-    ],
-    [
-      "near",
-      2
     ]
   ],
   "topics": [
     {
-      "name": "with",
-      "count": 5
-    },
-    {
       "name": "says",
-      "count": 4
+      "count": 6
     },
     {
       "name": "after",
+      "count": 5
+    },
+    {
+      "name": "ukraine",
       "count": 4
     },
     {
-      "name": "police",
+      "name": "macron",
       "count": 3
     },
     {
-      "name": "attack",
+      "name": "from",
       "count": 3
     },
     {
-      "name": "protests",
+      "name": "russia",
       "count": 3
     },
     {
-      "name": "west",
+      "name": "crisis",
       "count": 3
     },
     {
-      "name": "bank",
+      "name": "fire",
       "count": 3
     },
     {
-      "name": "calls",
-      "count": 2
+      "name": "will",
+      "count": 3
     },
     {
-      "name": "must",
-      "count": 2
+      "name": "war",
+      "count": 3
     }
   ],
-  "updated_at": "2026-10-18 20:21:50.744044"
+  "updated_at": "2026-10-19 04:01:24.785333"
 }
