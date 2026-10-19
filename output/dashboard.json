@@ -1,55 +1,35 @@
 {
   "keywords": [
     [
-      "says",
-      6
-    ],
-    [
       "after",
       5
     ],
     [
-      "ukraine",
+      "with",
       4
-    ],
-    [
-      "macron",
-      3
     ],
     [
       "from",
       3
     ],
     [
-      "russia",
+      "how",
       3
     ],
     [
-      "crisis",
+      "funding",
       3
     ],
     [
-      "fire",
+      "iran",
       3
     ],
     [
-      "will",
-      3
-    ],
-    [
-      "war",
-      3
-    ],
-    [
-      "protests",
-      3
-    ],
-    [
-      "calls",
+      "says",
       2
     ],
     [
-      "riots",
+      "there",
       2
     ],
     [
@@ -57,71 +37,91 @@
       2
     ],
     [
-      "russian",
+      "world",
       2
     ],
     [
-      "shares",
+      "watch",
       2
     ],
     [
-      "youth",
+      "ukraine",
       2
     ],
     [
-      "moral",
+      "four",
       2
     ],
     [
-      "failure",
+      "police",
       2
     ],
     [
-      "military",
+      "injured",
+      2
+    ],
+    [
+      "man",
+      2
+    ],
+    [
+      "home",
+      2
+    ],
+    [
+      "cut",
+      2
+    ],
+    [
+      "children",
+      2
+    ],
+    [
+      "australian",
       2
     ]
   ],
   "topics": [
     {
-      "name": "says",
-      "count": 6
-    },
-    {
       "name": "after",
       "count": 5
     },
     {
-      "name": "ukraine",
+      "name": "with",
       "count": 4
-    },
-    {
-      "name": "macron",
-      "count": 3
     },
     {
       "name": "from",
       "count": 3
     },
     {
-      "name": "russia",
+      "name": "how",
       "count": 3
     },
     {
-      "name": "crisis",
+      "name": "funding",
       "count": 3
     },
     {
-      "name": "fire",
+      "name": "iran",
       "count": 3
     },
     {
-      "name": "will",
-      "count": 3
+      "name": "says",
+      "count": 2
     },
     {
-      "name": "war",
-      "count": 3
+      "name": "there",
+      "count": 2
+    },
+    {
+      "name": "inside",
+      "count": 2
+    },
+    {
+      "name": "world",
+      "count": 2
     }
   ],
-  "updated_at": "2026-10-19 04:01:24.785333"
+  "updated_at": "2026-10-19 12:39:52.936608"
 }
