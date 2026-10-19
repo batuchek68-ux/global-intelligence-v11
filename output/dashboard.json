@@ -2,7 +2,11 @@
   "keywords": [
     [
       "after",
-      5
+      4
+    ],
+    [
+      "says",
+      4
     ],
     [
       "with",
@@ -10,46 +14,50 @@
     ],
     [
       "from",
+      4
+    ],
+    [
+      "new",
       3
     ],
     [
-      "how",
+      "leader",
       3
     ],
     [
-      "funding",
+      "children",
       3
     ],
     [
-      "iran",
+      "saudi",
       3
     ],
     [
-      "says",
+      "support",
+      3
+    ],
+    [
+      "drone",
+      3
+    ],
+    [
+      "over",
+      3
+    ],
+    [
+      "curfew",
       2
     ],
     [
-      "there",
+      "imposed",
       2
     ],
     [
-      "inside",
+      "across",
       2
     ],
     [
-      "world",
-      2
-    ],
-    [
-      "watch",
-      2
-    ],
-    [
-      "ukraine",
-      2
-    ],
-    [
-      "four",
+      "french",
       2
     ],
     [
@@ -57,34 +65,30 @@
       2
     ],
     [
+      "australian",
+      2
+    ],
+    [
       "injured",
       2
     ],
     [
-      "man",
+      "hit",
       2
     ],
     [
-      "home",
-      2
-    ],
-    [
-      "cut",
-      2
-    ],
-    [
-      "children",
-      2
-    ],
-    [
-      "australian",
+      "car",
       2
     ]
   ],
   "topics": [
     {
       "name": "after",
-      "count": 5
+      "count": 4
+    },
+    {
+      "name": "says",
+      "count": 4
     },
     {
       "name": "with",
@@ -92,36 +96,32 @@
     },
     {
       "name": "from",
+      "count": 4
+    },
+    {
+      "name": "new",
       "count": 3
     },
     {
-      "name": "how",
+      "name": "leader",
       "count": 3
     },
     {
-      "name": "funding",
+      "name": "children",
       "count": 3
     },
     {
-      "name": "iran",
+      "name": "saudi",
       "count": 3
     },
     {
-      "name": "says",
-      "count": 2
+      "name": "support",
+      "count": 3
     },
     {
-      "name": "there",
-      "count": 2
-    },
-    {
-      "name": "inside",
-      "count": 2
-    },
-    {
-      "name": "world",
-      "count": 2
+      "name": "drone",
+      "count": 3
     }
   ],
-  "updated_at": "2026-10-19 12:39:52.936608"
+  "updated_at": "2026-10-19 22:09:23.580550"
 }
