@@ -1,31 +1,19 @@
 {
   "keywords": [
     [
-      "over",
-      5
-    ],
-    [
-      "how",
+      "says",
       4
     ],
     [
-      "after",
+      "bbc",
       4
     ],
     [
-      "are",
+      "why",
       4
     ],
     [
-      "what",
-      3
-    ],
-    [
-      "set",
-      3
-    ],
-    [
-      "world",
+      "with",
       3
     ],
     [
@@ -33,81 +21,81 @@
       3
     ],
     [
-      "attack",
-      2
-    ],
-    [
-      "about",
-      2
-    ],
-    [
-      "bring",
-      2
-    ],
-    [
-      "weather",
-      2
-    ],
-    [
-      "school",
-      2
-    ],
-    [
-      "against",
-      2
-    ],
-    [
-      "under",
-      2
-    ],
-    [
       "trump",
+      3
+    ],
+    [
+      "government",
       2
     ],
     [
-      "people",
+      "covid",
       2
     ],
     [
-      "israeli",
+      "care",
       2
     ],
     [
-      "voters",
+      "homes",
       2
     ],
     [
-      "new",
+      "after",
+      2
+    ],
+    [
+      "three",
+      2
+    ],
+    [
+      "his",
+      2
+    ],
+    [
+      "death",
+      2
+    ],
+    [
+      "family",
+      2
+    ],
+    [
+      "attacks",
+      2
+    ],
+    [
+      "she",
+      2
+    ],
+    [
+      "rubio",
+      2
+    ],
+    [
+      "visiting",
+      2
+    ],
+    [
+      "but",
       2
     ]
   ],
   "topics": [
     {
-      "name": "over",
-      "count": 5
-    },
-    {
-      "name": "how",
+      "name": "says",
       "count": 4
     },
     {
-      "name": "after",
+      "name": "bbc",
       "count": 4
     },
     {
-      "name": "are",
+      "name": "why",
       "count": 4
     },
     {
-      "name": "what",
-      "count": 3
-    },
-    {
-      "name": "set",
-      "count": 3
-    },
-    {
-      "name": "world",
+      "name": "with",
       "count": 3
     },
     {
@@ -115,13 +103,25 @@
       "count": 3
     },
     {
-      "name": "attack",
+      "name": "trump",
+      "count": 3
+    },
+    {
+      "name": "government",
       "count": 2
     },
     {
-      "name": "about",
+      "name": "covid",
+      "count": 2
+    },
+    {
+      "name": "care",
+      "count": 2
+    },
+    {
+      "name": "homes",
       "count": 2
     }
   ],
-  "updated_at": "2026-10-20 11:12:09.208483"
+  "updated_at": "2026-10-20 16:36:32.607324"
 }
