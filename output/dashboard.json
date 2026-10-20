@@ -1,31 +1,11 @@
 {
   "keywords": [
     [
-      "after",
-      4
-    ],
-    [
       "says",
-      4
+      5
     ],
     [
-      "with",
-      4
-    ],
-    [
-      "from",
-      4
-    ],
-    [
-      "new",
-      3
-    ],
-    [
-      "leader",
-      3
-    ],
-    [
-      "children",
+      "police",
       3
     ],
     [
@@ -33,27 +13,15 @@
       3
     ],
     [
-      "support",
+      "ukraine",
       3
     ],
     [
-      "drone",
-      3
-    ],
-    [
-      "over",
-      3
-    ],
-    [
-      "curfew",
+      "paris",
       2
     ],
     [
-      "imposed",
-      2
-    ],
-    [
-      "across",
+      "after",
       2
     ],
     [
@@ -61,7 +29,35 @@
       2
     ],
     [
-      "police",
+      "rejects",
+      2
+    ],
+    [
+      "support",
+      2
+    ],
+    [
+      "court",
+      2
+    ],
+    [
+      "people",
+      2
+    ],
+    [
+      "are",
+      2
+    ],
+    [
+      "drone",
+      2
+    ],
+    [
+      "soldier",
+      2
+    ],
+    [
+      "from",
       2
     ],
     [
@@ -69,45 +65,29 @@
       2
     ],
     [
-      "injured",
-      2
-    ],
-    [
-      "hit",
-      2
-    ],
-    [
       "car",
+      2
+    ],
+    [
+      "violent",
+      2
+    ],
+    [
+      "children",
+      2
+    ],
+    [
+      "war",
       2
     ]
   ],
   "topics": [
     {
-      "name": "after",
-      "count": 4
-    },
-    {
       "name": "says",
-      "count": 4
+      "count": 5
     },
     {
-      "name": "with",
-      "count": 4
-    },
-    {
-      "name": "from",
-      "count": 4
-    },
-    {
-      "name": "new",
-      "count": 3
-    },
-    {
-      "name": "leader",
-      "count": 3
-    },
-    {
-      "name": "children",
+      "name": "police",
       "count": 3
     },
     {
@@ -115,13 +95,33 @@
       "count": 3
     },
     {
-      "name": "support",
+      "name": "ukraine",
       "count": 3
     },
     {
-      "name": "drone",
-      "count": 3
+      "name": "paris",
+      "count": 2
+    },
+    {
+      "name": "after",
+      "count": 2
+    },
+    {
+      "name": "french",
+      "count": 2
+    },
+    {
+      "name": "rejects",
+      "count": 2
+    },
+    {
+      "name": "support",
+      "count": 2
+    },
+    {
+      "name": "court",
+      "count": 2
     }
   ],
-  "updated_at": "2026-10-19 22:09:23.580550"
+  "updated_at": "2026-10-20 04:14:38.009048"
 }
