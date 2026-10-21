@@ -1,55 +1,19 @@
 {
   "keywords": [
     [
-      "says",
-      7
-    ],
-    [
-      "from",
-      5
-    ],
-    [
-      "trump",
-      5
-    ],
-    [
-      "peace",
-      4
-    ],
-    [
-      "over",
-      4
+      "attack",
+      6
     ],
     [
       "after",
+      4
+    ],
+    [
+      "australian",
       3
     ],
     [
-      "government",
-      3
-    ],
-    [
-      "musk",
-      3
-    ],
-    [
-      "merger",
-      3
-    ],
-    [
-      "care",
-      3
-    ],
-    [
-      "its",
-      3
-    ],
-    [
-      "harry",
-      3
-    ],
-    [
-      "why",
+      "who",
       3
     ],
     [
@@ -57,71 +21,107 @@
       3
     ],
     [
-      "iran",
+      "russia",
       2
     ],
     [
-      "intelligence",
+      "home",
       2
     ],
     [
-      "zelensky",
+      "trump",
       2
     ],
     [
-      "now",
+      "says",
       2
     ],
     [
-      "king",
+      "loses",
       2
     ],
     [
-      "efforts",
+      "both",
+      2
+    ],
+    [
+      "legs",
+      2
+    ],
+    [
+      "lawyer",
+      2
+    ],
+    [
+      "illegalworker",
+      2
+    ],
+    [
+      "fine",
+      2
+    ],
+    [
+      "undercover",
+      2
+    ],
+    [
+      "how",
+      2
+    ],
+    [
+      "life",
+      2
+    ],
+    [
+      "jackdaw",
+      2
+    ],
+    [
+      "but",
       2
     ]
   ],
   "topics": [
     {
-      "name": "says",
-      "count": 7
-    },
-    {
-      "name": "from",
-      "count": 5
-    },
-    {
-      "name": "trump",
-      "count": 5
-    },
-    {
-      "name": "peace",
-      "count": 4
-    },
-    {
-      "name": "over",
-      "count": 4
+      "name": "attack",
+      "count": 6
     },
     {
       "name": "after",
+      "count": 4
+    },
+    {
+      "name": "australian",
       "count": 3
     },
     {
-      "name": "government",
+      "name": "who",
       "count": 3
     },
     {
-      "name": "musk",
+      "name": "with",
       "count": 3
     },
     {
-      "name": "merger",
-      "count": 3
+      "name": "russia",
+      "count": 2
     },
     {
-      "name": "care",
-      "count": 3
+      "name": "home",
+      "count": 2
+    },
+    {
+      "name": "trump",
+      "count": 2
+    },
+    {
+      "name": "says",
+      "count": 2
+    },
+    {
+      "name": "loses",
+      "count": 2
     }
   ],
-  "updated_at": "2026-10-21 04:02:27.715140"
+  "updated_at": "2026-10-21 11:27:23.485685"
 }
