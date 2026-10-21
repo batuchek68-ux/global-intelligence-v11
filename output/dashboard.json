@@ -1,23 +1,31 @@
 {
   "keywords": [
     [
-      "how",
+      "will",
       5
     ],
     [
-      "new",
+      "over",
       4
     ],
     [
-      "says",
+      "after",
       4
+    ],
+    [
+      "how",
+      4
+    ],
+    [
+      "jackdaw",
+      3
     ],
     [
       "gas",
       3
     ],
     [
-      "its",
+      "says",
       3
     ],
     [
@@ -25,43 +33,35 @@
       3
     ],
     [
+      "ukraine",
+      3
+    ],
+    [
+      "bills",
+      3
+    ],
+    [
+      "burnham",
+      2
+    ],
+    [
+      "decision",
+      2
+    ],
+    [
+      "down",
+      2
+    ],
+    [
       "russia",
-      3
-    ],
-    [
-      "aberfan",
-      3
-    ],
-    [
-      "disaster",
-      3
-    ],
-    [
-      "school",
-      3
-    ],
-    [
-      "after",
-      3
-    ],
-    [
-      "protests",
-      3
-    ],
-    [
-      "are",
-      3
-    ],
-    [
-      "jackdaw",
       2
     ],
     [
-      "over",
+      "resume",
       2
     ],
     [
-      "being",
+      "talks",
       2
     ],
     [
@@ -69,37 +69,45 @@
       2
     ],
     [
-      "was",
+      "peace",
       2
     ],
     [
-      "but",
+      "australian",
       2
     ],
     [
-      "lawyer",
+      "aberfan",
       2
     ]
   ],
   "topics": [
     {
-      "name": "how",
+      "name": "will",
       "count": 5
     },
     {
-      "name": "new",
+      "name": "over",
       "count": 4
     },
     {
-      "name": "says",
+      "name": "after",
       "count": 4
+    },
+    {
+      "name": "how",
+      "count": 4
+    },
+    {
+      "name": "jackdaw",
+      "count": 3
     },
     {
       "name": "gas",
       "count": 3
     },
     {
-      "name": "its",
+      "name": "says",
       "count": 3
     },
     {
@@ -107,21 +115,13 @@
       "count": 3
     },
     {
-      "name": "russia",
+      "name": "ukraine",
       "count": 3
     },
     {
-      "name": "aberfan",
-      "count": 3
-    },
-    {
-      "name": "disaster",
-      "count": 3
-    },
-    {
-      "name": "school",
+      "name": "bills",
       "count": 3
     }
   ],
-  "updated_at": "2026-10-21 16:54:52.021953"
+  "updated_at": "2026-10-21 21:26:23.196248"
 }
