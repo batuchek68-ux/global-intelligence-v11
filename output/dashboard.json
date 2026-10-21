@@ -1,19 +1,23 @@
 {
   "keywords": [
     [
-      "attack",
-      6
+      "how",
+      5
     ],
     [
-      "after",
+      "new",
       4
     ],
     [
-      "australian",
+      "says",
+      4
+    ],
+    [
+      "gas",
       3
     ],
     [
-      "who",
+      "its",
       3
     ],
     [
@@ -22,80 +26,80 @@
     ],
     [
       "russia",
-      2
+      3
     ],
     [
-      "home",
-      2
+      "aberfan",
+      3
     ],
     [
-      "trump",
-      2
+      "disaster",
+      3
     ],
     [
-      "says",
-      2
+      "school",
+      3
     ],
     [
-      "loses",
-      2
+      "after",
+      3
     ],
     [
-      "both",
-      2
+      "protests",
+      3
     ],
     [
-      "legs",
-      2
-    ],
-    [
-      "lawyer",
-      2
-    ],
-    [
-      "illegalworker",
-      2
-    ],
-    [
-      "fine",
-      2
-    ],
-    [
-      "undercover",
-      2
-    ],
-    [
-      "how",
-      2
-    ],
-    [
-      "life",
-      2
+      "are",
+      3
     ],
     [
       "jackdaw",
       2
     ],
     [
+      "over",
+      2
+    ],
+    [
+      "being",
+      2
+    ],
+    [
+      "war",
+      2
+    ],
+    [
+      "was",
+      2
+    ],
+    [
       "but",
+      2
+    ],
+    [
+      "lawyer",
       2
     ]
   ],
   "topics": [
     {
-      "name": "attack",
-      "count": 6
+      "name": "how",
+      "count": 5
     },
     {
-      "name": "after",
+      "name": "new",
       "count": 4
     },
     {
-      "name": "australian",
+      "name": "says",
+      "count": 4
+    },
+    {
+      "name": "gas",
       "count": 3
     },
     {
-      "name": "who",
+      "name": "its",
       "count": 3
     },
     {
@@ -104,24 +108,20 @@
     },
     {
       "name": "russia",
-      "count": 2
+      "count": 3
     },
     {
-      "name": "home",
-      "count": 2
+      "name": "aberfan",
+      "count": 3
     },
     {
-      "name": "trump",
-      "count": 2
+      "name": "disaster",
+      "count": 3
     },
     {
-      "name": "says",
-      "count": 2
-    },
-    {
-      "name": "loses",
-      "count": 2
+      "name": "school",
+      "count": 3
     }
   ],
-  "updated_at": "2026-10-21 11:27:23.485685"
+  "updated_at": "2026-10-21 16:54:52.021953"
 }
