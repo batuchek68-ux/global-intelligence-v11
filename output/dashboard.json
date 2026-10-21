@@ -1,27 +1,55 @@
 {
   "keywords": [
     [
+      "says",
+      7
+    ],
+    [
+      "from",
+      5
+    ],
+    [
       "trump",
       5
     ],
     [
-      "says",
+      "peace",
       4
     ],
     [
-      "bbc",
+      "over",
       4
-    ],
-    [
-      "why",
-      4
-    ],
-    [
-      "intelligence",
-      3
     ],
     [
       "after",
+      3
+    ],
+    [
+      "government",
+      3
+    ],
+    [
+      "musk",
+      3
+    ],
+    [
+      "merger",
+      3
+    ],
+    [
+      "care",
+      3
+    ],
+    [
+      "its",
+      3
+    ],
+    [
+      "harry",
+      3
+    ],
+    [
+      "why",
       3
     ],
     [
@@ -29,27 +57,11 @@
       3
     ],
     [
-      "france",
-      3
-    ],
-    [
-      "two",
-      2
-    ],
-    [
-      "men",
-      2
-    ],
-    [
-      "suspicion",
-      2
-    ],
-    [
-      "assisting",
-      2
-    ],
-    [
       "iran",
+      2
+    ],
+    [
+      "intelligence",
       2
     ],
     [
@@ -61,67 +73,55 @@
       2
     ],
     [
-      "oslo",
+      "king",
       2
     ],
     [
-      "government",
-      2
-    ],
-    [
-      "covid",
-      2
-    ],
-    [
-      "spread",
-      2
-    ],
-    [
-      "like",
+      "efforts",
       2
     ]
   ],
   "topics": [
     {
+      "name": "says",
+      "count": 7
+    },
+    {
+      "name": "from",
+      "count": 5
+    },
+    {
       "name": "trump",
       "count": 5
     },
     {
-      "name": "says",
+      "name": "peace",
       "count": 4
     },
     {
-      "name": "bbc",
+      "name": "over",
       "count": 4
-    },
-    {
-      "name": "why",
-      "count": 4
-    },
-    {
-      "name": "intelligence",
-      "count": 3
     },
     {
       "name": "after",
       "count": 3
     },
     {
-      "name": "with",
+      "name": "government",
       "count": 3
     },
     {
-      "name": "france",
+      "name": "musk",
       "count": 3
     },
     {
-      "name": "two",
-      "count": 2
+      "name": "merger",
+      "count": 3
     },
     {
-      "name": "men",
-      "count": 2
+      "name": "care",
+      "count": 3
     }
   ],
-  "updated_at": "2026-10-20 21:25:12.889540"
+  "updated_at": "2026-10-21 04:02:27.715140"
 }
