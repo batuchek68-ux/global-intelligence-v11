@@ -1,15 +1,15 @@
 {
   "keywords": [
     [
-      "new",
-      6
-    ],
-    [
       "are",
       4
     ],
     [
-      "why",
+      "from",
+      3
+    ],
+    [
+      "hears",
       3
     ],
     [
@@ -21,35 +21,15 @@
       3
     ],
     [
-      "russia",
-      3
-    ],
-    [
-      "but",
-      3
-    ],
-    [
-      "more",
-      3
-    ],
-    [
-      "can",
-      3
-    ],
-    [
-      "php",
+      "cyber",
       2
     ],
     [
-      "alleged",
+      "court",
       2
     ],
     [
-      "who",
-      2
-    ],
-    [
-      "victims",
+      "crisis",
       2
     ],
     [
@@ -57,41 +37,61 @@
       2
     ],
     [
-      "election",
-      2
-    ],
-    [
-      "ukraine",
-      2
-    ],
-    [
-      "talks",
-      2
-    ],
-    [
-      "peace",
-      2
-    ],
-    [
-      "years",
+      "jobs",
       2
     ],
     [
       "real",
       2
+    ],
+    [
+      "young",
+      2
+    ],
+    [
+      "how",
+      2
+    ],
+    [
+      "election",
+      2
+    ],
+    [
+      "new",
+      2
+    ],
+    [
+      "man",
+      2
+    ],
+    [
+      "with",
+      2
+    ],
+    [
+      "protests",
+      2
+    ],
+    [
+      "cricket",
+      2
+    ],
+    [
+      "attacks",
+      2
     ]
   ],
   "topics": [
-    {
-      "name": "new",
-      "count": 6
-    },
     {
       "name": "are",
       "count": 4
     },
     {
-      "name": "why",
+      "name": "from",
+      "count": 3
+    },
+    {
+      "name": "hears",
       "count": 3
     },
     {
@@ -103,25 +103,25 @@
       "count": 3
     },
     {
-      "name": "russia",
-      "count": 3
+      "name": "cyber",
+      "count": 2
     },
     {
-      "name": "but",
-      "count": 3
+      "name": "court",
+      "count": 2
     },
     {
-      "name": "more",
-      "count": 3
+      "name": "crisis",
+      "count": 2
     },
     {
-      "name": "can",
-      "count": 3
+      "name": "two",
+      "count": 2
     },
     {
-      "name": "php",
+      "name": "jobs",
       "count": 2
     }
   ],
-  "updated_at": "2026-10-22 11:28:05.632285"
+  "updated_at": "2026-10-22 16:54:50.304427"
 }
