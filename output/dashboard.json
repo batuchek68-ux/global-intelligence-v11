@@ -1,51 +1,71 @@
 {
   "keywords": [
     [
-      "are",
+      "warns",
       4
     ],
     [
-      "from",
-      3
-    ],
-    [
-      "hears",
-      3
-    ],
-    [
       "after",
-      3
+      4
     ],
     [
-      "israeli",
-      3
-    ],
-    [
-      "cyber",
-      2
-    ],
-    [
-      "court",
-      2
-    ],
-    [
-      "crisis",
-      2
+      "trump",
+      4
     ],
     [
       "two",
+      3
+    ],
+    [
+      "says",
+      3
+    ],
+    [
+      "from",
       2
     ],
     [
-      "jobs",
+      "cybersecurity",
       2
     ],
     [
-      "real",
+      "flaw",
       2
     ],
     [
-      "young",
+      "hurt",
+      2
+    ],
+    [
+      "hears",
+      2
+    ],
+    [
+      "pokmon",
+      2
+    ],
+    [
+      "cards",
+      2
+    ],
+    [
+      "retired",
+      2
+    ],
+    [
+      "hit",
+      2
+    ],
+    [
+      "death",
+      2
+    ],
+    [
+      "are",
+      2
+    ],
+    [
+      "end",
       2
     ],
     [
@@ -53,75 +73,55 @@
       2
     ],
     [
+      "israeli",
+      2
+    ],
+    [
       "election",
-      2
-    ],
-    [
-      "new",
-      2
-    ],
-    [
-      "man",
-      2
-    ],
-    [
-      "with",
-      2
-    ],
-    [
-      "protests",
-      2
-    ],
-    [
-      "cricket",
-      2
-    ],
-    [
-      "attacks",
       2
     ]
   ],
   "topics": [
     {
-      "name": "are",
+      "name": "warns",
       "count": 4
     },
     {
-      "name": "from",
-      "count": 3
-    },
-    {
-      "name": "hears",
-      "count": 3
-    },
-    {
       "name": "after",
-      "count": 3
+      "count": 4
     },
     {
-      "name": "israeli",
-      "count": 3
-    },
-    {
-      "name": "cyber",
-      "count": 2
-    },
-    {
-      "name": "court",
-      "count": 2
-    },
-    {
-      "name": "crisis",
-      "count": 2
+      "name": "trump",
+      "count": 4
     },
     {
       "name": "two",
+      "count": 3
+    },
+    {
+      "name": "says",
+      "count": 3
+    },
+    {
+      "name": "from",
       "count": 2
     },
     {
-      "name": "jobs",
+      "name": "cybersecurity",
+      "count": 2
+    },
+    {
+      "name": "flaw",
+      "count": 2
+    },
+    {
+      "name": "hurt",
+      "count": 2
+    },
+    {
+      "name": "hears",
       "count": 2
     }
   ],
-  "updated_at": "2026-10-22 16:54:50.304427"
+  "updated_at": "2026-10-22 21:21:35.522591"
 }
