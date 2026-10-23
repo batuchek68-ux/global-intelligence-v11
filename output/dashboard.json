@@ -1,127 +1,127 @@
 {
   "keywords": [
     [
-      "trump",
-      5
-    ],
-    [
       "says",
       5
-    ],
-    [
-      "after",
-      3
-    ],
-    [
-      "access",
-      3
-    ],
-    [
-      "with",
-      3
     ],
     [
       "bbc",
       3
     ],
     [
-      "over",
+      "two",
       3
     ],
     [
-      "prepare",
+      "raped",
+      3
+    ],
+    [
+      "trump",
+      3
+    ],
+    [
+      "how",
+      3
+    ],
+    [
+      "military",
+      3
+    ],
+    [
+      "israeli",
+      3
+    ],
+    [
+      "watch",
       2
     ],
     [
-      "warns",
+      "west",
       2
     ],
     [
-      "public",
+      "bank",
       2
     ],
     [
-      "cybersecurity",
+      "detective",
       2
     ],
     [
-      "flaw",
+      "colleague",
       2
     ],
     [
-      "musk",
+      "met",
       2
     ],
     [
-      "restored",
+      "after",
       2
     ],
     [
-      "ukraines",
+      "trial",
       2
     ],
     [
-      "starlink",
+      "have",
       2
     ],
     [
-      "wins",
+      "manchester",
       2
     ],
     [
-      "prize",
+      "united",
       2
     ],
     [
-      "this",
-      2
-    ],
-    [
-      "paranoia",
+      "club",
       2
     ]
   ],
   "topics": [
     {
-      "name": "trump",
-      "count": 5
-    },
-    {
       "name": "says",
       "count": 5
-    },
-    {
-      "name": "after",
-      "count": 3
-    },
-    {
-      "name": "access",
-      "count": 3
-    },
-    {
-      "name": "with",
-      "count": 3
     },
     {
       "name": "bbc",
       "count": 3
     },
     {
-      "name": "over",
+      "name": "two",
       "count": 3
     },
     {
-      "name": "prepare",
+      "name": "raped",
+      "count": 3
+    },
+    {
+      "name": "trump",
+      "count": 3
+    },
+    {
+      "name": "how",
+      "count": 3
+    },
+    {
+      "name": "military",
+      "count": 3
+    },
+    {
+      "name": "israeli",
+      "count": 3
+    },
+    {
+      "name": "watch",
       "count": 2
     },
     {
-      "name": "warns",
-      "count": 2
-    },
-    {
-      "name": "public",
+      "name": "west",
       "count": 2
     }
   ],
-  "updated_at": "2026-10-23 04:06:43.200593"
+  "updated_at": "2026-10-23 11:17:49.059618"
 }
