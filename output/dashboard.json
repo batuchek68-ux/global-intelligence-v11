@@ -2,22 +2,46 @@
   "keywords": [
     [
       "says",
-      5
+      6
     ],
     [
-      "bbc",
-      3
-    ],
-    [
-      "two",
-      3
-    ],
-    [
-      "raped",
-      3
+      "shooting",
+      4
     ],
     [
       "trump",
+      4
+    ],
+    [
+      "was",
+      3
+    ],
+    [
+      "paris",
+      3
+    ],
+    [
+      "white",
+      3
+    ],
+    [
+      "house",
+      3
+    ],
+    [
+      "gunmen",
+      3
+    ],
+    [
+      "jordan",
+      3
+    ],
+    [
+      "after",
+      3
+    ],
+    [
+      "what",
       3
     ],
     [
@@ -25,103 +49,79 @@
       3
     ],
     [
-      "military",
-      3
-    ],
-    [
-      "israeli",
-      3
+      "about",
+      2
     ],
     [
       "watch",
       2
     ],
     [
-      "west",
+      "near",
       2
     ],
     [
-      "bank",
+      "melania",
       2
     ],
     [
-      "detective",
+      "ukraine",
       2
     ],
     [
-      "colleague",
+      "city",
       2
     ],
     [
-      "met",
+      "raped",
       2
     ],
     [
-      "after",
-      2
-    ],
-    [
-      "trial",
-      2
-    ],
-    [
-      "have",
-      2
-    ],
-    [
-      "manchester",
-      2
-    ],
-    [
-      "united",
-      2
-    ],
-    [
-      "club",
+      "seven",
       2
     ]
   ],
   "topics": [
     {
       "name": "says",
-      "count": 5
+      "count": 6
     },
     {
-      "name": "bbc",
-      "count": 3
-    },
-    {
-      "name": "two",
-      "count": 3
-    },
-    {
-      "name": "raped",
-      "count": 3
+      "name": "shooting",
+      "count": 4
     },
     {
       "name": "trump",
+      "count": 4
+    },
+    {
+      "name": "was",
       "count": 3
     },
     {
-      "name": "how",
+      "name": "paris",
       "count": 3
     },
     {
-      "name": "military",
+      "name": "white",
       "count": 3
     },
     {
-      "name": "israeli",
+      "name": "house",
       "count": 3
     },
     {
-      "name": "watch",
-      "count": 2
+      "name": "gunmen",
+      "count": 3
     },
     {
-      "name": "west",
-      "count": 2
+      "name": "jordan",
+      "count": 3
+    },
+    {
+      "name": "after",
+      "count": 3
     }
   ],
-  "updated_at": "2026-10-23 11:17:49.059618"
+  "updated_at": "2026-10-23 16:46:25.145793"
 }
