@@ -1,15 +1,15 @@
 {
   "keywords": [
     [
+      "after",
+      9
+    ],
+    [
       "says",
       6
     ],
     [
-      "shooting",
-      4
-    ],
-    [
-      "trump",
+      "why",
       4
     ],
     [
@@ -17,47 +17,55 @@
       3
     ],
     [
-      "paris",
+      "about",
       3
+    ],
+    [
+      "shooting",
+      3
+    ],
+    [
+      "trump",
+      3
+    ],
+    [
+      "israeli",
+      3
+    ],
+    [
+      "cuts",
+      2
+    ],
+    [
+      "meghan",
+      2
+    ],
+    [
+      "she",
+      2
+    ],
+    [
+      "her",
+      2
+    ],
+    [
+      "father",
+      2
+    ],
+    [
+      "years",
+      2
+    ],
+    [
+      "with",
+      2
     ],
     [
       "white",
-      3
+      2
     ],
     [
       "house",
-      3
-    ],
-    [
-      "gunmen",
-      3
-    ],
-    [
-      "jordan",
-      3
-    ],
-    [
-      "after",
-      3
-    ],
-    [
-      "what",
-      3
-    ],
-    [
-      "how",
-      3
-    ],
-    [
-      "about",
-      2
-    ],
-    [
-      "watch",
-      2
-    ],
-    [
-      "near",
       2
     ],
     [
@@ -71,27 +79,19 @@
     [
       "city",
       2
-    ],
-    [
-      "raped",
-      2
-    ],
-    [
-      "seven",
-      2
     ]
   ],
   "topics": [
+    {
+      "name": "after",
+      "count": 9
+    },
     {
       "name": "says",
       "count": 6
     },
     {
-      "name": "shooting",
-      "count": 4
-    },
-    {
-      "name": "trump",
+      "name": "why",
       "count": 4
     },
     {
@@ -99,29 +99,29 @@
       "count": 3
     },
     {
-      "name": "paris",
+      "name": "about",
       "count": 3
     },
     {
-      "name": "white",
+      "name": "shooting",
       "count": 3
     },
     {
-      "name": "house",
+      "name": "trump",
       "count": 3
     },
     {
-      "name": "gunmen",
+      "name": "israeli",
       "count": 3
     },
     {
-      "name": "jordan",
-      "count": 3
+      "name": "cuts",
+      "count": 2
     },
     {
-      "name": "after",
-      "count": 3
+      "name": "meghan",
+      "count": 2
     }
   ],
-  "updated_at": "2026-10-23 16:46:25.145793"
+  "updated_at": "2026-10-23 21:12:40.763393"
 }

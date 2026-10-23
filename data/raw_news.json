@@ -1,17 +1,37 @@
 [
   {
+    "title": "Storm Austen brings power cuts and travel disruption as more wind and rain forecast",
+    "summary": "A second storm, Storm Boelo, is expected to hit Scotland, Northern Ireland and northern England on Saturday bringing more wild weather.",
+    "source": "https://feeds.bbci.co.uk/news/rss.xml"
+  },
+  {
     "title": "Meghan says she was informed about 'disturbing allegations' against her father in 2018",
     "summary": "The Duchess of Sussex issues a statement following reports her father Thomas Markle is being investigated over child sex abuse images in the Philippines.",
     "source": "https://feeds.bbci.co.uk/news/rss.xml"
   },
   {
-    "title": "Watch: Moment part of Brighton's historic West Pier collapses",
-    "summary": "Footage taken during Storm Austen shows a section of the famous landmark battered by large waves and collapsing into the water.",
+    "title": "Meghan statement offers answers after years of questions about her relationship with father",
+    "summary": "Today, without exactly using the word, Meghan claimed vindication.",
     "source": "https://feeds.bbci.co.uk/news/rss.xml"
   },
   {
-    "title": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
+    "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
     "summary": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended.",
+    "source": "https://feeds.bbci.co.uk/news/rss.xml"
+  },
+  {
+    "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
+    "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
+    "source": "https://feeds.bbci.co.uk/news/rss.xml"
+  },
+  {
+    "title": "Bayern Munich manager Kompany taken to hospital after collapsing at training",
+    "summary": "Bayern Munich manager Vincent Kompany is taken to hospital after collapsing as he watched the club's second team train on Friday.",
+    "source": "https://feeds.bbci.co.uk/news/rss.xml"
+  },
+  {
+    "title": "Watch: Prince William on how he once dreamed of becoming 'DJ Xara'",
+    "summary": "The Prince of Wales made a surprise appearance on the Graham Norton Show as part of a special edition to mark the Earthshot Prize.",
     "source": "https://feeds.bbci.co.uk/news/rss.xml"
   },
   {
@@ -20,18 +40,13 @@
     "source": "https://feeds.bbci.co.uk/news/rss.xml"
   },
   {
-    "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
-    "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
+    "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+    "summary": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning.",
     "source": "https://feeds.bbci.co.uk/news/rss.xml"
   },
   {
-    "title": "Glasgow museums remove mummified remains from public view over ethical concerns",
-    "summary": "Kelvingrove Museum and The Hunterian say they have removed human remains from display because of ethical concerns.",
-    "source": "https://feeds.bbci.co.uk/news/rss.xml"
-  },
-  {
-    "title": "Detective raped by colleague says Met handling of case 'like being raped again'",
-    "summary": "Linda Williams was attacked by David Carrick, who was jailed in 2023 for sexual offences against 12 women.",
+    "title": "GP says she was forced out of job after raising concerns about gender treatment",
+    "summary": "The doctor says she faced a brutal investigation after she passed on complaints brought to her by other doctors.",
     "source": "https://feeds.bbci.co.uk/news/rss.xml"
   },
   {
@@ -40,18 +55,8 @@
     "source": "https://feeds.bbci.co.uk/news/rss.xml"
   },
   {
-    "title": "Watch: CCTV footage appears to show gunmen at site of Jordan shooting",
-    "summary": "Dozens of people had been inside the church for a funeral when the shooting began, local media report.",
-    "source": "https://feeds.bbci.co.uk/news/rss.xml"
-  },
-  {
-    "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
-    "summary": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning.",
-    "source": "https://feeds.bbci.co.uk/news/rss.xml"
-  },
-  {
-    "title": "Oil spill washes up on UAE beaches after tanker strike",
-    "summary": "Satellite images show oil spreading for miles along the coastline, threatening local marine wildlife",
+    "title": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
+    "summary": "Ukrainians held alongside the American say they witnessed beatings and sexual humiliation by Russian guards during his detention.",
     "source": "https://feeds.bbci.co.uk/news/rss.xml"
   },
   {
@@ -60,23 +65,13 @@
     "source": "https://feeds.bbci.co.uk/news/rss.xml"
   },
   {
-    "title": "Hispanic voters helped bring Trump to power - in Texas, the tide may be turning",
-    "summary": "Recent polls suggest the president is facing challenging headwinds in the state ahead of the midterms.",
-    "source": "https://feeds.bbci.co.uk/news/rss.xml"
-  },
-  {
     "title": "'It's been relentless': IT workers scramble to fix PHP flaw described as worst crisis in years",
     "summary": "IT and cyber experts have told the BBC about their struggles in the last 48 hours to update their systems.",
     "source": "https://feeds.bbci.co.uk/news/rss.xml"
   },
   {
-    "title": "Why a student protest movement is challenging 12 years of Vučić rule in Serbia",
-    "summary": "After two years of student protests, Serbians vote on Sunday in elections that could bring down the ruling party.",
-    "source": "https://feeds.bbci.co.uk/news/rss.xml"
-  },
-  {
-    "title": "I thought I was dying but it was health anxiety - here's how to recognise the signs",
-    "summary": "Hollie Sharman shares her experience of health anxiety and a doctor advises on how to manage symptoms.",
+    "title": "Oil spill washes up on UAE beaches after tanker strike",
+    "summary": "Satellite images show oil spreading for miles along the coastline, threatening local marine wildlife",
     "source": "https://feeds.bbci.co.uk/news/rss.xml"
   },
   {
@@ -100,103 +95,108 @@
     "source": "https://feeds.bbci.co.uk/news/rss.xml"
   },
   {
-    "title": "European, Middle East ministers urge US-Iran diplomacy, not new attacks",
-    "summary": "A further escalation would &#039;create nothing but losers&#039;, the French foreign minister warns after joint Istanbul meeting .",
+    "title": "Bodycam clip released in fatal police shooting of Mississippi one-year-old",
+    "summary": "The family lawyer says an allegation of shoplifting \"does not warrant the death\" of a child.",
+    "source": "https://feeds.bbci.co.uk/news/rss.xml"
+  },
+  {
+    "title": "‘Generation Right’: Israeli youth show strong support for the right",
+    "summary": "Some three quarters of Jewish first-time voters identify as right or centre-right, higher than rest of Israeli society.",
     "source": "https://www.aljazeera.com/xml/rss/all.xml"
   },
   {
-    "title": "One person killed in suspected ‘Islamophobic’ shooting near Paris",
-    "summary": "Antiterrorism prosecutors investigating motive of attack that seriously wounded five, including a 12-year-old girl.",
+    "title": "FCC Democrat warns broadcasters to resist Trump’s media pressure tactics",
+    "summary": "Democrat Anna Gomez warns broadcasters against yielding to the Trump-era FCC&#039;s claims of fake polls and news distortions.",
     "source": "https://www.aljazeera.com/xml/rss/all.xml"
   },
   {
-    "title": "‘Foreign policy is the economy’: How Iran war is shaping US midterm vote",
-    "summary": "Democrats are framing the conflict as an affordability issue to criticise Republican candidates backed by Trump.",
+    "title": "Time ‘running out’ to reach Yemen’s Taiz amid deepening crisis, UN says",
+    "summary": "More than 800,000 people have been cut off from aid since the Houthis encircled Taiz city in early October.",
     "source": "https://www.aljazeera.com/xml/rss/all.xml"
   },
   {
-    "title": "Carrick accepts blame for Man United slump, but ‘confident’ of a turnaround",
-    "summary": "Manchester United make worst start to a season in 40 years, but Michael Carrick &#039;confident&#039; ahead of Bournemouth game.",
+    "title": "Why is the UK at the forefront of AI-driven job cuts?",
+    "summary": "AI-linked job losses in the UK are running at twice the rate of US and Germany.",
     "source": "https://www.aljazeera.com/xml/rss/all.xml"
   },
   {
-    "title": "What to know as Brazil prepares for tense presidential run-off",
-    "summary": "Polls show leftist incumbent Lula closing gap on right-wing rival Flavio Bolsonaro ahead of second round of voting.",
+    "title": "Why is Trump questioning Ilhan Omar’s name?",
+    "summary": "A Justice Department filing listed a different name for her, prompting Trump to call for her resignation.",
     "source": "https://www.aljazeera.com/xml/rss/all.xml"
   },
   {
-    "title": "Conte dismisses reports of Man United takeover with Carrick’s job uncertain",
-    "summary": "Ex-Chelsea boss Antonio Conte denies Manchester United link, says reports he demanded full control of club &#039;unfounded&#039;.",
+    "title": "Russia, Ukraine agree to Melania Trump-brokered localised ceasefire",
+    "summary": "President Trump says it was First Lady Melania Trump’s initiative that led to a ceasefire in Oleshky.",
     "source": "https://www.aljazeera.com/xml/rss/all.xml"
   },
   {
-    "title": "Mississippi releases video of 1-year-old’s fatal police shooting",
-    "summary": "Mississippi released bodycam footage of the fatal shooting of 1-year-old Kohen Wiley.",
+    "title": "Trump’s broken promises: economy, war and ICE",
+    "summary": "Mehdi Hasan debates ex-Trump adviser Steve Cortes on the economy, Trump’s immigration policies and Islamophobia.",
     "source": "https://www.aljazeera.com/xml/rss/all.xml"
   },
   {
-    "title": "Finland nearing opening of world’s first permanent nuclear waste repository",
-    "summary": "Facilities are being built in many countries, but Finland is the first to licence its underground storage facility.",
+    "title": "Tigray rebels urged to disarm as commander vows to fight Ethiopia’s gov’t",
+    "summary": "Rebel commander pledged to continue fighting government-allied forces who seized Ethiopia&#039;s Tigray capital.",
     "source": "https://www.aljazeera.com/xml/rss/all.xml"
   },
   {
-    "title": "Dembele to miss Ballon d’Or event as PSG game moved amid protests in France",
-    "summary": "Paris Saint-Germain&#039;s game has been postponed following a request by police amid a wave of violent protests in France.",
+    "title": "Ecuador judge orders pre-trial detention of leftist presidential candidate",
+    "summary": "Luisa Gonzalez, who lost to right-wing president Daniel Noboa in 2023, has called the arrest political persecution.",
     "source": "https://www.aljazeera.com/xml/rss/all.xml"
   },
   {
-    "title": "Kenya’s marathon champion Peres Jepchirchir provisionally banned by AIU",
-    "summary": "Jepchirchir tested positive for banned blood booster EPO in a sample taken before her Sydney Marathon win in August.",
+    "title": "Aston Villa vs Manchester City: Premier League – teams, prediction, lineups",
+    "summary": "Man City are the only team with a perfect Premier League record, but face a Villa side determined to climb the table.",
     "source": "https://www.aljazeera.com/xml/rss/all.xml"
   },
   {
-    "title": "Melania Trump ‘secured ceasefire’ in Ukrainian city of Oleshky: White House",
-    "summary": "White House says &#039;localised&#039; ceasefire to take effect, as Russia and Ukraine say timing being determined.",
+    "title": "Israel locks down occupied West Bank after Hebron shooting",
+    "summary": "Israel has imposed a lockdown across the occupied West Bank after a shooting near Hebron killed two Israeli soldiers.",
     "source": "https://www.aljazeera.com/xml/rss/all.xml"
   },
   {
-    "title": "At least seven killed after gunmen open fire at church in Jordan",
-    "summary": "Survivors say two masked men began shooting as dozens attended a funeral procession.",
+    "title": "Former FBI officials charged in connection with Hunter Biden laptop probe",
+    "summary": "Lawyers for two accused officials say Department of Justice seeking to revive scandal in the run-up to midterm vote.",
     "source": "https://www.aljazeera.com/xml/rss/all.xml"
   },
   {
-    "title": "Hundreds to defy Palestine Action ban in protest at US embassy in London",
-    "summary": "Campaigners plan mass Halloween action before Supreme Court hearing on challenge to group&#039;s &#039;terrorist&#039; proscription.",
+    "title": "Trump administration sues to block possible Democratic win in Alaska",
+    "summary": "President Donald Trump took credit for the action amid growing concerns the US government could meddle in midterm races.",
     "source": "https://www.aljazeera.com/xml/rss/all.xml"
   },
   {
-    "title": "NFL would cancel Paris game if unsafe due to riots, Steelers’ Rodgers says",
-    "summary": "Steelers to face New Orleans Saints in ⁠Saint-Denis on Sunday, about 10km from where Saturday&#039;s protests ​are expected.",
+    "title": "Several people missing after multistorey building collapses in Kenya",
+    "summary": "Officials say building in Nairobi&#039;s Eastleigh area had no occupation certificate, but ground floor was in use.",
     "source": "https://www.aljazeera.com/xml/rss/all.xml"
   },
   {
-    "title": "Trump ordered to testify in $10bn BBC lawsuit discovery: What happens now?",
-    "summary": "Trump could face sanctions, including dismissal of his lawsuit, if he fails to cooperate with questioning.",
+    "title": "Yamal, Mbappe in El Clasico spotlight as 40 cameras dedicated to coverage",
+    "summary": "The coverage includes ultra-high-definition filming, slow-motion replays, and individual player tracking techniques.",
     "source": "https://www.aljazeera.com/xml/rss/all.xml"
   },
   {
-    "title": "Russia drops cluster bombs on Ukraine as Kyiv consolidates front line",
-    "summary": "Russia’s territorial gains this year are effectively nil as it heads into trilateral talks with Ukraine, US.",
+    "title": "Bayern coach Kompany taken to hospital after collapsing during training",
+    "summary": "The Belgian had been ​nursing a virus in recent days and had ⁠missed some of his team&#039;s training sessions.",
     "source": "https://www.aljazeera.com/xml/rss/all.xml"
   },
   {
-    "title": "El Clasico: All to know about the rivalry between Barcelona and Real Madrid",
-    "summary": "One of world football&#039;s biggest rivalries renews on Sunday when Barcelona host Real Madrid in La Liga&#039;s El Clasico.",
+    "title": "Jerusalem Daily: Israel to ‘lock down’ occupied West Bank",
+    "summary": "Israeli Prime Minister Benjamin Netanyahu orders a “full lockdown” of the occupied West Bank following a shooting.",
     "source": "https://www.aljazeera.com/xml/rss/all.xml"
   },
   {
-    "title": "Dortmund to reward football supporters who don’t use phone during matches",
-    "summary": "Borussia Dortmund&#039;s new scheme does not mean a ban on supporters using their phones and system is voluntary for fans.",
+    "title": "US consumer sentiment hits a near-record low before midterm elections",
+    "summary": "Independent voters’ economic anxieties highlight political implications of plummeting US consumer sentiment.",
     "source": "https://www.aljazeera.com/xml/rss/all.xml"
   },
   {
-    "title": "Qatar Moto GP to go ahead despite regional tensions",
-    "summary": "Qatar GP goes ahead despite Saudi Arabia scrapping events in region after deadly strike on Riyadh airport.",
+    "title": "Romania blames Russia after drone sinks ship in the Black Sea",
+    "summary": "One sailor killed and three others missing after Comoros-flagged Khoryv hit near Romanian waters.",
     "source": "https://www.aljazeera.com/xml/rss/all.xml"
   },
   {
-    "title": "Greece joins push to ban social media for minors",
-    "summary": "A growing number of countries are tightening rules governing children&#039;s online activity amid fears of addiction.",
+    "title": "Why Chinese families are rushing to buy gold",
+    "summary": "China is experiencing a gold rush as families buy more of it, but not necessarily to wear as jewellery.",
     "source": "https://www.aljazeera.com/xml/rss/all.xml"
   }
 ]
