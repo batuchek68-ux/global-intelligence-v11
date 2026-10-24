@@ -2,46 +2,38 @@
   "keywords": [
     [
       "after",
-      6
+      9
     ],
     [
-      "why",
-      5
+      "world",
+      3
     ],
     [
-      "says",
-      4
-    ],
-    [
-      "about",
-      4
-    ],
-    [
-      "father",
-      4
+      "fire",
+      3
     ],
     [
       "with",
       3
     ],
     [
-      "attack",
+      "back",
       3
     ],
     [
-      "near",
-      3
-    ],
-    [
-      "over",
-      3
-    ],
-    [
-      "second",
+      "about",
       2
     ],
     [
-      "australian",
+      "father",
+      2
+    ],
+    [
+      "hitlers",
+      2
+    ],
+    [
+      "retreat",
       2
     ],
     [
@@ -49,79 +41,87 @@
       2
     ],
     [
-      "who",
+      "tax",
       2
     ],
     [
-      "killed",
+      "new",
       2
     ],
     [
-      "seven",
+      "city",
       2
     ],
     [
-      "gunmen",
+      "france",
       2
     ],
     [
-      "church",
+      "protests",
       2
     ],
     [
-      "funeral",
+      "before",
       2
     ],
     [
-      "jordan",
+      "your",
       2
     ],
     [
-      "say",
+      "how",
+      2
+    ],
+    [
+      "brazils",
+      2
+    ],
+    [
+      "over",
       2
     ]
   ],
   "topics": [
     {
       "name": "after",
-      "count": 6
+      "count": 9
     },
     {
-      "name": "why",
-      "count": 5
+      "name": "world",
+      "count": 3
     },
     {
-      "name": "says",
-      "count": 4
-    },
-    {
-      "name": "about",
-      "count": 4
-    },
-    {
-      "name": "father",
-      "count": 4
+      "name": "fire",
+      "count": 3
     },
     {
       "name": "with",
       "count": 3
     },
     {
-      "name": "attack",
+      "name": "back",
       "count": 3
     },
     {
-      "name": "near",
-      "count": 3
+      "name": "about",
+      "count": 2
     },
     {
-      "name": "over",
-      "count": 3
+      "name": "father",
+      "count": 2
     },
     {
-      "name": "second",
+      "name": "hitlers",
+      "count": 2
+    },
+    {
+      "name": "retreat",
+      "count": 2
+    },
+    {
+      "name": "first",
       "count": 2
     }
   ],
-  "updated_at": "2026-10-24 03:59:47.657375"
+  "updated_at": "2026-10-24 10:37:07.201749"
 }
