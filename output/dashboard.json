@@ -2,126 +2,126 @@
   "keywords": [
     [
       "after",
-      9
-    ],
-    [
-      "says",
       6
     ],
     [
       "why",
+      5
+    ],
+    [
+      "says",
       4
     ],
     [
-      "was",
-      3
-    ],
-    [
       "about",
-      3
-    ],
-    [
-      "shooting",
-      3
-    ],
-    [
-      "trump",
-      3
-    ],
-    [
-      "israeli",
-      3
-    ],
-    [
-      "cuts",
-      2
-    ],
-    [
-      "meghan",
-      2
-    ],
-    [
-      "she",
-      2
-    ],
-    [
-      "her",
-      2
+      4
     ],
     [
       "father",
-      2
-    ],
-    [
-      "years",
-      2
+      4
     ],
     [
       "with",
+      3
+    ],
+    [
+      "attack",
+      3
+    ],
+    [
+      "near",
+      3
+    ],
+    [
+      "over",
+      3
+    ],
+    [
+      "second",
       2
     ],
     [
-      "white",
+      "australian",
       2
     ],
     [
-      "house",
+      "first",
       2
     ],
     [
-      "melania",
+      "who",
       2
     ],
     [
-      "ukraine",
+      "killed",
       2
     ],
     [
-      "city",
+      "seven",
+      2
+    ],
+    [
+      "gunmen",
+      2
+    ],
+    [
+      "church",
+      2
+    ],
+    [
+      "funeral",
+      2
+    ],
+    [
+      "jordan",
+      2
+    ],
+    [
+      "say",
       2
     ]
   ],
   "topics": [
     {
       "name": "after",
-      "count": 9
-    },
-    {
-      "name": "says",
       "count": 6
     },
     {
       "name": "why",
+      "count": 5
+    },
+    {
+      "name": "says",
       "count": 4
     },
     {
-      "name": "was",
-      "count": 3
-    },
-    {
       "name": "about",
+      "count": 4
+    },
+    {
+      "name": "father",
+      "count": 4
+    },
+    {
+      "name": "with",
       "count": 3
     },
     {
-      "name": "shooting",
+      "name": "attack",
       "count": 3
     },
     {
-      "name": "trump",
+      "name": "near",
       "count": 3
     },
     {
-      "name": "israeli",
+      "name": "over",
       "count": 3
     },
     {
-      "name": "cuts",
-      "count": 2
-    },
-    {
-      "name": "meghan",
+      "name": "second",
       "count": 2
     }
   ],
-  "updated_at": "2026-10-23 21:12:40.763393"
+  "updated_at": "2026-10-24 03:59:47.657375"
 }
