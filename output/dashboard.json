@@ -1,127 +1,127 @@
 {
   "keywords": [
     [
-      "why",
+      "can",
+      5
+    ],
+    [
+      "could",
       4
     ],
     [
       "are",
+      4
+    ],
+    [
+      "man",
       3
     ],
     [
-      "could",
+      "leader",
       3
     ],
     [
-      "can",
+      "after",
       3
     ],
     [
-      "first",
+      "carrick",
       3
     ],
     [
-      "how",
+      "why",
       3
-    ],
-    [
-      "burnham",
-      2
-    ],
-    [
-      "movement",
-      2
     ],
     [
       "says",
+      3
+    ],
+    [
+      "from",
+      3
+    ],
+    [
+      "storm",
       2
     ],
     [
-      "starlink",
+      "without",
       2
     ],
     [
-      "service",
+      "power",
       2
     ],
     [
-      "israels",
+      "about",
       2
     ],
     [
-      "life",
+      "his",
       2
     ],
     [
-      "oil",
+      "first",
       2
     ],
     [
-      "budget",
+      "opposition",
       2
     ],
     [
-      "what",
+      "machado",
       2
     ],
     [
-      "ukraine",
+      "returns",
       2
     ],
     [
-      "europe",
-      2
-    ],
-    [
-      "reports",
-      2
-    ],
-    [
-      "serbia",
+      "exile",
       2
     ]
   ],
   "topics": [
     {
-      "name": "why",
+      "name": "can",
+      "count": 5
+    },
+    {
+      "name": "could",
       "count": 4
     },
     {
       "name": "are",
+      "count": 4
+    },
+    {
+      "name": "man",
       "count": 3
     },
     {
-      "name": "could",
+      "name": "leader",
       "count": 3
     },
     {
-      "name": "can",
+      "name": "after",
       "count": 3
     },
     {
-      "name": "first",
+      "name": "carrick",
       "count": 3
     },
     {
-      "name": "how",
+      "name": "why",
       "count": 3
-    },
-    {
-      "name": "burnham",
-      "count": 2
-    },
-    {
-      "name": "movement",
-      "count": 2
     },
     {
       "name": "says",
-      "count": 2
+      "count": 3
     },
     {
-      "name": "starlink",
-      "count": 2
+      "name": "from",
+      "count": 3
     }
   ],
-  "updated_at": "2026-10-25 15:50:07.771193"
+  "updated_at": "2026-10-25 20:37:32.288096"
 }
