@@ -1,19 +1,11 @@
 {
   "keywords": [
     [
-      "are",
-      6
-    ],
-    [
-      "election",
-      5
-    ],
-    [
-      "israel",
+      "why",
       4
     ],
     [
-      "says",
+      "are",
       3
     ],
     [
@@ -21,12 +13,28 @@
       3
     ],
     [
-      "who",
+      "can",
       3
     ],
     [
-      "why",
+      "first",
       3
+    ],
+    [
+      "how",
+      3
+    ],
+    [
+      "burnham",
+      2
+    ],
+    [
+      "movement",
+      2
+    ],
+    [
+      "says",
+      2
     ],
     [
       "starlink",
@@ -37,31 +45,7 @@
       2
     ],
     [
-      "budget",
-      2
-    ],
-    [
-      "clashes",
-      2
-    ],
-    [
-      "day",
-      2
-    ],
-    [
-      "mass",
-      2
-    ],
-    [
-      "protests",
-      2
-    ],
-    [
-      "france",
-      2
-    ],
-    [
-      "brazils",
+      "israels",
       2
     ],
     [
@@ -69,33 +53,41 @@
       2
     ],
     [
-      "over",
+      "oil",
       2
     ],
     [
-      "military",
+      "budget",
       2
     ],
     [
-      "israels",
+      "what",
+      2
+    ],
+    [
+      "ukraine",
+      2
+    ],
+    [
+      "europe",
+      2
+    ],
+    [
+      "reports",
+      2
+    ],
+    [
+      "serbia",
       2
     ]
   ],
   "topics": [
     {
-      "name": "are",
-      "count": 6
-    },
-    {
-      "name": "election",
-      "count": 5
-    },
-    {
-      "name": "israel",
+      "name": "why",
       "count": 4
     },
     {
-      "name": "says",
+      "name": "are",
       "count": 3
     },
     {
@@ -103,25 +95,33 @@
       "count": 3
     },
     {
-      "name": "who",
+      "name": "can",
       "count": 3
     },
     {
-      "name": "why",
+      "name": "first",
       "count": 3
+    },
+    {
+      "name": "how",
+      "count": 3
+    },
+    {
+      "name": "burnham",
+      "count": 2
+    },
+    {
+      "name": "movement",
+      "count": 2
+    },
+    {
+      "name": "says",
+      "count": 2
     },
     {
       "name": "starlink",
       "count": 2
-    },
-    {
-      "name": "service",
-      "count": 2
-    },
-    {
-      "name": "budget",
-      "count": 2
     }
   ],
-  "updated_at": "2026-10-25 11:01:07.023401"
+  "updated_at": "2026-10-25 15:50:07.771193"
 }
