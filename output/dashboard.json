@@ -1,127 +1,127 @@
 {
   "keywords": [
     [
-      "says",
-      4
-    ],
-    [
-      "with",
-      4
-    ],
-    [
-      "new",
-      4
-    ],
-    [
-      "thousands",
-      4
-    ],
-    [
-      "about",
-      3
-    ],
-    [
-      "how",
-      3
-    ],
-    [
-      "brazils",
-      3
-    ],
-    [
       "rally",
-      3
+      4
     ],
     [
       "election",
+      4
+    ],
+    [
+      "protests",
       3
     ],
     [
-      "madrid",
+      "could",
       3
     ],
     [
-      "watch",
+      "over",
+      3
+    ],
+    [
+      "new",
+      3
+    ],
+    [
+      "attacks",
+      3
+    ],
+    [
+      "trump",
+      3
+    ],
+    [
+      "democrats",
+      3
+    ],
+    [
+      "thousands",
+      3
+    ],
+    [
+      "iran",
+      3
+    ],
+    [
+      "deal",
+      3
+    ],
+    [
+      "storm",
       2
     ],
     [
-      "bbc",
+      "letter",
       2
     ],
     [
-      "paris",
+      "burnham",
       2
     ],
     [
-      "police",
+      "open",
       2
     ],
     [
-      "other",
+      "free",
       2
     ],
     [
-      "save",
+      "movement",
       2
     ],
     [
-      "israeli",
+      "clashes",
       2
     ],
     [
-      "hebron",
-      2
-    ],
-    [
-      "homes",
-      2
-    ],
-    [
-      "before",
+      "another",
       2
     ]
   ],
   "topics": [
     {
-      "name": "says",
-      "count": 4
-    },
-    {
-      "name": "with",
-      "count": 4
-    },
-    {
-      "name": "new",
-      "count": 4
-    },
-    {
-      "name": "thousands",
-      "count": 4
-    },
-    {
-      "name": "about",
-      "count": 3
-    },
-    {
-      "name": "how",
-      "count": 3
-    },
-    {
-      "name": "brazils",
-      "count": 3
-    },
-    {
       "name": "rally",
-      "count": 3
+      "count": 4
     },
     {
       "name": "election",
+      "count": 4
+    },
+    {
+      "name": "protests",
       "count": 3
     },
     {
-      "name": "madrid",
+      "name": "could",
+      "count": 3
+    },
+    {
+      "name": "over",
+      "count": 3
+    },
+    {
+      "name": "new",
+      "count": 3
+    },
+    {
+      "name": "attacks",
+      "count": 3
+    },
+    {
+      "name": "trump",
+      "count": 3
+    },
+    {
+      "name": "democrats",
+      "count": 3
+    },
+    {
+      "name": "thousands",
       "count": 3
     }
   ],
-  "updated_at": "2026-10-24 20:29:29.708476"
+  "updated_at": "2026-10-25 04:00:20.901717"
 }
