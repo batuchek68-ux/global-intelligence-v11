@@ -1,15 +1,19 @@
 {
   "keywords": [
     [
-      "rally",
-      4
+      "are",
+      6
     ],
     [
       "election",
+      5
+    ],
+    [
+      "israel",
       4
     ],
     [
-      "protests",
+      "says",
       3
     ],
     [
@@ -17,59 +21,23 @@
       3
     ],
     [
-      "over",
+      "who",
       3
     ],
     [
-      "new",
+      "why",
       3
     ],
     [
-      "attacks",
-      3
-    ],
-    [
-      "trump",
-      3
-    ],
-    [
-      "democrats",
-      3
-    ],
-    [
-      "thousands",
-      3
-    ],
-    [
-      "iran",
-      3
-    ],
-    [
-      "deal",
-      3
-    ],
-    [
-      "storm",
+      "starlink",
       2
     ],
     [
-      "letter",
+      "service",
       2
     ],
     [
-      "burnham",
-      2
-    ],
-    [
-      "open",
-      2
-    ],
-    [
-      "free",
-      2
-    ],
-    [
-      "movement",
+      "budget",
       2
     ],
     [
@@ -77,21 +45,57 @@
       2
     ],
     [
-      "another",
+      "day",
+      2
+    ],
+    [
+      "mass",
+      2
+    ],
+    [
+      "protests",
+      2
+    ],
+    [
+      "france",
+      2
+    ],
+    [
+      "brazils",
+      2
+    ],
+    [
+      "life",
+      2
+    ],
+    [
+      "over",
+      2
+    ],
+    [
+      "military",
+      2
+    ],
+    [
+      "israels",
       2
     ]
   ],
   "topics": [
     {
-      "name": "rally",
-      "count": 4
+      "name": "are",
+      "count": 6
     },
     {
       "name": "election",
+      "count": 5
+    },
+    {
+      "name": "israel",
       "count": 4
     },
     {
-      "name": "protests",
+      "name": "says",
       "count": 3
     },
     {
@@ -99,29 +103,25 @@
       "count": 3
     },
     {
-      "name": "over",
+      "name": "who",
       "count": 3
     },
     {
-      "name": "new",
+      "name": "why",
       "count": 3
     },
     {
-      "name": "attacks",
-      "count": 3
+      "name": "starlink",
+      "count": 2
     },
     {
-      "name": "trump",
-      "count": 3
+      "name": "service",
+      "count": 2
     },
     {
-      "name": "democrats",
-      "count": 3
-    },
-    {
-      "name": "thousands",
-      "count": 3
+      "name": "budget",
+      "count": 2
     }
   ],
-  "updated_at": "2026-10-25 04:00:20.901717"
+  "updated_at": "2026-10-25 11:01:07.023401"
 }
