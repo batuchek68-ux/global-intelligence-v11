@@ -1,15 +1,19 @@
 {
   "keywords": [
     [
-      "election",
-      8
+      "after",
+      6
     ],
     [
-      "lula",
+      "from",
       4
     ],
     [
-      "trump",
+      "loses",
+      4
+    ],
+    [
+      "election",
       4
     ],
     [
@@ -17,51 +21,35 @@
       4
     ],
     [
-      "power",
+      "lula",
       3
     ],
     [
-      "after",
+      "what",
       3
-    ],
-    [
-      "movement",
-      3
-    ],
-    [
-      "presidential",
-      3
-    ],
-    [
-      "2026",
-      3
-    ],
-    [
-      "historic",
-      3
-    ],
-    [
-      "but",
-      2
-    ],
-    [
-      "divided",
-      2
-    ],
-    [
-      "two",
-      2
     ],
     [
       "serbia",
+      3
+    ],
+    [
+      "will",
+      3
+    ],
+    [
+      "palestinians",
+      3
+    ],
+    [
+      "how",
       2
     ],
     [
-      "vui",
+      "power",
       2
     ],
     [
-      "protest",
+      "tax",
       2
     ],
     [
@@ -69,29 +57,45 @@
       2
     ],
     [
-      "funding",
+      "wins",
       2
     ],
     [
-      "off",
+      "down",
       2
     ],
     [
-      "opposition",
+      "england",
+      2
+    ],
+    [
+      "vui",
+      2
+    ],
+    [
+      "movement",
+      2
+    ],
+    [
+      "says",
       2
     ]
   ],
   "topics": [
     {
-      "name": "election",
-      "count": 8
+      "name": "after",
+      "count": 6
     },
     {
-      "name": "lula",
+      "name": "from",
       "count": 4
     },
     {
-      "name": "trump",
+      "name": "loses",
+      "count": 4
+    },
+    {
+      "name": "election",
       "count": 4
     },
     {
@@ -99,29 +103,25 @@
       "count": 4
     },
     {
-      "name": "power",
+      "name": "lula",
       "count": 3
     },
     {
-      "name": "after",
+      "name": "what",
       "count": 3
     },
     {
-      "name": "movement",
+      "name": "serbia",
       "count": 3
     },
     {
-      "name": "presidential",
+      "name": "will",
       "count": 3
     },
     {
-      "name": "2026",
-      "count": 3
-    },
-    {
-      "name": "historic",
+      "name": "palestinians",
       "count": 3
     }
   ],
-  "updated_at": "2026-10-26 04:04:47.803310"
+  "updated_at": "2026-10-26 12:34:01.012681"
 }
