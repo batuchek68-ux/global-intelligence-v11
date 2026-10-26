@@ -2,26 +2,34 @@
   "keywords": [
     [
       "after",
-      6
-    ],
-    [
-      "from",
       4
     ],
     [
-      "loses",
+      "trump",
       4
     ],
     [
-      "election",
-      4
+      "will",
+      3
     ],
     [
-      "win",
-      4
+      "how",
+      3
     ],
     [
-      "lula",
+      "lulas",
+      3
+    ],
+    [
+      "james",
+      3
+    ],
+    [
+      "says",
+      3
+    ],
+    [
+      "with",
       3
     ],
     [
@@ -29,81 +37,81 @@
       3
     ],
     [
-      "serbia",
-      3
-    ],
-    [
-      "will",
-      3
-    ],
-    [
-      "palestinians",
-      3
-    ],
-    [
-      "how",
-      2
-    ],
-    [
-      "power",
-      2
-    ],
-    [
-      "tax",
-      2
-    ],
-    [
-      "budget",
-      2
-    ],
-    [
-      "wins",
-      2
-    ],
-    [
       "down",
+      3
+    ],
+    [
+      "under",
+      3
+    ],
+    [
+      "over",
+      3
+    ],
+    [
+      "israel",
       2
     ],
     [
-      "england",
+      "killed",
       2
     ],
     [
-      "vui",
+      "storm",
       2
     ],
     [
-      "movement",
+      "boelo",
       2
     ],
     [
-      "says",
+      "without",
+      2
+    ],
+    [
+      "new",
+      2
+    ],
+    [
+      "whatsapp",
+      2
+    ],
+    [
+      "channel",
       2
     ]
   ],
   "topics": [
     {
       "name": "after",
-      "count": 6
-    },
-    {
-      "name": "from",
       "count": 4
     },
     {
-      "name": "loses",
+      "name": "trump",
       "count": 4
     },
     {
-      "name": "election",
-      "count": 4
+      "name": "will",
+      "count": 3
     },
     {
-      "name": "win",
-      "count": 4
+      "name": "how",
+      "count": 3
     },
     {
-      "name": "lula",
+      "name": "lulas",
+      "count": 3
+    },
+    {
+      "name": "james",
+      "count": 3
+    },
+    {
+      "name": "says",
+      "count": 3
+    },
+    {
+      "name": "with",
       "count": 3
     },
     {
@@ -111,17 +119,9 @@
       "count": 3
     },
     {
-      "name": "serbia",
-      "count": 3
-    },
-    {
-      "name": "will",
-      "count": 3
-    },
-    {
-      "name": "palestinians",
+      "name": "down",
       "count": 3
     }
   ],
-  "updated_at": "2026-10-26 12:34:01.012681"
+  "updated_at": "2026-10-26 22:28:12.145160"
 }
