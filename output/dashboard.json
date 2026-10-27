@@ -1,127 +1,127 @@
 {
   "keywords": [
     [
+      "trump",
+      8
+    ],
+    [
       "after",
+      8
+    ],
+    [
+      "says",
+      5
+    ],
+    [
+      "kane",
       4
     ],
     [
-      "trump",
+      "englands",
       4
     ],
     [
       "will",
-      3
-    ],
-    [
-      "how",
-      3
-    ],
-    [
-      "lulas",
-      3
+      4
     ],
     [
       "james",
-      3
-    ],
-    [
-      "says",
-      3
+      4
     ],
     [
       "with",
+      4
+    ],
+    [
+      "brazil",
+      4
+    ],
+    [
+      "ballon",
       3
     ],
     [
-      "what",
+      "dor",
       3
     ],
     [
-      "down",
+      "rules",
       3
     ],
     [
-      "under",
+      "was",
       3
     ],
     [
-      "over",
+      "jordan",
       3
     ],
     [
-      "israel",
-      2
+      "syria",
+      3
     ],
     [
-      "killed",
-      2
+      "church",
+      3
     ],
     [
-      "storm",
-      2
+      "attack",
+      3
     ],
     [
-      "boelo",
-      2
+      "comey",
+      3
     ],
     [
-      "without",
-      2
+      "election",
+      3
     ],
     [
-      "new",
-      2
-    ],
-    [
-      "whatsapp",
-      2
-    ],
-    [
-      "channel",
-      2
+      "iran",
+      3
     ]
   ],
   "topics": [
     {
+      "name": "trump",
+      "count": 8
+    },
+    {
       "name": "after",
+      "count": 8
+    },
+    {
+      "name": "says",
+      "count": 5
+    },
+    {
+      "name": "kane",
       "count": 4
     },
     {
-      "name": "trump",
+      "name": "englands",
       "count": 4
     },
     {
       "name": "will",
-      "count": 3
-    },
-    {
-      "name": "how",
-      "count": 3
-    },
-    {
-      "name": "lulas",
-      "count": 3
+      "count": 4
     },
     {
       "name": "james",
-      "count": 3
-    },
-    {
-      "name": "says",
-      "count": 3
+      "count": 4
     },
     {
       "name": "with",
-      "count": 3
+      "count": 4
     },
     {
-      "name": "what",
-      "count": 3
+      "name": "brazil",
+      "count": 4
     },
     {
-      "name": "down",
+      "name": "ballon",
       "count": 3
     }
   ],
-  "updated_at": "2026-10-26 22:28:12.145160"
+  "updated_at": "2026-10-27 04:24:42.907835"
 }
