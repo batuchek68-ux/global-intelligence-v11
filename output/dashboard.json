@@ -1,75 +1,7 @@
 {
   "keywords": [
     [
-      "trump",
-      8
-    ],
-    [
-      "after",
-      8
-    ],
-    [
-      "says",
-      5
-    ],
-    [
-      "kane",
-      4
-    ],
-    [
-      "englands",
-      4
-    ],
-    [
-      "will",
-      4
-    ],
-    [
-      "james",
-      4
-    ],
-    [
-      "with",
-      4
-    ],
-    [
-      "brazil",
-      4
-    ],
-    [
-      "ballon",
-      3
-    ],
-    [
-      "dor",
-      3
-    ],
-    [
-      "rules",
-      3
-    ],
-    [
-      "was",
-      3
-    ],
-    [
-      "jordan",
-      3
-    ],
-    [
-      "syria",
-      3
-    ],
-    [
-      "church",
-      3
-    ],
-    [
-      "attack",
-      3
-    ],
-    [
-      "comey",
+      "two",
       3
     ],
     [
@@ -77,51 +9,119 @@
       3
     ],
     [
-      "iran",
+      "chinese",
       3
+    ],
+    [
+      "its",
+      3
+    ],
+    [
+      "next",
+      3
+    ],
+    [
+      "will",
+      3
+    ],
+    [
+      "says",
+      3
+    ],
+    [
+      "over",
+      2
+    ],
+    [
+      "iran",
+      2
+    ],
+    [
+      "raf",
+      2
+    ],
+    [
+      "fairford",
+      2
+    ],
+    [
+      "incident",
+      2
+    ],
+    [
+      "families",
+      2
+    ],
+    [
+      "israelis",
+      2
+    ],
+    [
+      "what",
+      2
+    ],
+    [
+      "does",
+      2
+    ],
+    [
+      "kane",
+      2
+    ],
+    [
+      "englands",
+      2
+    ],
+    [
+      "ballon",
+      2
+    ],
+    [
+      "dor",
+      2
     ]
   ],
   "topics": [
     {
-      "name": "trump",
-      "count": 8
+      "name": "two",
+      "count": 3
     },
     {
-      "name": "after",
-      "count": 8
+      "name": "election",
+      "count": 3
     },
     {
-      "name": "says",
-      "count": 5
+      "name": "chinese",
+      "count": 3
     },
     {
-      "name": "kane",
-      "count": 4
+      "name": "its",
+      "count": 3
     },
     {
-      "name": "englands",
-      "count": 4
+      "name": "next",
+      "count": 3
     },
     {
       "name": "will",
-      "count": 4
-    },
-    {
-      "name": "james",
-      "count": 4
-    },
-    {
-      "name": "with",
-      "count": 4
-    },
-    {
-      "name": "brazil",
-      "count": 4
-    },
-    {
-      "name": "ballon",
       "count": 3
+    },
+    {
+      "name": "says",
+      "count": 3
+    },
+    {
+      "name": "over",
+      "count": 2
+    },
+    {
+      "name": "iran",
+      "count": 2
+    },
+    {
+      "name": "raf",
+      "count": 2
     }
   ],
-  "updated_at": "2026-10-27 04:24:42.907835"
+  "updated_at": "2026-10-27 11:51:36.569553"
 }
