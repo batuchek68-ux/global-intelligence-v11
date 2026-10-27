@@ -1,7 +1,19 @@
 {
   "keywords": [
     [
-      "two",
+      "after",
+      5
+    ],
+    [
+      "with",
+      4
+    ],
+    [
+      "will",
+      3
+    ],
+    [
+      "court",
       3
     ],
     [
@@ -9,51 +21,35 @@
       3
     ],
     [
-      "chinese",
+      "from",
       3
     ],
     [
-      "its",
+      "leaders",
       3
     ],
     [
-      "next",
+      "who",
       3
     ],
     [
-      "will",
-      3
-    ],
-    [
-      "says",
-      3
-    ],
-    [
-      "over",
+      "her",
       2
     ],
     [
-      "iran",
+      "online",
       2
     ],
     [
-      "raf",
+      "told",
       2
     ],
     [
-      "fairford",
+      "turnout",
       2
     ],
     [
-      "incident",
-      2
-    ],
-    [
-      "families",
-      2
-    ],
-    [
-      "israelis",
+      "highest",
       2
     ],
     [
@@ -65,25 +61,41 @@
       2
     ],
     [
-      "kane",
+      "hold",
       2
     ],
     [
-      "englands",
+      "rare",
       2
     ],
     [
-      "ballon",
+      "call",
       2
     ],
     [
-      "dor",
+      "putin",
+      2
+    ],
+    [
+      "discuss",
       2
     ]
   ],
   "topics": [
     {
-      "name": "two",
+      "name": "after",
+      "count": 5
+    },
+    {
+      "name": "with",
+      "count": 4
+    },
+    {
+      "name": "will",
+      "count": 3
+    },
+    {
+      "name": "court",
       "count": 3
     },
     {
@@ -91,37 +103,25 @@
       "count": 3
     },
     {
-      "name": "chinese",
+      "name": "from",
       "count": 3
     },
     {
-      "name": "its",
+      "name": "leaders",
       "count": 3
     },
     {
-      "name": "next",
+      "name": "who",
       "count": 3
     },
     {
-      "name": "will",
-      "count": 3
-    },
-    {
-      "name": "says",
-      "count": 3
-    },
-    {
-      "name": "over",
+      "name": "her",
       "count": 2
     },
     {
-      "name": "iran",
-      "count": 2
-    },
-    {
-      "name": "raf",
+      "name": "online",
       "count": 2
     }
   ],
-  "updated_at": "2026-10-27 11:51:36.569553"
+  "updated_at": "2026-10-27 17:45:21.789678"
 }
