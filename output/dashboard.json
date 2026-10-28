@@ -1,39 +1,31 @@
 {
   "keywords": [
     [
+      "budget",
+      6
+    ],
+    [
       "what",
       6
     ],
     [
-      "budget",
+      "train",
       4
-    ],
-    [
-      "are",
-      4
-    ],
-    [
-      "israeli",
-      4
-    ],
-    [
-      "says",
-      3
-    ],
-    [
-      "could",
-      3
-    ],
-    [
-      "netanyahu",
-      3
-    ],
-    [
-      "families",
-      3
     ],
     [
       "after",
+      4
+    ],
+    [
+      "first",
+      3
+    ],
+    [
+      "despite",
+      3
+    ],
+    [
+      "spain",
       3
     ],
     [
@@ -41,87 +33,95 @@
       3
     ],
     [
-      "with",
+      "costs",
       3
     ],
     [
+      "bolsonaro",
+      3
+    ],
+    [
+      "how",
+      3
+    ],
+    [
+      "will",
+      3
+    ],
+    [
+      "israels",
+      3
+    ],
+    [
+      "whats",
+      3
+    ],
+    [
+      "100",
+      2
+    ],
+    [
+      "energy",
+      2
+    ],
+    [
+      "bank",
+      2
+    ],
+    [
+      "tax",
+      2
+    ],
+    [
+      "key",
+      2
+    ],
+    [
       "crash",
-      2
-    ],
-    [
-      "about",
-      2
-    ],
-    [
-      "due",
-      2
-    ],
-    [
-      "you",
-      2
-    ],
-    [
-      "may",
-      2
-    ],
-    [
-      "get",
-      2
-    ],
-    [
-      "right",
-      2
-    ],
-    [
-      "heres",
-      2
-    ],
-    [
-      "why",
       2
     ]
   ],
   "topics": [
     {
+      "name": "budget",
+      "count": 6
+    },
+    {
       "name": "what",
       "count": 6
     },
     {
-      "name": "budget",
+      "name": "train",
       "count": 4
-    },
-    {
-      "name": "are",
-      "count": 4
-    },
-    {
-      "name": "israeli",
-      "count": 4
-    },
-    {
-      "name": "says",
-      "count": 3
-    },
-    {
-      "name": "could",
-      "count": 3
-    },
-    {
-      "name": "netanyahu",
-      "count": 3
-    },
-    {
-      "name": "families",
-      "count": 3
     },
     {
       "name": "after",
+      "count": 4
+    },
+    {
+      "name": "first",
+      "count": 3
+    },
+    {
+      "name": "despite",
+      "count": 3
+    },
+    {
+      "name": "spain",
       "count": 3
     },
     {
       "name": "election",
       "count": 3
+    },
+    {
+      "name": "costs",
+      "count": 3
+    },
+    {
+      "name": "bolsonaro",
+      "count": 3
     }
   ],
-  "updated_at": "2026-10-28 12:26:50.338228"
+  "updated_at": "2026-10-28 22:23:09.198744"
 }
