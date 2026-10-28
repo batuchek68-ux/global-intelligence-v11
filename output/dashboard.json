@@ -2,6 +2,14 @@
   "keywords": [
     [
       "election",
+      7
+    ],
+    [
+      "israel",
+      6
+    ],
+    [
+      "budget",
       5
     ],
     [
@@ -9,51 +17,59 @@
       4
     ],
     [
-      "will",
-      3
+      "brazil",
+      4
     ],
     [
-      "budget",
-      3
-    ],
-    [
-      "with",
-      3
-    ],
-    [
-      "trump",
-      3
-    ],
-    [
-      "from",
-      3
+      "could",
+      4
     ],
     [
       "says",
+      4
+    ],
+    [
+      "arab",
+      4
+    ],
+    [
+      "what",
       3
     ],
     [
-      "get",
+      "bolsonaro",
+      3
+    ],
+    [
+      "israeli",
       2
     ],
     [
-      "court",
+      "exit",
       2
     ],
     [
-      "alleged",
+      "polls",
       2
     ],
     [
-      "officials",
+      "clear",
       2
     ],
     [
-      "her",
+      "winner",
       2
     ],
     [
-      "told",
+      "now",
+      2
+    ],
+    [
+      "his",
+      2
+    ],
+    [
+      "trump",
       2
     ],
     [
@@ -61,29 +77,21 @@
       2
     ],
     [
-      "call",
-      2
-    ],
-    [
-      "putin",
-      2
-    ],
-    [
-      "has",
-      2
-    ],
-    [
-      "hell",
-      2
-    ],
-    [
-      "new",
+      "years",
       2
     ]
   ],
   "topics": [
     {
       "name": "election",
+      "count": 7
+    },
+    {
+      "name": "israel",
+      "count": 6
+    },
+    {
+      "name": "budget",
       "count": 5
     },
     {
@@ -91,37 +99,29 @@
       "count": 4
     },
     {
-      "name": "will",
-      "count": 3
+      "name": "brazil",
+      "count": 4
     },
     {
-      "name": "budget",
-      "count": 3
-    },
-    {
-      "name": "with",
-      "count": 3
-    },
-    {
-      "name": "trump",
-      "count": 3
-    },
-    {
-      "name": "from",
-      "count": 3
+      "name": "could",
+      "count": 4
     },
     {
       "name": "says",
+      "count": 4
+    },
+    {
+      "name": "arab",
+      "count": 4
+    },
+    {
+      "name": "what",
       "count": 3
     },
     {
-      "name": "get",
-      "count": 2
-    },
-    {
-      "name": "court",
-      "count": 2
+      "name": "bolsonaro",
+      "count": 3
     }
   ],
-  "updated_at": "2026-10-27 21:58:50.420654"
+  "updated_at": "2026-10-28 04:55:41.283429"
 }
