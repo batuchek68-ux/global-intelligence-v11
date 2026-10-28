@@ -1,127 +1,127 @@
 {
   "keywords": [
     [
-      "election",
-      7
-    ],
-    [
-      "israel",
+      "what",
       6
     ],
     [
       "budget",
-      5
-    ],
-    [
-      "after",
       4
     ],
     [
-      "brazil",
+      "are",
       4
     ],
     [
-      "could",
+      "israeli",
       4
     ],
     [
       "says",
-      4
-    ],
-    [
-      "arab",
-      4
-    ],
-    [
-      "what",
       3
     ],
     [
-      "bolsonaro",
+      "could",
       3
     ],
     [
-      "israeli",
+      "netanyahu",
+      3
+    ],
+    [
+      "families",
+      3
+    ],
+    [
+      "after",
+      3
+    ],
+    [
+      "election",
+      3
+    ],
+    [
+      "with",
+      3
+    ],
+    [
+      "crash",
       2
     ],
     [
-      "exit",
+      "about",
       2
     ],
     [
-      "polls",
+      "due",
       2
     ],
     [
-      "clear",
+      "you",
       2
     ],
     [
-      "winner",
+      "may",
       2
     ],
     [
-      "now",
+      "get",
       2
     ],
     [
-      "his",
+      "right",
       2
     ],
     [
-      "trump",
+      "heres",
       2
     ],
     [
-      "people",
-      2
-    ],
-    [
-      "years",
+      "why",
       2
     ]
   ],
   "topics": [
     {
-      "name": "election",
-      "count": 7
-    },
-    {
-      "name": "israel",
+      "name": "what",
       "count": 6
     },
     {
       "name": "budget",
-      "count": 5
-    },
-    {
-      "name": "after",
       "count": 4
     },
     {
-      "name": "brazil",
+      "name": "are",
       "count": 4
     },
     {
-      "name": "could",
+      "name": "israeli",
       "count": 4
     },
     {
       "name": "says",
-      "count": 4
-    },
-    {
-      "name": "arab",
-      "count": 4
-    },
-    {
-      "name": "what",
       "count": 3
     },
     {
-      "name": "bolsonaro",
+      "name": "could",
+      "count": 3
+    },
+    {
+      "name": "netanyahu",
+      "count": 3
+    },
+    {
+      "name": "families",
+      "count": 3
+    },
+    {
+      "name": "after",
+      "count": 3
+    },
+    {
+      "name": "election",
       "count": 3
     }
   ],
-  "updated_at": "2026-10-28 04:55:41.283429"
+  "updated_at": "2026-10-28 12:26:50.338228"
 }
