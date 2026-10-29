@@ -1,31 +1,19 @@
 {
   "keywords": [
     [
+      "what",
+      6
+    ],
+    [
       "budget",
-      5
+      4
     ],
     [
       "election",
-      5
-    ],
-    [
-      "after",
-      4
-    ],
-    [
-      "with",
-      4
-    ],
-    [
-      "100",
       3
     ],
     [
-      "bank",
-      3
-    ],
-    [
-      "bolsonaro",
+      "but",
       3
     ],
     [
@@ -33,19 +21,27 @@
       3
     ],
     [
-      "what",
+      "means",
       3
     ],
     [
-      "trump",
+      "with",
       3
     ],
     [
-      "energy",
+      "not",
       2
     ],
     [
-      "first",
+      "before",
+      2
+    ],
+    [
+      "deadly",
+      2
+    ],
+    [
+      "spain",
       2
     ],
     [
@@ -57,57 +53,49 @@
       2
     ],
     [
-      "israel",
+      "future",
       2
     ],
     [
-      "but",
+      "out",
       2
     ],
     [
-      "miami",
+      "duty",
       2
     ],
     [
-      "police",
+      "king",
       2
     ],
     [
-      "boom",
+      "you",
       2
     ],
     [
-      "activists",
+      "israels",
+      2
+    ],
+    [
+      "how",
       2
     ]
   ],
   "topics": [
     {
+      "name": "what",
+      "count": 6
+    },
+    {
       "name": "budget",
-      "count": 5
+      "count": 4
     },
     {
       "name": "election",
-      "count": 5
-    },
-    {
-      "name": "after",
-      "count": 4
-    },
-    {
-      "name": "with",
-      "count": 4
-    },
-    {
-      "name": "100",
       "count": 3
     },
     {
-      "name": "bank",
-      "count": 3
-    },
-    {
-      "name": "bolsonaro",
+      "name": "but",
       "count": 3
     },
     {
@@ -115,13 +103,25 @@
       "count": 3
     },
     {
-      "name": "what",
+      "name": "means",
       "count": 3
     },
     {
-      "name": "trump",
+      "name": "with",
       "count": 3
+    },
+    {
+      "name": "not",
+      "count": 2
+    },
+    {
+      "name": "before",
+      "count": 2
+    },
+    {
+      "name": "deadly",
+      "count": 2
     }
   ],
-  "updated_at": "2026-10-29 05:06:53.288357"
+  "updated_at": "2026-10-29 12:36:49.690340"
 }
