@@ -1,127 +1,127 @@
 {
   "keywords": [
     [
-      "what",
-      6
+      "train",
+      5
     ],
     [
-      "budget",
+      "but",
+      5
+    ],
+    [
+      "spain",
       4
     ],
     [
       "election",
-      3
-    ],
-    [
-      "but",
-      3
+      4
     ],
     [
       "over",
+      4
+    ],
+    [
+      "says",
       3
-    ],
-    [
-      "means",
-      3
-    ],
-    [
-      "with",
-      3
-    ],
-    [
-      "not",
-      2
-    ],
-    [
-      "before",
-      2
-    ],
-    [
-      "deadly",
-      2
-    ],
-    [
-      "spain",
-      2
-    ],
-    [
-      "train",
-      2
     ],
     [
       "crash",
+      3
+    ],
+    [
+      "israeli",
+      3
+    ],
+    [
+      "what",
+      3
+    ],
+    [
+      "israel",
+      3
+    ],
+    [
+      "life",
       2
     ],
     [
-      "future",
+      "actor",
       2
     ],
     [
-      "out",
+      "sir",
       2
     ],
     [
-      "duty",
+      "patrick",
       2
     ],
     [
-      "king",
+      "stewart",
       2
     ],
     [
-      "you",
+      "burnham",
       2
     ],
     [
-      "israels",
+      "welfare",
       2
     ],
     [
-      "how",
+      "bill",
+      2
+    ],
+    [
+      "victims",
+      2
+    ],
+    [
+      "your",
       2
     ]
   ],
   "topics": [
     {
-      "name": "what",
-      "count": 6
+      "name": "train",
+      "count": 5
     },
     {
-      "name": "budget",
+      "name": "but",
+      "count": 5
+    },
+    {
+      "name": "spain",
       "count": 4
     },
     {
       "name": "election",
-      "count": 3
-    },
-    {
-      "name": "but",
-      "count": 3
+      "count": 4
     },
     {
       "name": "over",
+      "count": 4
+    },
+    {
+      "name": "says",
       "count": 3
     },
     {
-      "name": "means",
+      "name": "crash",
       "count": 3
     },
     {
-      "name": "with",
+      "name": "israeli",
       "count": 3
     },
     {
-      "name": "not",
-      "count": 2
+      "name": "what",
+      "count": 3
     },
     {
-      "name": "before",
-      "count": 2
-    },
-    {
-      "name": "deadly",
-      "count": 2
+      "name": "israel",
+      "count": 3
     }
   ],
-  "updated_at": "2026-10-29 12:36:49.690340"
+  "updated_at": "2026-10-29 22:36:15.536480"
 }
