@@ -2,38 +2,26 @@
   "keywords": [
     [
       "budget",
-      6
+      5
     ],
     [
-      "what",
-      6
-    ],
-    [
-      "train",
-      4
+      "election",
+      5
     ],
     [
       "after",
       4
     ],
     [
-      "first",
+      "with",
+      4
+    ],
+    [
+      "100",
       3
     ],
     [
-      "despite",
-      3
-    ],
-    [
-      "spain",
-      3
-    ],
-    [
-      "election",
-      3
-    ],
-    [
-      "costs",
+      "bank",
       3
     ],
     [
@@ -41,87 +29,99 @@
       3
     ],
     [
-      "how",
+      "over",
       3
     ],
     [
-      "will",
+      "what",
       3
     ],
     [
-      "israels",
+      "trump",
       3
-    ],
-    [
-      "whats",
-      3
-    ],
-    [
-      "100",
-      2
     ],
     [
       "energy",
       2
     ],
     [
-      "bank",
+      "first",
       2
     ],
     [
-      "tax",
-      2
-    ],
-    [
-      "key",
+      "train",
       2
     ],
     [
       "crash",
+      2
+    ],
+    [
+      "israel",
+      2
+    ],
+    [
+      "but",
+      2
+    ],
+    [
+      "miami",
+      2
+    ],
+    [
+      "police",
+      2
+    ],
+    [
+      "boom",
+      2
+    ],
+    [
+      "activists",
       2
     ]
   ],
   "topics": [
     {
       "name": "budget",
-      "count": 6
+      "count": 5
     },
     {
-      "name": "what",
-      "count": 6
-    },
-    {
-      "name": "train",
-      "count": 4
+      "name": "election",
+      "count": 5
     },
     {
       "name": "after",
       "count": 4
     },
     {
-      "name": "first",
+      "name": "with",
+      "count": 4
+    },
+    {
+      "name": "100",
       "count": 3
     },
     {
-      "name": "despite",
-      "count": 3
-    },
-    {
-      "name": "spain",
-      "count": 3
-    },
-    {
-      "name": "election",
-      "count": 3
-    },
-    {
-      "name": "costs",
+      "name": "bank",
       "count": 3
     },
     {
       "name": "bolsonaro",
       "count": 3
+    },
+    {
+      "name": "over",
+      "count": 3
+    },
+    {
+      "name": "what",
+      "count": 3
+    },
+    {
+      "name": "trump",
+      "count": 3
     }
   ],
-  "updated_at": "2026-10-28 22:23:09.198744"
+  "updated_at": "2026-10-29 05:06:53.288357"
 }
