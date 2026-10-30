@@ -1,15 +1,11 @@
 {
   "keywords": [
     [
-      "election",
+      "from",
       5
     ],
     [
-      "trump",
-      5
-    ],
-    [
-      "says",
+      "sir",
       4
     ],
     [
@@ -21,19 +17,55 @@
       3
     ],
     [
-      "are",
+      "patrick",
       3
     ],
     [
-      "crypto",
+      "after",
+      3
+    ],
+    [
+      "can",
+      3
+    ],
+    [
+      "out",
       2
     ],
     [
-      "binance",
+      "know",
       2
     ],
     [
-      "history",
+      "actor",
+      2
+    ],
+    [
+      "stewart",
+      2
+    ],
+    [
+      "his",
+      2
+    ],
+    [
+      "death",
+      2
+    ],
+    [
+      "down",
+      2
+    ],
+    [
+      "oleshky",
+      2
+    ],
+    [
+      "wrong",
+      2
+    ],
+    [
+      "decision",
       2
     ],
     [
@@ -41,57 +73,21 @@
       2
     ],
     [
-      "risk",
+      "bbc",
       2
     ],
     [
-      "have",
-      2
-    ],
-    [
-      "your",
-      2
-    ],
-    [
-      "crash",
-      2
-    ],
-    [
-      "welfare",
-      2
-    ],
-    [
-      "israeli",
-      2
-    ],
-    [
-      "netanyahu",
-      2
-    ],
-    [
-      "biggest",
-      2
-    ],
-    [
-      "families",
-      2
-    ],
-    [
-      "was",
+      "its",
       2
     ]
   ],
   "topics": [
     {
-      "name": "election",
+      "name": "from",
       "count": 5
     },
     {
-      "name": "trump",
-      "count": 5
-    },
-    {
-      "name": "says",
+      "name": "sir",
       "count": 4
     },
     {
@@ -103,25 +99,29 @@
       "count": 3
     },
     {
-      "name": "are",
+      "name": "patrick",
       "count": 3
     },
     {
-      "name": "crypto",
+      "name": "after",
+      "count": 3
+    },
+    {
+      "name": "can",
+      "count": 3
+    },
+    {
+      "name": "out",
       "count": 2
     },
     {
-      "name": "binance",
+      "name": "know",
       "count": 2
     },
     {
-      "name": "history",
-      "count": 2
-    },
-    {
-      "name": "who",
+      "name": "actor",
       "count": 2
     }
   ],
-  "updated_at": "2026-10-30 05:06:33.588162"
+  "updated_at": "2026-10-30 12:27:55.388156"
 }
