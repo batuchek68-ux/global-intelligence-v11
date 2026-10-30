@@ -1,51 +1,71 @@
 {
   "keywords": [
     [
-      "from",
+      "court",
       5
     ],
     [
-      "sir",
+      "after",
+      5
+    ],
+    [
+      "over",
       4
     ],
     [
-      "with",
-      4
+      "hack",
+      3
     ],
     [
       "what",
       3
     ],
     [
-      "patrick",
-      3
-    ],
-    [
-      "after",
-      3
-    ],
-    [
-      "can",
-      3
-    ],
-    [
-      "out",
-      2
-    ],
-    [
       "know",
+      3
+    ],
+    [
+      "about",
+      3
+    ],
+    [
+      "from",
+      3
+    ],
+    [
+      "under",
+      3
+    ],
+    [
+      "police",
+      3
+    ],
+    [
+      "says",
+      3
+    ],
+    [
+      "how",
+      3
+    ],
+    [
+      "g20",
+      3
+    ],
+    [
+      "binance",
       2
     ],
     [
-      "actor",
+      "63bn",
       2
     ],
     [
-      "stewart",
+      "north",
       2
     ],
     [
-      "his",
+      "during",
       2
     ],
     [
@@ -53,75 +73,55 @@
       2
     ],
     [
-      "down",
+      "visits",
       2
     ],
     [
-      "oleshky",
-      2
-    ],
-    [
-      "wrong",
-      2
-    ],
-    [
-      "decision",
-      2
-    ],
-    [
-      "who",
-      2
-    ],
-    [
-      "bbc",
-      2
-    ],
-    [
-      "its",
+      "scotland",
       2
     ]
   ],
   "topics": [
     {
-      "name": "from",
+      "name": "court",
       "count": 5
     },
     {
-      "name": "sir",
+      "name": "after",
+      "count": 5
+    },
+    {
+      "name": "over",
       "count": 4
     },
     {
-      "name": "with",
-      "count": 4
+      "name": "hack",
+      "count": 3
     },
     {
       "name": "what",
       "count": 3
     },
     {
-      "name": "patrick",
-      "count": 3
-    },
-    {
-      "name": "after",
-      "count": 3
-    },
-    {
-      "name": "can",
-      "count": 3
-    },
-    {
-      "name": "out",
-      "count": 2
-    },
-    {
       "name": "know",
-      "count": 2
+      "count": 3
     },
     {
-      "name": "actor",
-      "count": 2
+      "name": "about",
+      "count": 3
+    },
+    {
+      "name": "from",
+      "count": 3
+    },
+    {
+      "name": "under",
+      "count": 3
+    },
+    {
+      "name": "police",
+      "count": 3
     }
   ],
-  "updated_at": "2026-10-30 12:27:55.388156"
+  "updated_at": "2026-10-30 22:05:15.243715"
 }
