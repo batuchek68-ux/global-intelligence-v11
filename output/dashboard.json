@@ -1,39 +1,39 @@
 {
   "keywords": [
     [
-      "with",
-      4
-    ],
-    [
-      "says",
-      4
-    ],
-    [
-      "after",
+      "police",
       3
     ],
     [
-      "years",
+      "how",
+      3
+    ],
+    [
+      "are",
+      3
+    ],
+    [
+      "who",
       3
     ],
     [
       "from",
-      3
-    ],
-    [
-      "iran",
-      3
-    ],
-    [
-      "evacuees",
       2
     ],
     [
-      "burnham",
+      "after",
       2
     ],
     [
-      "apology",
+      "years",
+      2
+    ],
+    [
+      "city",
+      2
+    ],
+    [
+      "clashes",
       2
     ],
     [
@@ -41,11 +41,11 @@
       2
     ],
     [
-      "defence",
+      "says",
       2
     ],
     [
-      "how",
+      "now",
       2
     ],
     [
@@ -57,15 +57,7 @@
       2
     ],
     [
-      "crisis",
-      2
-    ],
-    [
-      "fight",
-      2
-    ],
-    [
-      "save",
+      "trumps",
       2
     ],
     [
@@ -73,49 +65,57 @@
       2
     ],
     [
-      "about",
+      "election",
       2
     ],
     [
       "despite",
       2
+    ],
+    [
+      "not",
+      2
+    ],
+    [
+      "killed",
+      2
     ]
   ],
   "topics": [
     {
-      "name": "with",
-      "count": 4
-    },
-    {
-      "name": "says",
-      "count": 4
-    },
-    {
-      "name": "after",
+      "name": "police",
       "count": 3
     },
     {
-      "name": "years",
+      "name": "how",
+      "count": 3
+    },
+    {
+      "name": "are",
+      "count": 3
+    },
+    {
+      "name": "who",
       "count": 3
     },
     {
       "name": "from",
-      "count": 3
-    },
-    {
-      "name": "iran",
-      "count": 3
-    },
-    {
-      "name": "evacuees",
       "count": 2
     },
     {
-      "name": "burnham",
+      "name": "after",
       "count": 2
     },
     {
-      "name": "apology",
+      "name": "years",
+      "count": 2
+    },
+    {
+      "name": "city",
+      "count": 2
+    },
+    {
+      "name": "clashes",
       "count": 2
     },
     {
@@ -123,5 +123,5 @@
       "count": 2
     }
   ],
-  "updated_at": "2026-10-31 17:10:07.951409"
+  "updated_at": "2026-10-31 21:14:12.244345"
 }
