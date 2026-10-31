@@ -1,11 +1,11 @@
 {
   "keywords": [
     [
-      "court",
-      5
+      "after",
+      6
     ],
     [
-      "after",
+      "court",
       5
     ],
     [
@@ -13,27 +13,27 @@
       4
     ],
     [
+      "could",
+      4
+    ],
+    [
+      "binance",
+      3
+    ],
+    [
       "hack",
       3
     ],
     [
-      "what",
+      "north",
       3
     ],
     [
-      "know",
+      "why",
       3
     ],
     [
-      "about",
-      3
-    ],
-    [
-      "from",
-      3
-    ],
-    [
-      "under",
+      "are",
       3
     ],
     [
@@ -41,11 +41,15 @@
       3
     ],
     [
-      "says",
+      "top",
       3
     ],
     [
-      "how",
+      "years",
+      3
+    ],
+    [
+      "now",
       3
     ],
     [
@@ -53,41 +57,37 @@
       3
     ],
     [
-      "binance",
+      "says",
+      3
+    ],
+    [
+      "trump",
+      3
+    ],
+    [
+      "but",
       2
     ],
     [
-      "63bn",
+      "recover",
       2
     ],
     [
-      "north",
+      "stolen",
       2
     ],
     [
-      "during",
-      2
-    ],
-    [
-      "death",
-      2
-    ],
-    [
-      "visits",
-      2
-    ],
-    [
-      "scotland",
+      "final",
       2
     ]
   ],
   "topics": [
     {
-      "name": "court",
-      "count": 5
+      "name": "after",
+      "count": 6
     },
     {
-      "name": "after",
+      "name": "court",
       "count": 5
     },
     {
@@ -95,27 +95,27 @@
       "count": 4
     },
     {
+      "name": "could",
+      "count": 4
+    },
+    {
+      "name": "binance",
+      "count": 3
+    },
+    {
       "name": "hack",
       "count": 3
     },
     {
-      "name": "what",
+      "name": "north",
       "count": 3
     },
     {
-      "name": "know",
+      "name": "why",
       "count": 3
     },
     {
-      "name": "about",
-      "count": 3
-    },
-    {
-      "name": "from",
-      "count": 3
-    },
-    {
-      "name": "under",
+      "name": "are",
       "count": 3
     },
     {
@@ -123,5 +123,5 @@
       "count": 3
     }
   ],
-  "updated_at": "2026-10-30 22:05:15.243715"
+  "updated_at": "2026-10-31 04:52:55.091306"
 }
