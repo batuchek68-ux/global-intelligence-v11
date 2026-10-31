@@ -1,15 +1,15 @@
 {
   "keywords": [
     [
-      "over",
+      "with",
       4
     ],
     [
-      "from",
-      3
+      "says",
+      4
     ],
     [
-      "are",
+      "after",
       3
     ],
     [
@@ -17,59 +17,31 @@
       3
     ],
     [
-      "after",
+      "from",
       3
     ],
     [
-      "fight",
+      "iran",
       3
     ],
     [
-      "russian",
-      3
-    ],
-    [
-      "but",
+      "evacuees",
       2
     ],
     [
-      "russianoccupied",
+      "burnham",
       2
     ],
     [
-      "oleshky",
+      "apology",
       2
     ],
     [
-      "belarus",
+      "its",
       2
     ],
     [
-      "why",
-      2
-    ],
-    [
-      "watch",
-      2
-    ],
-    [
-      "their",
-      2
-    ],
-    [
-      "around",
-      2
-    ],
-    [
-      "now",
-      2
-    ],
-    [
-      "crisis",
-      2
-    ],
-    [
-      "dead",
+      "defence",
       2
     ],
     [
@@ -77,21 +49,49 @@
       2
     ],
     [
-      "midterm",
+      "people",
+      2
+    ],
+    [
+      "around",
+      2
+    ],
+    [
+      "crisis",
+      2
+    ],
+    [
+      "fight",
+      2
+    ],
+    [
+      "save",
+      2
+    ],
+    [
+      "why",
+      2
+    ],
+    [
+      "about",
+      2
+    ],
+    [
+      "despite",
       2
     ]
   ],
   "topics": [
     {
-      "name": "over",
+      "name": "with",
       "count": 4
     },
     {
-      "name": "from",
-      "count": 3
+      "name": "says",
+      "count": 4
     },
     {
-      "name": "are",
+      "name": "after",
       "count": 3
     },
     {
@@ -99,29 +99,29 @@
       "count": 3
     },
     {
-      "name": "after",
+      "name": "from",
       "count": 3
     },
     {
-      "name": "fight",
+      "name": "iran",
       "count": 3
     },
     {
-      "name": "russian",
-      "count": 3
-    },
-    {
-      "name": "but",
+      "name": "evacuees",
       "count": 2
     },
     {
-      "name": "russianoccupied",
+      "name": "burnham",
       "count": 2
     },
     {
-      "name": "oleshky",
+      "name": "apology",
+      "count": 2
+    },
+    {
+      "name": "its",
       "count": 2
     }
   ],
-  "updated_at": "2026-10-31 11:56:29.182191"
+  "updated_at": "2026-10-31 17:10:07.951409"
 }
