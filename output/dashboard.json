@@ -1,35 +1,11 @@
 {
   "keywords": [
     [
-      "after",
-      6
-    ],
-    [
-      "court",
-      5
-    ],
-    [
       "over",
       4
     ],
     [
-      "could",
-      4
-    ],
-    [
-      "binance",
-      3
-    ],
-    [
-      "hack",
-      3
-    ],
-    [
-      "north",
-      3
-    ],
-    [
-      "why",
+      "from",
       3
     ],
     [
@@ -37,31 +13,19 @@
       3
     ],
     [
-      "police",
-      3
-    ],
-    [
-      "top",
-      3
-    ],
-    [
       "years",
       3
     ],
     [
-      "now",
+      "after",
       3
     ],
     [
-      "g20",
+      "fight",
       3
     ],
     [
-      "says",
-      3
-    ],
-    [
-      "trump",
+      "russian",
       3
     ],
     [
@@ -69,49 +33,61 @@
       2
     ],
     [
-      "recover",
+      "russianoccupied",
       2
     ],
     [
-      "stolen",
+      "oleshky",
       2
     ],
     [
-      "final",
+      "belarus",
+      2
+    ],
+    [
+      "why",
+      2
+    ],
+    [
+      "watch",
+      2
+    ],
+    [
+      "their",
+      2
+    ],
+    [
+      "around",
+      2
+    ],
+    [
+      "now",
+      2
+    ],
+    [
+      "crisis",
+      2
+    ],
+    [
+      "dead",
+      2
+    ],
+    [
+      "how",
+      2
+    ],
+    [
+      "midterm",
       2
     ]
   ],
   "topics": [
     {
-      "name": "after",
-      "count": 6
-    },
-    {
-      "name": "court",
-      "count": 5
-    },
-    {
       "name": "over",
       "count": 4
     },
     {
-      "name": "could",
-      "count": 4
-    },
-    {
-      "name": "binance",
-      "count": 3
-    },
-    {
-      "name": "hack",
-      "count": 3
-    },
-    {
-      "name": "north",
-      "count": 3
-    },
-    {
-      "name": "why",
+      "name": "from",
       "count": 3
     },
     {
@@ -119,9 +95,33 @@
       "count": 3
     },
     {
-      "name": "police",
+      "name": "years",
       "count": 3
+    },
+    {
+      "name": "after",
+      "count": 3
+    },
+    {
+      "name": "fight",
+      "count": 3
+    },
+    {
+      "name": "russian",
+      "count": 3
+    },
+    {
+      "name": "but",
+      "count": 2
+    },
+    {
+      "name": "russianoccupied",
+      "count": 2
+    },
+    {
+      "name": "oleshky",
+      "count": 2
     }
   ],
-  "updated_at": "2026-10-31 04:52:55.091306"
+  "updated_at": "2026-10-31 11:56:29.182191"
 }
