@@ -1,23 +1,43 @@
 {
   "keywords": [
     [
-      "are",
+      "after",
       5
     ],
     [
-      "who",
+      "police",
+      5
+    ],
+    [
+      "with",
       4
+    ],
+    [
+      "thousands",
+      3
     ],
     [
       "halloween",
-      4
+      3
     ],
     [
-      "turn",
-      2
+      "years",
+      3
     ],
     [
-      "could",
+      "haley",
+      3
+    ],
+    [
+      "stevens",
+      3
+    ],
+    [
+      "jazeera",
+      3
+    ],
+    [
+      "cut",
       2
     ],
     [
@@ -25,103 +45,83 @@
       2
     ],
     [
+      "crash",
+      2
+    ],
+    [
+      "protests",
+      2
+    ],
+    [
+      "into",
+      2
+    ],
+    [
+      "attack",
+      2
+    ],
+    [
+      "who",
+      2
+    ],
+    [
       "celebrity",
       2
     ],
     [
-      "severed",
+      "will",
       2
     ],
     [
-      "hand",
-      2
-    ],
-    [
-      "new",
+      "house",
       2
     ],
     [
       "rules",
       2
-    ],
-    [
-      "how",
-      2
-    ],
-    [
-      "serbias",
-      2
-    ],
-    [
-      "that",
-      2
-    ],
-    [
-      "night",
-      2
-    ],
-    [
-      "indias",
-      2
-    ],
-    [
-      "rally",
-      2
-    ],
-    [
-      "election",
-      2
-    ],
-    [
-      "over",
-      2
-    ],
-    [
-      "book",
-      2
     ]
   ],
   "topics": [
     {
-      "name": "are",
+      "name": "after",
       "count": 5
     },
     {
-      "name": "who",
+      "name": "police",
+      "count": 5
+    },
+    {
+      "name": "with",
       "count": 4
+    },
+    {
+      "name": "thousands",
+      "count": 3
     },
     {
       "name": "halloween",
-      "count": 4
+      "count": 3
     },
     {
-      "name": "turn",
-      "count": 2
+      "name": "years",
+      "count": 3
     },
     {
-      "name": "could",
-      "count": 2
+      "name": "haley",
+      "count": 3
     },
     {
-      "name": "says",
-      "count": 2
+      "name": "stevens",
+      "count": 3
     },
     {
-      "name": "celebrity",
-      "count": 2
+      "name": "jazeera",
+      "count": 3
     },
     {
-      "name": "severed",
-      "count": 2
-    },
-    {
-      "name": "hand",
-      "count": 2
-    },
-    {
-      "name": "new",
+      "name": "cut",
       "count": 2
     }
   ],
-  "updated_at": "2026-11-01 12:56:32.023126"
+  "updated_at": "2026-11-01 21:51:51.069821"
 }
