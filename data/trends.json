@@ -1,26 +1,34 @@
 [
   [
-    "police",
+    "over",
+    5
+  ],
+  [
+    "protests",
     3
   ],
   [
-    "how",
-    3
-  ],
-  [
-    "are",
-    3
-  ],
-  [
-    "who",
+    "violent",
     3
   ],
   [
     "from",
-    2
+    3
   ],
   [
     "after",
+    3
+  ],
+  [
+    "trump",
+    3
+  ],
+  [
+    "police",
+    3
+  ],
+  [
+    "turn",
     2
   ],
   [
@@ -32,27 +40,27 @@
     2
   ],
   [
-    "clashes",
-    2
-  ],
-  [
-    "its",
-    2
-  ],
-  [
     "says",
     2
   ],
   [
-    "now",
+    "are",
     2
   ],
   [
-    "people",
+    "king",
     2
   ],
   [
-    "around",
+    "how",
+    2
+  ],
+  [
+    "night",
+    2
+  ],
+  [
+    "judge",
     2
   ],
   [
@@ -60,23 +68,15 @@
     2
   ],
   [
-    "why",
+    "wall",
     2
   ],
   [
-    "election",
+    "street",
     2
   ],
   [
-    "despite",
-    2
-  ],
-  [
-    "not",
-    2
-  ],
-  [
-    "killed",
+    "journal",
     2
   ]
 ]

@@ -1,27 +1,35 @@
 {
   "keywords": [
     [
-      "police",
+      "over",
+      5
+    ],
+    [
+      "protests",
       3
     ],
     [
-      "how",
-      3
-    ],
-    [
-      "are",
-      3
-    ],
-    [
-      "who",
+      "violent",
       3
     ],
     [
       "from",
-      2
+      3
     ],
     [
       "after",
+      3
+    ],
+    [
+      "trump",
+      3
+    ],
+    [
+      "police",
+      3
+    ],
+    [
+      "turn",
       2
     ],
     [
@@ -33,27 +41,27 @@
       2
     ],
     [
-      "clashes",
-      2
-    ],
-    [
-      "its",
-      2
-    ],
-    [
       "says",
       2
     ],
     [
-      "now",
+      "are",
       2
     ],
     [
-      "people",
+      "king",
       2
     ],
     [
-      "around",
+      "how",
+      2
+    ],
+    [
+      "night",
+      2
+    ],
+    [
+      "judge",
       2
     ],
     [
@@ -61,49 +69,49 @@
       2
     ],
     [
-      "why",
+      "wall",
       2
     ],
     [
-      "election",
+      "street",
       2
     ],
     [
-      "despite",
-      2
-    ],
-    [
-      "not",
-      2
-    ],
-    [
-      "killed",
+      "journal",
       2
     ]
   ],
   "topics": [
     {
-      "name": "police",
+      "name": "over",
+      "count": 5
+    },
+    {
+      "name": "protests",
       "count": 3
     },
     {
-      "name": "how",
-      "count": 3
-    },
-    {
-      "name": "are",
-      "count": 3
-    },
-    {
-      "name": "who",
+      "name": "violent",
       "count": 3
     },
     {
       "name": "from",
-      "count": 2
+      "count": 3
     },
     {
       "name": "after",
+      "count": 3
+    },
+    {
+      "name": "trump",
+      "count": 3
+    },
+    {
+      "name": "police",
+      "count": 3
+    },
+    {
+      "name": "turn",
       "count": 2
     },
     {
@@ -113,15 +121,7 @@
     {
       "name": "city",
       "count": 2
-    },
-    {
-      "name": "clashes",
-      "count": 2
-    },
-    {
-      "name": "its",
-      "count": 2
     }
   ],
-  "updated_at": "2026-10-31 21:14:12.244345"
+  "updated_at": "2026-11-01 05:19:07.467998"
 }
