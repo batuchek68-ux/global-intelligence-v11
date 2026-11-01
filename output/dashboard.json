@@ -1,43 +1,23 @@
 {
   "keywords": [
     [
-      "over",
+      "are",
       5
     ],
     [
-      "protests",
-      3
+      "who",
+      4
     ],
     [
-      "violent",
-      3
-    ],
-    [
-      "from",
-      3
-    ],
-    [
-      "after",
-      3
-    ],
-    [
-      "trump",
-      3
-    ],
-    [
-      "police",
-      3
+      "halloween",
+      4
     ],
     [
       "turn",
       2
     ],
     [
-      "years",
-      2
-    ],
-    [
-      "city",
+      "could",
       2
     ],
     [
@@ -45,11 +25,23 @@
       2
     ],
     [
-      "are",
+      "celebrity",
       2
     ],
     [
-      "king",
+      "severed",
+      2
+    ],
+    [
+      "hand",
+      2
+    ],
+    [
+      "new",
+      2
+    ],
+    [
+      "rules",
       2
     ],
     [
@@ -57,71 +49,79 @@
       2
     ],
     [
+      "serbias",
+      2
+    ],
+    [
+      "that",
+      2
+    ],
+    [
       "night",
       2
     ],
     [
-      "judge",
+      "indias",
       2
     ],
     [
-      "trumps",
+      "rally",
       2
     ],
     [
-      "wall",
+      "election",
       2
     ],
     [
-      "street",
+      "over",
       2
     ],
     [
-      "journal",
+      "book",
       2
     ]
   ],
   "topics": [
     {
-      "name": "over",
+      "name": "are",
       "count": 5
     },
     {
-      "name": "protests",
-      "count": 3
+      "name": "who",
+      "count": 4
     },
     {
-      "name": "violent",
-      "count": 3
-    },
-    {
-      "name": "from",
-      "count": 3
-    },
-    {
-      "name": "after",
-      "count": 3
-    },
-    {
-      "name": "trump",
-      "count": 3
-    },
-    {
-      "name": "police",
-      "count": 3
+      "name": "halloween",
+      "count": 4
     },
     {
       "name": "turn",
       "count": 2
     },
     {
-      "name": "years",
+      "name": "could",
       "count": 2
     },
     {
-      "name": "city",
+      "name": "says",
+      "count": 2
+    },
+    {
+      "name": "celebrity",
+      "count": 2
+    },
+    {
+      "name": "severed",
+      "count": 2
+    },
+    {
+      "name": "hand",
+      "count": 2
+    },
+    {
+      "name": "new",
       "count": 2
     }
   ],
-  "updated_at": "2026-11-01 05:19:07.467998"
+  "updated_at": "2026-11-01 12:56:32.023126"
 }
