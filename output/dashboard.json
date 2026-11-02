@@ -1,31 +1,43 @@
 {
   "keywords": [
     [
+      "midterms",
+      6
+    ],
+    [
       "after",
+      6
+    ],
+    [
+      "trump",
       5
     ],
     [
-      "police",
-      5
-    ],
-    [
-      "with",
-      4
-    ],
-    [
-      "thousands",
+      "party",
       3
     ],
     [
-      "halloween",
+      "nine",
       3
     ],
     [
-      "years",
+      "florida",
       3
     ],
     [
-      "haley",
+      "democrat",
+      3
+    ],
+    [
+      "before",
+      3
+    ],
+    [
+      "world",
+      3
+    ],
+    [
+      "elsayed",
       3
     ],
     [
@@ -33,15 +45,15 @@
       3
     ],
     [
-      "jazeera",
+      "ends",
       3
     ],
     [
-      "cut",
+      "down",
       2
     ],
     [
-      "says",
+      "jet",
       2
     ],
     [
@@ -49,79 +61,67 @@
       2
     ],
     [
-      "protests",
+      "thousands",
       2
     ],
     [
-      "into",
+      "michigan",
       2
     ],
     [
-      "attack",
+      "have",
       2
     ],
     [
-      "who",
+      "antonelli",
       2
     ],
     [
-      "celebrity",
-      2
-    ],
-    [
-      "will",
-      2
-    ],
-    [
-      "house",
-      2
-    ],
-    [
-      "rules",
+      "becomes",
       2
     ]
   ],
   "topics": [
     {
+      "name": "midterms",
+      "count": 6
+    },
+    {
       "name": "after",
+      "count": 6
+    },
+    {
+      "name": "trump",
       "count": 5
     },
     {
-      "name": "police",
-      "count": 5
-    },
-    {
-      "name": "with",
-      "count": 4
-    },
-    {
-      "name": "thousands",
+      "name": "party",
       "count": 3
     },
     {
-      "name": "halloween",
+      "name": "nine",
       "count": 3
     },
     {
-      "name": "years",
+      "name": "florida",
       "count": 3
     },
     {
-      "name": "haley",
+      "name": "democrat",
       "count": 3
     },
     {
-      "name": "stevens",
+      "name": "before",
       "count": 3
     },
     {
-      "name": "jazeera",
+      "name": "world",
       "count": 3
     },
     {
-      "name": "cut",
-      "count": 2
+      "name": "elsayed",
+      "count": 3
     }
   ],
-  "updated_at": "2026-11-01 21:51:51.069821"
+  "updated_at": "2026-11-02 05:18:23.310793"
 }
