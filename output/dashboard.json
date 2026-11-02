@@ -1,55 +1,55 @@
 {
   "keywords": [
     [
-      "midterms",
-      6
+      "with",
+      4
+    ],
+    [
+      "iran",
+      4
+    ],
+    [
+      "new",
+      4
+    ],
+    [
+      "are",
+      3
+    ],
+    [
+      "from",
+      3
     ],
     [
       "after",
-      6
-    ],
-    [
-      "trump",
-      5
-    ],
-    [
-      "party",
       3
     ],
     [
-      "nine",
+      "midterms",
       3
     ],
     [
-      "florida",
+      "how",
       3
     ],
     [
-      "democrat",
+      "king",
       3
     ],
     [
-      "before",
-      3
+      "her",
+      2
     ],
     [
-      "world",
-      3
+      "who",
+      2
     ],
     [
-      "elsayed",
-      3
+      "killed",
+      2
     ],
     [
-      "stevens",
-      3
-    ],
-    [
-      "ends",
-      3
-    ],
-    [
-      "down",
+      "small",
       2
     ],
     [
@@ -57,71 +57,71 @@
       2
     ],
     [
-      "crash",
+      "what",
       2
     ],
     [
-      "thousands",
+      "americans",
       2
     ],
     [
-      "michigan",
+      "air",
       2
     ],
     [
-      "have",
+      "bomb",
       2
     ],
     [
-      "antonelli",
+      "against",
       2
     ],
     [
-      "becomes",
+      "now",
       2
     ]
   ],
   "topics": [
     {
-      "name": "midterms",
-      "count": 6
+      "name": "with",
+      "count": 4
+    },
+    {
+      "name": "iran",
+      "count": 4
+    },
+    {
+      "name": "new",
+      "count": 4
+    },
+    {
+      "name": "are",
+      "count": 3
+    },
+    {
+      "name": "from",
+      "count": 3
     },
     {
       "name": "after",
-      "count": 6
-    },
-    {
-      "name": "trump",
-      "count": 5
-    },
-    {
-      "name": "party",
       "count": 3
     },
     {
-      "name": "nine",
+      "name": "midterms",
       "count": 3
     },
     {
-      "name": "florida",
+      "name": "how",
       "count": 3
     },
     {
-      "name": "democrat",
+      "name": "king",
       "count": 3
     },
     {
-      "name": "before",
-      "count": 3
-    },
-    {
-      "name": "world",
-      "count": 3
-    },
-    {
-      "name": "elsayed",
-      "count": 3
+      "name": "her",
+      "count": 2
     }
   ],
-  "updated_at": "2026-11-02 05:18:23.310793"
+  "updated_at": "2026-11-02 15:13:47.816824"
 }
