@@ -1,31 +1,23 @@
 {
   "keywords": [
     [
-      "midterm",
+      "after",
       5
     ],
     [
       "how",
-      4
-    ],
-    [
-      "was",
-      4
-    ],
-    [
-      "elections",
-      4
-    ],
-    [
-      "iran",
-      4
-    ],
-    [
-      "could",
       3
     ],
     [
-      "polls",
+      "midterm",
+      3
+    ],
+    [
+      "results",
+      3
+    ],
+    [
+      "could",
       3
     ],
     [
@@ -33,81 +25,81 @@
       3
     ],
     [
-      "results",
+      "from",
+      3
+    ],
+    [
+      "senate",
+      3
+    ],
+    [
+      "elections",
+      3
+    ],
+    [
+      "vote",
+      3
+    ],
+    [
+      "race",
+      3
+    ],
+    [
+      "americans",
       2
     ],
     [
-      "after",
+      "polls",
       2
     ],
     [
-      "during",
+      "king",
       2
     ],
     [
-      "its",
+      "slave",
       2
     ],
     [
-      "know",
+      "trade",
       2
     ],
     [
-      "what",
+      "chapter",
       2
     ],
     [
-      "cyberattack",
+      "across",
       2
     ],
     [
-      "which",
+      "ukraine",
       2
     ],
     [
-      "supermarket",
-      2
-    ],
-    [
-      "signals",
-      2
-    ],
-    [
-      "deal",
-      2
-    ],
-    [
-      "food",
+      "attacks",
       2
     ]
   ],
   "topics": [
     {
-      "name": "midterm",
+      "name": "after",
       "count": 5
     },
     {
       "name": "how",
-      "count": 4
-    },
-    {
-      "name": "was",
-      "count": 4
-    },
-    {
-      "name": "elections",
-      "count": 4
-    },
-    {
-      "name": "iran",
-      "count": 4
-    },
-    {
-      "name": "could",
       "count": 3
     },
     {
-      "name": "polls",
+      "name": "midterm",
+      "count": 3
+    },
+    {
+      "name": "results",
+      "count": 3
+    },
+    {
+      "name": "could",
       "count": 3
     },
     {
@@ -115,13 +107,21 @@
       "count": 3
     },
     {
-      "name": "results",
-      "count": 2
+      "name": "from",
+      "count": 3
     },
     {
-      "name": "after",
-      "count": 2
+      "name": "senate",
+      "count": 3
+    },
+    {
+      "name": "elections",
+      "count": 3
+    },
+    {
+      "name": "vote",
+      "count": 3
     }
   ],
-  "updated_at": "2026-11-03 13:53:37.003481"
+  "updated_at": "2026-11-03 23:02:26.595246"
 }
