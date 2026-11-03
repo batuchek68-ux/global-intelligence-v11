@@ -1,59 +1,59 @@
 {
   "keywords": [
     [
-      "midterms",
+      "midterm",
       5
     ],
     [
+      "how",
+      4
+    ],
+    [
+      "was",
+      4
+    ],
+    [
+      "elections",
+      4
+    ],
+    [
+      "iran",
+      4
+    ],
+    [
+      "could",
+      3
+    ],
+    [
+      "polls",
+      3
+    ],
+    [
+      "will",
+      3
+    ],
+    [
+      "results",
+      2
+    ],
+    [
       "after",
-      4
+      2
     ],
     [
-      "court",
-      4
+      "during",
+      2
     ],
     [
-      "have",
-      3
+      "its",
+      2
     ],
     [
-      "florida",
-      3
-    ],
-    [
-      "jet",
-      3
+      "know",
+      2
     ],
     [
       "what",
-      3
-    ],
-    [
-      "war",
-      3
-    ],
-    [
-      "trump",
-      3
-    ],
-    [
-      "plans",
-      2
-    ],
-    [
-      "care",
-      2
-    ],
-    [
-      "shop",
-      2
-    ],
-    [
-      "freezers",
-      2
-    ],
-    [
-      "hit",
       2
     ],
     [
@@ -61,67 +61,67 @@
       2
     ],
     [
-      "ukraine",
+      "which",
       2
     ],
     [
-      "says",
+      "supermarket",
       2
     ],
     [
-      "crash",
+      "signals",
       2
     ],
     [
-      "about",
+      "deal",
       2
     ],
     [
-      "its",
+      "food",
       2
     ]
   ],
   "topics": [
     {
-      "name": "midterms",
+      "name": "midterm",
       "count": 5
     },
     {
+      "name": "how",
+      "count": 4
+    },
+    {
+      "name": "was",
+      "count": 4
+    },
+    {
+      "name": "elections",
+      "count": 4
+    },
+    {
+      "name": "iran",
+      "count": 4
+    },
+    {
+      "name": "could",
+      "count": 3
+    },
+    {
+      "name": "polls",
+      "count": 3
+    },
+    {
+      "name": "will",
+      "count": 3
+    },
+    {
+      "name": "results",
+      "count": 2
+    },
+    {
       "name": "after",
-      "count": 4
-    },
-    {
-      "name": "court",
-      "count": 4
-    },
-    {
-      "name": "have",
-      "count": 3
-    },
-    {
-      "name": "florida",
-      "count": 3
-    },
-    {
-      "name": "jet",
-      "count": 3
-    },
-    {
-      "name": "what",
-      "count": 3
-    },
-    {
-      "name": "war",
-      "count": 3
-    },
-    {
-      "name": "trump",
-      "count": 3
-    },
-    {
-      "name": "plans",
       "count": 2
     }
   ],
-  "updated_at": "2026-11-03 00:46:44.603971"
+  "updated_at": "2026-11-03 13:53:37.003481"
 }
