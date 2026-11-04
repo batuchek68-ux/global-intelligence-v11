@@ -1,23 +1,51 @@
 {
   "keywords": [
     [
-      "after",
+      "senate",
+      8
+    ],
+    [
+      "democrat",
+      6
+    ],
+    [
+      "seat",
       5
     ],
     [
-      "how",
+      "wins",
+      4
+    ],
+    [
+      "first",
+      4
+    ],
+    [
+      "flips",
+      4
+    ],
+    [
+      "into",
       3
     ],
     [
-      "midterm",
+      "republican",
       3
     ],
     [
-      "results",
+      "south",
       3
     ],
     [
-      "could",
+      "carolina",
+      3
+    ],
+    [
+      "democratic",
+      3
+    ],
+    [
+      "says",
       3
     ],
     [
@@ -25,103 +53,75 @@
       3
     ],
     [
-      "from",
-      3
-    ],
-    [
-      "senate",
-      3
-    ],
-    [
-      "elections",
-      3
-    ],
-    [
-      "vote",
-      3
-    ],
-    [
-      "race",
-      3
-    ],
-    [
-      "americans",
+      "historic",
       2
     ],
     [
-      "polls",
+      "midterms",
       2
     ],
     [
-      "king",
+      "how",
       2
     ],
     [
-      "slave",
+      "democrats",
       2
     ],
     [
-      "trade",
+      "elects",
       2
     ],
     [
-      "chapter",
+      "senator",
       2
     ],
     [
-      "across",
-      2
-    ],
-    [
-      "ukraine",
-      2
-    ],
-    [
-      "attacks",
+      "almost",
       2
     ]
   ],
   "topics": [
     {
-      "name": "after",
+      "name": "senate",
+      "count": 8
+    },
+    {
+      "name": "democrat",
+      "count": 6
+    },
+    {
+      "name": "seat",
       "count": 5
     },
     {
-      "name": "how",
+      "name": "wins",
+      "count": 4
+    },
+    {
+      "name": "first",
+      "count": 4
+    },
+    {
+      "name": "flips",
+      "count": 4
+    },
+    {
+      "name": "into",
       "count": 3
     },
     {
-      "name": "midterm",
+      "name": "republican",
       "count": 3
     },
     {
-      "name": "results",
+      "name": "south",
       "count": 3
     },
     {
-      "name": "could",
-      "count": 3
-    },
-    {
-      "name": "will",
-      "count": 3
-    },
-    {
-      "name": "from",
-      "count": 3
-    },
-    {
-      "name": "senate",
-      "count": 3
-    },
-    {
-      "name": "elections",
-      "count": 3
-    },
-    {
-      "name": "vote",
+      "name": "carolina",
       "count": 3
     }
   ],
-  "updated_at": "2026-11-03 23:02:26.595246"
+  "updated_at": "2026-11-04 05:38:27.555809"
 }
