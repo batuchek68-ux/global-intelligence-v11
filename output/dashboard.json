@@ -1,63 +1,55 @@
 {
   "keywords": [
     [
-      "senate",
-      8
-    ],
-    [
-      "democrat",
-      6
-    ],
-    [
-      "seat",
-      5
-    ],
-    [
-      "wins",
+      "why",
       4
     ],
     [
-      "first",
+      "democrats",
       4
-    ],
-    [
-      "flips",
-      4
-    ],
-    [
-      "into",
-      3
-    ],
-    [
-      "republican",
-      3
-    ],
-    [
-      "south",
-      3
-    ],
-    [
-      "carolina",
-      3
-    ],
-    [
-      "democratic",
-      3
     ],
     [
       "says",
-      3
-    ],
-    [
-      "will",
-      3
-    ],
-    [
-      "historic",
-      2
+      4
     ],
     [
       "midterms",
+      3
+    ],
+    [
+      "are",
+      3
+    ],
+    [
+      "after",
+      3
+    ],
+    [
+      "win",
+      3
+    ],
+    [
+      "iran",
+      3
+    ],
+    [
+      "war",
+      3
+    ],
+    [
+      "trumps",
+      3
+    ],
+    [
+      "republicans",
+      2
+    ],
+    [
+      "trump",
+      2
+    ],
+    [
+      "midterm",
       2
     ],
     [
@@ -65,63 +57,71 @@
       2
     ],
     [
-      "democrats",
+      "america",
       2
     ],
     [
-      "elects",
+      "will",
       2
     ],
     [
-      "senator",
+      "not",
       2
     ],
     [
-      "almost",
+      "miguel",
+      2
+    ],
+    [
+      "hurt",
+      2
+    ],
+    [
+      "could",
       2
     ]
   ],
   "topics": [
     {
-      "name": "senate",
-      "count": 8
-    },
-    {
-      "name": "democrat",
-      "count": 6
-    },
-    {
-      "name": "seat",
-      "count": 5
-    },
-    {
-      "name": "wins",
+      "name": "why",
       "count": 4
     },
     {
-      "name": "first",
+      "name": "democrats",
       "count": 4
     },
     {
-      "name": "flips",
+      "name": "says",
       "count": 4
     },
     {
-      "name": "into",
+      "name": "midterms",
       "count": 3
     },
     {
-      "name": "republican",
+      "name": "are",
       "count": 3
     },
     {
-      "name": "south",
+      "name": "after",
       "count": 3
     },
     {
-      "name": "carolina",
+      "name": "win",
+      "count": 3
+    },
+    {
+      "name": "iran",
+      "count": 3
+    },
+    {
+      "name": "war",
+      "count": 3
+    },
+    {
+      "name": "trumps",
       "count": 3
     }
   ],
-  "updated_at": "2026-11-04 05:38:27.555809"
+  "updated_at": "2026-11-04 14:02:41.950517"
 }
