@@ -1,7 +1,23 @@
 {
   "keywords": [
     [
-      "why",
+      "after",
+      10
+    ],
+    [
+      "midterm",
+      6
+    ],
+    [
+      "midterms",
+      5
+    ],
+    [
+      "will",
+      4
+    ],
+    [
+      "how",
       4
     ],
     [
@@ -9,23 +25,23 @@
       4
     ],
     [
-      "says",
+      "new",
       4
     ],
     [
-      "midterms",
+      "democratic",
+      4
+    ],
+    [
+      "with",
       3
     ],
     [
-      "are",
+      "elections",
       3
     ],
     [
-      "after",
-      3
-    ],
-    [
-      "win",
+      "trump",
       3
     ],
     [
@@ -33,27 +49,11 @@
       3
     ],
     [
-      "war",
-      3
-    ],
-    [
       "trumps",
-      3
-    ],
-    [
-      "republicans",
       2
     ],
     [
-      "trump",
-      2
-    ],
-    [
-      "midterm",
-      2
-    ],
-    [
-      "how",
+      "but",
       2
     ],
     [
@@ -61,29 +61,45 @@
       2
     ],
     [
-      "will",
+      "what",
       2
     ],
     [
-      "not",
+      "congress",
       2
     ],
     [
-      "miguel",
+      "from",
       2
     ],
     [
-      "hurt",
+      "ukraine",
       2
     ],
     [
-      "could",
+      "russian",
       2
     ]
   ],
   "topics": [
     {
-      "name": "why",
+      "name": "after",
+      "count": 10
+    },
+    {
+      "name": "midterm",
+      "count": 6
+    },
+    {
+      "name": "midterms",
+      "count": 5
+    },
+    {
+      "name": "will",
+      "count": 4
+    },
+    {
+      "name": "how",
       "count": 4
     },
     {
@@ -91,37 +107,21 @@
       "count": 4
     },
     {
-      "name": "says",
+      "name": "new",
       "count": 4
     },
     {
-      "name": "midterms",
+      "name": "democratic",
+      "count": 4
+    },
+    {
+      "name": "with",
       "count": 3
     },
     {
-      "name": "are",
-      "count": 3
-    },
-    {
-      "name": "after",
-      "count": 3
-    },
-    {
-      "name": "win",
-      "count": 3
-    },
-    {
-      "name": "iran",
-      "count": 3
-    },
-    {
-      "name": "war",
-      "count": 3
-    },
-    {
-      "name": "trumps",
+      "name": "elections",
       "count": 3
     }
   ],
-  "updated_at": "2026-11-04 14:02:41.950517"
+  "updated_at": "2026-11-04 23:26:20.616712"
 }
