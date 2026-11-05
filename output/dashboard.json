@@ -1,39 +1,47 @@
 {
   "keywords": [
     [
-      "after",
-      10
-    ],
-    [
-      "midterm",
+      "with",
       6
     ],
     [
-      "midterms",
+      "will",
       5
     ],
     [
-      "will",
+      "years",
       4
     ],
     [
-      "how",
+      "congress",
       4
+    ],
+    [
+      "trump",
+      3
+    ],
+    [
+      "election",
+      3
+    ],
+    [
+      "more",
+      3
+    ],
+    [
+      "midterm",
+      3
+    ],
+    [
+      "but",
+      3
     ],
     [
       "democrats",
-      4
+      3
     ],
     [
-      "new",
-      4
-    ],
-    [
-      "democratic",
-      4
-    ],
-    [
-      "with",
+      "after",
       3
     ],
     [
@@ -41,87 +49,79 @@
       3
     ],
     [
-      "trump",
+      "vote",
       3
     ],
     [
       "iran",
-      3
-    ],
-    [
-      "trumps",
       2
     ],
     [
-      "but",
+      "war",
       2
     ],
     [
-      "america",
+      "talks",
       2
     ],
     [
-      "what",
+      "joshua",
       2
     ],
     [
-      "congress",
+      "wong",
       2
     ],
     [
-      "from",
+      "hong",
       2
     ],
     [
-      "ukraine",
-      2
-    ],
-    [
-      "russian",
+      "three",
       2
     ]
   ],
   "topics": [
     {
-      "name": "after",
-      "count": 10
-    },
-    {
-      "name": "midterm",
+      "name": "with",
       "count": 6
     },
     {
-      "name": "midterms",
+      "name": "will",
       "count": 5
     },
     {
-      "name": "will",
+      "name": "years",
       "count": 4
     },
     {
-      "name": "how",
+      "name": "congress",
       "count": 4
+    },
+    {
+      "name": "trump",
+      "count": 3
+    },
+    {
+      "name": "election",
+      "count": 3
+    },
+    {
+      "name": "more",
+      "count": 3
+    },
+    {
+      "name": "midterm",
+      "count": 3
+    },
+    {
+      "name": "but",
+      "count": 3
     },
     {
       "name": "democrats",
-      "count": 4
-    },
-    {
-      "name": "new",
-      "count": 4
-    },
-    {
-      "name": "democratic",
-      "count": 4
-    },
-    {
-      "name": "with",
-      "count": 3
-    },
-    {
-      "name": "elections",
       "count": 3
     }
   ],
-  "updated_at": "2026-11-04 23:26:20.616712"
+  "updated_at": "2026-11-05 05:56:26.642208"
 }
