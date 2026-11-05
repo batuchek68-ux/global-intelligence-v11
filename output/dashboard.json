@@ -1,35 +1,43 @@
 {
   "keywords": [
     [
-      "with",
-      6
-    ],
-    [
       "will",
       5
     ],
     [
-      "years",
+      "after",
+      5
+    ],
+    [
+      "how",
       4
     ],
     [
-      "congress",
-      4
+      "cristiano",
+      3
+    ],
+    [
+      "ronaldo",
+      3
+    ],
+    [
+      "from",
+      3
+    ],
+    [
+      "international",
+      3
+    ],
+    [
+      "football",
+      3
     ],
     [
       "trump",
       3
     ],
     [
-      "election",
-      3
-    ],
-    [
-      "more",
-      3
-    ],
-    [
-      "midterm",
+      "iran",
       3
     ],
     [
@@ -37,91 +45,83 @@
       3
     ],
     [
-      "democrats",
+      "more",
       3
     ],
     [
-      "after",
+      "congress",
       3
     ],
     [
-      "elections",
+      "ukraine",
       3
     ],
     [
-      "vote",
+      "gaza",
       3
     ],
     [
-      "iran",
+      "interest",
       2
     ],
     [
-      "war",
+      "cancelled",
       2
     ],
     [
-      "talks",
+      "could",
       2
     ],
     [
-      "joshua",
+      "home",
       2
     ],
     [
-      "wong",
-      2
-    ],
-    [
-      "hong",
-      2
-    ],
-    [
-      "three",
+      "was",
       2
     ]
   ],
   "topics": [
     {
-      "name": "with",
-      "count": 6
-    },
-    {
       "name": "will",
       "count": 5
     },
     {
-      "name": "years",
+      "name": "after",
+      "count": 5
+    },
+    {
+      "name": "how",
       "count": 4
     },
     {
-      "name": "congress",
-      "count": 4
+      "name": "cristiano",
+      "count": 3
+    },
+    {
+      "name": "ronaldo",
+      "count": 3
+    },
+    {
+      "name": "from",
+      "count": 3
+    },
+    {
+      "name": "international",
+      "count": 3
+    },
+    {
+      "name": "football",
+      "count": 3
     },
     {
       "name": "trump",
       "count": 3
     },
     {
-      "name": "election",
-      "count": 3
-    },
-    {
-      "name": "more",
-      "count": 3
-    },
-    {
-      "name": "midterm",
-      "count": 3
-    },
-    {
-      "name": "but",
-      "count": 3
-    },
-    {
-      "name": "democrats",
+      "name": "iran",
       "count": 3
     }
   ],
-  "updated_at": "2026-11-05 05:56:26.642208"
+  "updated_at": "2026-11-05 14:28:43.508634"
 }
