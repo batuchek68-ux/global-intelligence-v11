@@ -1,11 +1,11 @@
 {
   "keywords": [
     [
-      "brand",
+      "trump",
       5
     ],
     [
-      "how",
+      "new",
       4
     ],
     [
@@ -13,11 +13,11 @@
       4
     ],
     [
-      "russell",
+      "could",
       3
     ],
     [
-      "police",
+      "from",
       3
     ],
     [
@@ -29,65 +29,65 @@
       3
     ],
     [
-      "with",
+      "iran",
       3
     ],
     [
-      "over",
+      "israeli",
       3
-    ],
-    [
-      "new",
-      3
-    ],
-    [
-      "will",
-      3
-    ],
-    [
-      "trump",
-      3
-    ],
-    [
-      "election",
-      3
-    ],
-    [
-      "rape",
-      2
-    ],
-    [
-      "watch",
-      2
-    ],
-    [
-      "stocks",
-      2
-    ],
-    [
-      "plunge",
-      2
     ],
     [
       "midterms",
       2
     ],
     [
-      "fears",
+      "chief",
       2
     ],
     [
-      "years",
+      "warns",
+      2
+    ],
+    [
+      "brand",
+      2
+    ],
+    [
+      "police",
+      2
+    ],
+    [
+      "job",
+      2
+    ],
+    [
+      "california",
+      2
+    ],
+    [
+      "governor",
+      2
+    ],
+    [
+      "commutes",
+      2
+    ],
+    [
+      "sentences",
+      2
+    ],
+    [
+      "death",
       2
     ]
   ],
   "topics": [
     {
-      "name": "brand",
+      "name": "trump",
       "count": 5
     },
     {
-      "name": "how",
+      "name": "new",
       "count": 4
     },
     {
@@ -95,11 +95,11 @@
       "count": 4
     },
     {
-      "name": "russell",
+      "name": "could",
       "count": 3
     },
     {
-      "name": "police",
+      "name": "from",
       "count": 3
     },
     {
@@ -111,17 +111,17 @@
       "count": 3
     },
     {
-      "name": "with",
+      "name": "iran",
       "count": 3
     },
     {
-      "name": "over",
+      "name": "israeli",
       "count": 3
     },
     {
-      "name": "new",
-      "count": 3
+      "name": "midterms",
+      "count": 2
     }
   ],
-  "updated_at": "2026-11-05 23:28:08.862309"
+  "updated_at": "2026-11-06 05:52:53.061463"
 }
