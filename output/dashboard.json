@@ -1,27 +1,35 @@
 {
   "keywords": [
     [
-      "trump",
-      5
-    ],
-    [
-      "new",
-      4
-    ],
-    [
       "after",
       4
     ],
     [
-      "could",
+      "did",
+      4
+    ],
+    [
+      "how",
+      4
+    ],
+    [
+      "court",
+      4
+    ],
+    [
+      "says",
       3
     ],
     [
-      "from",
+      "about",
       3
     ],
     [
-      "hoax",
+      "brand",
+      3
+    ],
+    [
+      "years",
       3
     ],
     [
@@ -29,31 +37,19 @@
       3
     ],
     [
-      "iran",
+      "what",
       3
     ],
     [
-      "israeli",
-      3
-    ],
-    [
-      "midterms",
+      "conviction",
       2
     ],
     [
-      "chief",
+      "she",
       2
     ],
     [
-      "warns",
-      2
-    ],
-    [
-      "brand",
-      2
-    ],
-    [
-      "police",
+      "russell",
       2
     ],
     [
@@ -61,49 +57,61 @@
       2
     ],
     [
-      "california",
+      "new",
       2
     ],
     [
-      "governor",
+      "two",
       2
     ],
     [
-      "commutes",
+      "trump",
       2
     ],
     [
-      "sentences",
+      "from",
       2
     ],
     [
-      "death",
+      "generation",
+      2
+    ],
+    [
+      "iran",
       2
     ]
   ],
   "topics": [
     {
-      "name": "trump",
-      "count": 5
-    },
-    {
-      "name": "new",
-      "count": 4
-    },
-    {
       "name": "after",
       "count": 4
     },
     {
-      "name": "could",
+      "name": "did",
+      "count": 4
+    },
+    {
+      "name": "how",
+      "count": 4
+    },
+    {
+      "name": "court",
+      "count": 4
+    },
+    {
+      "name": "says",
       "count": 3
     },
     {
-      "name": "from",
+      "name": "about",
       "count": 3
     },
     {
-      "name": "hoax",
+      "name": "brand",
+      "count": 3
+    },
+    {
+      "name": "years",
       "count": 3
     },
     {
@@ -111,17 +119,9 @@
       "count": 3
     },
     {
-      "name": "iran",
+      "name": "what",
       "count": 3
-    },
-    {
-      "name": "israeli",
-      "count": 3
-    },
-    {
-      "name": "midterms",
-      "count": 2
     }
   ],
-  "updated_at": "2026-11-06 05:52:53.061463"
+  "updated_at": "2026-11-06 13:59:05.305109"
 }
