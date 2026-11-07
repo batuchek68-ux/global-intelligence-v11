@@ -2,18 +2,18 @@
   "keywords": [
     [
       "after",
-      6
+      9
     ],
     [
-      "over",
+      "war",
       5
     ],
     [
-      "how",
+      "new",
       4
     ],
     [
-      "brand",
+      "from",
       4
     ],
     [
@@ -21,23 +21,11 @@
       4
     ],
     [
-      "new",
-      4
-    ],
-    [
-      "father",
+      "not",
       3
     ],
     [
-      "stephen",
-      3
-    ],
-    [
-      "miller",
-      3
-    ],
-    [
-      "trump",
+      "two",
       3
     ],
     [
@@ -45,31 +33,27 @@
       3
     ],
     [
+      "with",
+      3
+    ],
+    [
+      "trump",
+      3
+    ],
+    [
+      "are",
+      2
+    ],
+    [
       "says",
-      3
-    ],
-    [
-      "data",
-      3
-    ],
-    [
-      "meghans",
       2
     ],
     [
-      "child",
+      "boy",
       2
     ],
     [
-      "sex",
-      2
-    ],
-    [
-      "abuse",
-      2
-    ],
-    [
-      "midterms",
+      "what",
       2
     ],
     [
@@ -79,23 +63,39 @@
     [
       "sky",
       2
+    ],
+    [
+      "how",
+      2
+    ],
+    [
+      "most",
+      2
+    ],
+    [
+      "next",
+      2
+    ],
+    [
+      "flood",
+      2
     ]
   ],
   "topics": [
     {
       "name": "after",
-      "count": 6
+      "count": 9
     },
     {
-      "name": "over",
+      "name": "war",
       "count": 5
     },
     {
-      "name": "how",
+      "name": "new",
       "count": 4
     },
     {
-      "name": "brand",
+      "name": "from",
       "count": 4
     },
     {
@@ -103,19 +103,19 @@
       "count": 4
     },
     {
-      "name": "new",
-      "count": 4
-    },
-    {
-      "name": "father",
+      "name": "not",
       "count": 3
     },
     {
-      "name": "stephen",
+      "name": "two",
       "count": 3
     },
     {
-      "name": "miller",
+      "name": "this",
+      "count": 3
+    },
+    {
+      "name": "with",
       "count": 3
     },
     {
@@ -123,5 +123,5 @@
       "count": 3
     }
   ],
-  "updated_at": "2026-11-07 05:24:30.128952"
+  "updated_at": "2026-11-07 12:43:16.417925"
 }
