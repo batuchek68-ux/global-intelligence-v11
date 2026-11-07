@@ -2,62 +2,30 @@
   "keywords": [
     [
       "after",
-      9
+      6
+    ],
+    [
+      "over",
+      5
+    ],
+    [
+      "how",
+      4
     ],
     [
       "brand",
       4
     ],
     [
-      "chief",
+      "iran",
       4
-    ],
-    [
-      "staff",
-      4
-    ],
-    [
-      "over",
-      3
-    ],
-    [
-      "child",
-      3
-    ],
-    [
-      "how",
-      3
-    ],
-    [
-      "trump",
-      3
-    ],
-    [
-      "white",
-      3
-    ],
-    [
-      "house",
-      3
     ],
     [
       "new",
-      3
+      4
     ],
     [
-      "bomb",
-      3
-    ],
-    [
-      "threats",
-      3
-    ],
-    [
-      "european",
-      3
-    ],
-    [
-      "trumps",
+      "father",
       3
     ],
     [
@@ -69,59 +37,91 @@
       3
     ],
     [
-      "father",
+      "trump",
+      3
+    ],
+    [
+      "this",
+      3
+    ],
+    [
+      "says",
+      3
+    ],
+    [
+      "data",
+      3
+    ],
+    [
+      "meghans",
       2
     ],
     [
-      "court",
+      "child",
       2
     ],
     [
       "sex",
+      2
+    ],
+    [
+      "abuse",
+      2
+    ],
+    [
+      "midterms",
+      2
+    ],
+    [
+      "plan",
+      2
+    ],
+    [
+      "sky",
       2
     ]
   ],
   "topics": [
     {
       "name": "after",
-      "count": 9
+      "count": 6
+    },
+    {
+      "name": "over",
+      "count": 5
+    },
+    {
+      "name": "how",
+      "count": 4
     },
     {
       "name": "brand",
       "count": 4
     },
     {
-      "name": "chief",
+      "name": "iran",
       "count": 4
     },
     {
-      "name": "staff",
+      "name": "new",
       "count": 4
     },
     {
-      "name": "over",
+      "name": "father",
       "count": 3
     },
     {
-      "name": "child",
+      "name": "stephen",
       "count": 3
     },
     {
-      "name": "how",
+      "name": "miller",
       "count": 3
     },
     {
       "name": "trump",
       "count": 3
-    },
-    {
-      "name": "white",
-      "count": 3
-    },
-    {
-      "name": "house",
-      "count": 3
     }
   ],
-  "updated_at": "2026-11-06 22:53:54.803195"
+  "updated_at": "2026-11-07 05:24:30.128952"
 }
