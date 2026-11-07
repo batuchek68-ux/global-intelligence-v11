@@ -2,34 +2,26 @@
   "keywords": [
     [
       "after",
-      9
+      7
     ],
     [
-      "war",
-      5
-    ],
-    [
-      "new",
+      "against",
       4
     ],
     [
-      "from",
+      "president",
       4
-    ],
-    [
-      "iran",
-      4
-    ],
-    [
-      "not",
-      3
-    ],
-    [
-      "two",
-      3
     ],
     [
       "this",
+      3
+    ],
+    [
+      "new",
+      3
+    ],
+    [
+      "strikes",
       3
     ],
     [
@@ -37,81 +29,81 @@
       3
     ],
     [
-      "trump",
+      "over",
       3
-    ],
-    [
-      "are",
-      2
-    ],
-    [
-      "says",
-      2
-    ],
-    [
-      "boy",
-      2
     ],
     [
       "what",
       2
     ],
     [
-      "plan",
+      "attack",
       2
     ],
     [
-      "sky",
+      "burnham",
       2
     ],
     [
-      "how",
+      "shouldnt",
       2
     ],
     [
-      "most",
+      "heavy",
       2
     ],
     [
-      "next",
+      "rains",
       2
     ],
     [
-      "flood",
+      "gaza",
+      2
+    ],
+    [
+      "trump",
+      2
+    ],
+    [
+      "house",
+      2
+    ],
+    [
+      "first",
+      2
+    ],
+    [
+      "christmas",
+      2
+    ],
+    [
+      "two",
       2
     ]
   ],
   "topics": [
     {
       "name": "after",
-      "count": 9
+      "count": 7
     },
     {
-      "name": "war",
-      "count": 5
-    },
-    {
-      "name": "new",
+      "name": "against",
       "count": 4
     },
     {
-      "name": "from",
+      "name": "president",
       "count": 4
-    },
-    {
-      "name": "iran",
-      "count": 4
-    },
-    {
-      "name": "not",
-      "count": 3
-    },
-    {
-      "name": "two",
-      "count": 3
     },
     {
       "name": "this",
+      "count": 3
+    },
+    {
+      "name": "new",
+      "count": 3
+    },
+    {
+      "name": "strikes",
       "count": 3
     },
     {
@@ -119,9 +111,17 @@
       "count": 3
     },
     {
-      "name": "trump",
+      "name": "over",
       "count": 3
+    },
+    {
+      "name": "what",
+      "count": 2
+    },
+    {
+      "name": "attack",
+      "count": 2
     }
   ],
-  "updated_at": "2026-11-07 12:43:16.417925"
+  "updated_at": "2026-11-07 21:37:57.873282"
 }
