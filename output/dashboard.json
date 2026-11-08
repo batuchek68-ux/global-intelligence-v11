@@ -1,39 +1,23 @@
 {
   "keywords": [
     [
-      "with",
-      6
-    ],
-    [
-      "president",
+      "was",
       4
-    ],
-    [
-      "krakow",
-      3
-    ],
-    [
-      "after",
-      3
-    ],
-    [
-      "more",
-      3
-    ],
-    [
-      "than",
-      3
-    ],
-    [
-      "trump",
-      3
     ],
     [
       "white",
       3
     ],
     [
-      "israels",
+      "can",
+      3
+    ],
+    [
+      "says",
+      3
+    ],
+    [
+      "with",
       3
     ],
     [
@@ -41,39 +25,55 @@
       3
     ],
     [
-      "government",
+      "leave",
       3
     ],
     [
-      "briton",
-      2
+      "thousands",
+      3
     ],
     [
-      "shooting",
-      2
-    ],
-    [
-      "what",
-      2
+      "without",
+      3
     ],
     [
       "veterans",
       2
     ],
     [
-      "shouldnt",
+      "government",
       2
     ],
     [
-      "burnham",
+      "seriously",
       2
     ],
     [
-      "says",
+      "from",
       2
     ],
     [
-      "festival",
+      "trump",
+      2
+    ],
+    [
+      "ufc",
+      2
+    ],
+    [
+      "boss",
+      2
+    ],
+    [
+      "house",
+      2
+    ],
+    [
+      "press",
+      2
+    ],
+    [
+      "secretary",
       2
     ],
     [
@@ -83,45 +83,45 @@
   ],
   "topics": [
     {
-      "name": "with",
-      "count": 6
-    },
-    {
-      "name": "president",
+      "name": "was",
       "count": 4
-    },
-    {
-      "name": "krakow",
-      "count": 3
-    },
-    {
-      "name": "after",
-      "count": 3
-    },
-    {
-      "name": "more",
-      "count": 3
-    },
-    {
-      "name": "than",
-      "count": 3
-    },
-    {
-      "name": "trump",
-      "count": 3
     },
     {
       "name": "white",
       "count": 3
     },
     {
-      "name": "israels",
+      "name": "can",
+      "count": 3
+    },
+    {
+      "name": "says",
+      "count": 3
+    },
+    {
+      "name": "with",
       "count": 3
     },
     {
       "name": "eisenkot",
       "count": 3
+    },
+    {
+      "name": "leave",
+      "count": 3
+    },
+    {
+      "name": "thousands",
+      "count": 3
+    },
+    {
+      "name": "without",
+      "count": 3
+    },
+    {
+      "name": "veterans",
+      "count": 2
     }
   ],
-  "updated_at": "2026-11-08 05:23:27.714475"
+  "updated_at": "2026-11-08 13:00:22.124583"
 }
