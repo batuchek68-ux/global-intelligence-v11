@@ -1,63 +1,15 @@
 {
   "keywords": [
     [
-      "trump",
-      6
-    ],
-    [
-      "with",
-      6
-    ],
-    [
-      "brand",
+      "after",
       4
-    ],
-    [
-      "says",
-      4
-    ],
-    [
-      "hegseth",
-      4
-    ],
-    [
-      "sentenced",
-      3
-    ],
-    [
-      "years",
-      3
-    ],
-    [
-      "abuse",
-      3
     ],
     [
       "what",
-      3
-    ],
-    [
-      "court",
-      3
+      4
     ],
     [
       "over",
-      3
-    ],
-    [
-      "nvidia",
-      3
-    ],
-    [
-      "affair",
-      3
-    ],
-    [
-      "spy",
-      3
-    ],
-    [
-      "secretary",
       3
     ],
     [
@@ -65,63 +17,111 @@
       3
     ],
     [
-      "russell",
+      "military",
       2
     ],
     [
-      "sexual",
+      "base",
       2
     ],
     [
-      "assault",
+      "police",
       2
     ],
     [
-      "violence",
+      "about",
+      2
+    ],
+    [
+      "first",
+      2
+    ],
+    [
+      "france",
+      2
+    ],
+    [
+      "means",
+      2
+    ],
+    [
+      "your",
+      2
+    ],
+    [
+      "how",
+      2
+    ],
+    [
+      "court",
+      2
+    ],
+    [
+      "boss",
+      2
+    ],
+    [
+      "football",
+      2
+    ],
+    [
+      "video",
+      2
+    ],
+    [
+      "year",
+      2
+    ],
+    [
+      "from",
+      2
+    ],
+    [
+      "french",
       2
     ]
   ],
   "topics": [
     {
-      "name": "trump",
-      "count": 6
-    },
-    {
-      "name": "with",
-      "count": 6
-    },
-    {
-      "name": "brand",
+      "name": "after",
       "count": 4
-    },
-    {
-      "name": "says",
-      "count": 4
-    },
-    {
-      "name": "hegseth",
-      "count": 4
-    },
-    {
-      "name": "sentenced",
-      "count": 3
-    },
-    {
-      "name": "years",
-      "count": 3
-    },
-    {
-      "name": "abuse",
-      "count": 3
     },
     {
       "name": "what",
+      "count": 4
+    },
+    {
+      "name": "over",
       "count": 3
     },
     {
-      "name": "court",
+      "name": "iran",
       "count": 3
+    },
+    {
+      "name": "military",
+      "count": 2
+    },
+    {
+      "name": "base",
+      "count": 2
+    },
+    {
+      "name": "police",
+      "count": 2
+    },
+    {
+      "name": "about",
+      "count": 2
+    },
+    {
+      "name": "first",
+      "count": 2
+    },
+    {
+      "name": "france",
+      "count": 2
     }
   ],
-  "updated_at": "2026-11-10 01:20:46.437695"
+  "updated_at": "2026-11-10 14:37:10.523825"
 }
