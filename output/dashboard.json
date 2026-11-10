@@ -1,15 +1,35 @@
 {
   "keywords": [
     [
-      "after",
-      5
+      "trump",
+      6
     ],
     [
-      "five",
+      "with",
+      6
+    ],
+    [
+      "brand",
+      4
+    ],
+    [
+      "says",
+      4
+    ],
+    [
+      "hegseth",
+      4
+    ],
+    [
+      "sentenced",
       3
     ],
     [
-      "over",
+      "years",
+      3
+    ],
+    [
+      "abuse",
       3
     ],
     [
@@ -17,81 +37,81 @@
       3
     ],
     [
-      "why",
+      "court",
       3
     ],
     [
-      "brand",
-      2
-    ],
-    [
-      "court",
-      2
-    ],
-    [
-      "who",
-      2
-    ],
-    [
-      "from",
-      2
-    ],
-    [
-      "force",
-      2
-    ],
-    [
-      "star",
-      2
-    ],
-    [
-      "with",
-      2
-    ],
-    [
-      "says",
-      2
-    ],
-    [
-      "her",
-      2
-    ],
-    [
-      "spy",
-      2
-    ],
-    [
-      "centre",
-      2
+      "over",
+      3
     ],
     [
       "nvidia",
+      3
+    ],
+    [
+      "affair",
+      3
+    ],
+    [
+      "spy",
+      3
+    ],
+    [
+      "secretary",
+      3
+    ],
+    [
+      "iran",
+      3
+    ],
+    [
+      "russell",
       2
     ],
     [
-      "investigation",
+      "sexual",
       2
     ],
     [
-      "now",
+      "assault",
       2
     ],
     [
-      "mean",
+      "violence",
       2
     ]
   ],
   "topics": [
     {
-      "name": "after",
-      "count": 5
+      "name": "trump",
+      "count": 6
     },
     {
-      "name": "five",
+      "name": "with",
+      "count": 6
+    },
+    {
+      "name": "brand",
+      "count": 4
+    },
+    {
+      "name": "says",
+      "count": 4
+    },
+    {
+      "name": "hegseth",
+      "count": 4
+    },
+    {
+      "name": "sentenced",
       "count": 3
     },
     {
-      "name": "over",
+      "name": "years",
+      "count": 3
+    },
+    {
+      "name": "abuse",
       "count": 3
     },
     {
@@ -99,29 +119,9 @@
       "count": 3
     },
     {
-      "name": "why",
-      "count": 3
-    },
-    {
-      "name": "brand",
-      "count": 2
-    },
-    {
       "name": "court",
-      "count": 2
-    },
-    {
-      "name": "who",
-      "count": 2
-    },
-    {
-      "name": "from",
-      "count": 2
-    },
-    {
-      "name": "force",
-      "count": 2
+      "count": 3
     }
   ],
-  "updated_at": "2026-11-09 15:43:00.238765"
+  "updated_at": "2026-11-10 01:20:46.437695"
 }
