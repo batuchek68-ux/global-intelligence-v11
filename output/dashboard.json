@@ -1,19 +1,31 @@
 {
   "keywords": [
     [
-      "walliams",
+      "after",
       5
     ],
     [
-      "war",
+      "what",
       4
     ],
     [
-      "house",
-      4
+      "walliams",
+      3
     ],
     [
-      "hegseth",
+      "says",
+      3
+    ],
+    [
+      "bbc",
+      3
+    ],
+    [
+      "against",
+      3
+    ],
+    [
+      "man",
       3
     ],
     [
@@ -25,77 +37,77 @@
       2
     ],
     [
+      "brand",
+      2
+    ],
+    [
+      "was",
+      2
+    ],
+    [
+      "her",
+      2
+    ],
+    [
+      "but",
+      2
+    ],
+    [
+      "over",
+      2
+    ],
+    [
+      "pochettino",
+      2
+    ],
+    [
+      "get",
+      2
+    ],
+    [
       "why",
       2
     ],
     [
-      "three",
+      "are",
       2
     ],
     [
-      "including",
+      "cold",
       2
     ],
     [
-      "fairford",
-      2
-    ],
-    [
-      "russia",
-      2
-    ],
-    [
-      "prince",
-      2
-    ],
-    [
-      "blocks",
-      2
-    ],
-    [
-      "defence",
-      2
-    ],
-    [
-      "trumps",
-      2
-    ],
-    [
-      "case",
-      2
-    ],
-    [
-      "against",
-      2
-    ],
-    [
-      "allegedly",
-      2
-    ],
-    [
-      "david",
-      2
-    ],
-    [
-      "fear",
+      "who",
       2
     ]
   ],
   "topics": [
     {
-      "name": "walliams",
+      "name": "after",
       "count": 5
     },
     {
-      "name": "war",
+      "name": "what",
       "count": 4
     },
     {
-      "name": "house",
-      "count": 4
+      "name": "walliams",
+      "count": 3
     },
     {
-      "name": "hegseth",
+      "name": "says",
+      "count": 3
+    },
+    {
+      "name": "bbc",
+      "count": 3
+    },
+    {
+      "name": "against",
+      "count": 3
+    },
+    {
+      "name": "man",
       "count": 3
     },
     {
@@ -107,21 +119,9 @@
       "count": 2
     },
     {
-      "name": "why",
-      "count": 2
-    },
-    {
-      "name": "three",
-      "count": 2
-    },
-    {
-      "name": "including",
-      "count": 2
-    },
-    {
-      "name": "fairford",
+      "name": "brand",
       "count": 2
     }
   ],
-  "updated_at": "2026-11-11 05:30:37.775958"
+  "updated_at": "2026-11-11 13:51:55.632484"
 }
