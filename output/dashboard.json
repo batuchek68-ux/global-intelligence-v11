@@ -5,47 +5,23 @@
       5
     ],
     [
-      "russia",
+      "war",
       4
-    ],
-    [
-      "after",
-      4
-    ],
-    [
-      "david",
-      3
-    ],
-    [
-      "major",
-      3
-    ],
-    [
-      "says",
-      3
-    ],
-    [
-      "trump",
-      3
     ],
     [
       "house",
+      4
+    ],
+    [
+      "hegseth",
       3
     ],
     [
-      "soldier",
-      2
+      "with",
+      3
     ],
     [
-      "spying",
-      2
-    ],
-    [
-      "arrested",
-      2
-    ],
-    [
-      "accused",
+      "allegations",
       2
     ],
     [
@@ -53,31 +29,55 @@
       2
     ],
     [
-      "battle",
+      "three",
       2
     ],
     [
-      "inside",
+      "including",
       2
     ],
     [
-      "that",
+      "fairford",
       2
     ],
     [
-      "ukraine",
+      "russia",
       2
     ],
     [
-      "law",
+      "prince",
       2
     ],
     [
-      "english",
+      "blocks",
       2
     ],
     [
-      "watch",
+      "defence",
+      2
+    ],
+    [
+      "trumps",
+      2
+    ],
+    [
+      "case",
+      2
+    ],
+    [
+      "against",
+      2
+    ],
+    [
+      "allegedly",
+      2
+    ],
+    [
+      "david",
+      2
+    ],
+    [
+      "fear",
       2
     ]
   ],
@@ -87,41 +87,41 @@
       "count": 5
     },
     {
-      "name": "russia",
+      "name": "war",
       "count": 4
-    },
-    {
-      "name": "after",
-      "count": 4
-    },
-    {
-      "name": "david",
-      "count": 3
-    },
-    {
-      "name": "major",
-      "count": 3
-    },
-    {
-      "name": "says",
-      "count": 3
-    },
-    {
-      "name": "trump",
-      "count": 3
     },
     {
       "name": "house",
+      "count": 4
+    },
+    {
+      "name": "hegseth",
       "count": 3
     },
     {
-      "name": "soldier",
+      "name": "with",
+      "count": 3
+    },
+    {
+      "name": "allegations",
       "count": 2
     },
     {
-      "name": "spying",
+      "name": "why",
+      "count": 2
+    },
+    {
+      "name": "three",
+      "count": 2
+    },
+    {
+      "name": "including",
+      "count": 2
+    },
+    {
+      "name": "fairford",
       "count": 2
     }
   ],
-  "updated_at": "2026-11-10 23:01:12.288965"
+  "updated_at": "2026-11-11 05:30:37.775958"
 }
