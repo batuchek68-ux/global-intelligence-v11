@@ -1,35 +1,23 @@
 {
   "keywords": [
     [
-      "after",
-      7
-    ],
-    [
       "says",
-      4
+      6
     ],
     [
-      "gaza",
-      4
-    ],
-    [
-      "thousands",
+      "over",
       3
     ],
     [
-      "strike",
+      "jensen",
       3
     ],
     [
-      "talks",
+      "from",
       3
     ],
     [
-      "bbc",
-      3
-    ],
-    [
-      "israeli",
+      "two",
       3
     ],
     [
@@ -37,7 +25,15 @@
       3
     ],
     [
-      "walliams",
+      "nvidia",
+      3
+    ],
+    [
+      "nvidias",
+      2
+    ],
+    [
+      "ceo",
       2
     ],
     [
@@ -45,73 +41,65 @@
       2
     ],
     [
-      "being",
+      "before",
       2
     ],
     [
-      "woman",
+      "his",
       2
     ],
     [
-      "get",
+      "admits",
       2
     ],
     [
-      "barcelona",
+      "boy",
       2
     ],
     [
-      "general",
+      "ukraine",
       2
     ],
     [
-      "soldier",
+      "say",
       2
     ],
     [
-      "schools",
+      "gaza",
       2
     ],
     [
-      "italy",
+      "how",
       2
     ],
     [
-      "ireland",
+      "teen",
+      2
+    ],
+    [
+      "who",
       2
     ]
   ],
   "topics": [
     {
-      "name": "after",
-      "count": 7
-    },
-    {
       "name": "says",
-      "count": 4
+      "count": 6
     },
     {
-      "name": "gaza",
-      "count": 4
-    },
-    {
-      "name": "thousands",
+      "name": "over",
       "count": 3
     },
     {
-      "name": "strike",
+      "name": "jensen",
       "count": 3
     },
     {
-      "name": "talks",
+      "name": "from",
       "count": 3
     },
     {
-      "name": "bbc",
-      "count": 3
-    },
-    {
-      "name": "israeli",
+      "name": "two",
       "count": 3
     },
     {
@@ -119,9 +107,21 @@
       "count": 3
     },
     {
-      "name": "walliams",
+      "name": "nvidia",
+      "count": 3
+    },
+    {
+      "name": "nvidias",
+      "count": 2
+    },
+    {
+      "name": "ceo",
+      "count": 2
+    },
+    {
+      "name": "was",
       "count": 2
     }
   ],
-  "updated_at": "2026-11-12 00:17:50.945351"
+  "updated_at": "2026-11-12 14:53:53.797833"
 }
