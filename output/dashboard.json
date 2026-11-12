@@ -2,18 +2,26 @@
   "keywords": [
     [
       "after",
-      5
-    ],
-    [
-      "what",
-      4
-    ],
-    [
-      "walliams",
-      3
+      7
     ],
     [
       "says",
+      4
+    ],
+    [
+      "gaza",
+      4
+    ],
+    [
+      "thousands",
+      3
+    ],
+    [
+      "strike",
+      3
+    ],
+    [
+      "talks",
       3
     ],
     [
@@ -21,23 +29,15 @@
       3
     ],
     [
-      "against",
+      "israeli",
       3
     ],
     [
-      "man",
+      "killed",
       3
     ],
     [
-      "with",
-      3
-    ],
-    [
-      "allegations",
-      2
-    ],
-    [
-      "brand",
+      "walliams",
       2
     ],
     [
@@ -45,19 +45,11 @@
       2
     ],
     [
-      "her",
+      "being",
       2
     ],
     [
-      "but",
-      2
-    ],
-    [
-      "over",
-      2
-    ],
-    [
-      "pochettino",
+      "woman",
       2
     ],
     [
@@ -65,37 +57,53 @@
       2
     ],
     [
-      "why",
+      "barcelona",
       2
     ],
     [
-      "are",
+      "general",
       2
     ],
     [
-      "cold",
+      "soldier",
       2
     ],
     [
-      "who",
+      "schools",
+      2
+    ],
+    [
+      "italy",
+      2
+    ],
+    [
+      "ireland",
       2
     ]
   ],
   "topics": [
     {
       "name": "after",
-      "count": 5
-    },
-    {
-      "name": "what",
-      "count": 4
-    },
-    {
-      "name": "walliams",
-      "count": 3
+      "count": 7
     },
     {
       "name": "says",
+      "count": 4
+    },
+    {
+      "name": "gaza",
+      "count": 4
+    },
+    {
+      "name": "thousands",
+      "count": 3
+    },
+    {
+      "name": "strike",
+      "count": 3
+    },
+    {
+      "name": "talks",
       "count": 3
     },
     {
@@ -103,25 +111,17 @@
       "count": 3
     },
     {
-      "name": "against",
+      "name": "israeli",
       "count": 3
     },
     {
-      "name": "man",
+      "name": "killed",
       "count": 3
     },
     {
-      "name": "with",
-      "count": 3
-    },
-    {
-      "name": "allegations",
-      "count": 2
-    },
-    {
-      "name": "brand",
+      "name": "walliams",
       "count": 2
     }
   ],
-  "updated_at": "2026-11-11 13:51:55.632484"
+  "updated_at": "2026-11-12 00:17:50.945351"
 }
