@@ -1,15 +1,51 @@
 {
   "keywords": [
     [
-      "says",
-      6
+      "how",
+      5
+    ],
+    [
+      "jensen",
+      3
+    ],
+    [
+      "huang",
+      3
+    ],
+    [
+      "was",
+      3
+    ],
+    [
+      "after",
+      3
+    ],
+    [
+      "amid",
+      3
+    ],
+    [
+      "tech",
+      3
+    ],
+    [
+      "what",
+      3
+    ],
+    [
+      "building",
+      3
     ],
     [
       "over",
       3
     ],
     [
-      "jensen",
+      "washington",
+      3
+    ],
+    [
+      "shooting",
       3
     ],
     [
@@ -17,111 +53,75 @@
       3
     ],
     [
-      "two",
-      3
-    ],
-    [
-      "killed",
-      3
-    ],
-    [
-      "nvidia",
-      3
-    ],
-    [
-      "nvidias",
+      "russian",
       2
     ],
     [
-      "ceo",
+      "drone",
       2
     ],
     [
-      "was",
+      "dublin",
       2
     ],
     [
-      "before",
+      "talks",
       2
     ],
     [
-      "his",
+      "microsoft",
       2
     ],
     [
-      "admits",
+      "users",
       2
     ],
     [
-      "boy",
-      2
-    ],
-    [
-      "ukraine",
-      2
-    ],
-    [
-      "say",
-      2
-    ],
-    [
-      "gaza",
-      2
-    ],
-    [
-      "how",
-      2
-    ],
-    [
-      "teen",
-      2
-    ],
-    [
-      "who",
+      "report",
       2
     ]
   ],
   "topics": [
     {
-      "name": "says",
-      "count": 6
-    },
-    {
-      "name": "over",
-      "count": 3
+      "name": "how",
+      "count": 5
     },
     {
       "name": "jensen",
       "count": 3
     },
     {
-      "name": "from",
+      "name": "huang",
       "count": 3
-    },
-    {
-      "name": "two",
-      "count": 3
-    },
-    {
-      "name": "killed",
-      "count": 3
-    },
-    {
-      "name": "nvidia",
-      "count": 3
-    },
-    {
-      "name": "nvidias",
-      "count": 2
-    },
-    {
-      "name": "ceo",
-      "count": 2
     },
     {
       "name": "was",
-      "count": 2
+      "count": 3
+    },
+    {
+      "name": "after",
+      "count": 3
+    },
+    {
+      "name": "amid",
+      "count": 3
+    },
+    {
+      "name": "tech",
+      "count": 3
+    },
+    {
+      "name": "what",
+      "count": 3
+    },
+    {
+      "name": "building",
+      "count": 3
+    },
+    {
+      "name": "over",
+      "count": 3
     }
   ],
-  "updated_at": "2026-11-12 14:53:53.797833"
+  "updated_at": "2026-11-12 23:22:41.871258"
 }
