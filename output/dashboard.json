@@ -2,54 +2,50 @@
   "keywords": [
     [
       "outage",
-      7
+      9
     ],
     [
       "microsoft",
       7
     ],
     [
-      "global",
-      4
+      "over",
+      6
     ],
     [
       "how",
-      4
+      6
     ],
     [
-      "over",
+      "after",
+      5
+    ],
+    [
+      "with",
+      5
+    ],
+    [
+      "says",
       3
     ],
     [
-      "services",
+      "watch",
       3
     ],
     [
-      "why",
+      "new",
       3
     ],
     [
-      "iran",
+      "scandal",
       3
     ],
     [
-      "what",
-      2
+      "pope",
+      3
     ],
     [
-      "guilty",
-      2
-    ],
-    [
-      "attack",
-      2
-    ],
-    [
-      "firm",
-      2
-    ],
-    [
-      "more",
+      "campaign",
       2
     ],
     [
@@ -57,71 +53,75 @@
       2
     ],
     [
-      "russia",
+      "least",
       2
     ],
     [
-      "hit",
+      "will",
       2
     ],
     [
-      "talks",
+      "emails",
       2
     ],
     [
-      "after",
-      2
-    ],
-    [
-      "killed",
+      "has",
       2
     ],
     [
       "its",
+      2
+    ],
+    [
+      "workers",
+      2
+    ],
+    [
+      "city",
       2
     ]
   ],
   "topics": [
     {
       "name": "outage",
-      "count": 7
+      "count": 9
     },
     {
       "name": "microsoft",
       "count": 7
     },
     {
-      "name": "global",
-      "count": 4
+      "name": "over",
+      "count": 6
     },
     {
       "name": "how",
-      "count": 4
+      "count": 6
     },
     {
-      "name": "over",
+      "name": "after",
+      "count": 5
+    },
+    {
+      "name": "with",
+      "count": 5
+    },
+    {
+      "name": "says",
       "count": 3
     },
     {
-      "name": "services",
+      "name": "watch",
       "count": 3
     },
     {
-      "name": "why",
+      "name": "new",
       "count": 3
     },
     {
-      "name": "iran",
+      "name": "scandal",
       "count": 3
-    },
-    {
-      "name": "what",
-      "count": 2
-    },
-    {
-      "name": "guilty",
-      "count": 2
     }
   ],
-  "updated_at": "2026-11-13 14:18:59.080365"
+  "updated_at": "2026-11-13 23:24:16.658445"
 }
