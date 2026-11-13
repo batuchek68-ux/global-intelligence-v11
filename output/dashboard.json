@@ -1,39 +1,19 @@
 {
   "keywords": [
     [
+      "says",
+      8
+    ],
+    [
+      "russian",
+      3
+    ],
+    [
       "how",
-      5
-    ],
-    [
-      "jensen",
       3
     ],
     [
-      "huang",
-      3
-    ],
-    [
-      "was",
-      3
-    ],
-    [
-      "after",
-      3
-    ],
-    [
-      "amid",
-      3
-    ],
-    [
-      "tech",
-      3
-    ],
-    [
-      "what",
-      3
-    ],
-    [
-      "building",
+      "will",
       3
     ],
     [
@@ -41,61 +21,85 @@
       3
     ],
     [
-      "washington",
+      "after",
       3
     ],
     [
-      "shooting",
+      "bid",
       3
     ],
     [
-      "from",
+      "iran",
       3
     ],
     [
-      "russian",
+      "doctor",
       2
     ],
     [
-      "drone",
+      "jensen",
       2
     ],
     [
-      "dublin",
+      "huang",
       2
     ],
     [
-      "talks",
+      "before",
       2
     ],
     [
-      "microsoft",
+      "affair",
       2
     ],
     [
-      "users",
+      "alleged",
       2
     ],
     [
-      "report",
+      "into",
+      2
+    ],
+    [
+      "bbc",
+      2
+    ],
+    [
+      "need",
+      2
+    ],
+    [
+      "can",
+      2
+    ],
+    [
+      "between",
+      2
+    ],
+    [
+      "warship",
       2
     ]
   ],
   "topics": [
     {
+      "name": "says",
+      "count": 8
+    },
+    {
+      "name": "russian",
+      "count": 3
+    },
+    {
       "name": "how",
-      "count": 5
-    },
-    {
-      "name": "jensen",
       "count": 3
     },
     {
-      "name": "huang",
+      "name": "will",
       "count": 3
     },
     {
-      "name": "was",
+      "name": "over",
       "count": 3
     },
     {
@@ -103,25 +107,21 @@
       "count": 3
     },
     {
-      "name": "amid",
+      "name": "bid",
       "count": 3
     },
     {
-      "name": "tech",
+      "name": "iran",
       "count": 3
     },
     {
-      "name": "what",
-      "count": 3
+      "name": "doctor",
+      "count": 2
     },
     {
-      "name": "building",
-      "count": 3
-    },
-    {
-      "name": "over",
-      "count": 3
+      "name": "jensen",
+      "count": 2
     }
   ],
-  "updated_at": "2026-11-12 23:22:41.871258"
+  "updated_at": "2026-11-13 05:54:31.411057"
 }
