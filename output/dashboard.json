@@ -1,31 +1,31 @@
 {
   "keywords": [
     [
-      "says",
-      8
+      "outage",
+      7
     ],
     [
-      "russian",
-      3
+      "microsoft",
+      7
+    ],
+    [
+      "global",
+      4
     ],
     [
       "how",
-      3
-    ],
-    [
-      "will",
-      3
+      4
     ],
     [
       "over",
       3
     ],
     [
-      "after",
+      "services",
       3
     ],
     [
-      "bid",
+      "why",
       3
     ],
     [
@@ -33,81 +33,81 @@
       3
     ],
     [
-      "doctor",
+      "what",
       2
     ],
     [
-      "jensen",
+      "guilty",
       2
     ],
     [
-      "huang",
+      "attack",
       2
     ],
     [
-      "before",
+      "firm",
       2
     ],
     [
-      "affair",
+      "more",
       2
     ],
     [
-      "alleged",
+      "against",
       2
     ],
     [
-      "into",
+      "russia",
       2
     ],
     [
-      "bbc",
+      "hit",
       2
     ],
     [
-      "need",
+      "talks",
       2
     ],
     [
-      "can",
+      "after",
       2
     ],
     [
-      "between",
+      "killed",
       2
     ],
     [
-      "warship",
+      "its",
       2
     ]
   ],
   "topics": [
     {
-      "name": "says",
-      "count": 8
+      "name": "outage",
+      "count": 7
     },
     {
-      "name": "russian",
-      "count": 3
+      "name": "microsoft",
+      "count": 7
+    },
+    {
+      "name": "global",
+      "count": 4
     },
     {
       "name": "how",
-      "count": 3
-    },
-    {
-      "name": "will",
-      "count": 3
+      "count": 4
     },
     {
       "name": "over",
       "count": 3
     },
     {
-      "name": "after",
+      "name": "services",
       "count": 3
     },
     {
-      "name": "bid",
+      "name": "why",
       "count": 3
     },
     {
@@ -115,13 +115,13 @@
       "count": 3
     },
     {
-      "name": "doctor",
+      "name": "what",
       "count": 2
     },
     {
-      "name": "jensen",
+      "name": "guilty",
       "count": 2
     }
   ],
-  "updated_at": "2026-11-13 05:54:31.411057"
+  "updated_at": "2026-11-13 14:18:59.080365"
 }
