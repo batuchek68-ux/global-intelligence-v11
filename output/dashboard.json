@@ -1,19 +1,7 @@
 {
   "keywords": [
     [
-      "after",
-      5
-    ],
-    [
-      "says",
-      4
-    ],
-    [
-      "with",
-      4
-    ],
-    [
-      "what",
+      "new",
       4
     ],
     [
@@ -21,23 +9,31 @@
       3
     ],
     [
-      "found",
+      "says",
       3
     ],
     [
-      "review",
-      2
+      "with",
+      3
     ],
     [
-      "test",
-      2
+      "nationwide",
+      3
     ],
     [
-      "fight",
-      2
+      "after",
+      3
     ],
     [
-      "floated",
+      "over",
+      3
+    ],
+    [
+      "protests",
+      3
+    ],
+    [
+      "donbas",
       2
     ],
     [
@@ -45,57 +41,49 @@
       2
     ],
     [
-      "membership",
+      "will",
       2
     ],
     [
-      "walliams",
+      "jokes",
       2
     ],
     [
-      "sight",
+      "brand",
       2
     ],
     [
-      "know",
+      "upgrade",
       2
     ],
     [
-      "meeting",
+      "flight",
       2
     ],
     [
-      "minister",
+      "first",
       2
     ],
     [
-      "over",
+      "being",
       2
     ],
     [
-      "back",
+      "how",
       2
     ],
     [
-      "from",
+      "claims",
+      2
+    ],
+    [
+      "end",
       2
     ]
   ],
   "topics": [
     {
-      "name": "after",
-      "count": 5
-    },
-    {
-      "name": "says",
-      "count": 4
-    },
-    {
-      "name": "with",
-      "count": 4
-    },
-    {
-      "name": "what",
+      "name": "new",
       "count": 4
     },
     {
@@ -103,25 +91,37 @@
       "count": 3
     },
     {
-      "name": "found",
+      "name": "says",
       "count": 3
     },
     {
-      "name": "review",
+      "name": "with",
+      "count": 3
+    },
+    {
+      "name": "nationwide",
+      "count": 3
+    },
+    {
+      "name": "after",
+      "count": 3
+    },
+    {
+      "name": "over",
+      "count": 3
+    },
+    {
+      "name": "protests",
+      "count": 3
+    },
+    {
+      "name": "donbas",
       "count": 2
     },
     {
-      "name": "test",
-      "count": 2
-    },
-    {
-      "name": "fight",
-      "count": 2
-    },
-    {
-      "name": "floated",
+      "name": "nato",
       "count": 2
     }
   ],
-  "updated_at": "2026-11-14 13:15:02.042993"
+  "updated_at": "2026-11-14 22:09:12.011473"
 }
