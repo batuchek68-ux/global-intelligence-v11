@@ -2,126 +2,126 @@
   "keywords": [
     [
       "after",
-      7
-    ],
-    [
-      "new",
       5
     ],
     [
       "says",
-      5
-    ],
-    [
-      "faa",
-      5
-    ],
-    [
-      "ground",
       4
-    ],
-    [
-      "stop",
-      4
-    ],
-    [
-      "collision",
-      4
-    ],
-    [
-      "walliams",
-      4
-    ],
-    [
-      "passengers",
-      3
-    ],
-    [
-      "cruise",
-      3
-    ],
-    [
-      "ship",
-      3
-    ],
-    [
-      "over",
-      3
-    ],
-    [
-      "police",
-      3
-    ],
-    [
-      "putin",
-      3
-    ],
-    [
-      "china",
-      3
-    ],
-    [
-      "outage",
-      3
     ],
     [
       "with",
-      3
-    ],
-    [
-      "into",
-      3
-    ],
-    [
-      "tanker",
-      3
+      4
     ],
     [
       "what",
+      4
+    ],
+    [
+      "ukraine",
+      3
+    ],
+    [
+      "found",
+      3
+    ],
+    [
+      "review",
+      2
+    ],
+    [
+      "test",
+      2
+    ],
+    [
+      "fight",
+      2
+    ],
+    [
+      "floated",
+      2
+    ],
+    [
+      "nato",
+      2
+    ],
+    [
+      "membership",
+      2
+    ],
+    [
+      "walliams",
+      2
+    ],
+    [
+      "sight",
+      2
+    ],
+    [
+      "know",
+      2
+    ],
+    [
+      "meeting",
+      2
+    ],
+    [
+      "minister",
+      2
+    ],
+    [
+      "over",
+      2
+    ],
+    [
+      "back",
+      2
+    ],
+    [
+      "from",
       2
     ]
   ],
   "topics": [
     {
       "name": "after",
-      "count": 7
-    },
-    {
-      "name": "new",
       "count": 5
     },
     {
       "name": "says",
-      "count": 5
-    },
-    {
-      "name": "faa",
-      "count": 5
-    },
-    {
-      "name": "ground",
       "count": 4
     },
     {
-      "name": "stop",
+      "name": "with",
       "count": 4
     },
     {
-      "name": "collision",
+      "name": "what",
       "count": 4
     },
     {
-      "name": "walliams",
-      "count": 4
-    },
-    {
-      "name": "passengers",
+      "name": "ukraine",
       "count": 3
     },
     {
-      "name": "cruise",
+      "name": "found",
       "count": 3
+    },
+    {
+      "name": "review",
+      "count": 2
+    },
+    {
+      "name": "test",
+      "count": 2
+    },
+    {
+      "name": "fight",
+      "count": 2
+    },
+    {
+      "name": "floated",
+      "count": 2
     }
   ],
-  "updated_at": "2026-11-14 05:43:37.812048"
+  "updated_at": "2026-11-14 13:15:02.042993"
 }
