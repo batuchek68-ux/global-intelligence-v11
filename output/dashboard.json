@@ -2,6 +2,10 @@
   "keywords": [
     [
       "after",
+      6
+    ],
+    [
+      "with",
       5
     ],
     [
@@ -9,39 +13,23 @@
       4
     ],
     [
-      "police",
-      3
-    ],
-    [
-      "people",
-      3
-    ],
-    [
-      "with",
-      3
-    ],
-    [
-      "over",
-      3
-    ],
-    [
-      "bahrain",
-      3
-    ],
-    [
-      "iran",
-      3
-    ],
-    [
-      "minister",
-      2
+      "attack",
+      4
     ],
     [
       "says",
+      3
+    ],
+    [
+      "drone",
+      3
+    ],
+    [
+      "brand",
       2
     ],
     [
-      "man",
+      "minister",
       2
     ],
     [
@@ -49,41 +37,57 @@
       2
     ],
     [
-      "death",
+      "police",
       2
     ],
     [
-      "hotel",
+      "right",
       2
     ],
     [
-      "treatment",
+      "prince",
       2
     ],
     [
-      "its",
+      "harry",
       2
     ],
     [
-      "dies",
+      "war",
       2
     ],
     [
-      "presidential",
+      "surprise",
       2
     ],
     [
-      "race",
+      "ukraine",
       2
     ],
     [
-      "survive",
+      "have",
+      2
+    ],
+    [
+      "but",
+      2
+    ],
+    [
+      "from",
+      2
+    ],
+    [
+      "cut",
       2
     ]
   ],
   "topics": [
     {
       "name": "after",
+      "count": 6
+    },
+    {
+      "name": "with",
       "count": 5
     },
     {
@@ -91,37 +95,33 @@
       "count": 4
     },
     {
-      "name": "police",
+      "name": "attack",
+      "count": 4
+    },
+    {
+      "name": "says",
       "count": 3
     },
     {
-      "name": "people",
+      "name": "drone",
       "count": 3
     },
     {
-      "name": "with",
-      "count": 3
-    },
-    {
-      "name": "over",
-      "count": 3
-    },
-    {
-      "name": "bahrain",
-      "count": 3
-    },
-    {
-      "name": "iran",
-      "count": 3
+      "name": "brand",
+      "count": 2
     },
     {
       "name": "minister",
       "count": 2
     },
     {
-      "name": "says",
+      "name": "die",
+      "count": 2
+    },
+    {
+      "name": "police",
       "count": 2
     }
   ],
-  "updated_at": "2026-11-15 13:43:13.368874"
+  "updated_at": "2026-11-15 22:38:45.407556"
 }
