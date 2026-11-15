@@ -1,15 +1,27 @@
 {
   "keywords": [
     [
-      "new",
+      "can",
       4
     ],
     [
-      "ukraine",
-      3
+      "over",
+      4
+    ],
+    [
+      "from",
+      4
     ],
     [
       "says",
+      3
+    ],
+    [
+      "starship",
+      3
+    ],
+    [
+      "new",
       3
     ],
     [
@@ -17,35 +29,11 @@
       3
     ],
     [
-      "nationwide",
-      3
-    ],
-    [
-      "after",
-      3
-    ],
-    [
-      "over",
-      3
-    ],
-    [
-      "protests",
-      3
-    ],
-    [
-      "donbas",
+      "test",
       2
     ],
     [
-      "nato",
-      2
-    ],
-    [
-      "will",
-      2
-    ],
-    [
-      "jokes",
+      "alleged",
       2
     ],
     [
@@ -53,11 +41,35 @@
       2
     ],
     [
-      "upgrade",
+      "victim",
       2
     ],
     [
-      "flight",
+      "you",
+      2
+    ],
+    [
+      "return",
+      2
+    ],
+    [
+      "treatment",
+      2
+    ],
+    [
+      "hundreds",
+      2
+    ],
+    [
+      "people",
+      2
+    ],
+    [
+      "was",
+      2
+    ],
+    [
+      "only",
       2
     ],
     [
@@ -65,33 +77,33 @@
       2
     ],
     [
-      "being",
-      2
-    ],
-    [
-      "how",
-      2
-    ],
-    [
       "claims",
-      2
-    ],
-    [
-      "end",
       2
     ]
   ],
   "topics": [
     {
-      "name": "new",
+      "name": "can",
       "count": 4
     },
     {
-      "name": "ukraine",
-      "count": 3
+      "name": "over",
+      "count": 4
+    },
+    {
+      "name": "from",
+      "count": 4
     },
     {
       "name": "says",
+      "count": 3
+    },
+    {
+      "name": "starship",
+      "count": 3
+    },
+    {
+      "name": "new",
       "count": 3
     },
     {
@@ -99,29 +111,17 @@
       "count": 3
     },
     {
-      "name": "nationwide",
-      "count": 3
-    },
-    {
-      "name": "after",
-      "count": 3
-    },
-    {
-      "name": "over",
-      "count": 3
-    },
-    {
-      "name": "protests",
-      "count": 3
-    },
-    {
-      "name": "donbas",
+      "name": "test",
       "count": 2
     },
     {
-      "name": "nato",
+      "name": "alleged",
+      "count": 2
+    },
+    {
+      "name": "brand",
       "count": 2
     }
   ],
-  "updated_at": "2026-11-14 22:09:12.011473"
+  "updated_at": "2026-11-15 05:43:10.105606"
 }
