@@ -2,22 +2,22 @@
   "keywords": [
     [
       "after",
-      8
-    ],
-    [
-      "says",
       5
     ],
     [
-      "pope",
+      "how",
       4
     ],
     [
-      "but",
+      "from",
+      4
+    ],
+    [
+      "says",
       3
     ],
     [
-      "with",
+      "why",
       3
     ],
     [
@@ -25,27 +25,15 @@
       3
     ],
     [
-      "china",
+      "are",
       3
     ],
     [
-      "houthis",
+      "that",
       3
     ],
     [
-      "vote",
-      2
-    ],
-    [
-      "brexit",
-      2
-    ],
-    [
-      "prince",
-      2
-    ],
-    [
-      "urges",
+      "russell",
       2
     ],
     [
@@ -53,53 +41,65 @@
       2
     ],
     [
-      "prison",
+      "more",
       2
     ],
     [
-      "left",
+      "national",
       2
     ],
     [
-      "megaspeed",
+      "car",
       2
     ],
     [
-      "2025",
+      "school",
       2
     ],
     [
-      "could",
+      "watch",
       2
     ],
     [
-      "hospital",
+      "than",
       2
     ],
     [
-      "alleged",
+      "cricket",
+      2
+    ],
+    [
+      "black",
+      2
+    ],
+    [
+      "deal",
+      2
+    ],
+    [
+      "his",
       2
     ]
   ],
   "topics": [
     {
       "name": "after",
-      "count": 8
-    },
-    {
-      "name": "says",
       "count": 5
     },
     {
-      "name": "pope",
+      "name": "how",
       "count": 4
     },
     {
-      "name": "but",
+      "name": "from",
+      "count": 4
+    },
+    {
+      "name": "says",
       "count": 3
     },
     {
-      "name": "with",
+      "name": "why",
       "count": 3
     },
     {
@@ -107,21 +107,21 @@
       "count": 3
     },
     {
-      "name": "china",
+      "name": "are",
       "count": 3
     },
     {
-      "name": "houthis",
+      "name": "that",
       "count": 3
     },
     {
-      "name": "vote",
+      "name": "russell",
       "count": 2
     },
     {
-      "name": "brexit",
+      "name": "brand",
       "count": 2
     }
   ],
-  "updated_at": "2026-11-16 05:42:52.736196"
+  "updated_at": "2026-11-16 15:18:39.757788"
 }
