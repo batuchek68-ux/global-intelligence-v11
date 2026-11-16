@@ -2,46 +2,42 @@
   "keywords": [
     [
       "after",
-      6
-    ],
-    [
-      "with",
-      5
-    ],
-    [
-      "can",
-      4
-    ],
-    [
-      "attack",
-      4
+      8
     ],
     [
       "says",
+      5
+    ],
+    [
+      "pope",
+      4
+    ],
+    [
+      "but",
       3
     ],
     [
-      "drone",
+      "with",
       3
     ],
     [
-      "brand",
+      "war",
+      3
+    ],
+    [
+      "china",
+      3
+    ],
+    [
+      "houthis",
+      3
+    ],
+    [
+      "vote",
       2
     ],
     [
-      "minister",
-      2
-    ],
-    [
-      "die",
-      2
-    ],
-    [
-      "police",
-      2
-    ],
-    [
-      "right",
+      "brexit",
       2
     ],
     [
@@ -49,79 +45,83 @@
       2
     ],
     [
-      "harry",
+      "urges",
       2
     ],
     [
-      "war",
+      "brand",
       2
     ],
     [
-      "surprise",
+      "prison",
       2
     ],
     [
-      "ukraine",
+      "left",
       2
     ],
     [
-      "have",
+      "megaspeed",
       2
     ],
     [
-      "but",
+      "2025",
       2
     ],
     [
-      "from",
+      "could",
       2
     ],
     [
-      "cut",
+      "hospital",
+      2
+    ],
+    [
+      "alleged",
       2
     ]
   ],
   "topics": [
     {
       "name": "after",
-      "count": 6
-    },
-    {
-      "name": "with",
-      "count": 5
-    },
-    {
-      "name": "can",
-      "count": 4
-    },
-    {
-      "name": "attack",
-      "count": 4
+      "count": 8
     },
     {
       "name": "says",
+      "count": 5
+    },
+    {
+      "name": "pope",
+      "count": 4
+    },
+    {
+      "name": "but",
       "count": 3
     },
     {
-      "name": "drone",
+      "name": "with",
       "count": 3
     },
     {
-      "name": "brand",
+      "name": "war",
+      "count": 3
+    },
+    {
+      "name": "china",
+      "count": 3
+    },
+    {
+      "name": "houthis",
+      "count": 3
+    },
+    {
+      "name": "vote",
       "count": 2
     },
     {
-      "name": "minister",
-      "count": 2
-    },
-    {
-      "name": "die",
-      "count": 2
-    },
-    {
-      "name": "police",
+      "name": "brexit",
       "count": 2
     }
   ],
-  "updated_at": "2026-11-15 22:38:45.407556"
+  "updated_at": "2026-11-16 05:42:52.736196"
 }
