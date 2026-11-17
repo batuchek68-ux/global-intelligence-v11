@@ -1,15 +1,27 @@
 {
   "keywords": [
     [
-      "with",
-      6
-    ],
-    [
-      "says",
+      "trump",
       5
     ],
     [
-      "reports",
+      "from",
+      4
+    ],
+    [
+      "over",
+      4
+    ],
+    [
+      "milburns",
+      3
+    ],
+    [
+      "how",
+      3
+    ],
+    [
+      "could",
       3
     ],
     [
@@ -17,81 +29,81 @@
       3
     ],
     [
-      "brexit",
+      "who",
       3
     ],
     [
-      "reset",
+      "says",
+      3
+    ],
+    [
+      "west",
+      3
+    ],
+    [
+      "what",
+      3
+    ],
+    [
+      "new",
+      3
+    ],
+    [
+      "iran",
+      3
+    ],
+    [
+      "war",
+      3
+    ],
+    [
+      "watch",
       2
     ],
     [
-      "young",
+      "neets",
       2
     ],
     [
-      "people",
+      "report",
       2
     ],
     [
-      "work",
+      "why",
       2
     ],
     [
-      "robert",
+      "will",
       2
     ],
     [
-      "pattinson",
-      2
-    ],
-    [
-      "bond",
-      2
-    ],
-    [
-      "photos",
-      2
-    ],
-    [
-      "face",
-      2
-    ],
-    [
-      "hit",
-      2
-    ],
-    [
-      "disrupt",
-      2
-    ],
-    [
-      "from",
-      2
-    ],
-    [
-      "summit",
-      2
-    ],
-    [
-      "next",
-      2
-    ],
-    [
-      "year",
+      "not",
       2
     ]
   ],
   "topics": [
     {
-      "name": "with",
-      "count": 6
-    },
-    {
-      "name": "says",
+      "name": "trump",
       "count": 5
     },
     {
-      "name": "reports",
+      "name": "from",
+      "count": 4
+    },
+    {
+      "name": "over",
+      "count": 4
+    },
+    {
+      "name": "milburns",
+      "count": 3
+    },
+    {
+      "name": "how",
+      "count": 3
+    },
+    {
+      "name": "could",
       "count": 3
     },
     {
@@ -99,29 +111,17 @@
       "count": 3
     },
     {
-      "name": "brexit",
+      "name": "who",
       "count": 3
     },
     {
-      "name": "reset",
-      "count": 2
+      "name": "says",
+      "count": 3
     },
     {
-      "name": "young",
-      "count": 2
-    },
-    {
-      "name": "people",
-      "count": 2
-    },
-    {
-      "name": "work",
-      "count": 2
-    },
-    {
-      "name": "robert",
-      "count": 2
+      "name": "west",
+      "count": 3
     }
   ],
-  "updated_at": "2026-11-17 01:45:35.368905"
+  "updated_at": "2026-11-17 15:43:49.681982"
 }
