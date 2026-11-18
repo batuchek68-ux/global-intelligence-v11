@@ -1,63 +1,47 @@
 {
   "keywords": [
     [
-      "military",
-      4
-    ],
-    [
-      "neets",
-      3
-    ],
-    [
-      "about",
-      3
+      "what",
+      6
     ],
     [
       "says",
+      4
+    ],
+    [
+      "about",
+      4
+    ],
+    [
+      "after",
+      4
+    ],
+    [
+      "are",
       3
     ],
     [
-      "russian",
+      "whats",
       3
     ],
     [
-      "plans",
+      "into",
       3
     ],
     [
-      "milburns",
+      "how",
       3
     ],
     [
-      "iran",
-      3
-    ],
-    [
-      "kuwait",
-      3
-    ],
-    [
-      "drone",
-      3
-    ],
-    [
-      "attacks",
-      3
-    ],
-    [
-      "reports",
+      "energy",
       2
     ],
     [
-      "soldier",
+      "year",
       2
     ],
     [
-      "police",
-      2
-    ],
-    [
-      "spying",
+      "inflation",
       2
     ],
     [
@@ -65,7 +49,11 @@
       2
     ],
     [
-      "ahead",
+      "with",
+      2
+    ],
+    [
+      "putin",
       2
     ],
     [
@@ -73,55 +61,67 @@
       2
     ],
     [
-      "putins",
+      "team",
       2
     ],
     [
-      "crimean",
+      "knew",
+      2
+    ],
+    [
+      "plans",
+      2
+    ],
+    [
+      "island",
+      2
+    ],
+    [
+      "you",
       2
     ]
   ],
   "topics": [
     {
-      "name": "military",
-      "count": 4
-    },
-    {
-      "name": "neets",
-      "count": 3
-    },
-    {
-      "name": "about",
-      "count": 3
+      "name": "what",
+      "count": 6
     },
     {
       "name": "says",
+      "count": 4
+    },
+    {
+      "name": "about",
+      "count": 4
+    },
+    {
+      "name": "after",
+      "count": 4
+    },
+    {
+      "name": "are",
       "count": 3
     },
     {
-      "name": "russian",
+      "name": "whats",
       "count": 3
     },
     {
-      "name": "plans",
+      "name": "into",
       "count": 3
     },
     {
-      "name": "milburns",
+      "name": "how",
       "count": 3
     },
     {
-      "name": "iran",
-      "count": 3
+      "name": "energy",
+      "count": 2
     },
     {
-      "name": "kuwait",
-      "count": 3
-    },
-    {
-      "name": "drone",
-      "count": 3
+      "name": "year",
+      "count": 2
     }
   ],
-  "updated_at": "2026-11-18 00:46:31.880111"
+  "updated_at": "2026-11-18 15:24:02.717175"
 }
