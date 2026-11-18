@@ -1,35 +1,15 @@
 {
   "keywords": [
     [
-      "trump",
-      5
-    ],
-    [
-      "from",
+      "military",
       4
     ],
     [
-      "over",
-      4
-    ],
-    [
-      "milburns",
+      "neets",
       3
     ],
     [
-      "how",
-      3
-    ],
-    [
-      "could",
-      3
-    ],
-    [
-      "attack",
-      3
-    ],
-    [
-      "who",
+      "about",
       3
     ],
     [
@@ -37,15 +17,15 @@
       3
     ],
     [
-      "west",
+      "russian",
       3
     ],
     [
-      "what",
+      "plans",
       3
     ],
     [
-      "new",
+      "milburns",
       3
     ],
     [
@@ -53,65 +33,65 @@
       3
     ],
     [
-      "war",
+      "kuwait",
       3
     ],
     [
-      "watch",
+      "drone",
+      3
+    ],
+    [
+      "attacks",
+      3
+    ],
+    [
+      "reports",
       2
     ],
     [
-      "neets",
+      "soldier",
       2
     ],
     [
-      "report",
+      "police",
       2
     ],
     [
-      "why",
+      "spying",
       2
     ],
     [
-      "will",
+      "trump",
       2
     ],
     [
-      "not",
+      "ahead",
+      2
+    ],
+    [
+      "talks",
+      2
+    ],
+    [
+      "putins",
+      2
+    ],
+    [
+      "crimean",
       2
     ]
   ],
   "topics": [
     {
-      "name": "trump",
-      "count": 5
-    },
-    {
-      "name": "from",
+      "name": "military",
       "count": 4
     },
     {
-      "name": "over",
-      "count": 4
-    },
-    {
-      "name": "milburns",
+      "name": "neets",
       "count": 3
     },
     {
-      "name": "how",
-      "count": 3
-    },
-    {
-      "name": "could",
-      "count": 3
-    },
-    {
-      "name": "attack",
-      "count": 3
-    },
-    {
-      "name": "who",
+      "name": "about",
       "count": 3
     },
     {
@@ -119,9 +99,29 @@
       "count": 3
     },
     {
-      "name": "west",
+      "name": "russian",
+      "count": 3
+    },
+    {
+      "name": "plans",
+      "count": 3
+    },
+    {
+      "name": "milburns",
+      "count": 3
+    },
+    {
+      "name": "iran",
+      "count": 3
+    },
+    {
+      "name": "kuwait",
+      "count": 3
+    },
+    {
+      "name": "drone",
       "count": 3
     }
   ],
-  "updated_at": "2026-11-17 15:43:49.681982"
+  "updated_at": "2026-11-18 00:46:31.880111"
 }
