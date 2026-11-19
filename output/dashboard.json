@@ -1,127 +1,127 @@
 {
   "keywords": [
     [
-      "what",
-      6
-    ],
-    [
-      "says",
-      4
-    ],
-    [
-      "about",
-      4
+      "new",
+      5
     ],
     [
       "after",
-      4
-    ],
-    [
-      "are",
-      3
-    ],
-    [
-      "whats",
-      3
-    ],
-    [
-      "into",
-      3
-    ],
-    [
-      "how",
-      3
-    ],
-    [
-      "energy",
-      2
-    ],
-    [
-      "year",
-      2
-    ],
-    [
-      "inflation",
-      2
-    ],
-    [
-      "trump",
-      2
+      5
     ],
     [
       "with",
+      3
+    ],
+    [
+      "israeli",
+      3
+    ],
+    [
+      "gaza",
+      3
+    ],
+    [
+      "who",
+      3
+    ],
+    [
+      "one",
+      3
+    ],
+    [
+      "years",
+      3
+    ],
+    [
+      "russia",
       2
     ],
     [
-      "putin",
+      "from",
       2
     ],
     [
-      "talks",
+      "ukraines",
       2
     ],
     [
-      "team",
+      "line",
       2
     ],
     [
-      "knew",
+      "anthropic",
       2
     ],
     [
-      "plans",
+      "they",
       2
     ],
     [
-      "island",
+      "fight",
       2
     ],
     [
-      "you",
+      "says",
+      2
+    ],
+    [
+      "grand",
+      2
+    ],
+    [
+      "theft",
+      2
+    ],
+    [
+      "auto",
+      2
+    ],
+    [
+      "meet",
       2
     ]
   ],
   "topics": [
     {
-      "name": "what",
-      "count": 6
-    },
-    {
-      "name": "says",
-      "count": 4
-    },
-    {
-      "name": "about",
-      "count": 4
+      "name": "new",
+      "count": 5
     },
     {
       "name": "after",
-      "count": 4
+      "count": 5
     },
     {
-      "name": "are",
+      "name": "with",
       "count": 3
     },
     {
-      "name": "whats",
+      "name": "israeli",
       "count": 3
     },
     {
-      "name": "into",
+      "name": "gaza",
       "count": 3
     },
     {
-      "name": "how",
+      "name": "who",
       "count": 3
     },
     {
-      "name": "energy",
+      "name": "one",
+      "count": 3
+    },
+    {
+      "name": "years",
+      "count": 3
+    },
+    {
+      "name": "russia",
       "count": 2
     },
     {
-      "name": "year",
+      "name": "from",
       "count": 2
     }
   ],
-  "updated_at": "2026-11-18 15:24:02.717175"
+  "updated_at": "2026-11-19 00:04:05.450224"
 }
