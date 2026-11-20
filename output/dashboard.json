@@ -1,19 +1,27 @@
 {
   "keywords": [
     [
-      "can",
+      "genocide",
       4
     ],
     [
-      "over",
+      "what",
       4
     ],
     [
-      "claims",
+      "out",
       3
     ],
     [
-      "court",
+      "have",
+      3
+    ],
+    [
+      "with",
+      3
+    ],
+    [
+      "war",
       3
     ],
     [
@@ -21,23 +29,31 @@
       3
     ],
     [
-      "set",
+      "killed",
       3
     ],
     [
-      "what",
+      "rohingya",
       3
     ],
     [
-      "after",
-      3
+      "drugged",
+      2
     ],
     [
-      "genocide",
-      3
+      "husband",
+      2
     ],
     [
-      "key",
+      "anthropic",
+      2
+    ],
+    [
+      "myanmar",
+      2
+    ],
+    [
+      "historic",
       2
     ],
     [
@@ -45,57 +61,49 @@
       2
     ],
     [
-      "putin",
+      "talks",
       2
     ],
     [
-      "there",
+      "russia",
       2
     ],
     [
-      "with",
+      "ukraine",
       2
     ],
     [
-      "despite",
+      "say",
       2
     ],
     [
-      "row",
-      2
-    ],
-    [
-      "icj",
-      2
-    ],
-    [
-      "rohingya",
-      2
-    ],
-    [
-      "fire",
-      2
-    ],
-    [
-      "summit",
+      "after",
       2
     ]
   ],
   "topics": [
     {
-      "name": "can",
+      "name": "genocide",
       "count": 4
     },
     {
-      "name": "over",
+      "name": "what",
       "count": 4
     },
     {
-      "name": "claims",
+      "name": "out",
       "count": 3
     },
     {
-      "name": "court",
+      "name": "have",
+      "count": 3
+    },
+    {
+      "name": "with",
+      "count": 3
+    },
+    {
+      "name": "war",
       "count": 3
     },
     {
@@ -103,25 +111,17 @@
       "count": 3
     },
     {
-      "name": "set",
+      "name": "killed",
       "count": 3
     },
     {
-      "name": "what",
+      "name": "rohingya",
       "count": 3
     },
     {
-      "name": "after",
-      "count": 3
-    },
-    {
-      "name": "genocide",
-      "count": 3
-    },
-    {
-      "name": "key",
+      "name": "drugged",
       "count": 2
     }
   ],
-  "updated_at": "2026-11-19 15:29:35.637227"
+  "updated_at": "2026-11-20 00:27:16.837503"
 }
