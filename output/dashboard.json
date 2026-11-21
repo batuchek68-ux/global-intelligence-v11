@@ -1,35 +1,39 @@
 {
   "keywords": [
     [
-      "gaza",
+      "new",
+      5
+    ],
+    [
+      "trump",
+      5
+    ],
+    [
+      "man",
       4
     ],
     [
-      "with",
-      3
+      "data",
+      4
+    ],
+    [
+      "can",
+      4
+    ],
+    [
+      "over",
+      4
     ],
     [
       "deal",
       3
     ],
     [
-      "burnham",
+      "says",
       3
     ],
     [
-      "what",
-      3
-    ],
-    [
-      "man",
-      3
-    ],
-    [
-      "trump",
-      3
-    ],
-    [
-      "data",
+      "russian",
       3
     ],
     [
@@ -37,11 +41,19 @@
       3
     ],
     [
-      "children",
+      "climate",
       3
     ],
     [
-      "ties",
+      "with",
+      2
+    ],
+    [
+      "tech",
+      2
+    ],
+    [
+      "fire",
       2
     ],
     [
@@ -49,79 +61,67 @@
       2
     ],
     [
-      "says",
+      "into",
       2
     ],
     [
-      "ukeu",
+      "putin",
       2
     ],
     [
-      "mean",
+      "calls",
       2
     ],
     [
-      "russian",
+      "french",
       2
     ],
     [
-      "missile",
-      2
-    ],
-    [
-      "about",
-      2
-    ],
-    [
-      "woman",
-      2
-    ],
-    [
-      "tech",
+      "police",
       2
     ]
   ],
   "topics": [
     {
-      "name": "gaza",
+      "name": "new",
+      "count": 5
+    },
+    {
+      "name": "trump",
+      "count": 5
+    },
+    {
+      "name": "man",
       "count": 4
     },
     {
-      "name": "with",
-      "count": 3
+      "name": "data",
+      "count": 4
+    },
+    {
+      "name": "can",
+      "count": 4
+    },
+    {
+      "name": "over",
+      "count": 4
     },
     {
       "name": "deal",
       "count": 3
     },
     {
-      "name": "burnham",
+      "name": "says",
       "count": 3
     },
     {
-      "name": "what",
-      "count": 3
-    },
-    {
-      "name": "man",
-      "count": 3
-    },
-    {
-      "name": "trump",
-      "count": 3
-    },
-    {
-      "name": "data",
+      "name": "russian",
       "count": 3
     },
     {
       "name": "centres",
       "count": 3
-    },
-    {
-      "name": "children",
-      "count": 3
     }
   ],
-  "updated_at": "2026-11-20 23:50:10.478012"
+  "updated_at": "2026-11-21 06:25:41.815615"
 }
