@@ -1,127 +1,127 @@
 {
   "keywords": [
     [
-      "new",
+      "says",
       5
-    ],
-    [
-      "trump",
-      5
-    ],
-    [
-      "man",
-      4
-    ],
-    [
-      "data",
-      4
-    ],
-    [
-      "can",
-      4
     ],
     [
       "over",
       4
     ],
     [
-      "deal",
-      3
-    ],
-    [
-      "says",
-      3
-    ],
-    [
-      "russian",
-      3
-    ],
-    [
-      "centres",
-      3
-    ],
-    [
-      "climate",
-      3
+      "man",
+      4
     ],
     [
       "with",
+      3
+    ],
+    [
+      "iran",
+      3
+    ],
+    [
+      "premier",
+      3
+    ],
+    [
+      "league",
+      3
+    ],
+    [
+      "zelensky",
       2
     ],
     [
-      "tech",
+      "strikes",
       2
     ],
     [
-      "fire",
+      "meets",
       2
     ],
     [
-      "after",
+      "streeting",
       2
     ],
     [
-      "into",
+      "kyiv",
       2
     ],
     [
-      "putin",
+      "catherine",
       2
     ],
     [
-      "calls",
+      "talks",
       2
     ],
     [
-      "french",
+      "how",
       2
     ],
     [
-      "police",
+      "were",
+      2
+    ],
+    [
+      "not",
+      2
+    ],
+    [
+      "meant",
+      2
+    ],
+    [
+      "alone",
+      2
+    ],
+    [
+      "who",
       2
     ]
   ],
   "topics": [
     {
-      "name": "new",
+      "name": "says",
       "count": 5
-    },
-    {
-      "name": "trump",
-      "count": 5
-    },
-    {
-      "name": "man",
-      "count": 4
-    },
-    {
-      "name": "data",
-      "count": 4
-    },
-    {
-      "name": "can",
-      "count": 4
     },
     {
       "name": "over",
       "count": 4
     },
     {
-      "name": "deal",
+      "name": "man",
+      "count": 4
+    },
+    {
+      "name": "with",
       "count": 3
     },
     {
-      "name": "says",
+      "name": "iran",
       "count": 3
     },
     {
-      "name": "russian",
+      "name": "premier",
       "count": 3
     },
     {
-      "name": "centres",
+      "name": "league",
       "count": 3
+    },
+    {
+      "name": "zelensky",
+      "count": 2
+    },
+    {
+      "name": "strikes",
+      "count": 2
+    },
+    {
+      "name": "meets",
+      "count": 2
     }
   ],
-  "updated_at": "2026-11-21 06:25:41.815615"
+  "updated_at": "2026-11-21 18:54:53.496531"
 }
