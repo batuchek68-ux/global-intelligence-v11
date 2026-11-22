@@ -7,5 +7,37 @@
       "status": "completed"
     }
   ],
-  "status": "initialized"
+  "status": "observing",
+  "metrics": {
+    "executions": 2,
+    "average_evidence_quality": 0.553,
+    "providers": {
+      "bing": {
+        "successes": 0,
+        "failures": 0,
+        "credential_env": "BING_SEARCH_KEY"
+      },
+      "brave": {
+        "successes": 0,
+        "failures": 0,
+        "credential_env": "BRAVE_SEARCH_API_KEY"
+      },
+      "gdelt": {
+        "successes": 0,
+        "failures": 2,
+        "credential_env": null
+      },
+      "openalex": {
+        "successes": 1,
+        "failures": 1,
+        "credential_env": null
+      },
+      "crossref": {
+        "successes": 2,
+        "failures": 0,
+        "credential_env": null
+      }
+    }
+  },
+  "method_feedback": []
 }
