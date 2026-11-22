@@ -9,11 +9,12 @@ from typing import Any
 from fastapi import FastAPI, HTTPException, Request
 from fastapi.middleware.cors import CORSMiddleware
 
-BACKEND_ROOT = Path(__file__).resolve().parents[1]
-PROJECT_ROOT = BACKEND_ROOT.parent
-for path in (PROJECT_ROOT, BACKEND_ROOT):
-    if str(path) not in sys.path:
-        sys.path.insert(0, str(path))
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+BACKEND_ROOT = PROJECT_ROOT / "backend"
+for path in (str(BACKEND_ROOT), str(PROJECT_ROOT)):
+    if path in sys.path:
+        sys.path.remove(path)
+    sys.path.insert(0, path)
 
 from backend.core.agents import AgentPool
 from backend.core.orchestration import OrchestrationEngine
@@ -39,9 +40,10 @@ from backend.services.project_action_board_service import build_and_write_action
 from backend.services.project_service import analyze_project, build_project_intake
 from backend.services.project_intelligence_service import build_feasibility_report, build_project_pipeline, discover_projects, read_project_library
 from backend.services.report_service import dashboard_summary, read_text_report
-from backend.services.search_service import multi_source_search
+from backend.services.search_service import multi_source_search, search_provider_health
 from backend.services.self_improvement_service import (
     build_self_improvement_plan,
+    record_method_feedback,
     read_self_improvement_state,
     run_self_improvement_cycle,
 )
@@ -137,6 +139,25 @@ async def health_check() -> dict[str, Any]:
     }
 
 
+@app.get("/v1/system/capabilities")
+async def system_capabilities() -> dict[str, Any]:
+    _require_core_allowed()
+    improvement = read_self_improvement_state().get("state", {})
+    return {
+        "agents": agent_pool.health_check(),
+        "search": search_provider_health(),
+        "self_improvement": {
+            "status": improvement.get("status", "initialized"),
+            "metrics": improvement.get("metrics", {}),
+            "automation_boundary": "Recommendations are automatic; business code changes and external actions require human approval.",
+        },
+        "repair_policy": {
+            "automatic_scope": "validated Python syntax repair and required repository directories",
+            "business_logic_changes": "human review required",
+        },
+    }
+
+
 @app.post("/v1/query")
 async def query(request: Request) -> dict[str, Any]:
     _require_core_allowed()
@@ -176,10 +197,33 @@ async def query(request: Request) -> dict[str, Any]:
 async def search(request: Request) -> dict[str, Any]:
     _require_core_allowed()
     body = await _json_body(request)
-    query_text = str(body.get("query") or body.get("q") or "").strip()
+    query_value = body.get("query", body.get("q", ""))
+    if not isinstance(query_value, str):
+        raise HTTPException(status_code=422, detail="query must be a string")
+    query_text = query_value.strip()
     if not query_text:
         raise HTTPException(status_code=400, detail="query is required")
-    return multi_source_search(query_text)
+
+    categories = body.get("categories", ["web", "news", "academic"])
+    if (
+        not isinstance(categories, list)
+        or not categories
+        or any(not isinstance(category, str) for category in categories)
+    ):
+        raise HTTPException(status_code=422, detail="categories must be a non-empty list of strings")
+    supported_categories = set(search_provider_health()["supported_categories"])
+    unsupported = sorted(set(categories) - supported_categories)
+    if unsupported:
+        raise HTTPException(status_code=422, detail={"unsupported_categories": unsupported, "supported_categories": sorted(supported_categories)})
+
+    limit = body.get("limit", 5)
+    timeout = body.get("timeout_seconds", 8)
+    if isinstance(limit, bool) or not isinstance(limit, int) or not 1 <= limit <= 10:
+        raise HTTPException(status_code=422, detail="limit must be an integer from 1 to 10")
+    if isinstance(timeout, bool) or not isinstance(timeout, int) or not 1 <= timeout <= 30:
+        raise HTTPException(status_code=422, detail="timeout_seconds must be an integer from 1 to 30")
+
+    return multi_source_search(query_text, categories=categories, limit=limit, timeout=timeout)
 
 
 @app.post("/v1/intelligence/search-system")
@@ -560,6 +604,17 @@ async def self_improvement_run(request: Request) -> dict[str, Any]:
     body = await _json_body(request)
     evidence = body.get("evidence") if isinstance(body.get("evidence"), dict) else body
     return run_self_improvement_cycle(evidence)
+
+
+@app.post("/v1/system/self-improvement/feedback")
+async def self_improvement_feedback(request: Request) -> dict[str, Any]:
+    _require_core_allowed()
+    body = await _json_body(request)
+    feedback = body.get("feedback") if isinstance(body.get("feedback"), dict) else body
+    try:
+        return record_method_feedback(feedback)
+    except ValueError as error:
+        raise HTTPException(status_code=422, detail=str(error)) from error
 
 
 @app.get("/v1/insights/{execution_id}")
