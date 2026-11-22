@@ -2,126 +2,126 @@
   "keywords": [
     [
       "after",
-      7
+      6
     ],
     [
-      "attack",
+      "deal",
+      5
+    ],
+    [
+      "drone",
+      5
+    ],
+    [
+      "climate",
       4
+    ],
+    [
+      "talks",
+      4
+    ],
+    [
+      "russian",
+      4
+    ],
+    [
+      "ship",
+      4
+    ],
+    [
+      "cop31",
+      3
+    ],
+    [
+      "next",
+      3
+    ],
+    [
+      "suspected",
+      3
     ],
     [
       "says",
       3
     ],
     [
+      "largest",
+      3
+    ],
+    [
+      "reach",
+      2
+    ],
+    [
       "over",
-      3
-    ],
-    [
-      "ship",
-      3
-    ],
-    [
-      "fire",
-      3
-    ],
-    [
-      "finland",
-      3
-    ],
-    [
-      "why",
-      3
-    ],
-    [
-      "dies",
-      3
-    ],
-    [
-      "drone",
-      3
-    ],
-    [
-      "may",
       2
     ],
     [
-      "with",
+      "explosion",
       2
     ],
     [
-      "still",
+      "libya",
       2
     ],
     [
-      "gulf",
+      "port",
       2
     ],
     [
-      "how",
+      "attack",
       2
     ],
     [
-      "helped",
+      "officials",
       2
     ],
     [
-      "are",
-      2
-    ],
-    [
-      "people",
-      2
-    ],
-    [
-      "work",
-      2
-    ],
-    [
-      "stolen",
+      "say",
       2
     ]
   ],
   "topics": [
     {
       "name": "after",
-      "count": 7
+      "count": 6
     },
     {
-      "name": "attack",
-      "count": 4
-    },
-    {
-      "name": "says",
-      "count": 3
-    },
-    {
-      "name": "over",
-      "count": 3
-    },
-    {
-      "name": "ship",
-      "count": 3
-    },
-    {
-      "name": "fire",
-      "count": 3
-    },
-    {
-      "name": "finland",
-      "count": 3
-    },
-    {
-      "name": "why",
-      "count": 3
-    },
-    {
-      "name": "dies",
-      "count": 3
+      "name": "deal",
+      "count": 5
     },
     {
       "name": "drone",
+      "count": 5
+    },
+    {
+      "name": "climate",
+      "count": 4
+    },
+    {
+      "name": "talks",
+      "count": 4
+    },
+    {
+      "name": "russian",
+      "count": 4
+    },
+    {
+      "name": "ship",
+      "count": 4
+    },
+    {
+      "name": "cop31",
+      "count": 3
+    },
+    {
+      "name": "next",
+      "count": 3
+    },
+    {
+      "name": "suspected",
       "count": 3
     }
   ],
-  "updated_at": "2026-11-22 14:26:25.733063"
+  "updated_at": "2026-11-22 23:26:27.178354"
 }
