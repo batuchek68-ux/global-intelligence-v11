@@ -4,16 +4,10 @@
 
 ## 本地位置
 
-当前工程目录：
+当前仓库目录：
 
 ```text
-C:\Users\Surface\Documents\智慧情报分析平台\02_源代码\international-trade-ai
-```
-
-发布包位置：
-
-```text
-C:\Users\Surface\Documents\智慧情报分析平台\02_源代码\international-trade-ai\dist\international-trade-ai.zip
+F:\Documents\GitHub\global-intelligence-v11
 ```
 
 ## 上线步骤
@@ -33,8 +27,38 @@ C:\Users\Surface\Documents\智慧情报分析平台\02_源代码\international-t
 ```text
 OPENAI_API_KEY
 BING_SEARCH_KEY
+BRAVE_SEARCH_API_KEY
 WECHAT_WEBHOOK_URL
 ```
+
+`/v1/search` 和 v11 研究 agents 并行查询已配置的 Bing、Brave 网络搜索，以及公开 GDELT 新闻和 Crossref/OpenAlex 学术数据。Bing、Brave 密钥可选；缺少凭据或来源故障会逐源报告，成功来源仍可返回。检索覆盖度只是初步来源评估，不代表主张已被独立核实。
+
+编排器并行执行 web、news、academic 研究 agents；初始证据较少时，每个 agent 最多补充一次计划查询。执行质量和来源健康度进入自我改进接口，形成有证据的改进建议；不会自动改业务源代码或执行外部操作。
+
+## 本地 API 操作
+
+在仓库根目录执行：
+
+```powershell
+python -m pip install -r requirements.txt
+python -m uvicorn api.main:app --host 127.0.0.1 --port 8000
+```
+
+检索可按需选择来源类别并限制单源结果数和超时；类别只能是 `web`、`news`、`academic`，结果数范围为 1 到 10，超时范围为 1 到 30 秒：
+
+```powershell
+$body = @{
+	query = "Kazakhstan logistics infrastructure"
+	categories = @("web", "news", "academic")
+	limit = 5
+	timeout_seconds = 8
+} | ConvertTo-Json
+
+Invoke-RestMethod -Uri "http://127.0.0.1:8000/v1/search" -Method Post -ContentType "application/json" -Body $body
+Invoke-RestMethod -Uri "http://127.0.0.1:8000/v1/system/capabilities" -Method Get
+```
+
+`/v1/query` 执行多 agent 研究编排；`/v1/system/capabilities` 显示 agent、搜索 provider 和自我改进状态。API 搜索来源和网络状态也会在 `/v1/search` 响应中逐项返回。
 
 ## 云端工作流
 
