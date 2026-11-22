@@ -1,8 +1,8 @@
 # Autonomous Repair Report
 
-- Generated: 2026-09-26T13:16:55+00:00 UTC
-- Status: tests_failed
-- Repair necessary: true
+- Generated: 2026-09-27T02:28:12+00:00 UTC
+- Status: healthy
+- Repair necessary: false
 
 ## Compilation
 
@@ -16,33 +16,38 @@
 ## Tests
 
 - Available: true
-- Passed: false
+- Passed: true
 
 ```text
+test_capabilities_and_critical_routes_are_available (test_api_routes.SearchApiTests.test_capabilities_and_critical_routes_are_available) ... ok
+test_search_forwards_validated_options (test_api_routes.SearchApiTests.test_search_forwards_validated_options) ... ok
+test_search_rejects_unimplemented_sources_before_search (test_api_routes.SearchApiTests.test_search_rejects_unimplemented_sources_before_search) ... ok
 test_compile_errors_reports_syntax_location (test_autonomous_repair.AutonomousRepairTests.test_compile_errors_reports_syntax_location) ... ok
-test_persistence_only_accepts_successfully_repaired_backend_files (test_autonomous_repair.AutonomousRepairTests.test_persistence_only_accepts_successfully_repaired_backend_files) ... ERROR
+test_persistence_only_accepts_successfully_repaired_backend_files (test_autonomous_repair.AutonomousRepairTests.test_persistence_only_accepts_successfully_repaired_backend_files) ... ok
 test_repair_payload_rejects_paths_outside_backend (test_autonomous_repair.AutonomousRepairTests.test_repair_payload_rejects_paths_outside_backend) ... ok
 test_repair_payload_requires_exact_failed_file_set (test_autonomous_repair.AutonomousRepairTests.test_repair_payload_requires_exact_failed_file_set) ... ok
+test_complete_source_coverage_can_return_limited_no_match_result (test_intelligence_pipeline.DueDiligenceTests.test_complete_source_coverage_can_return_limited_no_match_result) ... ok
+test_counterparty_registration_and_country_conflicts_are_not_downgraded (test_intelligence_pipeline.DueDiligenceTests.test_counterparty_registration_and_country_conflicts_are_not_downgraded) ... ok
+test_counterparty_registry_result_must_match_submitted_identity (test_intelligence_pipeline.DueDiligenceTests.test_counterparty_registry_result_must_match_submitted_identity) ... ok
+test_counterparty_registry_result_verifies_matching_legal_name (test_intelligence_pipeline.DueDiligenceTests.test_counterparty_registry_result_verifies_matching_legal_name) ... ok
+test_counterparty_without_official_registry_adapter_is_unavailable (test_intelligence_pipeline.DueDiligenceTests.test_counterparty_without_official_registry_adapter_is_unavailable) ... ok
+test_malformed_date_or_nameless_records_cannot_clear_screening (test_intelligence_pipeline.DueDiligenceTests.test_malformed_date_or_nameless_records_cannot_clear_screening) ... ok
+test_non_official_or_stale_sanctions_source_cannot_clear_screening (test_intelligence_pipeline.DueDiligenceTests.test_non_official_or_stale_sanctions_source_cannot_clear_screening) ... ok
+test_sanctions_exact_alias_match_is_a_potential_match (test_intelligence_pipeline.DueDiligenceTests.test_sanctions_exact_alias_match_is_a_potential_match) ... ok
+test_sanctions_screening_is_inconclusive_when_any_list_is_unavailable (test_intelligence_pipeline.DueDiligenceTests.test_sanctions_screening_is_inconclusive_when_any_list_is_unavailable) ... ok
+test_stale_registry_lookup_cannot_verify_counterparty (test_intelligence_pipeline.DueDiligenceTests.test_stale_registry_lookup_cannot_verify_counterparty) ... ok
+test_unresolved_due_diligence_blocks_automatic_approval (test_intelligence_pipeline.DueDiligenceTests.test_unresolved_due_diligence_blocks_automatic_approval) ... ok
+test_named_counterparty_flows_through_due_diligence_and_human_gate (test_intelligence_pipeline.IntelligencePipelineTests.test_named_counterparty_flows_through_due_diligence_and_human_gate) ... ok
+test_parallel_research_agents_feed_synthesis_and_quality_gate (test_intelligence_pipeline.IntelligencePipelineTests.test_parallel_research_agents_feed_synthesis_and_quality_gate) ... ok
+test_missing_web_credentials_degrades_without_network_calls (test_intelligence_pipeline.SearchServiceTests.test_missing_web_credentials_degrades_without_network_calls) ... ok
+test_provider_health_does_not_claim_unprobed_network_reachability (test_intelligence_pipeline.SearchServiceTests.test_provider_health_does_not_claim_unprobed_network_reachability) ... ok
+test_queries_configured_web_providers_and_keeps_partial_results (test_intelligence_pipeline.SearchServiceTests.test_queries_configured_web_providers_and_keeps_partial_results) ... ok
+test_execution_feedback_drives_measured_cycle_recommendations (test_intelligence_pipeline.SelfImprovementTests.test_execution_feedback_drives_measured_cycle_recommendations) ... ok
+test_integrity_check_repairs_only_required_repository_directories (test_intelligence_pipeline.SelfImprovementTests.test_integrity_check_repairs_only_required_repository_directories) ... ok
 
-======================================================================
-ERROR: test_persistence_only_accepts_successfully_repaired_backend_files (test_autonomous_repair.AutonomousRepairTests.test_persistence_only_accepts_successfully_repaired_backend_files)
 ----------------------------------------------------------------------
-Traceback (most recent call last):
-  File "F:\Documents\GitHub\global-intelligence-v11\backend\tests\test_autonomous_repair.py", line 42, in test_persistence_only_accepts_successfully_repaired_backend_files
-    validated_source_files({"status": "repaired", "changed_files": ["backend/core/models.py"]}),
-    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "F:\Documents\GitHub\global-intelligence-v11\backend\workflows\persist_state.py", line 41, in validated_source_files
-    raise ValueError(f"Repair report contains an unsafe or missing source path: {path}")
-ValueError: Repair report contains an unsafe or missing source path: backend/core/models.py
+Ran 25 tests in 1.152s
 
-----------------------------------------------------------------------
-Ran 4 tests in 0.126s
-
-FAILED (errors=1)
+OK
 
 ```
-
-## Notes
-
-- Tests failed; no automated behavioral repair was attempted.
-- Human review is required: fix the failing test suite before release or publishing.
