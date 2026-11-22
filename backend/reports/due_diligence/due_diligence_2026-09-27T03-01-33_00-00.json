@@ -1,0 +1,509 @@
+{
+  "generated_at": "2026-09-27T03:01:33+00:00",
+  "execution_id": "exec_owner_1790478077.370167",
+  "orchestration_status": "success",
+  "query": "核验交易对手身份与制裁风险",
+  "task_count": 14,
+  "tasks": [
+    {
+      "id": "task_1",
+      "name": "industry_intent_classification",
+      "agent_type": "classifier",
+      "status": "completed",
+      "dependencies": []
+    },
+    {
+      "id": "task_2",
+      "name": "entity_and_risk_extraction",
+      "agent_type": "extractor",
+      "status": "completed",
+      "dependencies": [
+        "task_1"
+      ]
+    },
+    {
+      "id": "task_3",
+      "name": "official_evidence_planning",
+      "agent_type": "evidence_planner",
+      "status": "completed",
+      "dependencies": [
+        "task_1",
+        "task_2"
+      ]
+    },
+    {
+      "id": "task_13",
+      "name": "sanctions_screening",
+      "agent_type": "sanctions_screening",
+      "status": "completed",
+      "dependencies": [
+        "task_2"
+      ]
+    },
+    {
+      "id": "task_14",
+      "name": "counterparty_identity_verification",
+      "agent_type": "counterparty_verification",
+      "status": "completed",
+      "dependencies": [
+        "task_2"
+      ]
+    },
+    {
+      "id": "task_4",
+      "name": "web_research",
+      "agent_type": "web_researcher",
+      "status": "completed",
+      "dependencies": [
+        "task_3"
+      ]
+    },
+    {
+      "id": "task_5",
+      "name": "news_research",
+      "agent_type": "news_researcher",
+      "status": "completed",
+      "dependencies": [
+        "task_3"
+      ]
+    },
+    {
+      "id": "task_6",
+      "name": "academic_research",
+      "agent_type": "academic_researcher",
+      "status": "completed",
+      "dependencies": [
+        "task_3"
+      ]
+    },
+    {
+      "id": "task_7",
+      "name": "evidence_quality_assessment",
+      "agent_type": "evidence_quality",
+      "status": "completed",
+      "dependencies": [
+        "task_4",
+        "task_5",
+        "task_6"
+      ]
+    },
+    {
+      "id": "task_8",
+      "name": "approval_risk_gate",
+      "agent_type": "risk_gate",
+      "status": "completed",
+      "dependencies": [
+        "task_2",
+        "task_3",
+        "task_7",
+        "task_13",
+        "task_14"
+      ]
+    },
+    {
+      "id": "task_9",
+      "name": "systems_reasoning_and_method_lenses",
+      "agent_type": "systems_reasoning",
+      "status": "completed",
+      "dependencies": [
+        "task_1",
+        "task_2",
+        "task_3",
+        "task_4",
+        "task_5",
+        "task_6",
+        "task_7"
+      ]
+    },
+    {
+      "id": "task_10",
+      "name": "adversarial_counteranalysis",
+      "agent_type": "adversarial_critic",
+      "status": "completed",
+      "dependencies": [
+        "task_2",
+        "task_7",
+        "task_9",
+        "task_13",
+        "task_14"
+      ]
+    },
+    {
+      "id": "task_11",
+      "name": "decision_and_action_judgment",
+      "agent_type": "decision_judge",
+      "status": "completed",
+      "dependencies": [
+        "task_7",
+        "task_8",
+        "task_9",
+        "task_10"
+      ]
+    },
+    {
+      "id": "task_12",
+      "name": "team_synthesis",
+      "agent_type": "synthesizer",
+      "status": "completed",
+      "dependencies": [
+        "task_1",
+        "task_2",
+        "task_3",
+        "task_4",
+        "task_5",
+        "task_6",
+        "task_7",
+        "task_8",
+        "task_9",
+        "task_10",
+        "task_11",
+        "task_13",
+        "task_14"
+      ]
+    }
+  ],
+  "result": {
+    "title": "v11 industry team orchestration result",
+    "query": "核验交易对手身份与制裁风险",
+    "intent": "project_execution",
+    "countries": [
+      "Kazakhstan"
+    ],
+    "evidence_plan": [
+      "government project page",
+      "official procurement or tender page",
+      "customs authority, tariff, HS code, and import document source",
+      "official owner, developer, investor, or regulator announcement",
+      "academic, patent, library, or standards source for technical feasibility",
+      "reputable media plus social/video signals for attention tracking only"
+    ],
+    "search_queries": [
+      "Kazakhstan \"核验交易对手身份与制裁风险\" official government project owner developer",
+      "Kazakhstan \"核验交易对手身份与制裁风险\" tender procurement EPC contractor",
+      "Kazakhstan customs HS code tariff import documents \"核验交易对手身份与制裁风险\"",
+      "Kazakhstan investment promotion \"核验交易对手身份与制裁风险\" investor developer official",
+      "Kazakhstan \"核验交易对手身份与制裁风险\" feasibility study EIA ministry akimat",
+      "Kazakhstan \"核验交易对手身份与制裁风险\" YouTube TikTok Douyin Telegram forum public attention"
+    ],
+    "evidence_results": {
+      "web": [],
+      "news": [],
+      "academic": [
+        {
+          "title": "Auction Transaction Risk Analysis and Risk Control Countermeasures",
+          "url": "https://doi.org/10.12677/sd.2017.71007",
+          "snippet": "",
+          "source": "crossref",
+          "published_at": "2017"
+        },
+        {
+          "title": "双碳背景下碳信用交易风险的应对",
+          "url": "https://doi.org/10.54254/3050-2160/2025.20895",
+          "snippet": "<jats:p>随着《温室气体自愿减排交易管理办法（试行）》的颁布，温室气体自愿减排交易市场正式重启，对于市场主体来说碳信用作为可交易标的易面临多种交易风险和挑战。价格波动风险会造成财产损失，额外性认定风险以及第三方失职、违法行为更有可能会造成项目失败的严重后果。为了应对这些风险，可以通过完善定价机制、设置价格波动预警、明确额外性认定的标准地位、完善第三方法律责任等措施，以降低交易双方风险，促进碳信用交易的长久稳健。</jats:p>",
+          "source": "crossref",
+          "published_at": "2025-2-12"
+        },
+        {
+          "title": "智慧轨道交通全自动运营管理中的风险评估与应对机制",
+          "url": "https://doi.org/10.37155/2811-0633-0417-21",
+          "snippet": "",
+          "source": "crossref",
+          "published_at": "2025"
+        },
+        {
+          "title": "浅析非银行支付机构洗钱风险成因、可疑交易模式 及应对措施",
+          "url": "https://doi.org/10.26549/cjygl.v3i4.2008",
+          "snippet": "<jats:p>近年来，非银行支付机构以其方便快捷、低廉高效的特点迅猛发展。其在为社会大众带来便利的同时，也因弱实名性和隐匿性、交易模式特殊性、资金难追踪性以及管理制度和技术监控上的缺陷等原因，逐渐成为洗钱犯罪的沃土。借助非银行支付平台的非法转移资金、集资诈骗、虚构交易、恶意套现、非法博彩等违法行为与案件不断激增，洗钱手法层出不穷，这对非银行支付机构合规监管提出较大挑战。本文通过分析支付机构的洗钱风险和可疑交易行为，为防控洗钱风险提出了政策建议。</jats:p>",
+          "source": "crossref",
+          "published_at": "2019-8-29"
+        },
+        {
+          "title": "企业内部控制中的往来款项管理：账目核对与风险防范",
+          "url": "https://doi.org/10.69979/3029-2700.25.09.068",
+          "snippet": "",
+          "source": "crossref",
+          "published_at": "2025-9-1"
+        },
+        {
+          "title": "Study on Cloud Computing Security",
+          "url": "https://doi.org/10.3724/sp.j.1001.2011.03958",
+          "snippet": "",
+          "source": "openalex",
+          "published_at": "2011-03-24"
+        },
+        {
+          "title": "国企会计支付审批的风险管理与控制研究",
+          "url": "https://doi.org/10.33142/mem.v5i3.12834",
+          "snippet": "",
+          "source": "openalex",
+          "published_at": "2024-06-30"
+        },
+        {
+          "title": "过敏和鼻科学国际共识声明 : 鼻窦炎",
+          "url": "https://doi.org/10.1002/alr.21695_c",
+          "snippet": "",
+          "source": "openalex",
+          "published_at": "2016-02-01"
+        },
+        {
+          "title": "Biometric Template Protection",
+          "url": "https://doi.org/10.3724/sp.j.1001.2009.03528",
+          "snippet": "",
+          "source": "openalex",
+          "published_at": "2009-07-14"
+        },
+        {
+          "title": "Fintech and Financial Services",
+          "url": "https://doi.org/10.5089/9781484322383.006",
+          "snippet": "",
+          "source": "openalex",
+          "published_at": "2017-06-01"
+        }
+      ]
+    },
+    "evidence_quality": {
+      "quality_score": 0.633,
+      "evidence_count": 10,
+      "covered_categories": [
+        "academic"
+      ],
+      "successful_providers": [
+        "crossref",
+        "openalex"
+      ],
+      "provider_status": {
+        "bing": {
+          "status": "not_configured",
+          "credential_env": "BING_SEARCH_KEY"
+        },
+        "brave": {
+          "status": "not_configured",
+          "credential_env": "BRAVE_SEARCH_API_KEY"
+        },
+        "gdelt": {
+          "status": "error",
+          "credential_env": null,
+          "error": "URLError"
+        },
+        "crossref": {
+          "status": "ok",
+          "credential_env": null
+        },
+        "openalex": {
+          "status": "ok",
+          "credential_env": null
+        }
+      },
+      "review_required": false,
+      "assessment": "preliminary_source_coverage_only; claims require human verification"
+    },
+    "risk_gate": {
+      "needs_human_approval": true,
+      "due_diligence_review_required": true,
+      "sanctions_status": "inconclusive",
+      "counterparty_status": "unavailable",
+      "evidence_review_required": false,
+      "evidence_quality_score": 0.633,
+      "risk_terms": [
+        "制裁"
+      ],
+      "minimum_evidence": [
+        "government project page",
+        "official procurement or tender page",
+        "customs authority, tariff, HS code, and import document source",
+        "official owner, developer, investor, or regulator announcement"
+      ],
+      "blocked_actions": [
+        "external commitment",
+        "formal quotation",
+        "contract or payment approval",
+        "delivery promise",
+        "public publishing",
+        "official social reply"
+      ],
+      "allowed_actions": [
+        "internal draft",
+        "search plan",
+        "evidence checklist",
+        "project task board",
+        "human approval request"
+      ]
+    },
+    "sanctions_screening": {
+      "status": "inconclusive",
+      "screenings": [
+        {
+          "screening_status": "inconclusive",
+          "entity_name": "00",
+          "matches": [],
+          "source_status": {
+            "OFAC": {
+              "status": "unavailable",
+              "source_url": null,
+              "updated_at": null,
+              "checked_at": null
+            },
+            "UN": {
+              "status": "unavailable",
+              "source_url": null,
+              "updated_at": null,
+              "checked_at": null
+            },
+            "EU": {
+              "status": "unavailable",
+              "source_url": null,
+              "updated_at": null,
+              "checked_at": null
+            },
+            "UK": {
+              "status": "unavailable",
+              "source_url": null,
+              "updated_at": null,
+              "checked_at": null
+            }
+          },
+          "coverage_complete": false,
+          "limitations": [
+            "Name screening is not a legal determination or a substitute for ownership/control analysis.",
+            "Matching uses normalized exact names and supplied aliases; transliteration, fuzzy matching, and ownership/control are not covered.",
+            "No match is meaningful only for the listed sources and their recorded update times."
+          ],
+          "matching_method": "unicode-normalized exact name and alias matching"
+        }
+      ]
+    },
+    "counterparty_verification": {
+      "status": "unavailable",
+      "verifications": [
+        {
+          "identity_status": "unavailable",
+          "entity_name": "00",
+          "jurisdiction": "00",
+          "registration_number": "00",
+          "registry_source": null,
+          "verified_fields": [],
+          "limitations": [
+            "No verified official company-registry adapter is configured for this jurisdiction."
+          ]
+        }
+      ]
+    },
+    "systems_reasoning": {
+      "question": "核验交易对手身份与制裁风险",
+      "methods": [
+        {
+          "name": "first_principles",
+          "question": "Which constraints are directly evidenced, and which are assumptions?"
+        },
+        {
+          "name": "falsification",
+          "question": "What observable evidence would disprove the leading interpretation?"
+        },
+        {
+          "name": "second_order_effects",
+          "question": "If the proposed next step succeeds, what new costs, dependencies, or risks follow?"
+        },
+        {
+          "name": "base_rates",
+          "question": "What comparable cases or historical rates are needed before estimating likelihood?"
+        },
+        {
+          "name": "reversibility",
+          "question": "Which next action is useful, low-cost, and reversible while uncertainty remains?"
+        }
+      ],
+      "reasoning_chain": [
+        "Separate observations from assumptions.",
+        "Generate a competing explanation before choosing an action.",
+        "Identify evidence that could falsify each explanation.",
+        "Prefer a reversible information-gathering action while uncertainty is high."
+      ],
+      "evidence_count": 10,
+      "confidence_ceiling": 0.633,
+      "uncertainty": "Search coverage is not proof of truth or proof of absence.",
+      "stop_conditions": [
+        "Do not make factual or feasibility claims without primary-source evidence.",
+        "Stop automated recommendation when evidence conflicts or risk requires human authority."
+      ]
+    },
+    "adversarial_review": {
+      "contrary_hypotheses": [
+        "The apparent opportunity may be outdated, already awarded, or not open to this type of participant.",
+        "Available sources may describe interest or announcements rather than an executable project."
+      ],
+      "challenge_questions": [
+        "Which primary government, procurement, regulator, or company source independently supports the key claim?",
+        "Could search ranking, language, source access, or recency have hidden contradictory evidence?",
+        "What would change the conclusion, and has that disconfirming evidence been searched for?",
+        "Research channels are incomplete; do not treat missing coverage as confirming evidence.",
+        "Do sanctions, export controls, contract, payment, or customs constraints invalidate the proposed action?",
+        "Sanctions screening is unresolved or incomplete; do not interpret it as clearance.",
+        "Counterparty identity is not fully verified by an official registry source."
+      ],
+      "known_blind_spots": [
+        "news",
+        "web"
+      ],
+      "absence_of_evidence_warning": "No search result does not establish that a project, risk, or counterexample does not exist.",
+      "requires_human_review": true
+    },
+    "decision": {
+      "decision": "blocked_pending_human_approval",
+      "confidence": 0.633,
+      "confidence_basis": "Evidence coverage score only; not a calibrated probability of truth.",
+      "reasoning_methods": [
+        "first_principles",
+        "falsification",
+        "second_order_effects",
+        "base_rates",
+        "reversibility"
+      ],
+      "action_plan": [
+        {
+          "action": "Search missing evidence channels and test the strongest contrary hypothesis",
+          "owner_role": "adversarial_reviewer",
+          "acceptance_criteria": "Record search coverage, counterevidence, and unresolved uncertainty",
+          "priority": "high"
+        },
+        {
+          "action": "Review risk checklist and approve, reject, or request revision",
+          "owner_role": "authorized_human_owner",
+          "acceptance_criteria": "Decision and rationale recorded before any external commitment",
+          "priority": "blocking"
+        }
+      ],
+      "stop_conditions": [
+        "Do not make factual or feasibility claims without primary-source evidence.",
+        "Stop automated recommendation when evidence conflicts or risk requires human authority."
+      ],
+      "human_approval_required": true,
+      "prohibited_automatic_actions": [
+        "external messages",
+        "quotes",
+        "contracts",
+        "payments",
+        "publishing"
+      ]
+    },
+    "action_plan": [
+      {
+        "action": "Search missing evidence channels and test the strongest contrary hypothesis",
+        "owner_role": "adversarial_reviewer",
+        "acceptance_criteria": "Record search coverage, counterevidence, and unresolved uncertainty",
+        "priority": "high"
+      },
+      {
+        "action": "Review risk checklist and approve, reject, or request revision",
+        "owner_role": "authorized_human_owner",
+        "acceptance_criteria": "Decision and rationale recorded before any external commitment",
+        "priority": "blocking"
+      }
+    ],
+    "status": "research_complete"
+  },
+  "learning_recommendations": [
+    "Connect and monitor authoritative sanctions-list adapters; unresolved checks must remain subject to human review.",
+    "Prioritize official company-registry adapters and reconcile identity conflicts before external commitments."
+  ],
+  "learning_run_count": 2
+}

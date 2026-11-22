@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "run_count": 2,
+  "failed_run_count": 0,
+  "human_review_count": 2,
+  "sanctions_status_counts": {
+    "inconclusive": 2
+  },
+  "counterparty_status_counts": {
+    "unavailable": 2
+  },
+  "sanctions_source_status_counts": {
+    "OFAC": {
+      "unavailable": 2
+    },
+    "UN": {
+      "unavailable": 2
+    },
+    "EU": {
+      "unavailable": 2
+    },
+    "UK": {
+      "unavailable": 2
+    }
+  },
+  "updated_at": "2026-09-27T03:01:33+00:00",
+  "privacy": "Aggregates and status-only run log; no query, party name, alias, or registration number is stored.",
+  "recommendations": [
+    "Connect and monitor authoritative sanctions-list adapters; unresolved checks must remain subject to human review.",
+    "Prioritize official company-registry adapters and reconcile identity conflicts before external commitments."
+  ]
+}
