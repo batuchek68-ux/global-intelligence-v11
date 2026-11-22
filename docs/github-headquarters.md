@@ -78,12 +78,12 @@ It also places `reports/owner_inbox.md` first, so unresolved major matters are v
 
 ## Codex / AI Autonomous Repair
 
-`.github/workflows/codex_autonomous_repair.yml` runs every 6 hours or on demand. It runs preflight, tests, daily operating cycle, watchdog, and cloud acceptance. It writes:
+`.github/workflows/codex_autonomous_repair.yml` runs every 6 hours or on demand. It installs the repository dependencies, checks backend Python compilation, and runs the backend unit suite. When compilation errors exist and `OPENAI_API_KEY` is available, the repair model may change only the reported files under `backend/`, with at most two diagnosis/repair/compile rounds. Tests run after the syntax errors are cleared; failed validation restores the original source snapshots. It writes:
 
 - `reports/autonomous_repair.json`
 - `reports/autonomous_repair.md`
 
-This workflow can diagnose and prepare repair evidence automatically. It cannot publish externally, sign, pay, or commit to customers without owner approval.
+The report records each repair round, remaining errors, test output, and a diagnosis decision. This is a bounded syntax-repair loop, not a general business-logic repair agent: behavioral test failures are diagnosed and escalated for human review, not rewritten automatically. Successful validated syntax repairs may be persisted by the workflow; release, publication, customer commitments, signatures, and payments remain outside its authority.
 
 ## Real Work Coverage
 
