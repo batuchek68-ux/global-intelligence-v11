@@ -9,9 +9,8 @@ BYTEPLUS_SERVICE = "cv"
 BYTEPLUS_REGION = "ap-singapore-1"
 BYTEPLUS_API_URL = "https://cv.byteplusapi.com"
 
-DREAMINA_API_KEY = os.getenv("DREAMINA_API_KEY", "")
 DREAMINA_SESSION_ID = os.getenv("DREAMINA_SESSION_ID", "")
-DREAMINA_REGION = os.getenv("DREAMINA_REGION", "cn")
+DREAMINA_REGION = os.getenv("DREAMINA_REGION", "cn").strip().lower()
 
 REGION_PREFIXES = {
     "cn": "",
@@ -21,8 +20,12 @@ REGION_PREFIXES = {
     "sg": "sg-",
 }
 
-def get_auth_header():
+
+def get_auth_header() -> str:
+    if not DREAMINA_SESSION_ID:
+        raise RuntimeError("DREAMINA_SESSION_ID is not configured")
     prefix = REGION_PREFIXES.get(DREAMINA_REGION, "")
     return f"Bearer {prefix}{DREAMINA_SESSION_ID}"
+
 
 DREAMINA_BASE_URL = "https://jimeng.jianying.com"
