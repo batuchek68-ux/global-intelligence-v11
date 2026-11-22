@@ -55,7 +55,7 @@ The repository follows an audit-first, non-red-screen operating model.
 
 This policy is enforced as a safety rule for all GitHub Actions automation.
 
-Codex/AI may automatically diagnose and repair low-risk framework, code, test, and configuration problems. It must not send external replies, publish content, quote prices, sign contracts, make payment decisions, or promise delivery without human approval.
+The autonomous repair workflow may perform at most two validated syntax-repair rounds on reported Python files under `backend/`. It reruns compilation and the backend test suite, rolls back proposed source changes when validation fails, and records its diagnosis. Behavioral test failures and business-logic changes require human review; the workflow is not a general-purpose autonomous code editor. It must not send external replies, publish content, quote prices, sign contracts, make payment decisions, or promise delivery without human approval.
 
 ## Required Evidence
 
