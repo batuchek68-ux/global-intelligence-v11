@@ -31,6 +31,10 @@ jobs:
         python -m py_compile integrations/ima_connector.py
         python -m py_compile integrations/obsidian_connector.py
         
-    - name: Run tests
+    - name: Verify API routes
       run: |
-        python -c "from api.main import app; print('App loaded successfully')"
+        python -c "from api.main import app; paths = app.openapi()['paths']; expected = ['/v1/search', '/v1/query', '/v1/system/capabilities', '/v1/system/integrity', '/v1/system/self-improvement/run']; missing = [path for path in expected if path not in paths]; assert not missing, f'Missing API routes: {missing}'; print(f'API loaded; verified {len(expected)} routes')"
+
+    - name: Run backend tests
+      run: python -m unittest discover -s tests -v
+      working-directory: backend
