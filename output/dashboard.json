@@ -1,27 +1,15 @@
 {
   "keywords": [
     [
-      "says",
+      "after",
       7
     ],
     [
-      "iran",
-      5
-    ],
-    [
-      "talks",
+      "attack",
       4
     ],
     [
-      "strikes",
-      4
-    ],
-    [
-      "people",
-      3
-    ],
-    [
-      "mexican",
+      "says",
       3
     ],
     [
@@ -29,27 +17,43 @@
       3
     ],
     [
+      "ship",
+      3
+    ],
+    [
+      "fire",
+      3
+    ],
+    [
+      "finland",
+      3
+    ],
+    [
+      "why",
+      3
+    ],
+    [
+      "dies",
+      3
+    ],
+    [
+      "drone",
+      3
+    ],
+    [
+      "may",
+      2
+    ],
+    [
       "with",
-      3
-    ],
-    [
-      "bahrain",
-      3
-    ],
-    [
-      "iranian",
-      3
-    ],
-    [
-      "new",
       2
     ],
     [
-      "climate",
+      "still",
       2
     ],
     [
-      "catherine",
+      "gulf",
       2
     ],
     [
@@ -57,53 +61,37 @@
       2
     ],
     [
-      "bbc",
+      "helped",
       2
     ],
     [
-      "alone",
+      "are",
       2
     ],
     [
-      "first",
+      "people",
       2
     ],
     [
-      "leave",
+      "work",
       2
     ],
     [
-      "displaced",
-      2
-    ],
-    [
-      "cartel",
+      "stolen",
       2
     ]
   ],
   "topics": [
     {
-      "name": "says",
+      "name": "after",
       "count": 7
     },
     {
-      "name": "iran",
-      "count": 5
-    },
-    {
-      "name": "talks",
+      "name": "attack",
       "count": 4
     },
     {
-      "name": "strikes",
-      "count": 4
-    },
-    {
-      "name": "people",
-      "count": 3
-    },
-    {
-      "name": "mexican",
+      "name": "says",
       "count": 3
     },
     {
@@ -111,17 +99,29 @@
       "count": 3
     },
     {
-      "name": "with",
+      "name": "ship",
       "count": 3
     },
     {
-      "name": "bahrain",
+      "name": "fire",
       "count": 3
     },
     {
-      "name": "iranian",
+      "name": "finland",
+      "count": 3
+    },
+    {
+      "name": "why",
+      "count": 3
+    },
+    {
+      "name": "dies",
+      "count": 3
+    },
+    {
+      "name": "drone",
       "count": 3
     }
   ],
-  "updated_at": "2026-11-22 05:56:20.413395"
+  "updated_at": "2026-11-22 14:26:25.733063"
 }
