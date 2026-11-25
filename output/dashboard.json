@@ -1,27 +1,15 @@
 {
   "keywords": [
     [
+      "over",
+      5
+    ],
+    [
       "after",
-      7
-    ],
-    [
-      "ukraine",
       4
     ],
     [
-      "russian",
-      4
-    ],
-    [
-      "guilty",
-      3
-    ],
-    [
-      "into",
-      3
-    ],
-    [
-      "from",
+      "sex",
       3
     ],
     [
@@ -29,81 +17,81 @@
       3
     ],
     [
-      "disability",
+      "first",
+      3
+    ],
+    [
+      "astronaut",
+      3
+    ],
+    [
+      "iran",
+      3
+    ],
+    [
+      "energy",
       2
     ],
     [
-      "benefit",
+      "bills",
       2
     ],
     [
-      "review",
+      "rise",
       2
     ],
     [
-      "home",
+      "nuclear",
       2
     ],
     [
-      "released",
+      "test",
       2
     ],
     [
-      "police",
+      "veterans",
       2
     ],
     [
-      "about",
+      "truth",
       2
     ],
     [
-      "over",
+      "says",
       2
     ],
     [
-      "suspended",
+      "justice",
       2
     ],
     [
-      "huawei",
+      "but",
       2
     ],
     [
-      "found",
+      "are",
       2
     ],
     [
-      "trade",
+      "with",
       2
     ],
     [
-      "secrets",
+      "ties",
       2
     ]
   ],
   "topics": [
     {
+      "name": "over",
+      "count": 5
+    },
+    {
       "name": "after",
-      "count": 7
-    },
-    {
-      "name": "ukraine",
       "count": 4
     },
     {
-      "name": "russian",
-      "count": 4
-    },
-    {
-      "name": "guilty",
-      "count": 3
-    },
-    {
-      "name": "into",
-      "count": 3
-    },
-    {
-      "name": "from",
+      "name": "sex",
       "count": 3
     },
     {
@@ -111,17 +99,29 @@
       "count": 3
     },
     {
-      "name": "disability",
+      "name": "first",
+      "count": 3
+    },
+    {
+      "name": "astronaut",
+      "count": 3
+    },
+    {
+      "name": "iran",
+      "count": 3
+    },
+    {
+      "name": "energy",
       "count": 2
     },
     {
-      "name": "benefit",
+      "name": "bills",
       "count": 2
     },
     {
-      "name": "review",
+      "name": "rise",
       "count": 2
     }
   ],
-  "updated_at": "2026-11-24 22:09:08.431617"
+  "updated_at": "2026-11-25 07:49:04.339990"
 }
