@@ -1,55 +1,51 @@
 {
   "keywords": [
     [
-      "after",
-      5
+      "bbc",
+      4
     ],
     [
-      "bills",
-      5
-    ],
-    [
-      "she",
+      "suspected",
       3
     ],
     [
-      "show",
+      "with",
       3
     ],
     [
-      "energy",
+      "office",
       3
     ],
     [
-      "from",
+      "duran",
       3
     ],
     [
-      "how",
+      "killed",
       3
     ],
     [
-      "case",
+      "who",
       3
     ],
     [
-      "says",
+      "war",
       3
     ],
     [
-      "poundland",
+      "german",
       2
     ],
     [
-      "why",
+      "supplying",
       2
     ],
     [
-      "has",
+      "gangs",
       2
     ],
     [
-      "what",
+      "man",
       2
     ],
     [
@@ -57,71 +53,75 @@
       2
     ],
     [
-      "sexual",
+      "says",
       2
     ],
     [
-      "trial",
+      "met",
       2
     ],
     [
-      "top",
+      "guitarist",
       2
     ],
     [
-      "raheem",
+      "andy",
       2
     ],
     [
-      "sterling",
+      "taylor",
       2
     ],
     [
-      "suspended",
+      "after",
+      2
+    ],
+    [
+      "french",
       2
     ]
   ],
   "topics": [
     {
-      "name": "after",
-      "count": 5
+      "name": "bbc",
+      "count": 4
     },
     {
-      "name": "bills",
-      "count": 5
-    },
-    {
-      "name": "she",
+      "name": "suspected",
       "count": 3
     },
     {
-      "name": "show",
+      "name": "with",
       "count": 3
     },
     {
-      "name": "energy",
+      "name": "office",
       "count": 3
     },
     {
-      "name": "from",
+      "name": "duran",
       "count": 3
     },
     {
-      "name": "how",
+      "name": "killed",
       "count": 3
     },
     {
-      "name": "case",
+      "name": "who",
       "count": 3
     },
     {
-      "name": "says",
+      "name": "war",
       "count": 3
     },
     {
-      "name": "poundland",
+      "name": "german",
+      "count": 2
+    },
+    {
+      "name": "supplying",
       "count": 2
     }
   ],
-  "updated_at": "2026-11-25 21:25:11.001897"
+  "updated_at": "2026-11-26 07:40:05.209932"
 }
