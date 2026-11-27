@@ -1,59 +1,47 @@
 {
   "keywords": [
     [
-      "how",
+      "trump",
       4
+    ],
+    [
+      "election",
+      4
+    ],
+    [
+      "watch",
+      3
     ],
     [
       "attack",
-      4
-    ],
-    [
-      "huntingdon",
       3
     ],
     [
-      "train",
+      "has",
       3
     ],
     [
-      "before",
-      3
-    ],
-    [
-      "why",
-      3
-    ],
-    [
-      "trumps",
-      3
-    ],
-    [
-      "new",
-      3
-    ],
-    [
-      "about",
-      3
-    ],
-    [
-      "all",
+      "zelensky",
       2
     ],
     [
-      "murder",
+      "friendship",
       2
     ],
     [
-      "drugs",
+      "putin",
       2
     ],
     [
-      "since",
+      "without",
       2
     ],
     [
-      "rape",
+      "you",
+      2
+    ],
+    [
+      "man",
       2
     ],
     [
@@ -61,67 +49,79 @@
       2
     ],
     [
-      "child",
+      "deliver",
       2
     ],
     [
-      "abuse",
+      "warns",
       2
     ],
     [
-      "shares",
+      "hospital",
       2
     ],
     [
-      "mental",
+      "under",
       2
     ],
     [
-      "health",
+      "thanksgiving",
+      2
+    ],
+    [
+      "spain",
+      2
+    ],
+    [
+      "housing",
+      2
+    ],
+    [
+      "spains",
       2
     ]
   ],
   "topics": [
     {
-      "name": "how",
+      "name": "trump",
       "count": 4
+    },
+    {
+      "name": "election",
+      "count": 4
+    },
+    {
+      "name": "watch",
+      "count": 3
     },
     {
       "name": "attack",
-      "count": 4
-    },
-    {
-      "name": "huntingdon",
       "count": 3
     },
     {
-      "name": "train",
+      "name": "has",
       "count": 3
     },
     {
-      "name": "before",
-      "count": 3
+      "name": "zelensky",
+      "count": 2
     },
     {
-      "name": "why",
-      "count": 3
+      "name": "friendship",
+      "count": 2
     },
     {
-      "name": "trumps",
-      "count": 3
+      "name": "putin",
+      "count": 2
     },
     {
-      "name": "new",
-      "count": 3
+      "name": "without",
+      "count": 2
     },
     {
-      "name": "about",
-      "count": 3
-    },
-    {
-      "name": "all",
+      "name": "you",
       "count": 2
     }
   ],
-  "updated_at": "2026-11-26 21:11:41.370512"
+  "updated_at": "2026-11-27 07:38:54.057439"
 }
