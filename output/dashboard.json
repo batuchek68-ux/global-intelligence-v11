@@ -1,47 +1,71 @@
 {
   "keywords": [
     [
-      "new",
-      4
-    ],
-    [
-      "gaza",
-      4
-    ],
-    [
       "after",
+      5
+    ],
+    [
+      "iran",
+      4
+    ],
+    [
+      "but",
       3
     ],
     [
-      "into",
+      "clinic",
       3
     ],
     [
-      "with",
+      "staff",
       3
+    ],
+    [
+      "benefits",
+      2
+    ],
+    [
+      "pensions",
+      2
+    ],
+    [
+      "cancer",
+      2
+    ],
+    [
+      "get",
+      2
+    ],
+    [
+      "new",
+      2
+    ],
+    [
+      "set",
+      2
+    ],
+    [
+      "votes",
+      2
+    ],
+    [
+      "off",
+      2
     ],
     [
       "from",
-      3
-    ],
-    [
-      "services",
       2
     ],
     [
-      "watch",
+      "into",
       2
     ],
     [
-      "spanish",
+      "war",
       2
     ],
     [
-      "who",
-      2
-    ],
-    [
-      "kyiv",
+      "with",
       2
     ],
     [
@@ -49,79 +73,55 @@
       2
     ],
     [
-      "that",
+      "cities",
       2
     ],
     [
-      "says",
-      2
-    ],
-    [
-      "than",
-      2
-    ],
-    [
-      "have",
-      2
-    ],
-    [
-      "flu",
-      2
-    ],
-    [
-      "surge",
-      2
-    ],
-    [
-      "end",
-      2
-    ],
-    [
-      "launch",
+      "are",
       2
     ]
   ],
   "topics": [
     {
-      "name": "new",
-      "count": 4
-    },
-    {
-      "name": "gaza",
-      "count": 4
-    },
-    {
       "name": "after",
+      "count": 5
+    },
+    {
+      "name": "iran",
+      "count": 4
+    },
+    {
+      "name": "but",
       "count": 3
     },
     {
-      "name": "into",
+      "name": "clinic",
       "count": 3
     },
     {
-      "name": "with",
+      "name": "staff",
       "count": 3
     },
     {
-      "name": "from",
-      "count": 3
-    },
-    {
-      "name": "services",
+      "name": "benefits",
       "count": 2
     },
     {
-      "name": "watch",
+      "name": "pensions",
       "count": 2
     },
     {
-      "name": "spanish",
+      "name": "cancer",
       "count": 2
     },
     {
-      "name": "who",
+      "name": "get",
+      "count": 2
+    },
+    {
+      "name": "new",
       "count": 2
     }
   ],
-  "updated_at": "2026-11-27 20:55:04.839528"
+  "updated_at": "2026-11-28 07:06:10.531647"
 }
